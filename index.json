@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875448100,
+ "updatedAt": 1792875512397,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2791,6 +2791,16 @@
    "image": "items/6add1bb77a9bfd.webp",
    "thumb": "thumbs/6add1bb77a9bfd.webp",
    "addedAt": 1792875447281
+  },
+  {
+   "id": "6add1bf72e2d0e",
+   "name": "пижама барашек шон",
+   "description": "A cream-colored, long-sleeve pajama set featuring a large black sheep graphic on the front and a repeating sheep pattern on the sleeves, paired with matching patterned pants. Both pieces have dark grey ribbed trim at the collar, cuffs, hem, and waistband.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add1bf72e2d0e.webp",
+   "thumb": "thumbs/6add1bf72e2d0e.webp",
+   "addedAt": 1792875511641
   }
  ],
  "categories": [
