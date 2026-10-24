@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792857608619,
+ "updatedAt": 1792857750554,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -21,6 +21,16 @@
    "image": "items/6adcd607e0addc.webp",
    "thumb": "thumbs/6adcd607e0addc.webp",
    "addedAt": 1792857607796
+  },
+  {
+   "id": "6adcd695f8e06e",
+   "name": "пижама бэмби",
+   "description": "This is a two-piece pajama set consisting of a white spaghetti-strap tank top with light blue trim and a large blue \"B\" graphic featuring Bambi, paired with light blue shorts patterned with small deer figures and a pink drawstring bow. A brown Disney tag is attached to the top.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcd695f8e06e.webp",
+   "thumb": "thumbs/6adcd695f8e06e.webp",
+   "addedAt": 1792857749767
   }
  ],
  "categories": [
