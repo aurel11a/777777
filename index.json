@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862032066,
+ "updatedAt": 1792862186838,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -281,6 +281,16 @@
    "image": "items/6adce74faded23.webp",
    "thumb": "thumbs/6adce74faded23.webp",
    "addedAt": 1792862031353
+  },
+  {
+   "id": "6adce7ea2aefc2",
+   "name": "розовое макси платье",
+   "description": "This light pink maxi dress features thin spaghetti straps, a ruffled neckline, and a fitted bodice that flows into a tiered, ruffled hem. It is accessorized with a large pearl necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adce7ea2aefc2.webp",
+   "thumb": "thumbs/6adce7ea2aefc2.webp",
+   "addedAt": 1792862186030
   }
  ],
  "categories": [
