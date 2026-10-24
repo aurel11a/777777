@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871688990,
+ "updatedAt": 1792871745532,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2161,6 +2161,16 @@
    "image": "items/6add0d0887d086.webp",
    "thumb": "thumbs/6add0d0887d086.webp",
    "addedAt": 1792871688114
+  },
+  {
+   "id": "6add0d401b69f9",
+   "name": "кремовый топ и шорты",
+   "description": "A matching cream-colored two-piece set featuring an off-the-shoulder cropped top with short puff sleeves, a gathered neckline, and a ruffled elastic hem. The bottoms are high-waisted, densely smocked shorts finished with a ruffled edge along the leg openings.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add0d401b69f9.webp",
+   "thumb": "thumbs/6add0d401b69f9.webp",
+   "addedAt": 1792871744531
   }
  ],
  "categories": [
