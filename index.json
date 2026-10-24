@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871032871,
+ "updatedAt": 1792871067795,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2051,6 +2051,16 @@
    "image": "items/6add0a7879625f.webp",
    "thumb": "thumbs/6add0a7879625f.webp",
    "addedAt": 1792871032127
+  },
+  {
+   "id": "6add0a9b9d62a7",
+   "name": "Lilac Lustre",
+   "description": "A light purple satin midi dress features a draped cowl neckline, ruched bodice, and voluminous sleeves with pearl-embellished straps. Strappy lilac stiletto heels and a classic pearl necklace complete the sophisticated look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0a9b9d62a7.webp",
+   "thumb": "thumbs/6add0a9b9d62a7.webp",
+   "addedAt": 1792871067038
   }
  ],
  "categories": [
