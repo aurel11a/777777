@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865197412,
+ "updatedAt": 1792865255545,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -821,6 +821,16 @@
    "image": "items/6adcf3ac808ae9.webp",
    "thumb": "thumbs/6adcf3ac808ae9.webp",
    "addedAt": 1792865196672
+  },
+  {
+   "id": "6adcf3e6d4263b",
+   "name": "леопардовый комбинезон",
+   "description": "This leopard print fleece onesie features a hood with attached ears, long sleeves, and a front zipper.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf3e6d4263b.webp",
+   "thumb": "thumbs/6adcf3e6d4263b.webp",
+   "addedAt": 1792865254680
   }
  ],
  "categories": [
