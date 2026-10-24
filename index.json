@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873511091,
+ "updatedAt": 1792873593970,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2511,6 +2511,16 @@
    "image": "items/6add14251752ab.webp",
    "thumb": "thumbs/6add14251752ab.webp",
    "addedAt": 1792873509906
+  },
+  {
+   "id": "6add1479c0dea0",
+   "name": "белый купальник с юбкой и вышивкой",
+   "description": "A white two-piece set featuring a spaghetti-strap crop top with ruching at the bust and red floral embroidery, paired with a matching flared mini skirt with a ruffled hem and scattered floral details.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add1479c0dea0.webp",
+   "thumb": "thumbs/6add1479c0dea0.webp",
+   "addedAt": 1792873593052
   }
  ],
  "categories": [
