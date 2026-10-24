@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869304510,
+ "updatedAt": 1792869309673,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1741,6 +1741,16 @@
    "image": "items/6add03b783a769.webp",
    "thumb": "thumbs/6add03b783a769.webp",
    "addedAt": 1792869303731
+  },
+  {
+   "id": "6add03bc6efc18",
+   "name": "изумрудно-зеленый бархатный халат",
+   "description": "A floor-length, emerald green velvet robe featuring a deep V-neckline, a tie-front waist, and dramatically wide, bell-shaped sleeves. The garment is decorated with a large, textured pink floral pattern and finished with contrasting metallic bronze trim along the front opening, hem, and sleeve edges.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add03bc6efc18.webp",
+   "thumb": "thumbs/6add03bc6efc18.webp",
+   "addedAt": 1792869308727
   }
  ],
  "categories": [
