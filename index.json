@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863536746,
+ "updatedAt": 1792863616671,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -381,6 +381,16 @@
    "image": "items/6adced30c5a5dd.webp",
    "thumb": "thumbs/6adced30c5a5dd.webp",
    "addedAt": 1792863536019
+  },
+  {
+   "id": "6adced7f05279f",
+   "name": "пыльно-розовая пижама с вишенками",
+   "description": "This dusty pink two-piece pajama set features a short-sleeve top with a white lace collar, a central bow, and lace trim, paired with matching ruffled shorts, both decorated with an all-over cherry print.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adced7f05279f.webp",
+   "thumb": "thumbs/6adced7f05279f.webp",
+   "addedAt": 1792863615923
   }
  ],
  "categories": [
