@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868962595,
+ "updatedAt": 1792869100932,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1701,6 +1701,16 @@
    "image": "items/6add0261265088.webp",
    "thumb": "thumbs/6add0261265088.webp",
    "addedAt": 1792868961781
+  },
+  {
+   "id": "6add02e7a138c2",
+   "name": "вязаное розовое платье",
+   "description": "A form-fitting, pink crochet maxi dress featuring a V-neckline and wide straps. The open-knit design creates a semi-sheer effect with a diamond mesh pattern, finished with a scalloped, asymmetric hem.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add02e7a138c2.webp",
+   "thumb": "thumbs/6add02e7a138c2.webp",
+   "addedAt": 1792869095047
   }
  ],
  "categories": [
