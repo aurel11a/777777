@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869180375,
+ "updatedAt": 1792869259694,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1721,6 +1721,16 @@
    "image": "items/6add033b94c3b2.webp",
    "thumb": "thumbs/6add033b94c3b2.webp",
    "addedAt": 1792869179579
+  },
+  {
+   "id": "6add038a6b4967",
+   "name": "темно-синее миди платье",
+   "description": "A navy blue, long-sleeved midi dress featuring a V-neckline, a fitted ribbed bodice with white buttons, and a sharply pleated skirt, accessorized with a black leather handbag and black pointed-toe pumps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add038a6b4967.webp",
+   "thumb": "thumbs/6add038a6b4967.webp",
+   "addedAt": 1792869258889
   }
  ],
  "categories": [
