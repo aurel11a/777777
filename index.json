@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873639566,
+ "updatedAt": 1792873676217,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2531,6 +2531,16 @@
    "image": "items/6add14a65448f2.webp",
    "thumb": "thumbs/6add14a65448f2.webp",
    "addedAt": 1792873638549
+  },
+  {
+   "id": "6add14cbcd9b86",
+   "name": "комплект нижнего белья в черно-белую полоску",
+   "description": "A black and white pinstriped lingerie set featuring a camisole with thin straps, lace-trimmed cups, and a flared hem, paired with matching lace-trimmed panties. Both pieces are accented with small bows.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add14cbcd9b86.webp",
+   "thumb": "thumbs/6add14cbcd9b86.webp",
+   "addedAt": 1792873675268
   }
  ],
  "categories": [
