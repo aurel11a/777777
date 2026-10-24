@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861015714,
+ "updatedAt": 1792861090162,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -171,6 +171,16 @@
    "image": "items/6adce35697b7a5.webp",
    "thumb": "thumbs/6adce35697b7a5.webp",
    "addedAt": 1792861014951
+  },
+  {
+   "id": "6adce3a1742474",
+   "name": "розово-зеленый балетный аутфит",
+   "description": "This dancewear outfit features a light pink off-the-shoulder crop top over a green camisole, paired with matching pink drawstring shorts, light-colored tights, ribbed leg warmers, and ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce3a1742474.webp",
+   "thumb": "thumbs/6adce3a1742474.webp",
+   "addedAt": 1792861089441
   }
  ],
  "categories": [
