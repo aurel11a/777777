@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861207718,
+ "updatedAt": 1792861267603,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -191,6 +191,16 @@
    "image": "items/6adce416b9c2e8.webp",
    "thumb": "thumbs/6adce416b9c2e8.webp",
    "addedAt": 1792861206742
+  },
+  {
+   "id": "6adce452fca64b",
+   "name": "черно-розовый балетный аутфит",
+   "description": "This dancewear ensemble features a black leotard layered under a sheer light pink long-sleeve wrap top with a tie front, paired with black thigh-high leg warmers and pink ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce452fca64b.webp",
+   "thumb": "thumbs/6adce452fca64b.webp",
+   "addedAt": 1792861266757
   }
  ],
  "categories": [
