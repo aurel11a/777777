@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866822433,
+ "updatedAt": 1792866867462,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1241,6 +1241,16 @@
    "image": "items/6adcfa0523588a.webp",
    "thumb": "thumbs/6adcfa0523588a.webp",
    "addedAt": 1792866821685
+  },
+  {
+   "id": "6adcfa32622f99",
+   "name": "средневековый бельевой мужской комплект",
+   "description": "This historical-style outfit features a loose, long-sleeve beige shirt with a V-neck and collar, paired with dark grey knee-length breeches that have a buttoned front fall and a small side buckle at the knee.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adcfa32622f99.webp",
+   "thumb": "thumbs/6adcfa32622f99.webp",
+   "addedAt": 1792866866643
   }
  ],
  "categories": [
