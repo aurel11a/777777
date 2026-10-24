@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792857843569,
+ "updatedAt": 1792858251099,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -41,6 +41,16 @@
    "image": "items/6adcd6f28594ef.webp",
    "thumb": "thumbs/6adcd6f28594ef.webp",
    "addedAt": 1792857842596
+  },
+  {
+   "id": "6adcd88a1dd364",
+   "name": "пижама читос",
+   "description": "This two-piece sleepwear set features an orange spaghetti-strap tank top with a Cheetos graphic and yellow trim, paired with yellow shorts covered in an all-over Cheetos logo print and a black drawstring.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcd88a1dd364.webp",
+   "thumb": "thumbs/6adcd88a1dd364.webp",
+   "addedAt": 1792858250366
   }
  ],
  "categories": [
