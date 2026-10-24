@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874844299,
+ "updatedAt": 1792874904843,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2701,6 +2701,16 @@
    "image": "items/6add195b09db26.webp",
    "thumb": "thumbs/6add195b09db26.webp",
    "addedAt": 1792874843573
+  },
+  {
+   "id": "6add1998f4e3f2",
+   "name": "оранжево-фиолетовый костюм чирлидирши",
+   "description": "An orange long-sleeve turtleneck top layered under a purple cropped cheer sweater vest with white and orange striped trim and a logo. Paired with a matching purple pleated mini skirt with striped edging, white knee-high socks, and white lace-up sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add1998f4e3f2.webp",
+   "thumb": "thumbs/6add1998f4e3f2.webp",
+   "addedAt": 1792874904009
   }
  ],
  "categories": [
