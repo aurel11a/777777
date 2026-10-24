@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874644260,
+ "updatedAt": 1792874715346,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2671,6 +2671,16 @@
    "image": "items/6add1893c25799.webp",
    "thumb": "thumbs/6add1893c25799.webp",
    "addedAt": 1792874643194
+  },
+  {
+   "id": "6add18da4eb1d1",
+   "name": "светло-бежевое пальто с шарфом и шляпкой",
+   "description": "A knee-length, light beige coat with long sleeves and a front button closure, featuring a wide, geometric patterned border in muted green along the cuffs and hem. It is paired with a matching patterned scarf, a green cloche hat with floral accents, and beige Mary Jane shoes.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add18da4eb1d1.webp",
+   "thumb": "thumbs/6add18da4eb1d1.webp",
+   "addedAt": 1792874714531
   }
  ],
  "categories": [
