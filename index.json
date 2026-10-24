@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861763434,
+ "updatedAt": 1792861977807,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -261,6 +261,16 @@
    "image": "items/6adce642f45a0e.webp",
    "thumb": "thumbs/6adce642f45a0e.webp",
    "addedAt": 1792861762633
+  },
+  {
+   "id": "6adce7185a75f2",
+   "name": "светло-голубое платье с клатчем",
+   "description": "This outfit features a light blue lace skater dress with a twisted bodice and thin straps, paired with navy satin accessories including a clutch, a pointed-toe slingback heel with pearl detailing, and a hair bow. The look is completed with pearl drop earrings, a delicate pearl bracelet, and a statement ring.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adce7185a75f2.webp",
+   "thumb": "thumbs/6adce7185a75f2.webp",
+   "addedAt": 1792861976990
   }
  ],
  "categories": [
