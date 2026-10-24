@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865873070,
+ "updatedAt": 1792865931140,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -921,6 +921,16 @@
    "image": "items/6adcf6504e29aa.webp",
    "thumb": "thumbs/6adcf6504e29aa.webp",
    "addedAt": 1792865872299
+  },
+  {
+   "id": "6adcf68a38856d",
+   "name": "костюм Снегурочки",
+   "description": "This light blue costume features a long-sleeve gown with a high neckline, white fur trim at the collar, cuffs, and hem, and silver embroidered floral patterns. It includes an ornate, matching beaded headpiece and white gloves.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6adcf68a38856d.webp",
+   "thumb": "thumbs/6adcf68a38856d.webp",
+   "addedAt": 1792865930329
   }
  ],
  "categories": [
