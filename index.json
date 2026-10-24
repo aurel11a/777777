@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869572953,
+ "updatedAt": 1792869587322,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1791,6 +1791,16 @@
    "image": "items/6add04c4d1ae9e.webp",
    "thumb": "thumbs/6add04c4d1ae9e.webp",
    "addedAt": 1792869572006
+  },
+  {
+   "id": "6add04d247a065",
+   "name": "кремовый вязаный свитер с юбкой",
+   "description": "An oversized cream knit sweater featuring a sheer open-knit yoke, floral lace panels across the front hem, and voluminous bell sleeves, paired with a matching cream knit maxi skirt. The ensemble is accessorized with a brown studded leather handbag and white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add04d247a065.webp",
+   "thumb": "thumbs/6add04d247a065.webp",
+   "addedAt": 1792869586551
   }
  ],
  "categories": [
