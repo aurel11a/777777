@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792858379528,
+ "updatedAt": 1792858512188,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -61,6 +61,16 @@
    "image": "items/6adcd90aef12b1.webp",
    "thumb": "thumbs/6adcd90aef12b1.webp",
    "addedAt": 1792858378763
+  },
+  {
+   "id": "6adcd98f0a6173",
+   "name": "цветочный боди",
+   "description": "This white, one-piece romper features thin spaghetti straps, a V-neckline with lace trim, and a small central bow detail. The garment is decorated with a delicate, all-over pink floral print.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcd98f0a6173.webp",
+   "thumb": "thumbs/6adcd98f0a6173.webp",
+   "addedAt": 1792858511414
   }
  ],
  "categories": [
