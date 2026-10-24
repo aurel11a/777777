@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868326741,
+ "updatedAt": 1792868385702,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1551,6 +1551,16 @@
    "image": "items/6adcffe533ef2d.webp",
    "thumb": "thumbs/6adcffe533ef2d.webp",
    "addedAt": 1792868325949
+  },
+  {
+   "id": "6add00204c8a94",
+   "name": "коричневое пальто и юбка-миди",
+   "description": "This outfit features a long brown coat worn over a black top and a black floral lace midi skirt, accessorized with a grey fringed scarf and black knee-high leather boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add00204c8a94.webp",
+   "thumb": "thumbs/6add00204c8a94.webp",
+   "addedAt": 1792868384503
   }
  ],
  "categories": [
