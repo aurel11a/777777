@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868794730,
+ "updatedAt": 1792868798934,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1661,6 +1661,16 @@
    "image": "items/6add01b9657332.webp",
    "thumb": "thumbs/6add01b9657332.webp",
    "addedAt": 1792868793964
+  },
+  {
+   "id": "6add01bebb63b3",
+   "name": "Meadow Whisper",
+   "description": "A taupe tie-front cardigan with white floral embroidery layers over a cream floral lace-trimmed camisole with a brown ribbon. Light-wash wide-leg jeans with trailing floral embroidery pair with beige suede sneakers and a brown shoulder bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add01bebb63b3.webp",
+   "thumb": "thumbs/6add01bebb63b3.webp",
+   "addedAt": 1792868798049
   }
  ],
  "categories": [
