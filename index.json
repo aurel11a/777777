@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864833403,
+ "updatedAt": 1792864942372,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -771,6 +771,16 @@
    "image": "items/6adcf24013813e.webp",
    "thumb": "thumbs/6adcf24013813e.webp",
    "addedAt": 1792864832401
+  },
+  {
+   "id": "6adcf2ad7a2b1e",
+   "name": "кроп-свитер и юбка с цветочками",
+   "description": "This light pink knit two-piece set features a cropped zip-up sweater with a high collar and white floral patterns, paired with a matching mini skirt that has a white drawstring waist and a coordinating floral border.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf2ad7a2b1e.webp",
+   "thumb": "thumbs/6adcf2ad7a2b1e.webp",
+   "addedAt": 1792864941529
   }
  ],
  "categories": [
