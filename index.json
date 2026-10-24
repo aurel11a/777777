@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874767506,
+ "updatedAt": 1792874844299,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2691,6 +2691,16 @@
    "image": "items/6add190e3c2a3d.webp",
    "thumb": "thumbs/6add190e3c2a3d.webp",
    "addedAt": 1792874766672
+  },
+  {
+   "id": "6add195b09db26",
+   "name": "женский аутфит в стиле дикого запада",
+   "description": "A brown, fitted leather jacket with a wide lapel and long sleeves, worn over a white lace-up top. It is paired with a voluminous, floor-length black skirt featuring tiered layers, ruffled fringe, and a wide olive-green hem band, cinched with a wide grey belt. Accessories include a small straw top hat and a black neck scarf.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6add195b09db26.webp",
+   "thumb": "thumbs/6add195b09db26.webp",
+   "addedAt": 1792874843573
   }
  ],
  "categories": [
