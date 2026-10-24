@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864101088,
+ "updatedAt": 1792864180175,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -441,6 +441,16 @@
    "image": "items/6adcef6422784f.webp",
    "thumb": "thumbs/6adcef6422784f.webp",
    "addedAt": 1792864100294
+  },
+  {
+   "id": "6adcefb31a6741",
+   "name": "желтый топ и джинсы с сердечками",
+   "description": "This outfit features a yellow spaghetti-strap crop top and blue jeans decorated with large white heart outlines, paired with black high-top sneakers and a white tote bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcefb31a6741.webp",
+   "thumb": "thumbs/6adcefb31a6741.webp",
+   "addedAt": 1792864179195
   }
  ],
  "categories": [
