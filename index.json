@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868665191,
+ "updatedAt": 1792868707026,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1631,6 +1631,16 @@
    "image": "items/6add01382fd68a.webp",
    "thumb": "thumbs/6add01382fd68a.webp",
    "addedAt": 1792868664120
+  },
+  {
+   "id": "6add0162dba783",
+   "name": "Fawn Spots",
+   "description": "A fuzzy brown and cream dotted cardigan layers over a white ribbed tank top and a brown faux-suede pleated mini skirt. Dark brown leather loafers with gold hardware, a matching leather handbag, and a simple gold pendant necklace complete the preppy look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0162dba783.webp",
+   "thumb": "thumbs/6add0162dba783.webp",
+   "addedAt": 1792868706275
   }
  ],
  "categories": [
