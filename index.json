@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863413447,
+ "updatedAt": 1792863536746,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -371,6 +371,16 @@
    "image": "items/6adcecb4339595.webp",
    "thumb": "thumbs/6adcecb4339595.webp",
    "addedAt": 1792863412682
+  },
+  {
+   "id": "6adced30c5a5dd",
+   "name": "белый пушистый комплект",
+   "description": "This white fuzzy knit three-piece set features a V-neck camisole, a cardigan with pearl buttons, and matching shorts with a contrasting brown belt detail.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adced30c5a5dd.webp",
+   "thumb": "thumbs/6adced30c5a5dd.webp",
+   "addedAt": 1792863536019
   }
  ],
  "categories": [
