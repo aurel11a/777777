@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870938098,
+ "updatedAt": 1792870978017,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2031,6 +2031,16 @@
    "image": "items/6add0a1958d75d.webp",
    "thumb": "thumbs/6add0a1958d75d.webp",
    "addedAt": 1792870937337
+  },
+  {
+   "id": "6add0a41f20c11",
+   "name": "платье шоколадного цвета",
+   "description": "A monochrome chocolate brown ensemble featuring a floor-length open robe with voluminous bell sleeves over a matching draped maxi dress with a cutout sweetheart neckline, accessorized with a small black fringed clutch on a silver chain and black strappy sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0a41f20c11.webp",
+   "thumb": "thumbs/6add0a41f20c11.webp",
+   "addedAt": 1792870977028
   }
  ],
  "categories": [
