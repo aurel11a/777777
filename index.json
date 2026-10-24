@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872041548,
+ "updatedAt": 1792872057133,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2241,6 +2241,16 @@
    "image": "items/6add0e6892492e.webp",
    "thumb": "thumbs/6add0e6892492e.webp",
    "addedAt": 1792872040782
+  },
+  {
+   "id": "6add0e7896e22e",
+   "name": "приталенный белый топ с юбкой миди",
+   "description": "A fitted white ribbed short-sleeve top with a thin black belt featuring a gold buckle, paired with a black midi skirt. The look is accessorized with a black leather shoulder bag and black pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0e7896e22e.webp",
+   "thumb": "thumbs/6add0e7896e22e.webp",
+   "addedAt": 1792872056398
   }
  ],
  "categories": [
