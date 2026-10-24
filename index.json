@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866867462,
+ "updatedAt": 1792866882946,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1251,6 +1251,16 @@
    "image": "items/6adcfa32622f99.webp",
    "thumb": "thumbs/6adcfa32622f99.webp",
    "addedAt": 1792866866643
+  },
+  {
+   "id": "6adcfa415a3e1b",
+   "name": "Frosted Cocoa",
+   "description": "A fuzzy brown and cream striped sweater pairs with distressed light-wash wide-leg jeans, accessorized with a matching plaid scarf and dark brown lace-up shoes. Silver celestial and signet jewelry adds a finishing touch.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcfa415a3e1b.webp",
+   "thumb": "thumbs/6adcfa415a3e1b.webp",
+   "addedAt": 1792866881812
   }
  ],
  "categories": [
