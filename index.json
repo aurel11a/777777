@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873067076,
+ "updatedAt": 1792873075760,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2431,6 +2431,16 @@
    "image": "items/6add126a65adc3.webp",
    "thumb": "thumbs/6add126a65adc3.webp",
    "addedAt": 1792873066302
+  },
+  {
+   "id": "6add12729c8010",
+   "name": "цензурная одежда для мужчин",
+   "description": "the body is uncovered and only obscured by cloud-like effects, with no accessories or shoes present.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6add12729c8010.webp",
+   "thumb": "thumbs/6add12729c8010.webp",
+   "addedAt": 1792873074625
   }
  ],
  "categories": [
