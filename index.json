@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873808392,
+ "updatedAt": 1792873900011,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2561,6 +2561,16 @@
    "image": "items/6add154f42e944.webp",
    "thumb": "thumbs/6add154f42e944.webp",
    "addedAt": 1792873807582
+  },
+  {
+   "id": "6add15ab4b1875",
+   "name": "атласное платье-комбинация и кардиган",
+   "description": "A cream-colored satin slip dress with thin spaghetti straps and a lace-trimmed sweetheart neckline. It is styled with a chunky, off-the-shoulder knit cardigan in a similar cream shade.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add15ab4b1875.webp",
+   "thumb": "thumbs/6add15ab4b1875.webp",
+   "addedAt": 1792873899081
   }
  ],
  "categories": [
