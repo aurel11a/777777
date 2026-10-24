@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865128422,
+ "updatedAt": 1792865197412,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -811,6 +811,16 @@
    "image": "items/6adcf367c9012b.webp",
    "thumb": "thumbs/6adcf367c9012b.webp",
    "addedAt": 1792865127618
+  },
+  {
+   "id": "6adcf3ac808ae9",
+   "name": "кремовый комплект с трусами",
+   "description": "This cream-colored knit two-piece set features a long-sleeve button-up cardigan and matching high-waisted briefs, both decorated with a small red floral print and white lace trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf3ac808ae9.webp",
+   "thumb": "thumbs/6adcf3ac808ae9.webp",
+   "addedAt": 1792865196672
   }
  ],
  "categories": [
