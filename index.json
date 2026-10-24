@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861346555,
+ "updatedAt": 1792861454618,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -211,6 +211,16 @@
    "image": "items/6adce4a1234bea.webp",
    "thumb": "thumbs/6adce4a1234bea.webp",
    "addedAt": 1792861345641
+  },
+  {
+   "id": "6adce50d931c2f",
+   "name": "балетный аутфит с синим топом и боди",
+   "description": "This dancewear outfit features a navy blue long-sleeve ribbed crop top with a wide neckline, layered over a black leotard, and paired with matching navy ribbed leg warmers, light tights, and pink pointe shoes.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce50d931c2f.webp",
+   "thumb": "thumbs/6adce50d931c2f.webp",
+   "addedAt": 1792861453880
   }
  ],
  "categories": [
