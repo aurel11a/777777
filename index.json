@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868299695,
+ "updatedAt": 1792868326741,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1541,6 +1541,16 @@
    "image": "items/6adcffca41073a.webp",
    "thumb": "thumbs/6adcffca41073a.webp",
    "addedAt": 1792868298956
+  },
+  {
+   "id": "6adcffe533ef2d",
+   "name": "черная майка и джинсы",
+   "description": "This outfit features a fitted black spaghetti-strap crop top paired with dark wash, low-rise flared jeans and black strappy sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcffe533ef2d.webp",
+   "thumb": "thumbs/6adcffe533ef2d.webp",
+   "addedAt": 1792868325949
   }
  ],
  "categories": [
