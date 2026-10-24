@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869456426,
+ "updatedAt": 1792869493434,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1771,6 +1771,16 @@
    "image": "items/6add044fd610c8.webp",
    "thumb": "thumbs/6add044fd610c8.webp",
    "addedAt": 1792869455637
+  },
+  {
+   "id": "6add0474066d97",
+   "name": "бледно-мятно-зеленое прозрачное платье",
+   "description": "A floor-length, pale mint green sheer gown with a scoop neckline, thin straps, and a large pink floral print, paired with a matching open-front robe featuring lace trim along the hem and cuffs.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add0474066d97.webp",
+   "thumb": "thumbs/6add0474066d97.webp",
+   "addedAt": 1792869492447
   }
  ],
  "categories": [
