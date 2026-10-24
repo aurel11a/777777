@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873593970,
+ "updatedAt": 1792873639566,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2521,6 +2521,16 @@
    "image": "items/6add1479c0dea0.webp",
    "thumb": "thumbs/6add1479c0dea0.webp",
    "addedAt": 1792873593052
+  },
+  {
+   "id": "6add14a65448f2",
+   "name": "темно-синий слитный купальник в белый горошек",
+   "description": "A navy blue one-piece swimsuit with white polka dots, featuring a halter neckline with thin straps and a sweetheart bust. It has a fitted bodice that flows into a short, flared skirt.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add14a65448f2.webp",
+   "thumb": "thumbs/6add14a65448f2.webp",
+   "addedAt": 1792873638549
   }
  ],
  "categories": [
