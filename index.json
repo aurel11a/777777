@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871131458,
+ "updatedAt": 1792871167893,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2081,6 +2081,16 @@
    "image": "items/6add0adad54fe7.webp",
    "thumb": "thumbs/6add0adad54fe7.webp",
    "addedAt": 1792871130684
+  },
+  {
+   "id": "6add0aff9b62ab",
+   "name": "костюм для верховой езды",
+   "description": "A camel-colored tailored riding jacket with flap pockets is worn over a cream ribbed turtleneck, paired with light tan equestrian breeches featuring dark brown knee patches. The outfit is completed with black leather tall riding boots that have a quilted textured design on the front shaft.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add0aff9b62ab.webp",
+   "thumb": "thumbs/6add0aff9b62ab.webp",
+   "addedAt": 1792871167117
   }
  ],
  "categories": [
