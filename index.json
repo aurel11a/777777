@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870728718,
+ "updatedAt": 1792870753957,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1991,6 +1991,16 @@
    "image": "items/6add09475fd499.webp",
    "thumb": "thumbs/6add09475fd499.webp",
    "addedAt": 1792870727903
+  },
+  {
+   "id": "6add096151a58f",
+   "name": "темно-красное блестящее платье",
+   "description": "A floor-length, deep red sparkly gown featuring a plunging V-neckline with contrasting dark, textured shoulder straps adorned with silver embellishments, a ruched bodice, and a cascading ruffle detail down the side skirt. It is accessorized with a layered rhinestone choker necklace and black pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add096151a58f.webp",
+   "thumb": "thumbs/6add096151a58f.webp",
+   "addedAt": 1792870753225
   }
  ],
  "categories": [
