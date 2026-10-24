@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869309673,
+ "updatedAt": 1792869366628,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1751,6 +1751,16 @@
    "image": "items/6add03bc6efc18.webp",
    "thumb": "thumbs/6add03bc6efc18.webp",
    "addedAt": 1792869308727
+  },
+  {
+   "id": "6add03f52ba30f",
+   "name": "бэби-долл бледно-салатового цвета",
+   "description": "A pale lime green, semi-sheer babydoll top with a textured polka-dot pattern, featuring ruffled underwire cups, thin straps with small bow accents, and a front tie closure with light blue ribbons. It is layered over a white, ruffled pointelle skirt or slip.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add03f52ba30f.webp",
+   "thumb": "thumbs/6add03f52ba30f.webp",
+   "addedAt": 1792869365719
   }
  ],
  "categories": [
