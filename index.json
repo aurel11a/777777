@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870504812,
+ "updatedAt": 1792870652846,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1961,6 +1961,16 @@
    "image": "items/6add0868d31cc8.webp",
    "thumb": "thumbs/6add0868d31cc8.webp",
    "addedAt": 1792870504094
+  },
+  {
+   "id": "6add08fb0dea89",
+   "name": "Cocoa Corset",
+   "description": "A dark brown tailored cropped blazer and matching button-up vest layer over a cream blouse with ruffled flared cuffs. A brown midi skirt with lace-up side details, dark brown Mary Jane block heels, and a cream scrunchie complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add08fb0dea89.webp",
+   "thumb": "thumbs/6add08fb0dea89.webp",
+   "addedAt": 1792870651955
   }
  ],
  "categories": [
