@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864303567,
+ "updatedAt": 1792864400781,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -461,6 +461,16 @@
    "image": "items/6adcf02e872e9b.webp",
    "thumb": "thumbs/6adcf02e872e9b.webp",
    "addedAt": 1792864302756
+  },
+  {
+   "id": "6adcf08f45432e",
+   "name": "топ и юбка с розовой накидкой",
+   "description": "This outfit features a brown ribbed top with lace trim and a large pink bow, worn under a light pink long-sleeve shrug with ruffled lace cuffs and collar. It is paired with a brown plaid tiered mini skirt and accessorized with a pearl necklace and a cross pendant.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcf08f45432e.webp",
+   "thumb": "thumbs/6adcf08f45432e.webp",
+   "addedAt": 1792864399941
   }
  ],
  "categories": [
