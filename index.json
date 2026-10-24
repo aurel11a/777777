@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870053905,
+ "updatedAt": 1792870122531,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1881,6 +1881,16 @@
    "image": "items/6add06a5cf2117.webp",
    "thumb": "thumbs/6add06a5cf2117.webp",
    "addedAt": 1792870053089
+  },
+  {
+   "id": "6add06e99bbba4",
+   "name": "Wisteria Woods",
+   "description": "A dusty purple lace-up corset dress with a floral overlay features a ruffled skirt and voluminous cream blouse sleeves. Cream lace-trimmed socks, white bow Mary Jane shoes, and delicate floral hair accessories complete the whimsical look.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6add06e99bbba4.webp",
+   "thumb": "thumbs/6add06e99bbba4.webp",
+   "addedAt": 1792870121673
   }
  ],
  "categories": [
