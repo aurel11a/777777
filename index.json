@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864180175,
+ "updatedAt": 1792864303567,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -451,6 +451,16 @@
    "image": "items/6adcefb31a6741.webp",
    "thumb": "thumbs/6adcefb31a6741.webp",
    "addedAt": 1792864179195
+  },
+  {
+   "id": "6adcf02e872e9b",
+   "name": "платье с отделкой из меха",
+   "description": "This black strapless gown features a fitted corset-style bodice and a floor-length skirt, both accented with grey faux fur trim at the neckline, waist, and hem. It is accessorized with a silver sparkly handbag.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcf02e872e9b.webp",
+   "thumb": "thumbs/6adcf02e872e9b.webp",
+   "addedAt": 1792864302756
   }
  ],
  "categories": [
