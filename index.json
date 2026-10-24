@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864400781,
+ "updatedAt": 1792864507122,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -471,6 +471,16 @@
    "image": "items/6adcf08f45432e.webp",
    "thumb": "thumbs/6adcf08f45432e.webp",
    "addedAt": 1792864399941
+  },
+  {
+   "id": "6adcf0facf958d",
+   "name": "розовая атласная ночнушка",
+   "description": "This light pink satin slip dress features a cowl neckline, thin black spaghetti straps, and a side slit.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcf0facf958d.webp",
+   "thumb": "thumbs/6adcf0facf958d.webp",
+   "addedAt": 1792864506318
   }
  ],
  "categories": [
