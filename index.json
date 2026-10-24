@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874227866,
+ "updatedAt": 1792874318165,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2621,6 +2621,16 @@
    "image": "items/6add16f306945b.webp",
    "thumb": "thumbs/6add16f306945b.webp",
    "addedAt": 1792874227102
+  },
+  {
+   "id": "6add174d1e5752",
+   "name": "куртка-бомбер «ФБР» и джинсы",
+   "description": "A dark blue, zip-up bomber jacket with an \"FBI\" logo on the chest, worn open over a purple hoodie. Paired with distressed blue jeans and dark brown lace-up shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add174d1e5752.webp",
+   "thumb": "thumbs/6add174d1e5752.webp",
+   "addedAt": 1792874317165
   }
  ],
  "categories": [
