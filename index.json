@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868724023,
+ "updatedAt": 1792868794730,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1651,6 +1651,16 @@
    "image": "items/6add01732d901b.webp",
    "thumb": "thumbs/6add01732d901b.webp",
    "addedAt": 1792868723259
+  },
+  {
+   "id": "6add01b9657332",
+   "name": "леопардовый пуловер и леггинсы",
+   "description": "A brown and black leopard print fleece pullover with a half-zip front and voluminous sleeves, paired with solid brown stretch leggings. The outfit is styled with cream ribbed crew socks and tan suede platform slippers with a braided trim.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add01b9657332.webp",
+   "thumb": "thumbs/6add01b9657332.webp",
+   "addedAt": 1792868793964
   }
  ],
  "categories": [
