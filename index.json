@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869849757,
+ "updatedAt": 1792869853413,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1841,6 +1841,16 @@
    "image": "items/6add05d8d1e1ce.webp",
    "thumb": "thumbs/6add05d8d1e1ce.webp",
    "addedAt": 1792869848968
+  },
+  {
+   "id": "6add05d9fa6a0f",
+   "name": "Vintage Bloom",
+   "description": "A white long-sleeve collared blouse sits beneath a floral lace-up corset top in earthy tones. Light beige wide-leg jeans and simple white sneakers complete the outfit.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add05d9fa6a0f.webp",
+   "thumb": "thumbs/6add05d9fa6a0f.webp",
+   "addedAt": 1792869849972
   }
  ],
  "categories": [
