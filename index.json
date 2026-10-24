@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874021268,
+ "updatedAt": 1792874116924,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2591,6 +2591,16 @@
    "image": "items/6add1624af3e10.webp",
    "thumb": "thumbs/6add1624af3e10.webp",
    "addedAt": 1792874020467
+  },
+  {
+   "id": "6add168480f67f",
+   "name": "халат с корсетом и жемчужными украшениями",
+   "description": "A cream-colored, floor-length robe with a large rose print and thick white fur trim, worn over a pale pink satin corset-style top with ruffled lace trim and matching panties. Accessories include long cream satin gloves, strappy gold high heels, layered pearl necklaces, pearl drop earrings, a decorative hand fan, and a pink perfume bottle.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add168480f67f.webp",
+   "thumb": "thumbs/6add168480f67f.webp",
+   "addedAt": 1792874116089
   }
  ],
  "categories": [
