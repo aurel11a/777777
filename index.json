@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872580021,
+ "updatedAt": 1792872664256,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2371,6 +2371,16 @@
    "image": "items/6add108334db25.webp",
    "thumb": "thumbs/6add108334db25.webp",
    "addedAt": 1792872579228
+  },
+  {
+   "id": "6add10d7f74c65",
+   "name": "халат с крупной яркой цветочной вышивкой",
+   "description": "A floor-length, long-sleeve robe in grey fabric with large, colorful floral embroidery, featuring a deep V-neckline and wide cuffs trimmed in dark red velvet. It is cinched at the waist with a matching dark red velvet sash.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add10d7f74c65.webp",
+   "thumb": "thumbs/6add10d7f74c65.webp",
+   "addedAt": 1792872663321
   }
  ],
  "categories": [
