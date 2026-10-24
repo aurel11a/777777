@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867746169,
+ "updatedAt": 1792867777258,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1441,6 +1441,16 @@
    "image": "items/6adcfda1ebb2aa.webp",
    "thumb": "thumbs/6adcfda1ebb2aa.webp",
    "addedAt": 1792867745213
+  },
+  {
+   "id": "6adcfdc059e637",
+   "name": "Emerald Enchantress",
+   "description": "A strapless dark green mermaid gown features a draped bodice and trailing floral embroidery. It is paired with matching green satin accessories, including a clutch, ribbon, and pointed-toe heels, alongside sparkling crystal jewelry.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcfdc059e637.webp",
+   "thumb": "thumbs/6adcfdc059e637.webp",
+   "addedAt": 1792867776386
   }
  ],
  "categories": [
