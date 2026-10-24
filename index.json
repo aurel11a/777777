@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792860678190,
+ "updatedAt": 1792860802811,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -141,6 +141,16 @@
    "image": "items/6adce205035ed6.webp",
    "thumb": "thumbs/6adce205035ed6.webp",
    "addedAt": 1792860677440
+  },
+  {
+   "id": "6adce282738788",
+   "name": "красный ретро-купальник",
+   "description": "This red one-piece swimsuit features a halter neckline, a knotted front with cutout details, and a high-waisted, boy-short bottom.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adce282738788.webp",
+   "thumb": "thumbs/6adce282738788.webp",
+   "addedAt": 1792860802047
   }
  ],
  "categories": [
