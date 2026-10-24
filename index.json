@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873191157,
+ "updatedAt": 1792873230947,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2461,6 +2461,16 @@
    "image": "items/6add12e68e3efd.webp",
    "thumb": "thumbs/6add12e68e3efd.webp",
    "addedAt": 1792873190116
+  },
+  {
+   "id": "6add130e254d35",
+   "name": "темный халат в стиле кимоно",
+   "description": "A floor-length, long-sleeve kimono-style robe in sheer dark fabric with a large floral print in blue, white, and orange tones, featuring wide sleeves and a matching fabric belt tied at the waist.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add130e254d35.webp",
+   "thumb": "thumbs/6add130e254d35.webp",
+   "addedAt": 1792873230163
   }
  ],
  "categories": [
