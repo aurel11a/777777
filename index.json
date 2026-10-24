@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875512397,
+ "updatedAt": 1792875548293,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2801,6 +2801,16 @@
    "image": "items/6add1bf72e2d0e.webp",
    "thumb": "thumbs/6add1bf72e2d0e.webp",
    "addedAt": 1792875511641
+  },
+  {
+   "id": "6add1c1bed2528",
+   "name": "пижама багз банни",
+   "description": "A light pink short-sleeve pajama top featuring a Bugs Bunny graphic with the text \"That's All Folks!\", paired with grey patterned shorts featuring a repeating Bugs Bunny grid print and a pink drawstring.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add1c1bed2528.webp",
+   "thumb": "thumbs/6add1c1bed2528.webp",
+   "addedAt": 1792875547339
   }
  ],
  "categories": [
