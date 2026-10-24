@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867618011,
+ "updatedAt": 1792867621947,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1401,6 +1401,16 @@
    "image": "items/6adcfd21f5e9a3.webp",
    "thumb": "thumbs/6adcfd21f5e9a3.webp",
    "addedAt": 1792867617231
+  },
+  {
+   "id": "6adcfd23dab646",
+   "name": "Gilded Lily",
+   "description": "An ethereal cream gown features a pleated bodice, voluminous ruffled sleeves, and intricate gold lace trim. Matching embellished pointed-toe heels and delicate gold floral jewelry with pearl drops complete the ensemble.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adcfd23dab646.webp",
+   "thumb": "thumbs/6adcfd23dab646.webp",
+   "addedAt": 1792867619969
   }
  ],
  "categories": [
