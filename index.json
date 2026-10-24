@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866334643,
+ "updatedAt": 1792866403592,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -971,6 +971,16 @@
    "image": "items/6adcf81dcc612f.webp",
    "thumb": "thumbs/6adcf81dcc612f.webp",
    "addedAt": 1792866333808
+  },
+  {
+   "id": "6adcf8624bfc01",
+   "name": "наряд из листьев",
+   "description": "This nature-inspired costume features a top with leaf-shaped cups and a brown vine-like harness, paired with a skirt made of large overlapping green leaves. It is accessorized with a green pendant necklace and floral vine arm bands.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adcf8624bfc01.webp",
+   "thumb": "thumbs/6adcf8624bfc01.webp",
+   "addedAt": 1792866402772
   }
  ],
  "categories": [
