@@ -1,5 +1,88 @@
 {
-  "version": 1,
-  "updatedAt": 0,
-  "items": []
+ "version": 1,
+ "updatedAt": 1792857461377,
+ "items": [
+  {
+   "id": "6adcd574938a33",
+   "name": "тест",
+   "description": "лу красавица",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6adcd574938a33.webp",
+   "thumb": "thumbs/6adcd574938a33.webp",
+   "addedAt": 1792857460655
+  }
+ ],
+ "categories": [
+  {
+   "id": "casual",
+   "label": "Повседневное",
+   "icon": "fa-shirt"
+  },
+  {
+   "id": "home",
+   "label": "Домашнее",
+   "icon": "fa-house"
+  },
+  {
+   "id": "formal",
+   "label": "Формальное",
+   "icon": "fa-gem"
+  },
+  {
+   "id": "sport",
+   "label": "Спортивное",
+   "icon": "fa-person-running"
+  },
+  {
+   "id": "sleep",
+   "label": "Спальное",
+   "icon": "fa-bed"
+  },
+  {
+   "id": "underwear",
+   "label": "Бельё",
+   "icon": "fa-heart"
+  },
+  {
+   "id": "work",
+   "label": "Работа",
+   "icon": "fa-briefcase"
+  },
+  {
+   "id": "beach",
+   "label": "Пляжное",
+   "icon": "fa-umbrella-beach"
+  },
+  {
+   "id": "outer",
+   "label": "Верхняя",
+   "icon": "fa-mitten"
+  },
+  {
+   "id": "vintage",
+   "label": "Винтаж",
+   "icon": "fa-record-vinyl"
+  },
+  {
+   "id": "historical",
+   "label": "Исторические",
+   "icon": "fa-chess-queen"
+  },
+  {
+   "id": "fantasy",
+   "label": "Фэнтези",
+   "icon": "fa-wand-magic-sparkles"
+  },
+  {
+   "id": "wedding",
+   "label": "Свадебные",
+   "icon": "fa-ring"
+  },
+  {
+   "id": "other",
+   "label": "Другое",
+   "icon": "fa-tag"
+  }
+ ]
 }
