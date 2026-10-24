@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875169672,
+ "updatedAt": 1792875221489,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2751,6 +2751,16 @@
    "image": "items/6add1aa0830e52.webp",
    "thumb": "thumbs/6add1aa0830e52.webp",
    "addedAt": 1792875168837
+  },
+  {
+   "id": "6add1ad429bdc8",
+   "name": "костюм монашки",
+   "description": "A long black religious habit with a floor-length skirt and long sleeves, featuring a layered black veil with a light-colored trim. A silver cross hangs from a chain at the waist.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6add1ad429bdc8.webp",
+   "thumb": "thumbs/6add1ad429bdc8.webp",
+   "addedAt": 1792875220676
   }
  ],
  "categories": [
