@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873075760,
+ "updatedAt": 1792873142819,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2441,6 +2441,16 @@
    "image": "items/6add12729c8010.webp",
    "thumb": "thumbs/6add12729c8010.webp",
    "addedAt": 1792873074625
+  },
+  {
+   "id": "6add12b66be3d4",
+   "name": "черная атласная пижама",
+   "description": "A black satin camisole set with thin straps, featuring a deep V-neckline and lace trim along the bust and the hem of the matching shorts.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add12b66be3d4.webp",
+   "thumb": "thumbs/6add12b66be3d4.webp",
+   "addedAt": 1792873142027
   }
  ],
  "categories": [
