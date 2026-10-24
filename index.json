@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871963765,
+ "updatedAt": 1792872003331,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2221,6 +2221,16 @@
    "image": "items/6add0e1bf67163.webp",
    "thumb": "thumbs/6add0e1bf67163.webp",
    "addedAt": 1792871963045
+  },
+  {
+   "id": "6add0e420d4bd5",
+   "name": "персиковое платье с боа",
+   "description": "This peach-colored gown features a halter neckline with a pleated bodice, a central bow detail, and a floor-length skirt, accompanied by a matching feather boa.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0e420d4bd5.webp",
+   "thumb": "thumbs/6add0e420d4bd5.webp",
+   "addedAt": 1792872002514
   }
  ],
  "categories": [
