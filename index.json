@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873732887,
+ "updatedAt": 1792873808392,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2551,6 +2551,16 @@
    "image": "items/6add1504a3e2dd.webp",
    "thumb": "thumbs/6add1504a3e2dd.webp",
    "addedAt": 1792873732170
+  },
+  {
+   "id": "6add154f42e944",
+   "name": "пижамный комплект в серую полоску",
+   "description": "A grey pinstriped pajama set consisting of a long-sleeve button-up shirt with a notched collar and white piping, paired with matching wide-leg pants featuring white trim at the hem.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add154f42e944.webp",
+   "thumb": "thumbs/6add154f42e944.webp",
+   "addedAt": 1792873807582
   }
  ],
  "categories": [
