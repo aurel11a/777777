@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866122779,
+ "updatedAt": 1792866239690,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -951,6 +951,16 @@
    "image": "items/6adcf749f3ff27.webp",
    "thumb": "thumbs/6adcf749f3ff27.webp",
    "addedAt": 1792866121687
+  },
+  {
+   "id": "6adcf7beccd464",
+   "name": "костюм феи",
+   "description": "This fantasy costume features a two-piece set consisting of a bikini-style top and high-waisted shorts in a light blue and purple iridescent pattern with ornate gold trim and swirling details, accompanied by matching large, translucent fairy wings with gold veins.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adcf7beccd464.webp",
+   "thumb": "thumbs/6adcf7beccd464.webp",
+   "addedAt": 1792866238798
   }
  ],
  "categories": [
