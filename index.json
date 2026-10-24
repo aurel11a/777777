@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875548293,
+ "updatedAt": 1792875615876,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2811,6 +2811,16 @@
    "image": "items/6add1c1bed2528.webp",
    "thumb": "thumbs/6add1c1bed2528.webp",
    "addedAt": 1792875547339
+  },
+  {
+   "id": "6add1c5f885535",
+   "name": "топ с джинсами и бантиками",
+   "description": "A white cropped camisole with pink text printed across the chest, paired with light blue low-rise flared jeans decorated with pink satin bows down the legs. Accessories include a small white shoulder bag, a pearl necklace, and white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add1c5f885535.webp",
+   "thumb": "thumbs/6add1c5f885535.webp",
+   "addedAt": 1792875615095
   }
  ],
  "categories": [
