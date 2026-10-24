@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869493434,
+ "updatedAt": 1792869572953,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1781,6 +1781,16 @@
    "image": "items/6add0474066d97.webp",
    "thumb": "thumbs/6add0474066d97.webp",
    "addedAt": 1792869492447
+  },
+  {
+   "id": "6add04c4d1ae9e",
+   "name": "Crimson Noir",
+   "description": "A black sleeveless fit-and-flare midi dress pairs with a burgundy jacquard bolero jacket featuring puffed sleeves. Black patent Mary Jane block heels, a black top-handle handbag, a black bow, and geometric drop earrings complete the sophisticated look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add04c4d1ae9e.webp",
+   "thumb": "thumbs/6add04c4d1ae9e.webp",
+   "addedAt": 1792869572006
   }
  ],
  "categories": [
