@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864053259,
+ "updatedAt": 1792864101088,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -431,6 +431,16 @@
    "image": "items/6adcef34e33d09.webp",
    "thumb": "thumbs/6adcef34e33d09.webp",
    "addedAt": 1792864052406
+  },
+  {
+   "id": "6adcef6422784f",
+   "name": "расклешенное платье без рукавов",
+   "description": "This sleeveless dress features a black bodice and a flared tan skirt, accented by a black bow at the waist and paired with black platform wedge sandals.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adcef6422784f.webp",
+   "thumb": "thumbs/6adcef6422784f.webp",
+   "addedAt": 1792864100294
   }
  ],
  "categories": [
