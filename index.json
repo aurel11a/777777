@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870704155,
+ "updatedAt": 1792870728718,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1981,6 +1981,16 @@
    "image": "items/6add092f4c3720.webp",
    "thumb": "thumbs/6add092f4c3720.webp",
    "addedAt": 1792870703384
+  },
+  {
+   "id": "6add09475fd499",
+   "name": "Powder Blue Dream",
+   "description": "A light blue chiffon maxi dress features a wrap-style bodice and layered flutter sleeves. Cream satin clutch, white strappy stiletto sandals, and delicate pearl jewelry complete the elegant ensemble.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add09475fd499.webp",
+   "thumb": "thumbs/6add09475fd499.webp",
+   "addedAt": 1792870727903
   }
  ],
  "categories": [
