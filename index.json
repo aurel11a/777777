@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792859372574,
+ "updatedAt": 1792859438575,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -101,6 +101,16 @@
    "image": "items/6adcdb621cf2cd.webp",
    "thumb": "thumbs/6adcdb621cf2cd.webp",
    "addedAt": 1792858978624
+  },
+  {
+   "id": "6adcdd2dd4ea68",
+   "name": "голубая пижама с бабочками",
+   "description": "This light blue two-piece pajama set features a thin-striped camisole top with pink ruffled trim, a central bow, and an all-over butterfly and floral print, paired with matching ruffled shorts in the same pattern.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcdd2dd4ea68.webp",
+   "thumb": "thumbs/6adcdd2dd4ea68.webp",
+   "addedAt": 1792859437812
   }
  ],
  "categories": [
