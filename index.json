@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870251264,
+ "updatedAt": 1792870285492,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1931,6 +1931,16 @@
    "image": "items/6add076a475f5e.webp",
    "thumb": "thumbs/6add076a475f5e.webp",
    "addedAt": 1792870250492
+  },
+  {
+   "id": "6add078cd1c184",
+   "name": "Olive Breeze",
+   "description": "An olive green floral wrap top with wide sleeves and a cinched drawstring waist pairs with flowy white wide-leg pants. White sneakers, a cream shoulder bag, and simple gold jewelry complete the relaxed look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add078cd1c184.webp",
+   "thumb": "thumbs/6add078cd1c184.webp",
+   "addedAt": 1792870284590
   }
  ],
  "categories": [
