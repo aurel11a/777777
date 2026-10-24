@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875020111,
+ "updatedAt": 1792875097153,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2731,6 +2731,16 @@
    "image": "items/6add1a0b70e9ca.webp",
    "thumb": "thumbs/6add1a0b70e9ca.webp",
    "addedAt": 1792875019341
+  },
+  {
+   "id": "6add1a5863dd81",
+   "name": "зеленый трикотажный костюм с юбкой, жилетом и рубашкой",
+   "description": "A green textured knit skirt suit featuring a sleeveless button-up vest with a collar and a matching midi skirt. It is worn over a striped long-sleeve shirt, cinched with a brown leather belt, and accessorized with a green beret, a brown shoulder bag, and brown leather knee-high boots.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6add1a5863dd81.webp",
+   "thumb": "thumbs/6add1a5863dd81.webp",
+   "addedAt": 1792875096218
   }
  ],
  "categories": [
