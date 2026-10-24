@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866585945,
+ "updatedAt": 1792866648606,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1211,6 +1211,16 @@
    "image": "items/6adcf9199a4db2.webp",
    "thumb": "thumbs/6adcf9199a4db2.webp",
    "addedAt": 1792866585186
+  },
+  {
+   "id": "6adcf95714d2e6",
+   "name": "Cocoa Comfort",
+   "description": "A faded brown oversized hoodie pairs with loose brown and cream plaid drawstring pants, styled with brown suede slip-on shoes featuring plush cream lining. Gold celestial star earrings complete the cozy look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf95714d2e6.webp",
+   "thumb": "thumbs/6adcf95714d2e6.webp",
+   "addedAt": 1792866647833
   }
  ],
  "categories": [
