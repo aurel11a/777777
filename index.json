@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870122531,
+ "updatedAt": 1792870134223,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1891,6 +1891,16 @@
    "image": "items/6add06e99bbba4.webp",
    "thumb": "thumbs/6add06e99bbba4.webp",
    "addedAt": 1792870121673
+  },
+  {
+   "id": "6add06f5eeca1d",
+   "name": "простая серая пижама",
+   "description": "A light heather grey loungewear set consisting of a long-sleeved, V-neck top with a raw, lettuce-edge hem and coordinating wide-leg pants with a gathered elastic drawstring waist.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add06f5eeca1d.webp",
+   "thumb": "thumbs/6add06f5eeca1d.webp",
+   "addedAt": 1792870133380
   }
  ],
  "categories": [
