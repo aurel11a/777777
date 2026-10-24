@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868508448,
+ "updatedAt": 1792868547566,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1591,6 +1591,16 @@
    "image": "items/6add009ba151b6.webp",
    "thumb": "thumbs/6add009ba151b6.webp",
    "addedAt": 1792868507695
+  },
+  {
+   "id": "6add00c26d66f1",
+   "name": "футболка с принтом и леопардовая юбка",
+   "description": "This outfit features a white short-sleeve crop top with a large graphic of red lips and a safety pin, paired with a long leopard print maxi skirt, red pointed-toe heels, and a small black textured handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add00c26d66f1.webp",
+   "thumb": "thumbs/6add00c26d66f1.webp",
+   "addedAt": 1792868546777
   }
  ],
  "categories": [
