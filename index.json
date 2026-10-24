@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874167100,
+ "updatedAt": 1792874227866,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2611,6 +2611,16 @@
    "image": "items/6add16b69109f1.webp",
    "thumb": "thumbs/6add16b69109f1.webp",
    "addedAt": 1792874166039
+  },
+  {
+   "id": "6add16f306945b",
+   "name": "платье лавандового цвета на бретельках с ромашками",
+   "description": "A lavender slip dress with thin spaghetti straps, a cowl neckline, and a white daisy print. Accessories include white block-heeled ankle boots, a white textured shoulder bag with gold hardware, purple rectangular sunglasses, and a delicate gold pendant necklace.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add16f306945b.webp",
+   "thumb": "thumbs/6add16f306945b.webp",
+   "addedAt": 1792874227102
   }
  ],
  "categories": [
