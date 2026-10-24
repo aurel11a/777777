@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867667468,
+ "updatedAt": 1792867697553,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1421,6 +1421,16 @@
    "image": "items/6adcfd528e9871.webp",
    "thumb": "thumbs/6adcfd528e9871.webp",
    "addedAt": 1792867666646
+  },
+  {
+   "id": "6adcfd70d4c719",
+   "name": "белый балетный костюм",
+   "description": "This white ballet outfit features a long-sleeve cropped wrap top with tie details, a fluffy tulle tutu skirt, white tights, ribbed leg warmers, and light-colored ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfd70d4c719.webp",
+   "thumb": "thumbs/6adcfd70d4c719.webp",
+   "addedAt": 1792867696674
   }
  ],
  "categories": [
