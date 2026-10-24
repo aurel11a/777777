@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872117487,
+ "updatedAt": 1792872135431,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2261,6 +2261,16 @@
    "image": "items/6add0eb47b2729.webp",
    "thumb": "thumbs/6add0eb47b2729.webp",
    "addedAt": 1792872116648
+  },
+  {
+   "id": "6add0ec608b323",
+   "name": "платье без рукавов с растительным принтом",
+   "description": "A sleeveless, floor-length gown in a botanical print of greens, browns, and whites, featuring a deep V-neckline with lace trim, a gathered waist with a floral accent, and a high side slit edged in lace. It is paired with strappy metallic high-heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0ec608b323.webp",
+   "thumb": "thumbs/6add0ec608b323.webp",
+   "addedAt": 1792872134670
   }
  ],
  "categories": [
