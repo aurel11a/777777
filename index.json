@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863616671,
+ "updatedAt": 1792863713040,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -391,6 +391,16 @@
    "image": "items/6adced7f05279f.webp",
    "thumb": "thumbs/6adced7f05279f.webp",
    "addedAt": 1792863615923
+  },
+  {
+   "id": "6adcede080acd5",
+   "name": "изумрудное платье с жакетом",
+   "description": "This emerald green gown features a strapless bodice with a gathered waist and a full, floor-length skirt, paired with a matching voluminous long-sleeve jacket.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcede080acd5.webp",
+   "thumb": "thumbs/6adcede080acd5.webp",
+   "addedAt": 1792863712048
   }
  ],
  "categories": [
