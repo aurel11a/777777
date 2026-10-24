@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792858903297,
+ "updatedAt": 1792858979391,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -101,6 +101,16 @@
    "image": "items/6adcdb16666fbd.webp",
    "thumb": "thumbs/6adcdb16666fbd.webp",
    "addedAt": 1792858902519
+  },
+  {
+   "id": "6adcdb621cf2cd",
+   "name": "пижама бэмби и топотун",
+   "description": "This light pink two-piece pajama set features a spaghetti-strap tank top with pink trim and a Bambi and Thumper graphic, paired with matching shorts covered in an all-over character print and accented by a small pink bow.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcdb621cf2cd.webp",
+   "thumb": "thumbs/6adcdb621cf2cd.webp",
+   "addedAt": 1792858978624
   }
  ],
  "categories": [
