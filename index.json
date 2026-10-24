@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871167893,
+ "updatedAt": 1792871352241,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2091,6 +2091,16 @@
    "image": "items/6add0aff9b62ab.webp",
    "thumb": "thumbs/6add0aff9b62ab.webp",
    "addedAt": 1792871167117
+  },
+  {
+   "id": "6add0bb6375628",
+   "name": "Coastal Ripple",
+   "description": "A dusty blue two-piece swimsuit features a ruffled off-the-shoulder top with lace-up details and strappy bottoms. A sheer white cover-up, cream fringed slide sandals, and a silver floral necklace complete the beach look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add0bb6375628.webp",
+   "thumb": "thumbs/6add0bb6375628.webp",
+   "addedAt": 1792871350999
   }
  ],
  "categories": [
