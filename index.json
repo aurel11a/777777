@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873300612,
+ "updatedAt": 1792873349009,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2481,6 +2481,16 @@
    "image": "items/6add13532436be.webp",
    "thumb": "thumbs/6add13532436be.webp",
    "addedAt": 1792873299606
+  },
+  {
+   "id": "6add13840e5e50",
+   "name": "черное боди из прозрачного кружева",
+   "description": "A black sheer lace bodysuit with a scoop neckline, ruffled trim along the straps, bust, and high-cut leg openings. It is paired with black double-strap thigh bands.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add13840e5e50.webp",
+   "thumb": "thumbs/6add13840e5e50.webp",
+   "addedAt": 1792873348189
   }
  ],
  "categories": [
