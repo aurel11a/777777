@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868909156,
+ "updatedAt": 1792868962595,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1691,6 +1691,16 @@
    "image": "items/6add022cb21d08.webp",
    "thumb": "thumbs/6add022cb21d08.webp",
    "addedAt": 1792868908343
+  },
+  {
+   "id": "6add0261265088",
+   "name": "платье бургунди с шубкой",
+   "description": "A long-sleeved, dark burgundy satin midi dress with a high neckline and ruched detailing across the bodice, paired with a voluminous grey and silver faux fur stole. The outfit is completed with sheer nude tights, silver pointed-toe pumps, and a matching burgundy clutch with a metallic clasp.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0261265088.webp",
+   "thumb": "thumbs/6add0261265088.webp",
+   "addedAt": 1792868961781
   }
  ],
  "categories": [
