@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864773212,
+ "updatedAt": 1792864833403,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -761,6 +761,16 @@
    "image": "items/6adcf2042d7311.webp",
    "thumb": "thumbs/6adcf2042d7311.webp",
    "addedAt": 1792864772409
+  },
+  {
+   "id": "6adcf24013813e",
+   "name": "розовый комплект спанч боб",
+   "description": "This light pink two-piece underwear set features a crop top and matching boyshorts, both decorated with an all-over SpongeBob SquarePants and Patrick Star print, white trim, and a SpongeBob logo patch.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6adcf24013813e.webp",
+   "thumb": "thumbs/6adcf24013813e.webp",
+   "addedAt": 1792864832401
   }
  ],
  "categories": [
