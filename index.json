@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864658222,
+ "updatedAt": 1792864773212,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -751,6 +751,16 @@
    "image": "items/6adcf1918e6a78.webp",
    "thumb": "thumbs/6adcf1918e6a78.webp",
    "addedAt": 1792864657388
+  },
+  {
+   "id": "6adcf2042d7311",
+   "name": "светло-розовый комплект для пляжа",
+   "description": "This light pink two-piece cover-up set features a textured, long-sleeve crop top with an asymmetrical neckline and a matching sarong-style mini skirt with a side tie. It is accessorized with gold hoop earrings, a gold bracelet, and a large grey woven tote bag.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adcf2042d7311.webp",
+   "thumb": "thumbs/6adcf2042d7311.webp",
+   "addedAt": 1792864772409
   }
  ],
  "categories": [
