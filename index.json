@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864942372,
+ "updatedAt": 1792865002913,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -781,6 +781,16 @@
    "image": "items/6adcf2ad7a2b1e.webp",
    "thumb": "thumbs/6adcf2ad7a2b1e.webp",
    "addedAt": 1792864941529
+  },
+  {
+   "id": "6adcf2ea3a2606",
+   "name": "розовый комплект с черными бантиками",
+   "description": "This light pink knit two-piece set features an off-the-shoulder top with black blanket stitching and a black bow, paired with matching high-waisted shorts that have a coordinating bow and black trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf2ea3a2606.webp",
+   "thumb": "thumbs/6adcf2ea3a2606.webp",
+   "addedAt": 1792865002043
   }
  ],
  "categories": [
