@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867393429,
+ "updatedAt": 1792867442107,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1371,6 +1371,16 @@
    "image": "items/6adcfc40990534.webp",
    "thumb": "thumbs/6adcfc40990534.webp",
    "addedAt": 1792867392605
+  },
+  {
+   "id": "6adcfc711914db",
+   "name": "черно-бело-красное платье для фигурного катания",
+   "description": "This figure skating dress features a black long-sleeve bodice with a high neck and sheer cutouts, heavily embellished with silver and red crystals. It has an asymmetrical skirt with a black, silver, and red ruffled design, and is paired with black gloves and white ice skates.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfc711914db.webp",
+   "thumb": "thumbs/6adcfc711914db.webp",
+   "addedAt": 1792867441324
   }
  ],
  "categories": [
