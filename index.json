@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874318165,
+ "updatedAt": 1792874406431,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2631,6 +2631,16 @@
    "image": "items/6add174d1e5752.webp",
    "thumb": "thumbs/6add174d1e5752.webp",
    "addedAt": 1792874317165
+  },
+  {
+   "id": "6add17a5f3a102",
+   "name": "темно-синий костюм-тройка",
+   "description": "A dark blue textured three-piece suit featuring a buttoned vest with orange buttons and a silver chain, matching trousers, and a white dress shirt. It is layered under a long, dark grey overcoat and paired with black leather dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6add17a5f3a102.webp",
+   "thumb": "thumbs/6add17a5f3a102.webp",
+   "addedAt": 1792874405650
   }
  ],
  "categories": [
