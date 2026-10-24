@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866921263,
+ "updatedAt": 1792866945218,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1271,6 +1271,16 @@
    "image": "items/6adcfa683370e7.webp",
    "thumb": "thumbs/6adcfa683370e7.webp",
    "addedAt": 1792866920503
+  },
+  {
+   "id": "6adcfa80cbbbb9",
+   "name": "леопардовый костюм с сапогами",
+   "description": "This leopard print outfit features a high-cut, halter-style bodysuit with a plunging neckline and cutout details, paired with matching over-the-knee stiletto boots and long, detached sheer sleeves that drape to the floor.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcfa80cbbbb9.webp",
+   "thumb": "thumbs/6adcfa80cbbbb9.webp",
+   "addedAt": 1792866944447
   }
  ],
  "categories": [
