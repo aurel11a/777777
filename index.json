@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871955738,
+ "updatedAt": 1792871963765,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2211,6 +2211,16 @@
    "image": "items/6add0e12274ab4.webp",
    "thumb": "thumbs/6add0e12274ab4.webp",
    "addedAt": 1792871954893
+  },
+  {
+   "id": "6add0e1bf67163",
+   "name": "Sapphire Snow",
+   "description": "A cream ribbed turtleneck and matching V-neck cardigan pair with a navy blue faux-suede midi skirt featuring a sheer lace ruffled side panel. Cream leather block-heel boots, a navy suede shoulder bag, and blue floral earrings complete the elegant look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0e1bf67163.webp",
+   "thumb": "thumbs/6add0e1bf67163.webp",
+   "addedAt": 1792871963045
   }
  ],
  "categories": [
