@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861614196,
+ "updatedAt": 1792861673264,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -241,6 +241,16 @@
    "image": "items/6adce5adb39c3b.webp",
    "thumb": "thumbs/6adce5adb39c3b.webp",
    "addedAt": 1792861613418
+  },
+  {
+   "id": "6adce5e800a119",
+   "name": "ночнушка бэмби",
+   "description": "This blue and white slip dress features thin black spaghetti straps, black lace detailing at the neckline and hem, and a large all-over graphic of Bambi, Thumper, and Flower.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adce5e800a119.webp",
+   "thumb": "thumbs/6adce5e800a119.webp",
+   "addedAt": 1792861672480
   }
  ],
  "categories": [
