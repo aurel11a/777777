@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865255545,
+ "updatedAt": 1792865338145,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -831,6 +831,16 @@
    "image": "items/6adcf3e6d4263b.webp",
    "thumb": "thumbs/6adcf3e6d4263b.webp",
    "addedAt": 1792865254680
+  },
+  {
+   "id": "6adcf439f065c4",
+   "name": "пиратский женский наряд",
+   "description": "This pirate-inspired outfit features a white long-sleeve shirt under a dark blue lace-up corset, paired with black leather-like pants, a maroon sash, and tall black cuffed boots. Accessories include a maroon beanie, a brown baldric strap, fingerless gloves, and dangling trinkets.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6adcf439f065c4.webp",
+   "thumb": "thumbs/6adcf439f065c4.webp",
+   "addedAt": 1792865337345
   }
  ],
  "categories": [
