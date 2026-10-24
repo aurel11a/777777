@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792858251099,
+ "updatedAt": 1792858379528,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -51,6 +51,16 @@
    "image": "items/6adcd88a1dd364.webp",
    "thumb": "thumbs/6adcd88a1dd364.webp",
    "addedAt": 1792858250366
+  },
+  {
+   "id": "6adcd90aef12b1",
+   "name": "комплект дэйзи дак",
+   "description": "This hot pink two-piece set features a bandeau-style top with an all-over Daisy Duck print and solid pink drawstring shorts with a small Daisy Duck graphic on the leg.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcd90aef12b1.webp",
+   "thumb": "thumbs/6adcd90aef12b1.webp",
+   "addedAt": 1792858378763
   }
  ],
  "categories": [
