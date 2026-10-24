@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874577606,
+ "updatedAt": 1792874644260,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2661,6 +2661,16 @@
    "image": "items/6add185097fbf0.webp",
    "thumb": "thumbs/6add185097fbf0.webp",
    "addedAt": 1792874576823
+  },
+  {
+   "id": "6add1893c25799",
+   "name": "кремовое свадебное платье в пол с высоким кружевным вырезом",
+   "description": "A floor-length cream wedding dress with a high lace neckline, sheer puffed sleeves, and long lace cuffs. The fitted lace bodice flows into a full, A-line skirt with lace detailing at the hem, accessorized with a sheer veil and cream Mary Jane heels.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6add1893c25799.webp",
+   "thumb": "thumbs/6add1893c25799.webp",
+   "addedAt": 1792874643194
   }
  ],
  "categories": [
