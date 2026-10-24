@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863713040,
+ "updatedAt": 1792863854252,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -401,6 +401,16 @@
    "image": "items/6adcede080acd5.webp",
    "thumb": "thumbs/6adcede080acd5.webp",
    "addedAt": 1792863712048
+  },
+  {
+   "id": "6adcee6d8db48f",
+   "name": "черное платье-рубашка без рукавов",
+   "description": "This sleeveless shift dress features a color-blocked design with a white and silver top section and a black skirt, accented by a black bow at the neckline and paired with black strappy heeled sandals.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adcee6d8db48f.webp",
+   "thumb": "thumbs/6adcee6d8db48f.webp",
+   "addedAt": 1792863853410
   }
  ],
  "categories": [
