@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869945859,
+ "updatedAt": 1792869965468,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1861,6 +1861,16 @@
    "image": "items/6add06386e9087.webp",
    "thumb": "thumbs/6add06386e9087.webp",
    "addedAt": 1792869944719
+  },
+  {
+   "id": "6add064cce2ef2",
+   "name": "Midnight Elegance",
+   "description": "A long black tailored coat layers over a black ribbed turtleneck sweater and pleated wide-leg trousers. Black pointed-toe heels, a black leather shoulder bag, a gold-buckled belt, and a delicate gold pendant necklace complete the monochrome look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add064cce2ef2.webp",
+   "thumb": "thumbs/6add064cce2ef2.webp",
+   "addedAt": 1792869964596
   }
  ],
  "categories": [
