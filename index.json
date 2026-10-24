@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866239690,
+ "updatedAt": 1792866334643,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -961,6 +961,16 @@
    "image": "items/6adcf7beccd464.webp",
    "thumb": "thumbs/6adcf7beccd464.webp",
    "addedAt": 1792866238798
+  },
+  {
+   "id": "6adcf81dcc612f",
+   "name": "голубое боди-корсет",
+   "description": "This light blue strapless corset-style bodysuit features a white floral pattern, a front lace-up closure, and attached garter straps.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6adcf81dcc612f.webp",
+   "thumb": "thumbs/6adcf81dcc612f.webp",
+   "addedAt": 1792866333808
   }
  ],
  "categories": [
