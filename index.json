@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874116924,
+ "updatedAt": 1792874167100,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2601,6 +2601,16 @@
    "image": "items/6add168480f67f.webp",
    "thumb": "thumbs/6add168480f67f.webp",
    "addedAt": 1792874116089
+  },
+  {
+   "id": "6add16b69109f1",
+   "name": "розовый топ и юбка в клетку",
+   "description": "A light pink, long-sleeve wrap crop top paired with a beige and pink plaid pleated mini skirt. Accessories include light pink bow-trimmed boots, a pink patterned handbag with a chain strap, a plaid headband, heart-shaped earrings, and a chunky silver chain necklace with a heart pendant.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add16b69109f1.webp",
+   "thumb": "thumbs/6add16b69109f1.webp",
+   "addedAt": 1792874166039
   }
  ],
  "categories": [
