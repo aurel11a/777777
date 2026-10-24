@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874468416,
+ "updatedAt": 1792874577606,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2651,6 +2651,16 @@
    "image": "items/6add17e37b7ab0.webp",
    "thumb": "thumbs/6add17e37b7ab0.webp",
    "addedAt": 1792874467550
+  },
+  {
+   "id": "6add185097fbf0",
+   "name": "шерстяное пальто с красными аксессуарами",
+   "description": "A cream-colored, wool-like wrap coat with a large oversized collar, wide sleeves, and a tie belt at the waist. It is paired with opaque red tights, red pointed-toe stiletto heels, and a red quilted chain-strap handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add185097fbf0.webp",
+   "thumb": "thumbs/6add185097fbf0.webp",
+   "addedAt": 1792874576823
   }
  ],
  "categories": [
