@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873021669,
+ "updatedAt": 1792873067076,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2421,6 +2421,16 @@
    "image": "items/6add123c3138ac.webp",
    "thumb": "thumbs/6add123c3138ac.webp",
    "addedAt": 1792873020913
+  },
+  {
+   "id": "6add126a65adc3",
+   "name": "Bow Whisper",
+   "description": "A cream ribbed pajama set features a long-sleeve top and wide-leg pants, both patterned with delicate pink bows and scalloped edges. Fluffy cream bow slippers and a matching scrunchie complete the cozy look.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add126a65adc3.webp",
+   "thumb": "thumbs/6add126a65adc3.webp",
+   "addedAt": 1792873066302
   }
  ],
  "categories": [
