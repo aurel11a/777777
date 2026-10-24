@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863307789,
+ "updatedAt": 1792863413447,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -361,6 +361,16 @@
    "image": "items/6adcec4aa17c0e.webp",
    "thumb": "thumbs/6adcec4aa17c0e.webp",
    "addedAt": 1792863306691
+  },
+  {
+   "id": "6adcecb4339595",
+   "name": "ярко-розовое платье-блейзер",
+   "description": "This outfit features a bright pink blazer dress with a V-neckline and button front, accessorized with silver metallic pointed-toe pumps, a silver glitter top-handle bag, silver tassel earrings, and a tube of lip gloss.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcecb4339595.webp",
+   "thumb": "thumbs/6adcecb4339595.webp",
+   "addedAt": 1792863412682
   }
  ],
  "categories": [
