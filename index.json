@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871094285,
+ "updatedAt": 1792871131458,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2071,6 +2071,16 @@
    "image": "items/6add0ab51540a9.webp",
    "thumb": "thumbs/6add0ab51540a9.webp",
    "addedAt": 1792871093389
+  },
+  {
+   "id": "6add0adad54fe7",
+   "name": "белое платье с вышитыми красными цветами",
+   "description": "A white mini dress with a deep V-neckline trimmed with white scalloped lace and red floral embroidery, featuring short puffed sleeves, a front button placket, and matching lace-trimmed patch pockets decorated with identical rose motifs.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0adad54fe7.webp",
+   "thumb": "thumbs/6add0adad54fe7.webp",
+   "addedAt": 1792871130684
   }
  ],
  "categories": [
