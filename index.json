@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872135431,
+ "updatedAt": 1792872188913,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2271,6 +2271,16 @@
    "image": "items/6add0ec608b323.webp",
    "thumb": "thumbs/6add0ec608b323.webp",
    "addedAt": 1792872134670
+  },
+  {
+   "id": "6add0efce451b5",
+   "name": "черное платье с маками",
+   "description": "A floor-length, long-sleeve gown with a deep V-neckline, featuring a bold red floral print on a dark background and a cinched waist with a thin belt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0efce451b5.webp",
+   "thumb": "thumbs/6add0efce451b5.webp",
+   "addedAt": 1792872188143
   }
  ],
  "categories": [
