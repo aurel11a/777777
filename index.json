@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873142819,
+ "updatedAt": 1792873191157,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2451,6 +2451,16 @@
    "image": "items/6add12b66be3d4.webp",
    "thumb": "thumbs/6add12b66be3d4.webp",
    "addedAt": 1792873142027
+  },
+  {
+   "id": "6add12e68e3efd",
+   "name": "винтажное изумрудное формальное платье",
+   "description": "A dark green floral-print slip dress with a lace-trimmed V-neckline and ruched detailing, paired with a sheer dark green shawl tied at the front. Accessories include a gold and black fan-patterned clutch, gold T-strap heels, layered gold necklaces, statement rings, and a green glass perfume bottle.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add12e68e3efd.webp",
+   "thumb": "thumbs/6add12e68e3efd.webp",
+   "addedAt": 1792873190116
   }
  ],
  "categories": [
