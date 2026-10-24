@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868194357,
+ "updatedAt": 1792868285758,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1521,6 +1521,16 @@
    "image": "items/6adcff61d64bf0.webp",
    "thumb": "thumbs/6adcff61d64bf0.webp",
    "addedAt": 1792868193604
+  },
+  {
+   "id": "6adcffbcaabfc9",
+   "name": "розовый худи и брюки",
+   "description": "This light pink two-piece set features a long-sleeve half-zip hoodie with a kangaroo pocket, paired with matching flared pants decorated with an all-over white celestial print of suns and moons.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcffbcaabfc9.webp",
+   "thumb": "thumbs/6adcffbcaabfc9.webp",
+   "addedAt": 1792868284970
   }
  ],
  "categories": [
