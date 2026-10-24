@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868412542,
+ "updatedAt": 1792868462525,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1571,6 +1571,16 @@
    "image": "items/6add003be3898c.webp",
    "thumb": "thumbs/6add003be3898c.webp",
    "addedAt": 1792868411662
+  },
+  {
+   "id": "6add006dc2b894",
+   "name": "светло-розовый комплект",
+   "description": "This light pink two-piece set features a long-sleeve crop top with a ruffled neckline and hem, paired with matching low-rise flared pants that have a coordinating ruffled waistband.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add006dc2b894.webp",
+   "thumb": "thumbs/6add006dc2b894.webp",
+   "addedAt": 1792868461726
   }
  ],
  "categories": [
