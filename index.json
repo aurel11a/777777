@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874406431,
+ "updatedAt": 1792874468416,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2641,6 +2641,16 @@
    "image": "items/6add17a5f3a102.webp",
    "thumb": "thumbs/6add17a5f3a102.webp",
    "addedAt": 1792874405650
+  },
+  {
+   "id": "6add17e37b7ab0",
+   "name": "синяя тактическая форма",
+   "description": "A blue tactical uniform featuring a long-sleeve top with a high collar and a heavy black tactical vest with multiple pouches and a front cutout. It includes a utility belt with side pouches, matching blue trousers with attached armored knee pads, black gloves, and black combat boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6add17e37b7ab0.webp",
+   "thumb": "thumbs/6add17e37b7ab0.webp",
+   "addedAt": 1792874467550
   }
  ],
  "categories": [
