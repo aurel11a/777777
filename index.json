@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861673264,
+ "updatedAt": 1792861763434,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -251,6 +251,16 @@
    "image": "items/6adce5e800a119.webp",
    "thumb": "thumbs/6adce5e800a119.webp",
    "addedAt": 1792861672480
+  },
+  {
+   "id": "6adce642f45a0e",
+   "name": "бежевый раздельный вязаный купальник",
+   "description": "This beige crochet two-piece swimsuit features a halter-neck top with a plunging neckline and a high-waisted bottom accented by a decorative fringed tie and shell details.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adce642f45a0e.webp",
+   "thumb": "thumbs/6adce642f45a0e.webp",
+   "addedAt": 1792861762633
   }
  ],
  "categories": [
