@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872739727,
+ "updatedAt": 1792872799923,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2401,6 +2401,16 @@
    "image": "items/6add112209c17c.webp",
    "thumb": "thumbs/6add112209c17c.webp",
    "addedAt": 1792872738956
+  },
+  {
+   "id": "6add115f0f8a68",
+   "name": "белое полотенце вокруг тела",
+   "description": "A white, strapless towel wrap styled as a short dress with an asymmetrical hem and decorative lace trim along the edges.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6add115f0f8a68.webp",
+   "thumb": "thumbs/6add115f0f8a68.webp",
+   "addedAt": 1792872799163
   }
  ],
  "categories": [
