@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866451546,
+ "updatedAt": 1792866469769,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1191,6 +1191,16 @@
    "image": "items/6adcf8921e28bb.webp",
    "thumb": "thumbs/6adcf8921e28bb.webp",
    "addedAt": 1792866450754
+  },
+  {
+   "id": "6adcf8a537adf6",
+   "name": "розово-белый костюм феи",
+   "description": "This fairy costume features a pink and white patterned two-piece set consisting of a strapless bandeau top and a wrap-style mini skirt with fringed trim, paired with strappy pink sandals that lace up the calves. Accessories include large translucent fairy wings with white outlines and floral earrings.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adcf8a537adf6.webp",
+   "thumb": "thumbs/6adcf8a537adf6.webp",
+   "addedAt": 1792866469033
   }
  ],
  "categories": [
