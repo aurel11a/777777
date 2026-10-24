@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792858512188,
+ "updatedAt": 1792858676940,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -71,6 +71,16 @@
    "image": "items/6adcd98f0a6173.webp",
    "thumb": "thumbs/6adcd98f0a6173.webp",
    "addedAt": 1792858511414
+  },
+  {
+   "id": "6adcda34bbf517",
+   "name": "коричневый комплект с оленятами",
+   "description": "This brown two-piece outfit features a spaghetti-strap tank top with a small fawn graphic and bow accents at the straps, paired with matching flared pants decorated with an all-over small deer print and side tie details at the waist.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcda34bbf517.webp",
+   "thumb": "thumbs/6adcda34bbf517.webp",
+   "addedAt": 1792858676235
   }
  ],
  "categories": [
