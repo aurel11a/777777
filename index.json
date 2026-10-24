@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870285492,
+ "updatedAt": 1792870471913,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1941,6 +1941,16 @@
    "image": "items/6add078cd1c184.webp",
    "thumb": "thumbs/6add078cd1c184.webp",
    "addedAt": 1792870284590
+  },
+  {
+   "id": "6add08466fa035",
+   "name": "Victorian Whimsy",
+   "description": "A cream high-neck blouse with lace detailing and ruffled cuffs pairs with a dark brown high-waisted lace-up skirt featuring a lace hem. Dark brown Mary Jane shoes, cream lace knee-high socks, and a brown satin bow with pearl earrings complete the vintage-inspired look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6add08466fa035.webp",
+   "thumb": "thumbs/6add08466fa035.webp",
+   "addedAt": 1792870470793
   }
  ],
  "categories": [
