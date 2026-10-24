@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870652846,
+ "updatedAt": 1792870704155,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1971,6 +1971,16 @@
    "image": "items/6add08fb0dea89.webp",
    "thumb": "thumbs/6add08fb0dea89.webp",
    "addedAt": 1792870651955
+  },
+  {
+   "id": "6add092f4c3720",
+   "name": "платье с высоким вырезом и бюстье",
+   "description": "A floor-length, cream and black floral patterned gown featuring a plunging V-neck with a solid black lapel and a visible black lace bralette, paired with a matching belt. The skirt features a dramatic high slit revealing sheer black thigh-high stockings with lace tops, finished with black pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add092f4c3720.webp",
+   "thumb": "thumbs/6add092f4c3720.webp",
+   "addedAt": 1792870703384
   }
  ],
  "categories": [
