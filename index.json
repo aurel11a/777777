@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870831440,
+ "updatedAt": 1792870879380,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2011,6 +2011,16 @@
    "image": "items/6add09aea9b04b.webp",
    "thumb": "thumbs/6add09aea9b04b.webp",
    "addedAt": 1792870830541
+  },
+  {
+   "id": "6add09de2a8bfd",
+   "name": "кремовое трикотажное платье-миди",
+   "description": "A long-sleeved cream knit midi dress featuring a chest keyhole accented by a dark red floral detail and scalloped edges on the cuffs and hem, paired with beige pointed-toe stiletto heels featuring thin ankle straps.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add09de2a8bfd.webp",
+   "thumb": "thumbs/6add09de2a8bfd.webp",
+   "addedAt": 1792870878506
   }
  ],
  "categories": [
