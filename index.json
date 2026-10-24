@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865800505,
+ "updatedAt": 1792865873070,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -911,6 +911,16 @@
    "image": "items/6adcf60770a530.webp",
    "thumb": "thumbs/6adcf60770a530.webp",
    "addedAt": 1792865799530
+  },
+  {
+   "id": "6adcf6504e29aa",
+   "name": "свадебное платье \"русалка\" с кружевными цветами",
+   "description": "This white wedding gown features a plunging illusion neckline with a high lace collar, a fitted mermaid silhouette with an open back, and a long sheer cape train, all adorned with intricate floral lace appliques.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6adcf6504e29aa.webp",
+   "thumb": "thumbs/6adcf6504e29aa.webp",
+   "addedAt": 1792865872299
   }
  ],
  "categories": [
