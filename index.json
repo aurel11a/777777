@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872310034,
+ "updatedAt": 1792872353692,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2321,6 +2321,16 @@
    "image": "items/6add0f75843f60.webp",
    "thumb": "thumbs/6add0f75843f60.webp",
    "addedAt": 1792872309065
+  },
+  {
+   "id": "6add0fa0a06ad5",
+   "name": "домашнее платье-кимоно",
+   "description": "A dark blue-grey, knee-length wrap garment with wide sleeves, styled open with a tie belt and also shown cinched at the waist. It features white floral and leaf embroidery with brown stems, worn over a plain white top.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add0fa0a06ad5.webp",
+   "thumb": "thumbs/6add0fa0a06ad5.webp",
+   "addedAt": 1792872352790
   }
  ],
  "categories": [
