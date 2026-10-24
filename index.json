@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871745532,
+ "updatedAt": 1792871801629,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2171,6 +2171,16 @@
    "image": "items/6add0d401b69f9.webp",
    "thumb": "thumbs/6add0d401b69f9.webp",
    "addedAt": 1792871744531
+  },
+  {
+   "id": "6add0d78eb595b",
+   "name": "розовый свитер в рубчик с длинной юбкой",
+   "description": "A light pink, ribbed-knit sweater is cinched at the waist by a delicate pearl chain belt featuring a white rose accent. The ensemble is completed with a flowing, cream and pale pink maxi skirt displaying a diagonal floral stripe pattern, and a small, structured cream purse suspended from a fine chain strap.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add0d78eb595b.webp",
+   "thumb": "thumbs/6add0d78eb595b.webp",
+   "addedAt": 1792871800898
   }
  ],
  "categories": [
