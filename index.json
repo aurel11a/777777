@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792857461377,
+ "updatedAt": 1792857608619,
  "items": [
   {
    "id": "6adcd574938a33",
@@ -11,6 +11,16 @@
    "image": "items/6adcd574938a33.webp",
    "thumb": "thumbs/6adcd574938a33.webp",
    "addedAt": 1792857460655
+  },
+  {
+   "id": "6adcd607e0addc",
+   "name": "пижама черепашки ниндзя",
+   "description": "This green two-piece set features a racerback tank top and matching boyshorts decorated with Teenage Mutant Ninja Turtles graphics, comic book panels, and a \"KAPOW!\" text design. The top displays a light green polka-dot pattern, while the underwear showcases a large all-over character print.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcd607e0addc.webp",
+   "thumb": "thumbs/6adcd607e0addc.webp",
+   "addedAt": 1792857607796
   }
  ],
  "categories": [
