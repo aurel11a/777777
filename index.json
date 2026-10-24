@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867019108,
+ "updatedAt": 1792867046514,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1291,6 +1291,16 @@
    "image": "items/6adcfacac08a47.webp",
    "thumb": "thumbs/6adcfacac08a47.webp",
    "addedAt": 1792867018371
+  },
+  {
+   "id": "6adcfae577c3af",
+   "name": "Autumn Stroll",
+   "description": "A cream faux-suede cropped jacket layers over a dark brown ribbed turtleneck and olive wide-leg cargo pants. A brown canvas messenger bag, chunky brown platform sneakers, and a silver star necklace complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcfae577c3af.webp",
+   "thumb": "thumbs/6adcfae577c3af.webp",
+   "addedAt": 1792867045780
   }
  ],
  "categories": [
