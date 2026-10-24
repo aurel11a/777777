@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870879380,
+ "updatedAt": 1792870938098,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2021,6 +2021,16 @@
    "image": "items/6add09de2a8bfd.webp",
    "thumb": "thumbs/6add09de2a8bfd.webp",
    "addedAt": 1792870878506
+  },
+  {
+   "id": "6add0a1958d75d",
+   "name": "длинная атласная голубая ночнушка",
+   "description": "A light slate blue satin maxi dress featuring a white lace-trimmed V-neckline and empire waist, layered with a matching long, open-front robe featuring identical lace edging along the borders.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add0a1958d75d.webp",
+   "thumb": "thumbs/6add0a1958d75d.webp",
+   "addedAt": 1792870937337
   }
  ],
  "categories": [
