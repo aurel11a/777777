@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867442107,
+ "updatedAt": 1792867527080,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1381,6 +1381,16 @@
    "image": "items/6adcfc711914db.webp",
    "thumb": "thumbs/6adcfc711914db.webp",
    "addedAt": 1792867441324
+  },
+  {
+   "id": "6adcfcc6d93887",
+   "name": "фигуристское платье с открытыми плечами",
+   "description": "This figure skating dress features an off-the-shoulder white lace neckline and sleeves, a fitted blue and grey bodice with dark beaded accents, and a sheer, layered skirt with a matching gradient design. It is accessorized with white gloves and white ice skates.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfcc6d93887.webp",
+   "thumb": "thumbs/6adcfcc6d93887.webp",
+   "addedAt": 1792867526163
   }
  ],
  "categories": [
