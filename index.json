@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792864632322,
+ "updatedAt": 1792864658222,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -741,6 +741,16 @@
    "image": "items/6adcf1773c0e29.webp",
    "thumb": "thumbs/6adcf1773c0e29.webp",
    "addedAt": 1792864631482
+  },
+  {
+   "id": "6adcf1918e6a78",
+   "name": "леопардовая пижама с розовыми кружевами",
+   "description": "This two-piece set features a leopard print crop top and matching shorts, both accented with bright pink lace trim and small bow details.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcf1918e6a78.webp",
+   "thumb": "thumbs/6adcf1918e6a78.webp",
+   "addedAt": 1792864657388
   }
  ],
  "categories": [
