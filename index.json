@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867263537,
+ "updatedAt": 1792867302798,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1341,6 +1341,16 @@
    "image": "items/6adcfbbe2c6b44.webp",
    "thumb": "thumbs/6adcfbbe2c6b44.webp",
    "addedAt": 1792867262778
+  },
+  {
+   "id": "6adcfbe6e28958",
+   "name": "Daisy Daydream",
+   "description": "A cream crinkled matching set features a long-sleeve ruffled robe, a smocked camisole, and ruffled shorts, all patterned with tiny orange and green florals. Cream faux-leather ruched slide sandals complete the breezy look.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcfbe6e28958.webp",
+   "thumb": "thumbs/6adcfbe6e28958.webp",
+   "addedAt": 1792867302044
   }
  ],
  "categories": [
