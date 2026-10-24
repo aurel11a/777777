@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872241782,
+ "updatedAt": 1792872294188,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2301,6 +2301,16 @@
    "image": "items/6add0f31dca0f7.webp",
    "thumb": "thumbs/6add0f31dca0f7.webp",
    "addedAt": 1792872241058
+  },
+  {
+   "id": "6add0f657bad97",
+   "name": "коричневое платье с замшевыми ботильонами",
+   "description": "A long-sleeve, midi-length brown knit dress with a high neckline and a fitted bodice that flares into a skirt, featuring a decorative floral appliqué with a dangling tie at the collar. It is paired with brown suede ankle boots with block heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0f657bad97.webp",
+   "thumb": "thumbs/6add0f657bad97.webp",
+   "addedAt": 1792872293238
   }
  ],
  "categories": [
