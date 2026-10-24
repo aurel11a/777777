@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861977807,
+ "updatedAt": 1792862032066,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -271,6 +271,16 @@
    "image": "items/6adce7185a75f2.webp",
    "thumb": "thumbs/6adce7185a75f2.webp",
    "addedAt": 1792861976990
+  },
+  {
+   "id": "6adce74faded23",
+   "name": "пижама с тапочками-утками",
+   "description": "This sleepwear set features a yellow spaghetti-strap tank top paired with blue shorts covered in an all-over rubber duck print, accompanied by matching plush yellow duck slippers.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adce74faded23.webp",
+   "thumb": "thumbs/6adce74faded23.webp",
+   "addedAt": 1792862031353
   }
  ],
  "categories": [
