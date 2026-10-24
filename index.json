@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875372148,
+ "updatedAt": 1792875448100,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2781,6 +2781,16 @@
    "image": "items/6add1b6ae6a5fe.webp",
    "thumb": "thumbs/6add1b6ae6a5fe.webp",
    "addedAt": 1792875370999
+  },
+  {
+   "id": "6add1bb77a9bfd",
+   "name": "длинное пальто из искусственного меха с платьем",
+   "description": "A long, light brown textured faux fur coat worn open over a floor-length, cream-colored dress with a lace-up bodice and tiered ruffles. Accessories include a matching brown furry handbag, a layered pearl choker, white tights, and black loafers.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add1bb77a9bfd.webp",
+   "thumb": "thumbs/6add1bb77a9bfd.webp",
+   "addedAt": 1792875447281
   }
  ],
  "categories": [
