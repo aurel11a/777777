@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870134223,
+ "updatedAt": 1792870195624,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1901,6 +1901,16 @@
    "image": "items/6add06f5eeca1d.webp",
    "thumb": "thumbs/6add06f5eeca1d.webp",
    "addedAt": 1792870133380
+  },
+  {
+   "id": "6add0732cdce27",
+   "name": "пальто с кожаными ремешками",
+   "description": "A long, dark brown overcoat with textured fabric and subtle embroidered patterns on the lapels and hem, layered over a pale grey, high-collared button-down tunic. The outfit is heavily accessorized with a complex system of brown leather straps and belts featuring brass hardware, a worn brown leather crossbody satchel, a metal lantern, distressed brown gloves, and tall, intricately detailed brown leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6add0732cdce27.webp",
+   "thumb": "thumbs/6add0732cdce27.webp",
+   "addedAt": 1792870194858
   }
  ],
  "categories": [
