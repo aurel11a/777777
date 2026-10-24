@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862945673,
+ "updatedAt": 1792863039203,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -331,6 +331,16 @@
    "image": "items/6adceae094cdb9.webp",
    "thumb": "thumbs/6adceae094cdb9.webp",
    "addedAt": 1792862944895
+  },
+  {
+   "id": "6adceb3e1302c8",
+   "name": "красное пальто и брюки",
+   "description": "This outfit features a long red coat worn over a black top and dark pinstriped trousers, accessorized with a patterned shoulder bag with a chain strap and black ankle boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adceb3e1302c8.webp",
+   "thumb": "thumbs/6adceb3e1302c8.webp",
+   "addedAt": 1792863038232
   }
  ],
  "categories": [
