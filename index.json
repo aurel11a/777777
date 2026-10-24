@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862333696,
+ "updatedAt": 1792862435976,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -311,6 +311,16 @@
    "image": "items/6adce87c252450.webp",
    "thumb": "thumbs/6adce87c252450.webp",
    "addedAt": 1792862332911
+  },
+  {
+   "id": "6adce8e30e244a",
+   "name": "оленья куртка с балаклавой и юбкой",
+   "description": "This outfit features a brown and cream animal-print puffer jacket paired with a pink tiered ruffled maxi skirt. Accessories include a pink knit balaclava with a rabbit motif, a pink fringed scarf, light pink sunglasses, a white patterned shoulder bag, and cream fleece boots with brown soles.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adce8e30e244a.webp",
+   "thumb": "thumbs/6adce8e30e244a.webp",
+   "addedAt": 1792862435190
   }
  ],
  "categories": [
