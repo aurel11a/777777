@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868597050,
+ "updatedAt": 1792868613816,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1611,6 +1611,16 @@
    "image": "items/6add00f47a8e04.webp",
    "thumb": "thumbs/6add00f47a8e04.webp",
    "addedAt": 1792868596283
+  },
+  {
+   "id": "6add0105e347fc",
+   "name": "Cream & Cocoa",
+   "description": "A cream cable-knit V-neck sweater pairs with a brown faux-suede midi skirt featuring a cascading ruffled overlay and a cream lace hem. Brown knee-high leather boots, a matching suede shoulder bag, a thin brown belt, and pearl-drop floral earrings complete the elegant look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0105e347fc.webp",
+   "thumb": "thumbs/6add0105e347fc.webp",
+   "addedAt": 1792868613079
   }
  ],
  "categories": [
