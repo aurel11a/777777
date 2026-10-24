@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868613816,
+ "updatedAt": 1792868665191,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1621,6 +1621,16 @@
    "image": "items/6add0105e347fc.webp",
    "thumb": "thumbs/6add0105e347fc.webp",
    "addedAt": 1792868613079
+  },
+  {
+   "id": "6add01382fd68a",
+   "name": "темно-коричневое боди",
+   "description": "A dark brown lingerie teddy featuring a plunging V-neckline with ruffled lace trim, a sheer floral lace bodice, and a smooth, gathered skirt bottom with a ruffled hem. The piece is detailed with small bows down the center front and is accessorized with a gold chain choker and hoop earrings.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add01382fd68a.webp",
+   "thumb": "thumbs/6add01382fd68a.webp",
+   "addedAt": 1792868664120
   }
  ],
  "categories": [
