@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869750715,
+ "updatedAt": 1792869790472,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1821,6 +1821,16 @@
    "image": "items/6add0575677356.webp",
    "thumb": "thumbs/6add0575677356.webp",
    "addedAt": 1792869749940
+  },
+  {
+   "id": "6add059db840e7",
+   "name": "платье с синими розами",
+   "description": "A sleeveless, cream-colored maxi dress featuring a large blue rose and green leaf floral print, with an asymmetrical tiered overlay across the bodice. It is accessorized with a layered pearl and gold necklace.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add059db840e7.webp",
+   "thumb": "thumbs/6add059db840e7.webp",
+   "addedAt": 1792869789744
   }
  ],
  "categories": [
