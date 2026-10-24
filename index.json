@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862186838,
+ "updatedAt": 1792862276302,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -291,6 +291,16 @@
    "image": "items/6adce7ea2aefc2.webp",
    "thumb": "thumbs/6adce7ea2aefc2.webp",
    "addedAt": 1792862186030
+  },
+  {
+   "id": "6adce84318a9bd",
+   "name": "розовый комплект снуппи",
+   "description": "This light pink knit two-piece set features a long-sleeve sweater with a Snoopy graphic and text, paired with matching drawstring shorts that have a small Snoopy design on the leg.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adce84318a9bd.webp",
+   "thumb": "thumbs/6adce84318a9bd.webp",
+   "addedAt": 1792862275414
   }
  ],
  "categories": [
