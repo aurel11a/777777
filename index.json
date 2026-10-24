@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873230947,
+ "updatedAt": 1792873300612,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2471,6 +2471,16 @@
    "image": "items/6add130e254d35.webp",
    "thumb": "thumbs/6add130e254d35.webp",
    "addedAt": 1792873230163
+  },
+  {
+   "id": "6add13532436be",
+   "name": "белое атласное свадебное платье с корсетным лифом",
+   "description": "A white satin wedding gown with an off-the-shoulder, lace-trimmed corset bodice and long sheer lace sleeves, flowing into a voluminous gathered skirt with a front slit. Paired with white pointed-toe heels.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6add13532436be.webp",
+   "thumb": "thumbs/6add13532436be.webp",
+   "addedAt": 1792873299606
   }
  ],
  "categories": [
