@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869965468,
+ "updatedAt": 1792870053905,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1871,6 +1871,16 @@
    "image": "items/6add064cce2ef2.webp",
    "thumb": "thumbs/6add064cce2ef2.webp",
    "addedAt": 1792869964596
+  },
+  {
+   "id": "6add06a5cf2117",
+   "name": "бархатное пальто-накидка в технике тай-дай",
+   "description": "A light sage-green tie-dye velvet wrap coat with patch pockets, layered over a sage-green ruffled midi dress with a plunge neckline and stud detailing. Accessories include dangling gold and green stone earrings, stacked black and cream bangles, a gold rectangular ring, a dark green ribbed clutch with a gold clasp, and black kitten-heel mules featuring a green and white floral print.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add06a5cf2117.webp",
+   "thumb": "thumbs/6add06a5cf2117.webp",
+   "addedAt": 1792870053089
   }
  ],
  "categories": [
