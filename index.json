@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869853413,
+ "updatedAt": 1792869945859,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1851,6 +1851,16 @@
    "image": "items/6add05d9fa6a0f.webp",
    "thumb": "thumbs/6add05d9fa6a0f.webp",
    "addedAt": 1792869849972
+  },
+  {
+   "id": "6add06386e9087",
+   "name": "светло-розовое атласное платье миди",
+   "description": "A light pink satin midi dress with delicate spaghetti straps, a ruched bust, and a cowl neckline. The dress features a small, colorful pink and green floral-print panel at the bust and a matching patterned flounce along the bottom hem, styled with a silver necklace and pink strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add06386e9087.webp",
+   "thumb": "thumbs/6add06386e9087.webp",
+   "addedAt": 1792869944719
   }
  ],
  "categories": [
