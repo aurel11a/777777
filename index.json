@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866648606,
+ "updatedAt": 1792866658425,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1221,6 +1221,16 @@
    "image": "items/6adcf95714d2e6.webp",
    "thumb": "thumbs/6adcf95714d2e6.webp",
    "addedAt": 1792866647833
+  },
+  {
+   "id": "6adcf961f0c357",
+   "name": "розовый комбинезон",
+   "description": "This light pink one-piece romper features a fitted silhouette with a single asymmetrical shoulder strap and a high-cut shorts bottom.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcf961f0c357.webp",
+   "thumb": "thumbs/6adcf961f0c357.webp",
+   "addedAt": 1792866657630
   }
  ],
  "categories": [
