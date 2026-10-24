@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862276302,
+ "updatedAt": 1792862333696,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -301,6 +301,16 @@
    "image": "items/6adce84318a9bd.webp",
    "thumb": "thumbs/6adce84318a9bd.webp",
    "addedAt": 1792862275414
+  },
+  {
+   "id": "6adce87c252450",
+   "name": "розовый комплект с вырезами-сердечками",
+   "description": "This light pink two-piece set features a sleeveless halter-style top and matching low-rise pants, both accented with heart-shaped cutouts.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adce87c252450.webp",
+   "thumb": "thumbs/6adce87c252450.webp",
+   "addedAt": 1792862332911
   }
  ],
  "categories": [
