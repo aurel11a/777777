@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873400895,
+ "updatedAt": 1792873511091,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2501,6 +2501,16 @@
    "image": "items/6add13b8b82c1b.webp",
    "thumb": "thumbs/6add13b8b82c1b.webp",
    "addedAt": 1792873400105
+  },
+  {
+   "id": "6add14251752ab",
+   "name": "серебряное платье в пол без рукавов",
+   "description": "A floor-length, sleeveless silver gown featuring intricate beaded embellishments with a geometric, Art Deco pattern throughout. It has a scoop neckline, thin shoulder straps, and a heavily beaded bodice that flows into a pleated, fringed skirt. Accessories include a matching beaded choker necklace and long white opera gloves.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add14251752ab.webp",
+   "thumb": "thumbs/6add14251752ab.webp",
+   "addedAt": 1792873509906
   }
  ],
  "categories": [
