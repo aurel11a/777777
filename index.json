@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872799923,
+ "updatedAt": 1792873021669,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2411,6 +2411,16 @@
    "image": "items/6add115f0f8a68.webp",
    "thumb": "thumbs/6add115f0f8a68.webp",
    "addedAt": 1792872799163
+  },
+  {
+   "id": "6add123c3138ac",
+   "name": "цензурная одежда для женщин",
+   "description": "the body is uncovered and only obscured by cloud-like effects, with no accessories or shoes present.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6add123c3138ac.webp",
+   "thumb": "thumbs/6add123c3138ac.webp",
+   "addedAt": 1792873020913
   }
  ],
  "categories": [
