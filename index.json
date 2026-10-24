@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868130813,
+ "updatedAt": 1792868149772,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1501,6 +1501,16 @@
    "image": "items/6adcff21ae64e0.webp",
    "thumb": "thumbs/6adcff21ae64e0.webp",
    "addedAt": 1792868129987
+  },
+  {
+   "id": "6adcff3418e1a9",
+   "name": "Midnight Edge",
+   "description": "A cropped black denim jacket with raw hems layers over a sleeveless black top and baggy black jeans. Burgundy and cream sneakers, a black structured handbag, and gold cross and ring jewelry complete the edgy look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcff3418e1a9.webp",
+   "thumb": "thumbs/6adcff3418e1a9.webp",
+   "addedAt": 1792868148689
   }
  ],
  "categories": [
