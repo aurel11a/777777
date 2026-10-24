@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861267603,
+ "updatedAt": 1792861346555,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -201,6 +201,16 @@
    "image": "items/6adce452fca64b.webp",
    "thumb": "thumbs/6adce452fca64b.webp",
    "addedAt": 1792861266757
+  },
+  {
+   "id": "6adce4a1234bea",
+   "name": "балетный аутфит из топа и брюк",
+   "description": "This dancewear outfit features a long-sleeve blue crop top with a lace-trimmed hem, paired with loose-fitting olive green pants that cinch at the ankle, worn over pink tights and white ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce4a1234bea.webp",
+   "thumb": "thumbs/6adce4a1234bea.webp",
+   "addedAt": 1792861345641
   }
  ],
  "categories": [
