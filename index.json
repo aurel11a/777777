@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871801629,
+ "updatedAt": 1792871885655,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2181,6 +2181,16 @@
    "image": "items/6add0d78eb595b.webp",
    "thumb": "thumbs/6add0d78eb595b.webp",
    "addedAt": 1792871800898
+  },
+  {
+   "id": "6add0dcc5ef56c",
+   "name": "оливково-зеленый комплект",
+   "description": "This olive green two-piece set features a spaghetti-strap crop top with a deep V-neckline and lace trim, paired with matching high-waisted, wide-leg pants.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add0dcc5ef56c.webp",
+   "thumb": "thumbs/6add0dcc5ef56c.webp",
+   "addedAt": 1792871884926
   }
  ],
  "categories": [
