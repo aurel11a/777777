@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868050385,
+ "updatedAt": 1792868130813,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1491,6 +1491,16 @@
    "image": "items/6adcfed1699e8e.webp",
    "thumb": "thumbs/6adcfed1699e8e.webp",
    "addedAt": 1792868049572
+  },
+  {
+   "id": "6adcff21ae64e0",
+   "name": "белая кофта и белье",
+   "description": "This white long-sleeve top features a deep V-neckline with button details and cold-shoulder cutouts, revealing a leopard print and black lace bra underneath, paired with matching leopard print and lace-trimmed panties.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6adcff21ae64e0.webp",
+   "thumb": "thumbs/6adcff21ae64e0.webp",
+   "addedAt": 1792868129987
   }
  ],
  "categories": [
