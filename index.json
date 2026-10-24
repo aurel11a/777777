@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868707026,
+ "updatedAt": 1792868724023,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1641,6 +1641,16 @@
    "image": "items/6add0162dba783.webp",
    "thumb": "thumbs/6add0162dba783.webp",
    "addedAt": 1792868706275
+  },
+  {
+   "id": "6add01732d901b",
+   "name": "розовая куртка с белыми джинсами",
+   "description": "A winter outfit featuring a light pink jacket with a white fleece lining, layered over a cream cropped ribbed turtleneck sweater. The look is paired with high-waisted white wide-leg pants, a fluffy white and black beanie, a gold heart pendant necklace, and light pink suede platform Chelsea boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add01732d901b.webp",
+   "thumb": "thumbs/6add01732d901b.webp",
+   "addedAt": 1792868723259
   }
  ],
  "categories": [
