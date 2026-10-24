@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871352241,
+ "updatedAt": 1792871497167,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2101,6 +2101,16 @@
    "image": "items/6add0bb6375628.webp",
    "thumb": "thumbs/6add0bb6375628.webp",
    "addedAt": 1792871350999
+  },
+  {
+   "id": "6add0c4823762a",
+   "name": "атласная ночнушка с кардиганом",
+   "description": "A pale pink satin slip dress featuring spaghetti straps, a lace-trimmed V-neckline, and a matching lace-trimmed side slit. It is paired with an oversized, off-white open-front knit cardigan featuring long sleeves and two front patch pockets.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add0c4823762a.webp",
+   "thumb": "thumbs/6add0c4823762a.webp",
+   "addedAt": 1792871496219
   }
  ],
  "categories": [
