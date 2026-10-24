@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874904843,
+ "updatedAt": 1792874963810,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2711,6 +2711,16 @@
    "image": "items/6add1998f4e3f2.webp",
    "thumb": "thumbs/6add1998f4e3f2.webp",
    "addedAt": 1792874904009
+  },
+  {
+   "id": "6add19d2ad7935",
+   "name": "яркий наряд с минни маус",
+   "description": "A bright blue long-sleeve knit sweater featuring a large graphic of Minnie Mouse, worn over a short black pleated skirt. It is paired with opaque red tights and black patent leather Mary Jane heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add19d2ad7935.webp",
+   "thumb": "thumbs/6add19d2ad7935.webp",
+   "addedAt": 1792874962772
   }
  ],
  "categories": [
