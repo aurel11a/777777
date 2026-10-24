@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863039203,
+ "updatedAt": 1792863192194,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -341,6 +341,16 @@
    "image": "items/6adceb3e1302c8.webp",
    "thumb": "thumbs/6adceb3e1302c8.webp",
    "addedAt": 1792863038232
+  },
+  {
+   "id": "6adcebd7f202a9",
+   "name": "зеленое кружевное платье",
+   "description": "This green long-sleeve gown features a floral lace overlay, a cutout bodice with a beaded bra-style top and crisscross neckline, and a floor-length skirt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcebd7f202a9.webp",
+   "thumb": "thumbs/6adcebd7f202a9.webp",
+   "addedAt": 1792863191445
   }
  ],
  "categories": [
