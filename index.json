@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871675097,
+ "updatedAt": 1792871688990,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2151,6 +2151,16 @@
    "image": "items/6add0cfaede8ae.webp",
    "thumb": "thumbs/6add0cfaede8ae.webp",
    "addedAt": 1792871674227
+  },
+  {
+   "id": "6add0d0887d086",
+   "name": "Seaside Siren",
+   "description": "A white off-the-shoulder lace crop top with puff sleeves pairs with matching lace-trimmed drawstring shorts. The coastal look is accessorized with starfish-embellished sandals, a striped tote bag, and layered shell and starfish jewelry.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add0d0887d086.webp",
+   "thumb": "thumbs/6add0d0887d086.webp",
+   "addedAt": 1792871688114
   }
  ],
  "categories": [
