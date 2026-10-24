@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869366628,
+ "updatedAt": 1792869456426,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1761,6 +1761,16 @@
    "image": "items/6add03f52ba30f.webp",
    "thumb": "thumbs/6add03f52ba30f.webp",
    "addedAt": 1792869365719
+  },
+  {
+   "id": "6add044fd610c8",
+   "name": "платье миди в зелено-черно-красную клетку",
+   "description": "A midi dress in a green, black, and red tartan plaid featuring dramatic puffed shoulders, long sleeves with ruffled flared cuffs, and a square neckline accented by a black bow and brooch. The fitted skirt includes a side slit revealing a contrasting black velvet panel, paired with black pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add044fd610c8.webp",
+   "thumb": "thumbs/6add044fd610c8.webp",
+   "addedAt": 1792869455637
   }
  ],
  "categories": [
