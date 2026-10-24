@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867302798,
+ "updatedAt": 1792867345503,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1351,6 +1351,16 @@
    "image": "items/6adcfbe6e28958.webp",
    "thumb": "thumbs/6adcfbe6e28958.webp",
    "addedAt": 1792867302044
+  },
+  {
+   "id": "6adcfc106b8546",
+   "name": "серебристое платье для фигурного катания",
+   "description": "This figure skating dress features a silver, heavily embellished bodice with a high neckline and sheer, flowing sleeves, paired with a matching short, ruffled skirt and white ice skates.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfc106b8546.webp",
+   "thumb": "thumbs/6adcfc106b8546.webp",
+   "addedAt": 1792867344658
   }
  ],
  "categories": [
