@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869655756,
+ "updatedAt": 1792869750715,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1811,6 +1811,16 @@
    "image": "items/6add05161d324e.webp",
    "thumb": "thumbs/6add05161d324e.webp",
    "addedAt": 1792869654943
+  },
+  {
+   "id": "6add0575677356",
+   "name": "Cranberry Ribbon",
+   "description": "A deep red cable-knit sweater with cream lace bows along the sleeves and neckline pairs with a tiered white lace maxi skirt. Dark brown chunky Mary Jane shoes and a matching leather crossbody bag complete the romantic look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add0575677356.webp",
+   "thumb": "thumbs/6add0575677356.webp",
+   "addedAt": 1792869749940
   }
  ],
  "categories": [
