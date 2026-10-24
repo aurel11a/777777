@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873349009,
+ "updatedAt": 1792873400895,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2491,6 +2491,16 @@
    "image": "items/6add13840e5e50.webp",
    "thumb": "thumbs/6add13840e5e50.webp",
    "addedAt": 1792873348189
+  },
+  {
+   "id": "6add13b8b82c1b",
+   "name": "комплект нижнего белья кремового цвета",
+   "description": "A cream-colored lingerie set featuring a sheer lace and satin bustier with underwire cups, adjustable straps, and a cutout front panel. It includes matching lace-trimmed panties and attached garter straps.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add13b8b82c1b.webp",
+   "thumb": "thumbs/6add13b8b82c1b.webp",
+   "addedAt": 1792873400105
   }
  ],
  "categories": [
