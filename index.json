@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867621947,
+ "updatedAt": 1792867667468,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1411,6 +1411,16 @@
    "image": "items/6adcfd23dab646.webp",
    "thumb": "thumbs/6adcfd23dab646.webp",
    "addedAt": 1792867619969
+  },
+  {
+   "id": "6adcfd528e9871",
+   "name": "Daisy Chain",
+   "description": "A sage green knit sweater adorned with fluffy white daisy appliqués pairs with matching light green jeans decorated with green and white flower patches. Green heart-shaped sunglasses, a black handbag with a green checkered bow, and green and white sneakers complete the playful look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcfd528e9871.webp",
+   "thumb": "thumbs/6adcfd528e9871.webp",
+   "addedAt": 1792867666646
   }
  ],
  "categories": [
