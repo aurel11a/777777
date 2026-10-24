@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872221014,
+ "updatedAt": 1792872241782,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2291,6 +2291,16 @@
    "image": "items/6add0f1cc9b989.webp",
    "thumb": "thumbs/6add0f1cc9b989.webp",
    "addedAt": 1792872220255
+  },
+  {
+   "id": "6add0f31dca0f7",
+   "name": "полупрозрачная ночнушка с оборками",
+   "description": "A long, sheer black sleeveless dress with a deep V-neckline and a front keyhole cutout, trimmed with leopard-print ruffles along the neckline and a high side slit.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add0f31dca0f7.webp",
+   "thumb": "thumbs/6add0f31dca0f7.webp",
+   "addedAt": 1792872241058
   }
  ],
  "categories": [
