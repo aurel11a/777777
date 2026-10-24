@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863854252,
+ "updatedAt": 1792863930302,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -411,6 +411,16 @@
    "image": "items/6adcee6d8db48f.webp",
    "thumb": "thumbs/6adcee6d8db48f.webp",
    "addedAt": 1792863853410
+  },
+  {
+   "id": "6adceeb9d931f6",
+   "name": "бежевое платье-рубашка без рукавов",
+   "description": "This sleeveless shift dress features a color-blocked design with a white top section, a tan skirt, and a black bow at the neckline, paired with black strappy heeled sandals.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adceeb9d931f6.webp",
+   "thumb": "thumbs/6adceeb9d931f6.webp",
+   "addedAt": 1792863929499
   }
  ],
  "categories": [
