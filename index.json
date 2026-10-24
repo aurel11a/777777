@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872003331,
+ "updatedAt": 1792872041548,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2231,6 +2231,16 @@
    "image": "items/6add0e420d4bd5.webp",
    "thumb": "thumbs/6add0e420d4bd5.webp",
    "addedAt": 1792872002514
+  },
+  {
+   "id": "6add0e6892492e",
+   "name": "Rosebud Lace",
+   "description": "A delicate pink lace lingerie set features an underwire bustier, a ruffled garter belt, and matching panties, all adorned with gold rose details. Coordinating satin straps and a small rose bow complete the romantic ensemble.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add0e6892492e.webp",
+   "thumb": "thumbs/6add0e6892492e.webp",
+   "addedAt": 1792872040782
   }
  ],
  "categories": [
