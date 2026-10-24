@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865408152,
+ "updatedAt": 1792865480140,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -851,6 +851,16 @@
    "image": "items/6adcf47fc5f21d.webp",
    "thumb": "thumbs/6adcf47fc5f21d.webp",
    "addedAt": 1792865407256
+  },
+  {
+   "id": "6adcf4c727f0de",
+   "name": "ковбойский мужской наряд",
+   "description": "This cowboy-inspired outfit features a brown wide-brimmed hat, a patterned neckerchief, a brown button-up vest over a dark shirt, and a long brown duster coat. It is paired with brown leather chaps with fringe, a belt with a large buckle, and brown cowboy boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adcf4c727f0de.webp",
+   "thumb": "thumbs/6adcf4c727f0de.webp",
+   "addedAt": 1792865479378
   }
  ],
  "categories": [
