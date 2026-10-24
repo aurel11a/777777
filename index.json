@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861454618,
+ "updatedAt": 1792861547988,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -221,6 +221,16 @@
    "image": "items/6adce50d931c2f.webp",
    "thumb": "thumbs/6adce50d931c2f.webp",
    "addedAt": 1792861453880
+  },
+  {
+   "id": "6adce56b5141dc",
+   "name": "балетный аутфит в цвете морской волны",
+   "description": "This ballet outfit features a teal spaghetti-strap leotard worn under a short navy blue wrap skirt, paired with light pink tights, teal ribbed leg warmers, and pink ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce56b5141dc.webp",
+   "thumb": "thumbs/6adce56b5141dc.webp",
+   "addedAt": 1792861547190
   }
  ],
  "categories": [
