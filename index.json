@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865072312,
+ "updatedAt": 1792865128422,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -801,6 +801,16 @@
    "image": "items/6adcf32f678081.webp",
    "thumb": "thumbs/6adcf32f678081.webp",
    "addedAt": 1792865071549
+  },
+  {
+   "id": "6adcf367c9012b",
+   "name": "темно-серый комплект с кардиганом",
+   "description": "This dark grey knit two-piece set features a long-sleeve V-neck cardigan with button details and a scalloped white lace hem, paired with matching shorts that have a coordinating lace trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf367c9012b.webp",
+   "thumb": "thumbs/6adcf367c9012b.webp",
+   "addedAt": 1792865127618
   }
  ],
  "categories": [
