@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868285758,
+ "updatedAt": 1792868299695,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1531,6 +1531,16 @@
    "image": "items/6adcffbcaabfc9.webp",
    "thumb": "thumbs/6adcffbcaabfc9.webp",
    "addedAt": 1792868284970
+  },
+  {
+   "id": "6adcffca41073a",
+   "name": "Moss & Mocha",
+   "description": "A chunky olive green cable-knit sweater pairs with brown wide-leg jeans and white sneakers. A dark brown leather shoulder bag and delicate gold pendant jewelry complete the earthy outfit.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcffca41073a.webp",
+   "thumb": "thumbs/6adcffca41073a.webp",
+   "addedAt": 1792868298956
   }
  ],
  "categories": [
