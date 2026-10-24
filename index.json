@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792860561598,
+ "updatedAt": 1792860678190,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -131,6 +131,16 @@
    "image": "items/6adce190eda558.webp",
    "thumb": "thumbs/6adce190eda558.webp",
    "addedAt": 1792860560836
+  },
+  {
+   "id": "6adce205035ed6",
+   "name": "шоколадное платье-комбинация с цветочком",
+   "description": "This dark brown slip dress features thin spaghetti straps, a large white fabric flower at the center chest with long trailing ribbons, and a ruffled white lace hem with black trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adce205035ed6.webp",
+   "thumb": "thumbs/6adce205035ed6.webp",
+   "addedAt": 1792860677440
   }
  ],
  "categories": [
