@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871587647,
+ "updatedAt": 1792871606364,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2131,6 +2131,16 @@
    "image": "items/6add0ca291152a.webp",
    "thumb": "thumbs/6add0ca291152a.webp",
    "addedAt": 1792871586825
+  },
+  {
+   "id": "6add0cb52fa461",
+   "name": "пальто с рубашкой и клетчатой юбкой",
+   "description": "A dark brown, double-breasted midi coat worn open over a white button-up shirt featuring a subtle neckline detail. The look is completed with a brown leather belt with a D-ring buckle, a brown and grey plaid button-front midi skirt, and brown leather lace-up ankle boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add0cb52fa461.webp",
+   "thumb": "thumbs/6add0cb52fa461.webp",
+   "addedAt": 1792871605634
   }
  ],
  "categories": [
