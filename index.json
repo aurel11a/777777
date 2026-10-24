@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874715346,
+ "updatedAt": 1792874767506,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2681,6 +2681,16 @@
    "image": "items/6add18da4eb1d1.webp",
    "thumb": "thumbs/6add18da4eb1d1.webp",
    "addedAt": 1792874714531
+  },
+  {
+   "id": "6add190e3c2a3d",
+   "name": "длинное пальто с юбкой и шляпкой",
+   "description": "A long, dusty rose coat with wide sleeves featuring patterned fabric panels and brown fur cuffs, a large brown fur collar, and a fabric belt with hanging tassels. It is worn over a long black skirt and paired with a woven straw hat and black Mary Jane heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add190e3c2a3d.webp",
+   "thumb": "thumbs/6add190e3c2a3d.webp",
+   "addedAt": 1792874766672
   }
  ],
  "categories": [
