@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863930302,
+ "updatedAt": 1792864053259,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -421,6 +421,16 @@
    "image": "items/6adceeb9d931f6.webp",
    "thumb": "thumbs/6adceeb9d931f6.webp",
    "addedAt": 1792863929499
+  },
+  {
+   "id": "6adcef34e33d09",
+   "name": "расклешенное платье без рукавов",
+   "description": "This sleeveless dress features a tan bodice and a flared red skirt, accented by a tan bow at the waist and paired with tan platform heeled sandals.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adcef34e33d09.webp",
+   "thumb": "thumbs/6adcef34e33d09.webp",
+   "addedAt": 1792864052406
   }
  ],
  "categories": [
