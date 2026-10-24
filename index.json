@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865931140,
+ "updatedAt": 1792865985274,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -931,6 +931,16 @@
    "image": "items/6adcf68a38856d.webp",
    "thumb": "thumbs/6adcf68a38856d.webp",
    "addedAt": 1792865930329
+  },
+  {
+   "id": "6adcf6c0035ae2",
+   "name": "костюм деда Мороза",
+   "description": "This costume features a long red robe and matching hat decorated with white swirling patterns and thick white fur trim, completed with a large white faux beard and white boots.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6adcf6c0035ae2.webp",
+   "thumb": "thumbs/6adcf6c0035ae2.webp",
+   "addedAt": 1792865984428
   }
  ],
  "categories": [
