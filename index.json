@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869587322,
+ "updatedAt": 1792869655756,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1801,6 +1801,16 @@
    "image": "items/6add04d247a065.webp",
    "thumb": "thumbs/6add04d247a065.webp",
    "addedAt": 1792869586551
+  },
+  {
+   "id": "6add05161d324e",
+   "name": "Crimson Romance",
+   "description": "A cream jacquard gown is topped with a dramatic burgundy sheer capelet featuring voluminous ruffled sleeves. Cream pointed-toe pumps with pearl bows, a pearl-handled handbag, and a floral hair accessory complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6add05161d324e.webp",
+   "thumb": "thumbs/6add05161d324e.webp",
+   "addedAt": 1792869654943
   }
  ],
  "categories": [
