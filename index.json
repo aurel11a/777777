@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871606364,
+ "updatedAt": 1792871675097,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2141,6 +2141,16 @@
    "image": "items/6add0cb52fa461.webp",
    "thumb": "thumbs/6add0cb52fa461.webp",
    "addedAt": 1792871605634
+  },
+  {
+   "id": "6add0cfaede8ae",
+   "name": "блузка, юбка с завышенной талией, сапоги",
+   "description": "A dark brown, long-sleeved button-up blouse featuring a collar and an ornate brocade-like pattern with small white buttons. It is paired with a high-waisted, brown floor-length skirt that features a side slit revealing a panel of layered white tulle netting, fastened with a vertical row of large pearl-like buttons, alongside a pair of dark brown leather knee-high boots with pointed toes and a buckle strap near the ankle.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0cfaede8ae.webp",
+   "thumb": "thumbs/6add0cfaede8ae.webp",
+   "addedAt": 1792871674227
   }
  ],
  "categories": [
