@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792863192194,
+ "updatedAt": 1792863307789,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -351,6 +351,16 @@
    "image": "items/6adcebd7f202a9.webp",
    "thumb": "thumbs/6adcebd7f202a9.webp",
    "addedAt": 1792863191445
+  },
+  {
+   "id": "6adcec4aa17c0e",
+   "name": "халат цвета шампанского",
+   "description": "This floor-length, champagne-colored robe features a deep V-neckline, wide sheer sleeves with floral lace embroidery, and a satin waist tie.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcec4aa17c0e.webp",
+   "thumb": "thumbs/6adcec4aa17c0e.webp",
+   "addedAt": 1792863306691
   }
  ],
  "categories": [
