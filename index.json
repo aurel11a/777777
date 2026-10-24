@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792859438575,
+ "updatedAt": 1792860470205,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -111,6 +111,16 @@
    "image": "items/6adcdd2dd4ea68.webp",
    "thumb": "thumbs/6adcdd2dd4ea68.webp",
    "addedAt": 1792859437812
+  },
+  {
+   "id": "6adce1359ef989",
+   "name": "балетный нежно-розовый аутфит",
+   "description": "This light pink dancewear outfit features a spaghetti-strap leotard with a small central bow, a sheer wrap skirt, ribbed thigh-high leg warmers, and light-colored ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adce1359ef989.webp",
+   "thumb": "thumbs/6adce1359ef989.webp",
+   "addedAt": 1792860469386
   }
  ],
  "categories": [
