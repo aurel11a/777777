@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873900011,
+ "updatedAt": 1792873975787,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2571,6 +2571,16 @@
    "image": "items/6add15ab4b1875.webp",
    "thumb": "thumbs/6add15ab4b1875.webp",
    "addedAt": 1792873899081
+  },
+  {
+   "id": "6add15f6a572f0",
+   "name": "темно-зеленый пляжный комплект",
+   "description": "A dark green sheer knit two-piece cover-up set, featuring a long-sleeve crop top with a front tie and flared cuffs, paired with a matching sarong-style mini skirt that ties at the hip. A black bikini top is visible underneath.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add15f6a572f0.webp",
+   "thumb": "thumbs/6add15f6a572f0.webp",
+   "addedAt": 1792873974638
   }
  ],
  "categories": [
