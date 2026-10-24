@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792862435976,
+ "updatedAt": 1792862945673,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -321,6 +321,16 @@
    "image": "items/6adce8e30e244a.webp",
    "thumb": "thumbs/6adce8e30e244a.webp",
    "addedAt": 1792862435190
+  },
+  {
+   "id": "6adceae094cdb9",
+   "name": "розовый образ с коньками",
+   "description": "This winter outfit features a light pink fuzzy zip-up hoodie with pom-pom drawstrings and grey leggings decorated with a sparkly snowflake design. Accessories include pink ice skates with floral details, pink leg warmers, fuzzy pink gloves, a grey knit headband, and a pink water bottle.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adceae094cdb9.webp",
+   "thumb": "thumbs/6adceae094cdb9.webp",
+   "addedAt": 1792862944895
   }
  ],
  "categories": [
