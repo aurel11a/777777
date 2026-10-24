@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792874963810,
+ "updatedAt": 1792875020111,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2721,6 +2721,16 @@
    "image": "items/6add19d2ad7935.webp",
    "thumb": "thumbs/6add19d2ad7935.webp",
    "addedAt": 1792874962772
+  },
+  {
+   "id": "6add1a0b70e9ca",
+   "name": "объемный светло-розовый свитер",
+   "description": "An oversized, light pink chunky knit sweater with a wide off-the-shoulder neckline and long, loose sleeves.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add1a0b70e9ca.webp",
+   "thumb": "thumbs/6add1a0b70e9ca.webp",
+   "addedAt": 1792875019341
   }
  ],
  "categories": [
