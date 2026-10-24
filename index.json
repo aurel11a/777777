@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868798934,
+ "updatedAt": 1792868857061,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1671,6 +1671,16 @@
    "image": "items/6add01bebb63b3.webp",
    "thumb": "thumbs/6add01bebb63b3.webp",
    "addedAt": 1792868798049
+  },
+  {
+   "id": "6add01f834234a",
+   "name": "пижама винни пух",
+   "description": "A cream-colored, plush two-piece pajama set featuring a button-up top with a rounded collar and front patch pockets, paired with matching elastic-waist trousers. Both pieces are decorated with a repeating, vintage-style illustration pattern of bears and floral motifs.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add01f834234a.webp",
+   "thumb": "thumbs/6add01f834234a.webp",
+   "addedAt": 1792868856222
   }
  ],
  "categories": [
