@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872698786,
+ "updatedAt": 1792872739727,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2391,6 +2391,16 @@
    "image": "items/6add10f944166a.webp",
    "thumb": "thumbs/6add10f944166a.webp",
    "addedAt": 1792872697936
+  },
+  {
+   "id": "6add112209c17c",
+   "name": "светло-зеленое полотенце вокруг тела",
+   "description": "A light green towel wrap worn as a short, sleeveless dress with a draped neckline and a high side slit.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6add112209c17c.webp",
+   "thumb": "thumbs/6add112209c17c.webp",
+   "addedAt": 1792872738956
   }
  ],
  "categories": [
