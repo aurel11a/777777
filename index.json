@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872529227,
+ "updatedAt": 1792872580021,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2361,6 +2361,16 @@
    "image": "items/6add105036ab29.webp",
    "thumb": "thumbs/6add105036ab29.webp",
    "addedAt": 1792872528469
+  },
+  {
+   "id": "6add108334db25",
+   "name": "белое платье с синей вышивкой",
+   "description": "A cream-colored, knee-length dress with thin tie spaghetti straps and a sweetheart neckline. The fitted bodice features blue floral embroidery and lace trim, flowing into a gathered, flared skirt.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add108334db25.webp",
+   "thumb": "thumbs/6add108334db25.webp",
+   "addedAt": 1792872579228
   }
  ],
  "categories": [
