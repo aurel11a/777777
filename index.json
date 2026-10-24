@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866469769,
+ "updatedAt": 1792866585945,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1201,6 +1201,16 @@
    "image": "items/6adcf8a537adf6.webp",
    "thumb": "thumbs/6adcf8a537adf6.webp",
    "addedAt": 1792866469033
+  },
+  {
+   "id": "6adcf9199a4db2",
+   "name": "Twilight Wanderer",
+   "description": "A cropped, half-zip striped sweater in earthy tones pairs with baggy black pleated jeans and chunky black combat boots with red laces. A simple brown leather belt and gold celestial jewelry complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcf9199a4db2.webp",
+   "thumb": "thumbs/6adcf9199a4db2.webp",
+   "addedAt": 1792866585186
   }
  ],
  "categories": [
