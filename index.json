@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792860470205,
+ "updatedAt": 1792860561598,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -121,6 +121,16 @@
    "image": "items/6adce1359ef989.webp",
    "thumb": "thumbs/6adce1359ef989.webp",
    "addedAt": 1792860469386
+  },
+  {
+   "id": "6adce190eda558",
+   "name": "пижама хэллоу китти черное и белое",
+   "description": "This two-piece set consists of a white spaghetti-strap tank top with a small Hello Kitty graphic and black ruffled shorts featuring a pink drawstring bow and a Hello Kitty logo on the leg.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adce190eda558.webp",
+   "thumb": "thumbs/6adce190eda558.webp",
+   "addedAt": 1792860560836
   }
  ],
  "categories": [
