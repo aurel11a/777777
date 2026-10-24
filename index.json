@@ -1,17 +1,7 @@
 {
  "version": 1,
- "updatedAt": 1792858979391,
+ "updatedAt": 1792859372574,
  "items": [
-  {
-   "id": "6adcd574938a33",
-   "name": "тест",
-   "description": "лу красавица",
-   "type": "wedding",
-   "gender": "female",
-   "image": "items/6adcd574938a33.webp",
-   "thumb": "thumbs/6adcd574938a33.webp",
-   "addedAt": 1792857460655
-  },
   {
    "id": "6adcd607e0addc",
    "name": "пижама черепашки ниндзя",
