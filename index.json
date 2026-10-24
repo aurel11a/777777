@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873676217,
+ "updatedAt": 1792873732887,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2541,6 +2541,16 @@
    "image": "items/6add14cbcd9b86.webp",
    "thumb": "thumbs/6add14cbcd9b86.webp",
    "addedAt": 1792873675268
+  },
+  {
+   "id": "6add1504a3e2dd",
+   "name": "наряд горничной",
+   "description": "A dark grey, knee-length dress with a small white dot pattern, featuring a contrasting white collar, cuffs, and button details. It is worn with a white, textured apron that has lace trim and a square bib. Paired with black pointed-toe pumps.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6add1504a3e2dd.webp",
+   "thumb": "thumbs/6add1504a3e2dd.webp",
+   "addedAt": 1792873732170
   }
  ],
  "categories": [
