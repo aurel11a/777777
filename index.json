@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871890748,
+ "updatedAt": 1792871955738,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2201,6 +2201,16 @@
    "image": "items/6add0dd1f7b44b.webp",
    "thumb": "thumbs/6add0dd1f7b44b.webp",
    "addedAt": 1792871889932
+  },
+  {
+   "id": "6add0e12274ab4",
+   "name": "черное пальто с юбкой и туфлями мэри джейн",
+   "description": "This outfit features a black hooded button-up coat with large front pockets, worn over a cream top and a long grey skirt with black velvet trim near the hem, paired with white socks and black Mary Jane shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add0e12274ab4.webp",
+   "thumb": "thumbs/6add0e12274ab4.webp",
+   "addedAt": 1792871954893
   }
  ],
  "categories": [
