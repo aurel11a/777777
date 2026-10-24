@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872424764,
+ "updatedAt": 1792872491008,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2341,6 +2341,16 @@
    "image": "items/6add0fe84a8928.webp",
    "thumb": "thumbs/6add0fe84a8928.webp",
    "addedAt": 1792872424008
+  },
+  {
+   "id": "6add102a2a1640",
+   "name": "кардиган и атласная юбка",
+   "description": "A chunky beige cable-knit cardigan with balloon sleeves, worn open over a brown satin maxi skirt featuring a high side slit. A lace bra is visible underneath the cardigan.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add102a2a1640.webp",
+   "thumb": "thumbs/6add102a2a1640.webp",
+   "addedAt": 1792872490176
   }
  ],
  "categories": [
