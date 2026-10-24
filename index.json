@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865738301,
+ "updatedAt": 1792865800505,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -901,6 +901,16 @@
    "image": "items/6adcf5c9185c1f.webp",
    "thumb": "thumbs/6adcf5c9185c1f.webp",
    "addedAt": 1792865737550
+  },
+  {
+   "id": "6adcf60770a530",
+   "name": "бледно-желтая пижама с цветочками",
+   "description": "This pale yellow two-piece sleepwear set features a spaghetti-strap camisole with pink floral lace appliques and a ruffled, split hem, paired with matching shorts that have a drawstring waist and wide lace trim at the legs.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcf60770a530.webp",
+   "thumb": "thumbs/6adcf60770a530.webp",
+   "addedAt": 1792865799530
   }
  ],
  "categories": [
