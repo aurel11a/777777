@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869790472,
+ "updatedAt": 1792869849757,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1831,6 +1831,16 @@
    "image": "items/6add059db840e7.webp",
    "thumb": "thumbs/6add059db840e7.webp",
    "addedAt": 1792869789744
+  },
+  {
+   "id": "6add05d8d1e1ce",
+   "name": "балетный образ с худи",
+   "description": "A light heather grey, oversized zip-up hoodie with a stand-up collar and elastic cuffs, worn over black wrap-style dance shorts with a small gold logo. The outfit is completed with opaque black tights and white satin pointe shoes.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add05d8d1e1ce.webp",
+   "thumb": "thumbs/6add05d8d1e1ce.webp",
+   "addedAt": 1792869848968
   }
  ],
  "categories": [
