@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792861547988,
+ "updatedAt": 1792861614196,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -231,6 +231,16 @@
    "image": "items/6adce56b5141dc.webp",
    "thumb": "thumbs/6adce56b5141dc.webp",
    "addedAt": 1792861547190
+  },
+  {
+   "id": "6adce5adb39c3b",
+   "name": "оранжевая пижама плуто",
+   "description": "This orange two-piece pajama set features a short-sleeve top with a large Pluto graphic and blue text, paired with matching shorts covered in an all-over small Pluto print.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adce5adb39c3b.webp",
+   "thumb": "thumbs/6adce5adb39c3b.webp",
+   "addedAt": 1792861613418
   }
  ],
  "categories": [
