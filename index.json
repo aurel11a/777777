@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867345503,
+ "updatedAt": 1792867393429,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1361,6 +1361,16 @@
    "image": "items/6adcfc106b8546.webp",
    "thumb": "thumbs/6adcfc106b8546.webp",
    "addedAt": 1792867344658
+  },
+  {
+   "id": "6adcfc40990534",
+   "name": "Cocoa Cabin",
+   "description": "A cropped cream chunky knit sweater with burgundy and mustard stripes pairs with brown wide-leg cargo pants. Cream chunky sneakers and a matching cream shoulder bag complete the cozy look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adcfc40990534.webp",
+   "thumb": "thumbs/6adcfc40990534.webp",
+   "addedAt": 1792867392605
   }
  ],
  "categories": [
