@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792866882946,
+ "updatedAt": 1792866921263,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1261,6 +1261,16 @@
    "image": "items/6adcfa415a3e1b.webp",
    "thumb": "thumbs/6adcfa415a3e1b.webp",
    "addedAt": 1792866881812
+  },
+  {
+   "id": "6adcfa683370e7",
+   "name": "Midnight Meadow",
+   "description": "An olive green velvet maxi dress with a draped bodice and flowing skirt pairs with matching olive strappy stiletto sandals. Gold celestial jewelry, including a sunburst pendant necklace and matching earrings, completes the elegant look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adcfa683370e7.webp",
+   "thumb": "thumbs/6adcfa683370e7.webp",
+   "addedAt": 1792866920503
   }
  ],
  "categories": [
