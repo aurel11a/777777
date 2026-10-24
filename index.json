@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865629226,
+ "updatedAt": 1792865684288,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -881,6 +881,16 @@
    "image": "items/6adcf55cb8e6b7.webp",
    "thumb": "thumbs/6adcf55cb8e6b7.webp",
    "addedAt": 1792865628487
+  },
+  {
+   "id": "6adcf5938decf9",
+   "name": "хэллоуинская розовя пижама",
+   "description": "This light pink two-piece pajama set features a long-sleeve top with a large pink jack-o'-lantern face and bow graphic, paired with matching pants covered in an all-over Halloween print of ghosts, bats, and pumpkins.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adcf5938decf9.webp",
+   "thumb": "thumbs/6adcf5938decf9.webp",
+   "addedAt": 1792865683531
   }
  ],
  "categories": [
