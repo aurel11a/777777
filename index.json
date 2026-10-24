@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871497167,
+ "updatedAt": 1792871550318,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2111,6 +2111,16 @@
    "image": "items/6add0c4823762a.webp",
    "thumb": "thumbs/6add0c4823762a.webp",
    "addedAt": 1792871496219
+  },
+  {
+   "id": "6add0c7da2f566",
+   "name": "шифоновый халат с кремовым бельем",
+   "description": "A light blue, semi-sheer chiffon robe with floral lace trim on the cuffs and lapels, worn open over a pale pink satin lingerie set. The set consists of a bralette with delicate lace detailing across the cups and high-waisted matching shorts featuring lace inserts on the legs, accessorized with a gold chain necklace and a pendant.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add0c7da2f566.webp",
+   "thumb": "thumbs/6add0c7da2f566.webp",
+   "addedAt": 1792871549506
   }
  ],
  "categories": [
