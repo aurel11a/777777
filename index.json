@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865480140,
+ "updatedAt": 1792865556293,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -861,6 +861,16 @@
    "image": "items/6adcf4c727f0de.webp",
    "thumb": "thumbs/6adcf4c727f0de.webp",
    "addedAt": 1792865479378
+  },
+  {
+   "id": "6adcf5138b0a86",
+   "name": "мужской формальный аутфит",
+   "description": "This formal outfit consists of a black three-piece suit featuring a button-up vest, matching trousers, and a jacket draped over the shoulders, worn with a white dress shirt, a black tie, and black leather loafers.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6adcf5138b0a86.webp",
+   "thumb": "thumbs/6adcf5138b0a86.webp",
+   "addedAt": 1792865555564
   }
  ],
  "categories": [
