@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792868149772,
+ "updatedAt": 1792868194357,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1511,6 +1511,16 @@
    "image": "items/6adcff3418e1a9.webp",
    "thumb": "thumbs/6adcff3418e1a9.webp",
    "addedAt": 1792868148689
+  },
+  {
+   "id": "6adcff61d64bf0",
+   "name": "домашний аутфит с клетчатыми штанами",
+   "description": "This loungewear outfit consists of a plain white short-sleeve t-shirt paired with loose-fitting grey and black plaid pants featuring a white drawstring waist.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6adcff61d64bf0.webp",
+   "thumb": "thumbs/6adcff61d64bf0.webp",
+   "addedAt": 1792868193604
   }
  ],
  "categories": [
