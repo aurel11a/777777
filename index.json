@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792860891957,
+ "updatedAt": 1792861015714,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -161,6 +161,16 @@
    "image": "items/6adce2db945130.webp",
    "thumb": "thumbs/6adce2db945130.webp",
    "addedAt": 1792860891216
+  },
+  {
+   "id": "6adce35697b7a5",
+   "name": "коричневое ассиметричное платье с цепочками",
+   "description": "This brown long-sleeve gown features an asymmetrical off-the-shoulder neckline, a draped and ruched bodice, and silver chain details at the upper arm and waist.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adce35697b7a5.webp",
+   "thumb": "thumbs/6adce35697b7a5.webp",
+   "addedAt": 1792861014951
   }
  ],
  "categories": [
