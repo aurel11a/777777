@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875221489,
+ "updatedAt": 1792875324086,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2761,6 +2761,16 @@
    "image": "items/6add1ad429bdc8.webp",
    "thumb": "thumbs/6add1ad429bdc8.webp",
    "addedAt": 1792875220676
+  },
+  {
+   "id": "6add1b3beed1af",
+   "name": "купальник в стиле русалочки",
+   "description": "A two-piece swimsuit featuring a light purple halter bikini top with scalloped, seashell-shaped cups and a center pearl detail. It is paired with high-waisted light green bottoms that have a sheer, ruffled overlay and a V-shaped waistline.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add1b3beed1af.webp",
+   "thumb": "thumbs/6add1b3beed1af.webp",
+   "addedAt": 1792875323241
   }
  ],
  "categories": [
