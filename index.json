@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792872353692,
+ "updatedAt": 1792872424764,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2331,6 +2331,16 @@
    "image": "items/6add0fa0a06ad5.webp",
    "thumb": "thumbs/6add0fa0a06ad5.webp",
    "addedAt": 1792872352790
+  },
+  {
+   "id": "6add0fe84a8928",
+   "name": "светло-бежевый топ и коричневая юбка",
+   "description": "A light beige ribbed long-sleeve top with flared sleeves and a bow detail at the bust, paired with a brown ruched midi skirt. Accessories include a brown leather handbag with a gold chain strap, brown block-heeled sandals with gold hardware, a gold cuff bracelet, rings, and a brown leather watch.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add0fe84a8928.webp",
+   "thumb": "thumbs/6add0fe84a8928.webp",
+   "addedAt": 1792872424008
   }
  ],
  "categories": [
