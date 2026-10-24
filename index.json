@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792871550318,
+ "updatedAt": 1792871587647,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2121,6 +2121,16 @@
    "image": "items/6add0c7da2f566.webp",
    "thumb": "thumbs/6add0c7da2f566.webp",
    "addedAt": 1792871549506
+  },
+  {
+   "id": "6add0ca291152a",
+   "name": "Cherry Blossom",
+   "description": "A dusty pink off-the-shoulder crop top with puffed sleeves pairs with a draped, asymmetrical maxi skirt, both adorned with 3D floral appliqués. The look is completed with matching flower-embellished sandals, a floral crown, and delicate pink drop earrings.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add0ca291152a.webp",
+   "thumb": "thumbs/6add0ca291152a.webp",
+   "addedAt": 1792871586825
   }
  ],
  "categories": [
