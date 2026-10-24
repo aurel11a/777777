@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867527080,
+ "updatedAt": 1792867618011,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1391,6 +1391,16 @@
    "image": "items/6adcfcc6d93887.webp",
    "thumb": "thumbs/6adcfcc6d93887.webp",
    "addedAt": 1792867526163
+  },
+  {
+   "id": "6adcfd21f5e9a3",
+   "name": "белое фигуристское платье",
+   "description": "This figure skating dress features a white bodice with a sheer, rhinestone-embellished illusion neckline and long sleeves, paired with a short, layered white fringe skirt and white ice skates.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfd21f5e9a3.webp",
+   "thumb": "thumbs/6adcfd21f5e9a3.webp",
+   "addedAt": 1792867617231
   }
  ],
  "categories": [
