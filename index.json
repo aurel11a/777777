@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792860802811,
+ "updatedAt": 1792860891957,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -151,6 +151,16 @@
    "image": "items/6adce282738788.webp",
    "thumb": "thumbs/6adce282738788.webp",
    "addedAt": 1792860802047
+  },
+  {
+   "id": "6adce2db945130",
+   "name": "простая розовая пижама в рубчик",
+   "description": "This light pink two-piece set features a ribbed pointelle camisole top with lace trim and a small bow, paired with matching shorts accented by lace trim, a central bow, and button details.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6adce2db945130.webp",
+   "thumb": "thumbs/6adce2db945130.webp",
+   "addedAt": 1792860891216
   }
  ],
  "categories": [
