@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792869100932,
+ "updatedAt": 1792869180375,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1711,6 +1711,16 @@
    "image": "items/6add02e7a138c2.webp",
    "thumb": "thumbs/6add02e7a138c2.webp",
    "addedAt": 1792869095047
+  },
+  {
+   "id": "6add033b94c3b2",
+   "name": "синее мини-платье с рукавами-колокольчиками",
+   "description": "A blue, long-sleeved mini dress with a vintage-style floral and leaf print, featuring a deep V-neckline and flared bell sleeves. The design is accented with white lace trim along the neckline and a wide, fringed lace hem, accessorized with a delicate silver pendant necklace.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add033b94c3b2.webp",
+   "thumb": "thumbs/6add033b94c3b2.webp",
+   "addedAt": 1792869179579
   }
  ],
  "categories": [
