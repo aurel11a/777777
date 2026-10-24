@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792873975787,
+ "updatedAt": 1792874021268,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2581,6 +2581,16 @@
    "image": "items/6add15f6a572f0.webp",
    "thumb": "thumbs/6add15f6a572f0.webp",
    "addedAt": 1792873974638
+  },
+  {
+   "id": "6add1624af3e10",
+   "name": "костюм глубокого бордового цвета",
+   "description": "A deep burgundy tailored suit consisting of a long-sleeve blazer with a wrap-style front and a single button closure, paired with matching wide-leg trousers. Accessories include a black top-handle bag and black pointed-toe heels with gold metal toe caps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add1624af3e10.webp",
+   "thumb": "thumbs/6add1624af3e10.webp",
+   "addedAt": 1792874020467
   }
  ],
  "categories": [
