@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792867891662,
+ "updatedAt": 1792867984516,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -1471,6 +1471,16 @@
    "image": "items/6adcfe32a32cee.webp",
    "thumb": "thumbs/6adcfe32a32cee.webp",
    "addedAt": 1792867890778
+  },
+  {
+   "id": "6adcfe8f36fc37",
+   "name": "розовое фигуристское платье с цветами",
+   "description": "This pink figure skating dress features an asymmetrical design with a ruffled one-shoulder strap, a fitted bodice decorated with 3D floral appliques and rhinestones, and a layered, sheer skirt. It is paired with white ice skates.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adcfe8f36fc37.webp",
+   "thumb": "thumbs/6adcfe8f36fc37.webp",
+   "addedAt": 1792867983742
   }
  ],
  "categories": [
