@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875097153,
+ "updatedAt": 1792875169672,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2741,6 +2741,16 @@
    "image": "items/6add1a5863dd81.webp",
    "thumb": "thumbs/6add1a5863dd81.webp",
    "addedAt": 1792875096218
+  },
+  {
+   "id": "6add1aa0830e52",
+   "name": "розовый плюшевый пижамный комплект",
+   "description": "A light pink plush pajama set consisting of a long-sleeve robe with white piping, front pockets, and a satin ribbon tie, paired with matching wide-leg pants. A white bralette is visible underneath, and the look is accessorized with fluffy white slide slippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add1aa0830e52.webp",
+   "thumb": "thumbs/6add1aa0830e52.webp",
+   "addedAt": 1792875168837
   }
  ],
  "categories": [
