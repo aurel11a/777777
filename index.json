@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865684288,
+ "updatedAt": 1792865738301,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -891,6 +891,16 @@
    "image": "items/6adcf5938decf9.webp",
    "thumb": "thumbs/6adcf5938decf9.webp",
    "addedAt": 1792865683531
+  },
+  {
+   "id": "6adcf5c9185c1f",
+   "name": "домашний аутфит со штанами с хэллоу китти",
+   "description": "This outfit features a white long-sleeve crop top paired with black plush pants covered in an all-over Hello Kitty print, worn with tan boots.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adcf5c9185c1f.webp",
+   "thumb": "thumbs/6adcf5c9185c1f.webp",
+   "addedAt": 1792865737550
   }
  ],
  "categories": [
