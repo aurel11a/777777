@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792870753957,
+ "updatedAt": 1792870831440,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2001,6 +2001,16 @@
    "image": "items/6add096151a58f.webp",
    "thumb": "thumbs/6add096151a58f.webp",
    "addedAt": 1792870753225
+  },
+  {
+   "id": "6add09aea9b04b",
+   "name": "платье с ярким пурпурно-розовым цветочным принтом",
+   "description": "A black, semi-sheer midi dress featuring a vibrant magenta and pink floral print, a ruffled sweetheart neckline, and delicate thin shoulder straps. It is accessorized with a gold-tone chain necklace and cream-colored pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add09aea9b04b.webp",
+   "thumb": "thumbs/6add09aea9b04b.webp",
+   "addedAt": 1792870830541
   }
  ],
  "categories": [
