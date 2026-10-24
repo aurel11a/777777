@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792865338145,
+ "updatedAt": 1792865408152,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -841,6 +841,16 @@
    "image": "items/6adcf439f065c4.webp",
    "thumb": "thumbs/6adcf439f065c4.webp",
    "addedAt": 1792865337345
+  },
+  {
+   "id": "6adcf47fc5f21d",
+   "name": "кружевное черное белье с халатом",
+   "description": "This black lace lingerie ensemble features a sheer long-sleeve robe with a scalloped trim and front tie, worn over a matching lace bra and a thigh-high lace stocking.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6adcf47fc5f21d.webp",
+   "thumb": "thumbs/6adcf47fc5f21d.webp",
+   "addedAt": 1792865407256
   }
  ],
  "categories": [
