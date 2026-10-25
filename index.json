@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909712765,
+ "updatedAt": 1792909759157,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3561,6 +3561,16 @@
    "image": "items/6adda18f5114b8.webp",
    "thumb": "thumbs/6adda18f5114b8.webp",
    "addedAt": 1792909711886
+  },
+  {
+   "id": "6adda1be36aa9d",
+   "name": "женская голубая роба мага",
+   "description": "A fantasy-style outfit featuring a dark blue and black layered tunic with a structured collar and silver trim. The look is completed with a wide waist belt, dark trousers, heavy armored boots, and gloves emitting a purple magical glow.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda1be36aa9d.webp",
+   "thumb": "thumbs/6adda1be36aa9d.webp",
+   "addedAt": 1792909758373
   }
  ],
  "categories": [
