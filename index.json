@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960850777,
+ "updatedAt": 1792960934151,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5891,6 +5891,16 @@
    "image": "items/6ade69519a185c.webp",
    "thumb": "thumbs/6ade69519a185c.webp",
    "addedAt": 1792960849925
+  },
+  {
+   "id": "6ade69a483353f",
+   "name": "Grey Vest & Pink Trousers",
+   "description": "A grey cable-knit sweater vest with pink striped trim, layered over a white button-down shirt. It is paired with wide-leg pink trousers and white chunky sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade69a483353f.webp",
+   "thumb": "thumbs/6ade69a483353f.webp",
+   "addedAt": 1792960932966
   }
  ],
  "categories": [
