@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792959307356,
+ "updatedAt": 1792959533379,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5701,6 +5701,46 @@
    "image": "items/6ade634a389920.webp",
    "thumb": "thumbs/6ade634a389920.webp",
    "addedAt": 1792959306436
+  },
+  {
+   "id": "6ade642c704cf4",
+   "name": "Peach Babydoll Top",
+   "description": "A light peach babydoll-style top or short dress featuring a wide, gathered neckline with a front tie and short, puffed sleeves with ruffled trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade642c704cf4.webp",
+   "thumb": "thumbs/6ade642c704cf4.webp",
+   "addedAt": 1792959532332
+  },
+  {
+   "id": "6ade642c624427",
+   "name": "Cream Floral Snowsuit",
+   "description": "A cream-colored puffer snowsuit featuring a jacket and matching trousers, both decorated with a small dark floral print. The jacket has a faux-fur hood trim and is paired with a beige beanie and black ice skates.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade642c624427.webp",
+   "thumb": "thumbs/6ade642c624427.webp",
+   "addedAt": 1792959532333
+  },
+  {
+   "id": "6ade642c6384c8",
+   "name": "White Bow Nightdress",
+   "description": "A white short-sleeved nightdress with a gathered neckline and a front bow detail. It is accessorized with a matching white hair bow and fluffy white slippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade642c6384c8.webp",
+   "thumb": "thumbs/6ade642c6384c8.webp",
+   "addedAt": 1792959532334
+  },
+  {
+   "id": "6ade642ca94318",
+   "name": "White Fur Winter Set",
+   "description": "A white winter outfit featuring a faux-fur jacket with a large collar, worn with a matching hood and scarf. It is paired with a short ruffled mini skirt, white patterned lace tights, and white pointed-toe heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade642ca94318.webp",
+   "thumb": "thumbs/6ade642ca94318.webp",
+   "addedAt": 1792959532335
   }
  ],
  "categories": [
