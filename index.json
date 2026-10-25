@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906155041,
+ "updatedAt": 1792906229034,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3031,6 +3031,16 @@
    "image": "items/6add93aa7d0110.webp",
    "thumb": "thumbs/6add93aa7d0110.webp",
    "addedAt": 1792906154277
+  },
+  {
+   "id": "6add93f45f2989",
+   "name": "сезонный наряд с оленем",
+   "description": "A brown knit sweater featuring a graphic of a deer surrounded by white spots, layered under a dark brown button-up fleece jacket. Paired with dark brown trousers, brown suede moccasins, and a dark brown suede shoulder bag with buckle straps.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add93f45f2989.webp",
+   "thumb": "thumbs/6add93f45f2989.webp",
+   "addedAt": 1792906228256
   }
  ],
  "categories": [
