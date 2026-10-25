@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792954308109,
+ "updatedAt": 1792954554163,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5001,6 +5001,56 @@
    "image": "items/6ade4fc33bd354.webp",
    "thumb": "thumbs/6ade4fc33bd354.webp",
    "addedAt": 1792954307261
+  },
+  {
+   "id": "6ade50b969cbb3",
+   "name": "Green Ribbon Set",
+   "description": "A light green two-piece set featuring a cropped, short-sleeved blouse with puff sleeves and white ribbon ties, paired with matching ruffled bloomers. The look is completed with light green slouchy knit socks.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade50b969cbb3.webp",
+   "thumb": "thumbs/6ade50b969cbb3.webp",
+   "addedAt": 1792954553226
+  },
+  {
+   "id": "6ade50b98d8e08",
+   "name": "Garfield Floral Dress",
+   "description": "A sleeveless, tiered mini dress featuring a pale yellow top with a large circular Garfield graphic and a white floral-print skirt.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade50b98d8e08.webp",
+   "thumb": "thumbs/6ade50b98d8e08.webp",
+   "addedAt": 1792954553227
+  },
+  {
+   "id": "6ade50b9ba25b4",
+   "name": "Sheer Blue Set",
+   "description": "A light blue sheer two-piece set featuring an open, long-sleeved shirt with ruffled trim and matching wide-leg pants with lace detailing down the sides. It is worn over a dark navy lace bralette.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade50b9ba25b4.webp",
+   "thumb": "thumbs/6ade50b9ba25b4.webp",
+   "addedAt": 1792954553228
+  },
+  {
+   "id": "6ade50b930d866",
+   "name": "Striped Floral Set",
+   "description": "A blue and white striped short-sleeved shirt worn open over a white floral bralette. It is paired with white shorts featuring orange floral embroidery and red trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade50b930d866.webp",
+   "thumb": "thumbs/6ade50b930d866.webp",
+   "addedAt": 1792954553229
+  },
+  {
+   "id": "6ade50b99eb592",
+   "name": "Teddy Fleece Set",
+   "description": "A white fleece two-piece pajama set featuring an all-over print of small teddy bears and yellow stars. It includes a zip-up jacket with pockets and matching trousers.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ade50b99eb592.webp",
+   "thumb": "thumbs/6ade50b99eb592.webp",
+   "addedAt": 1792954553230
   }
  ],
  "categories": [
