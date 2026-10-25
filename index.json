@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908121182,
+ "updatedAt": 1792908186398,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3321,6 +3321,16 @@
    "image": "items/6add9b58379641.webp",
    "thumb": "thumbs/6add9b58379641.webp",
    "addedAt": 1792908120357
+  },
+  {
+   "id": "6add9b99ab9b76",
+   "name": "розовый наряд с пайетками и мини-юбкой",
+   "description": "A pink, sequined sheer camisole top with a scalloped hem is paired with a pleated denim mini skirt. The look is accessorized with pink platform sandals, a floral-embellished pink handbag, gradient sunglasses, and floral jewelry.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9b99ab9b76.webp",
+   "thumb": "thumbs/6add9b99ab9b76.webp",
+   "addedAt": 1792908185143
   }
  ],
  "categories": [
