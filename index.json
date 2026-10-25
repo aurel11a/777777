@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907189613,
+ "updatedAt": 1792907266942,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3171,6 +3171,16 @@
    "image": "items/6add97b413c4cc.webp",
    "thumb": "thumbs/6add97b413c4cc.webp",
    "addedAt": 1792907188585
+  },
+  {
+   "id": "6add98022e0f8c",
+   "name": "русское платье в бордовых, золотых и зеленых тонах с кокошником",
+   "description": "An ornate, floor-length traditional gown made of intricately patterned brocade fabric in rich burgundy, gold, and green tones. It features long, wide sleeves with heavily embellished cuffs, a jeweled collar, and a central beaded panel down the front, accessorized with a matching heavily decorated headdress with dangling pearl strands.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6add98022e0f8c.webp",
+   "thumb": "thumbs/6add98022e0f8c.webp",
+   "addedAt": 1792907266215
   }
  ],
  "categories": [
