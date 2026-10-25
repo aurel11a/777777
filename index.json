@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907730863,
+ "updatedAt": 1792907783931,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3261,6 +3261,16 @@
    "image": "items/6add99d24d0566.webp",
    "thumb": "thumbs/6add99d24d0566.webp",
    "addedAt": 1792907730017
+  },
+  {
+   "id": "6add9a07115adb",
+   "name": "бежевое мини-платье с открытыми плечами",
+   "description": "A beige off-the-shoulder mini dress with a ruffled neckline and long, voluminous balloon sleeves. The dress features a gathered waist and a flowy, sheer overlay skirt.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add9a07115adb.webp",
+   "thumb": "thumbs/6add9a07115adb.webp",
+   "addedAt": 1792907783005
   }
  ],
  "categories": [
