@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792914857651,
+ "updatedAt": 1792914917518,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4001,6 +4001,16 @@
    "image": "items/6addb5a86f3028.webp",
    "thumb": "thumbs/6addb5a86f3028.webp",
    "addedAt": 1792914856836
+  },
+  {
+   "id": "6addb5e47571e8",
+   "name": "кардиган с клубникой и джинсы",
+   "description": "A white cropped cardigan with red strawberry patterns and buttons is paired with medium-wash straight-leg jeans. The look is completed with white sneakers featuring a matching strawberry print.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6addb5e47571e8.webp",
+   "thumb": "thumbs/6addb5e47571e8.webp",
+   "addedAt": 1792914916683
   }
  ],
  "categories": [
