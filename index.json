@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960934151,
+ "updatedAt": 1792961003691,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5901,6 +5901,16 @@
    "image": "items/6ade69a483353f.webp",
    "thumb": "thumbs/6ade69a483353f.webp",
    "addedAt": 1792960932966
+  },
+  {
+   "id": "6ade69ea4ee212",
+   "name": "Brown Tweed Coat & Suit",
+   "description": "A vintage-style men's outfit featuring a long brown herringbone tweed coat over a matching brown waistcoat, trousers, and a white shirt with a dark patterned tie. It is completed with dark brown leather shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ade69ea4ee212.webp",
+   "thumb": "thumbs/6ade69ea4ee212.webp",
+   "addedAt": 1792961002854
   }
  ],
  "categories": [
