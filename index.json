@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911890227,
+ "updatedAt": 1792911944811,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3871,6 +3871,16 @@
    "image": "items/6addaa11a5be73.webp",
    "thumb": "thumbs/6addaa11a5be73.webp",
    "addedAt": 1792911889283
+  },
+  {
+   "id": "6addaa476116cb",
+   "name": "пляжный аутфит с грушей",
+   "description": "A grey sleeveless crop top with a graphic pear print is paired with a vibrant, ruffled asymmetrical mini skirt in shades of orange and yellow. The look is accessorized with a white tote bag, flat strappy sandals, and floral accents.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addaa476116cb.webp",
+   "thumb": "thumbs/6addaa476116cb.webp",
+   "addedAt": 1792911943833
   }
  ],
  "categories": [
