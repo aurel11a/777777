@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905037451,
+ "updatedAt": 1792905095619,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2841,6 +2841,16 @@
    "image": "items/6add8f4c7132e1.webp",
    "thumb": "thumbs/6add8f4c7132e1.webp",
    "addedAt": 1792905036558
+  },
+  {
+   "id": "6add8f86619ba6",
+   "name": "вафельный костюм с тапочками",
+   "description": "A light pink waffle-knit lounge set consisting of a long-sleeve hoodie with a front pocket and matching shorts. Accessories include tortoiseshell glasses and fluffy white slide slippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add8f86619ba6.webp",
+   "thumb": "thumbs/6add8f86619ba6.webp",
+   "addedAt": 1792905094612
   }
  ],
  "categories": [
