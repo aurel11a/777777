@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911543060,
+ "updatedAt": 1792911610890,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3821,6 +3821,16 @@
    "image": "items/6adda8b638df5b.webp",
    "thumb": "thumbs/6adda8b638df5b.webp",
    "addedAt": 1792911542244
+  },
+  {
+   "id": "6adda8fa75444d",
+   "name": "стеганая куртка и мини юбка",
+   "description": "A light pink quilted jacket with a delicate floral print, lace trim, and a high collar is paired with a matching textured mini skirt featuring lace-trimmed pockets. The outfit is accessorized with cream knee-high socks with bow details and pink lace-up shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adda8fa75444d.webp",
+   "thumb": "thumbs/6adda8fa75444d.webp",
+   "addedAt": 1792911610084
   }
  ],
  "categories": [
