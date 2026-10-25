@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915954457,
+ "updatedAt": 1792916004720,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4201,6 +4201,16 @@
    "image": "items/6addb9f1d0381d.webp",
    "thumb": "thumbs/6addb9f1d0381d.webp",
    "addedAt": 1792915953115
+  },
+  {
+   "id": "6addba23522760",
+   "name": "коричнево-голубой комплект без бретелей",
+   "description": "A dark brown two-piece set featuring a strapless tube top and matching fitted shorts. Both pieces are decorated with large, light blue floral appliqués.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6addba23522760.webp",
+   "thumb": "thumbs/6addba23522760.webp",
+   "addedAt": 1792916003944
   }
  ],
  "categories": [
