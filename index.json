@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915437764,
+ "updatedAt": 1792915484421,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4101,6 +4101,16 @@
    "image": "items/6addb7ecd890f6.webp",
    "thumb": "thumbs/6addb7ecd890f6.webp",
    "addedAt": 1792915436925
+  },
+  {
+   "id": "6addb81bb03376",
+   "name": "лавандовый женский костюм",
+   "description": "A tailored lilac suit featuring a double-breasted blazer with structured shoulders and matching wide-leg trousers with a front crease. The look is completed with white strappy open-toe sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addb81bb03376.webp",
+   "thumb": "thumbs/6addb81bb03376.webp",
+   "addedAt": 1792915483559
   }
  ],
  "categories": [
