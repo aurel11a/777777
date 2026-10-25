@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912463990,
+ "updatedAt": 1792912512958,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3971,6 +3971,16 @@
    "image": "items/6addac4eaccf61.webp",
    "thumb": "thumbs/6addac4eaccf61.webp",
    "addedAt": 1792912462936
+  },
+  {
+   "id": "6addac7e201a9a",
+   "name": "темно-бирюзовое белье с трусами-шортами",
+   "description": "A dark teal two-piece lingerie set featuring a sheer mesh bra with defined seams and a matching solid boyshort.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6addac7e201a9a.webp",
+   "thumb": "thumbs/6addac7e201a9a.webp",
+   "addedAt": 1792912510667
   }
  ],
  "categories": [
