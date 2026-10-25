@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912284759,
+ "updatedAt": 1792912354618,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3941,6 +3941,16 @@
    "image": "items/6addab9b6b5ac7.webp",
    "thumb": "thumbs/6addab9b6b5ac7.webp",
    "addedAt": 1792912283717
+  },
+  {
+   "id": "6addabe13017dd",
+   "name": "розовая пижама из рубашки, шорт и топа",
+   "description": "A pink and white gingham pajama set featuring a short-sleeved, lace-trimmed top worn open over a matching bralette. The set includes coordinating shorts with lace trim at the hem, all detailed with small pink bow prints.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6addabe13017dd.webp",
+   "thumb": "thumbs/6addabe13017dd.webp",
+   "addedAt": 1792912353804
   }
  ],
  "categories": [
