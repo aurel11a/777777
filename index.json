@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905689875,
+ "updatedAt": 1792905741936,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2951,6 +2951,16 @@
    "image": "items/6add91d90ea024.webp",
    "thumb": "thumbs/6add91d90ea024.webp",
    "addedAt": 1792905689171
+  },
+  {
+   "id": "6add920c2ae6ee",
+   "name": "светло-голубой бельевой комплект",
+   "description": "A light blue satin lingerie set featuring a camisole with lace-trimmed cups, lace shoulder straps, and a front tie closure, paired with matching flutter-hem shorts. Both pieces have a subtle floral jacquard pattern.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add920c2ae6ee.webp",
+   "thumb": "thumbs/6add920c2ae6ee.webp",
+   "addedAt": 1792905740952
   }
  ],
  "categories": [
