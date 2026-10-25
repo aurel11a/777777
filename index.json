@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915090670,
+ "updatedAt": 1792915170290,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4051,6 +4051,16 @@
    "image": "items/6addb69115b91a.webp",
    "thumb": "thumbs/6addb69115b91a.webp",
    "addedAt": 1792915089803
+  },
+  {
+   "id": "6addb6e122b06b",
+   "name": "школьный наряд с рубашкой поло и юбкой",
+   "description": "An oversized burgundy and white pinstriped long-sleeve polo shirt is paired with a black pleated faux-leather mini skirt. The outfit is completed with white crew socks and black leather loafers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6addb6e122b06b.webp",
+   "thumb": "thumbs/6addb6e122b06b.webp",
+   "addedAt": 1792915169538
   }
  ],
  "categories": [
