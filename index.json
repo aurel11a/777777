@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960228154,
+ "updatedAt": 1792960315964,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5841,6 +5841,16 @@
    "image": "items/6ade66e36de95a.webp",
    "thumb": "thumbs/6ade66e36de95a.webp",
    "addedAt": 1792960227299
+  },
+  {
+   "id": "6ade673b631247",
+   "name": "Black Bomber & Cargo Outfit",
+   "description": "An all-black streetwear outfit featuring an open bomber jacket over a loose t-shirt and cargo trousers with buckle straps. The look is accessorized with layered silver necklaces, bracelets, and black lace-up combat boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade673b631247.webp",
+   "thumb": "thumbs/6ade673b631247.webp",
+   "addedAt": 1792960315002
   }
  ],
  "categories": [
