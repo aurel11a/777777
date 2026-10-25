@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909912801,
+ "updatedAt": 1792909961625,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3601,6 +3601,16 @@
    "image": "items/6adda258019283.webp",
    "thumb": "thumbs/6adda258019283.webp",
    "addedAt": 1792909912038
+  },
+  {
+   "id": "6adda288fcb94c",
+   "name": "платье с замысловатым золотым узором",
+   "description": "A fantasy-style gown featuring a dark, intricate gold patterned overlay with a hood and horned headpiece. The dress has flared sleeves, a high waist, and dramatic thigh-high side slits.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda288fcb94c.webp",
+   "thumb": "thumbs/6adda288fcb94c.webp",
+   "addedAt": 1792909960881
   }
  ],
  "categories": [
