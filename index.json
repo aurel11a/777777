@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909510663,
+ "updatedAt": 1792909557940,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3521,6 +3521,16 @@
    "image": "items/6adda0c50790c3.webp",
    "thumb": "thumbs/6adda0c50790c3.webp",
    "addedAt": 1792909509889
+  },
+  {
+   "id": "6adda0f5449cb6",
+   "name": "кожаный костюм в стиле темного фэнтези",
+   "description": "A dark fantasy-style outfit featuring a hooded, fitted leather tunic with multiple buckled straps across the chest and waist. It is paired with dark textured trousers, gloves, and matching leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda0f5449cb6.webp",
+   "thumb": "thumbs/6adda0f5449cb6.webp",
+   "addedAt": 1792909557184
   }
  ],
  "categories": [
