@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908430082,
+ "updatedAt": 1792908705834,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3371,6 +3371,16 @@
    "image": "items/6add9c8c754a0e.webp",
    "thumb": "thumbs/6add9c8c754a0e.webp",
    "addedAt": 1792908428825
+  },
+  {
+   "id": "6add9da008c492",
+   "name": "серо-голубой школьный наряд",
+   "description": "A grey knitted cardigan is worn over a light blue collared shirt and a pleated olive green mini skirt. The preppy look is completed with grey knee-high socks, black loafer shoes, and a small light blue structured handbag.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6add9da008c492.webp",
+   "thumb": "thumbs/6add9da008c492.webp",
+   "addedAt": 1792908704676
   }
  ],
  "categories": [
