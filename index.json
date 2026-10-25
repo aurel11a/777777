@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792917985100,
+ "updatedAt": 1792918100747,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4621,6 +4621,16 @@
    "image": "items/6addc1e0bbdb67.webp",
    "thumb": "thumbs/6addc1e0bbdb67.webp",
    "addedAt": 1792917984282
+  },
+  {
+   "id": "6addc2534a992b",
+   "name": "узор аргайл",
+   "description": "A grey textured blazer is worn over a grey turtleneck sweater dress featuring a bold red and white argyle pattern. The look is completed with burgundy opaque tights, glossy burgundy pointed-toe shoes with buckle details, and a structured grey handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6addc2534a992b.webp",
+   "thumb": "thumbs/6addc2534a992b.webp",
+   "addedAt": 1792918099488
   }
  ],
  "categories": [
