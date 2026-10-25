@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908964264,
+ "updatedAt": 1792909015060,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3431,6 +3431,16 @@
    "image": "items/6add9ea34345a3.webp",
    "thumb": "thumbs/6add9ea34345a3.webp",
    "addedAt": 1792908963317
+  },
+  {
+   "id": "6add9ed61dc3c1",
+   "name": "топ с цветочным принтом и мини-юбка",
+   "description": "A white sleeveless top with a botanical floral print is paired with a dark denim mini skirt featuring a belted waist. The look is accessorized with a black leather crossbody bag, brown perforated loafers, green glasses, and a silver charm bracelet.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9ed61dc3c1.webp",
+   "thumb": "thumbs/6add9ed61dc3c1.webp",
+   "addedAt": 1792909014232
   }
  ],
  "categories": [
