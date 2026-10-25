@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792941217487,
+ "updatedAt": 1792943031988,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4831,6 +4831,16 @@
    "image": "items/6ade1ca034360b.webp",
    "thumb": "thumbs/6ade1ca034360b.webp",
    "addedAt": 1792941216603
+  },
+  {
+   "id": "6ade23b7f6cda0",
+   "name": "белый хлопковый комплект",
+   "description": "A white, lightweight cotton two-piece set featuring an oversized long-sleeved top with wide sleeves and a slightly cropped fit. It is paired with matching loose-fitting shorts with an elastic waistband and button detailing.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade23b7f6cda0.webp",
+   "thumb": "thumbs/6ade23b7f6cda0.webp",
+   "addedAt": 1792943031176
   }
  ],
  "categories": [
