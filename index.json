@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792955542886,
+ "updatedAt": 1792955883154,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5221,6 +5221,46 @@
    "image": "items/6ade549599f5cf.webp",
    "thumb": "thumbs/6ade549599f5cf.webp",
    "addedAt": 1792955541923
+  },
+  {
+   "id": "6ade55eae1b23e",
+   "name": "Pink Ski Suit",
+   "description": "A light pink ski suit featuring a cropped puffer jacket with a high collar and a matching fitted ski suit with flared legs. The winter look is completed with a fluffy white hat and white snow boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade55eae1b23e.webp",
+   "thumb": "thumbs/6ade55eae1b23e.webp",
+   "addedAt": 1792955882010
+  },
+  {
+   "id": "6ade55eab0b09e",
+   "name": "Black Keyhole Set",
+   "description": "A black long-sleeved top with a keyhole cutout at the chest and a small buckle detail, paired with matching black tailored trousers and pointed-toe heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade55eab0b09e.webp",
+   "thumb": "thumbs/6ade55eab0b09e.webp",
+   "addedAt": 1792955882011
+  },
+  {
+   "id": "6ade55ea12eba3",
+   "name": "Pink Balletcore Set",
+   "description": "A light pink ballet-inspired outfit featuring a wrap cardigan, a matching camisole leotard, and ribbed leg warmers. It is paired with black baggy sweatpants and black and pink ballet flats.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade55ea12eba3.webp",
+   "thumb": "thumbs/6ade55ea12eba3.webp",
+   "addedAt": 1792955882012
+  },
+  {
+   "id": "6ade55ea3048cd",
+   "name": "Reindeer Fleece Set",
+   "description": "A cream-colored fleece zip-up jacket with a black reindeer and geometric pattern, paired with matching wide-leg cable-knit trousers. The look is accessorized with a brown leather shoulder bag and tan platform boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade55ea3048cd.webp",
+   "thumb": "thumbs/6ade55ea3048cd.webp",
+   "addedAt": 1792955882013
   }
  ],
  "categories": [
