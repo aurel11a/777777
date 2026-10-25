@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915383450,
+ "updatedAt": 1792915437764,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4091,6 +4091,16 @@
    "image": "items/6addb7b6b5c5b6.webp",
    "thumb": "thumbs/6addb7b6b5c5b6.webp",
    "addedAt": 1792915382184
+  },
+  {
+   "id": "6addb7ecd890f6",
+   "name": "розовый спортивный костюм с лампасами",
+   "description": "A pink and grey color-blocked windbreaker set featuring an open jacket and matching wide-leg track pants. It is worn over a white cropped tank top.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6addb7ecd890f6.webp",
+   "thumb": "thumbs/6addb7ecd890f6.webp",
+   "addedAt": 1792915436925
   }
  ],
  "categories": [
