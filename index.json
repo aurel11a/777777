@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907783931,
+ "updatedAt": 1792907853723,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3271,6 +3271,16 @@
    "image": "items/6add9a07115adb.webp",
    "thumb": "thumbs/6add9a07115adb.webp",
    "addedAt": 1792907783005
+  },
+  {
+   "id": "6add9a4c356970",
+   "name": "белое мини-платье с открытыми плечами",
+   "description": "A white, off-the-shoulder mini dress featuring a pink lace-up bodice, short puff sleeves, and a delicate eyelet lace overlay. The dress is finished with a ruffled hem accented by small pink ribbon bows and is paired with a pearl necklace.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add9a4c356970.webp",
+   "thumb": "thumbs/6add9a4c356970.webp",
+   "addedAt": 1792907852814
   }
  ],
  "categories": [
