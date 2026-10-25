@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963158331,
+ "updatedAt": 1792963227794,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6171,6 +6171,16 @@
    "image": "items/6ade72553c079a.webp",
    "thumb": "thumbs/6ade72553c079a.webp",
    "addedAt": 1792963157304
+  },
+  {
+   "id": "6ade729a557dac",
+   "name": "Floral Bow Pajama Set",
+   "description": "A white two-piece pajama set featuring a square-neck crop top and matching shorts, both decorated with a pink floral print and small pink bow accents. The top has ruffled sleeves and lace trim.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ade729a557dac.webp",
+   "thumb": "thumbs/6ade729a557dac.webp",
+   "addedAt": 1792963226707
   }
  ],
  "categories": [
