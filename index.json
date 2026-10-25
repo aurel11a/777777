@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905199393,
+ "updatedAt": 1792905260865,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2871,6 +2871,16 @@
    "image": "items/6add8feeb3b44d.webp",
    "thumb": "thumbs/6add8feeb3b44d.webp",
    "addedAt": 1792905198628
+  },
+  {
+   "id": "6add902ccf0df1",
+   "name": "футболка, кардиган, трусы и тапочки",
+   "description": "A beige short-sleeve t-shirt with a vintage landscape graphic, layered under an oversized olive green chunky knit cardigan. The look is paired with peach lace-trimmed panties, fluffy light blue scrunchies, cream ribbed knee-high socks, and white bunny slippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add902ccf0df1.webp",
+   "thumb": "thumbs/6add902ccf0df1.webp",
+   "addedAt": 1792905260004
   }
  ],
  "categories": [
