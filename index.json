@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963798770,
+ "updatedAt": 1792964037575,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6261,6 +6261,16 @@
    "image": "items/6ade74d59f8370.webp",
    "thumb": "thumbs/6ade74d59f8370.webp",
    "addedAt": 1792963797865
+  },
+  {
+   "id": "6ade75c40fae08",
+   "name": "Pink Leopard",
+   "description": "A pink quilted wrap jacket with a tonal leopard print features bow-tied cuffs and self-tie waist. White wide-leg jeans, white sneakers, and pink accessories, including a shoulder bag and scrunchie, complete the playful look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade75c40fae08.webp",
+   "thumb": "thumbs/6ade75c40fae08.webp",
+   "addedAt": 1792964036790
   }
  ],
  "categories": [
