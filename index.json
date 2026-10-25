@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908245449,
+ "updatedAt": 1792908309056,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3341,6 +3341,16 @@
    "image": "items/6add9bd4bb630c.webp",
    "thumb": "thumbs/6add9bd4bb630c.webp",
    "addedAt": 1792908244581
+  },
+  {
+   "id": "6add9c1468f30a",
+   "name": "оверсайз худи с надписью и мини-юбка",
+   "description": "An oversized grey zip-up hoodie with dark lettering is paired with a dark pinstripe mini skirt and sheer black tights. The outfit is completed with chunky white leg warmers and white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9c1468f30a.webp",
+   "thumb": "thumbs/6add9c1468f30a.webp",
+   "addedAt": 1792908308292
   }
  ],
  "categories": [
