@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960315964,
+ "updatedAt": 1792960389036,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5851,6 +5851,16 @@
    "image": "items/6ade673b631247.webp",
    "thumb": "thumbs/6ade673b631247.webp",
    "addedAt": 1792960315002
+  },
+  {
+   "id": "6ade6783265d2e",
+   "name": "Burgundy Bomber Outfit",
+   "description": "A burgundy bomber jacket worn open over a black t-shirt and dark brown trousers. The look is completed with a black studded belt and black lace-up combat boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6783265d2e.webp",
+   "thumb": "thumbs/6ade6783265d2e.webp",
+   "addedAt": 1792960387696
   }
  ],
  "categories": [
