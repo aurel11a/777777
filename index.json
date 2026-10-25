@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909600111,
+ "updatedAt": 1792909662626,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3541,6 +3541,16 @@
    "image": "items/6adda11f3d7a76.webp",
    "thumb": "thumbs/6adda11f3d7a76.webp",
    "addedAt": 1792909599403
+  },
+  {
+   "id": "6adda15d48dc35",
+   "name": "эльфийский фэнтези костюм",
+   "description": "A green and brown fantasy-style outfit featuring a textured bikini top, a draped shoulder scarf, and layered leather waist pieces with pouches. It includes a chainmail leg guard, leather bracers, and matching strapped boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda15d48dc35.webp",
+   "thumb": "thumbs/6adda15d48dc35.webp",
+   "addedAt": 1792909661654
   }
  ],
  "categories": [
