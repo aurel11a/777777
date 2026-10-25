@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960389036,
+ "updatedAt": 1792960620177,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5861,6 +5861,16 @@
    "image": "items/6ade6783265d2e.webp",
    "thumb": "thumbs/6ade6783265d2e.webp",
    "addedAt": 1792960387696
+  },
+  {
+   "id": "6ade686b970f64",
+   "name": "Vintage Juventus Kit",
+   "description": "A vintage Juventus football kit featuring a black and white vertically striped jersey with \"SONY MiniDisc\" sponsor text. It includes matching black shorts, white socks with black stripes, a navy baseball cap, and a navy t-shirt with \"JUVENTUS\" lettering.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6ade686b970f64.webp",
+   "thumb": "thumbs/6ade686b970f64.webp",
+   "addedAt": 1792960619043
   }
  ],
  "categories": [
