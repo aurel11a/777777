@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915334456,
+ "updatedAt": 1792915383450,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4081,6 +4081,16 @@
    "image": "items/6addb785bb8611.webp",
    "thumb": "thumbs/6addb785bb8611.webp",
    "addedAt": 1792915333625
+  },
+  {
+   "id": "6addb7b6b5c5b6",
+   "name": "голографический костюм",
+   "description": "A holographic silver two-piece set featuring a sleeveless crop top and a matching flared mini skirt. The look is completed with iridescent silver thigh-high boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6addb7b6b5c5b6.webp",
+   "thumb": "thumbs/6addb7b6b5c5b6.webp",
+   "addedAt": 1792915382184
   }
  ],
  "categories": [
