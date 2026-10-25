@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961808847,
+ "updatedAt": 1792962026143,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6021,6 +6021,16 @@
    "image": "items/6ade6d0f9097ec.webp",
    "thumb": "thumbs/6ade6d0f9097ec.webp",
    "addedAt": 1792961807910
+  },
+  {
+   "id": "6ade6de9402506",
+   "name": "Grey Jacket & Plaid Trousers",
+   "description": "A dark grey jacket with a hood layered underneath, paired with green and red tartan plaid trousers. The look is accessorized with a tan corduroy belt bag and silver and orange chunky sneakers.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade6de9402506.webp",
+   "thumb": "thumbs/6ade6de9402506.webp",
+   "addedAt": 1792962025049
   }
  ],
  "categories": [
