@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961003691,
+ "updatedAt": 1792961127855,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5911,6 +5911,16 @@
    "image": "items/6ade69ea4ee212.webp",
    "thumb": "thumbs/6ade69ea4ee212.webp",
    "addedAt": 1792961002854
+  },
+  {
+   "id": "6ade6a66b5227f",
+   "name": "Varsity Jacket & Baggy Jeans",
+   "description": "A navy and cream varsity jacket worn open over a black graphic t-shirt with a skull design. The streetwear look is paired with light wash baggy jeans, a light blue graphic scarf, and grey and white sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6a66b5227f.webp",
+   "thumb": "thumbs/6ade6a66b5227f.webp",
+   "addedAt": 1792961126993
   }
  ],
  "categories": [
