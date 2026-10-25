@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907266942,
+ "updatedAt": 1792907326791,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3181,6 +3181,16 @@
    "image": "items/6add98022e0f8c.webp",
    "thumb": "thumbs/6add98022e0f8c.webp",
    "addedAt": 1792907266215
+  },
+  {
+   "id": "6add983db92cae",
+   "name": "русское платье из серо-голубой парчовой ткани с головным убором",
+   "description": "An ornate, floor-length traditional gown made of blue-grey brocade fabric with a large gold floral pattern, featuring wide sleeves and a heavily embellished gold central panel with button details. It is worn over cream-colored voluminous undersleeves and accessorized with a jeweled, gold-trimmed headdress with a long pearl fringe.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6add983db92cae.webp",
+   "thumb": "thumbs/6add983db92cae.webp",
+   "addedAt": 1792907325595
   }
  ],
  "categories": [
