@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962026143,
+ "updatedAt": 1792962099277,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6031,6 +6031,16 @@
    "image": "items/6ade6de9402506.webp",
    "thumb": "thumbs/6ade6de9402506.webp",
    "addedAt": 1792962025049
+  },
+  {
+   "id": "6ade6e322bf421",
+   "name": "Purple Corduroy & Pleated Shorts",
+   "description": "A purple corduroy button-up shirt worn open over a black top, paired with black pleated shorts. The look is completed with black crew socks and purple and white high-top sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6e322bf421.webp",
+   "thumb": "thumbs/6ade6e322bf421.webp",
+   "addedAt": 1792962098412
   }
  ],
  "categories": [
