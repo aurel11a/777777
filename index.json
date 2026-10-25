@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792943306316,
+ "updatedAt": 1792953382675,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4851,6 +4851,16 @@
    "image": "items/6ade24c9303a7b.webp",
    "thumb": "thumbs/6ade24c9303a7b.webp",
    "addedAt": 1792943305541
+  },
+  {
+   "id": "6ade4c25826f16",
+   "name": "розовый свитер поверх майки",
+   "description": "A light pink, oversized pointelle-knit cardigan with a scalloped neckline and small buttons, worn loosely over a white camisole.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade4c25826f16.webp",
+   "thumb": "thumbs/6ade4c25826f16.webp",
+   "addedAt": 1792953381737
   }
  ],
  "categories": [
