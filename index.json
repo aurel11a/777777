@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962894996,
+ "updatedAt": 1792962989973,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6121,6 +6121,26 @@
    "image": "items/6ade714e995f02.webp",
    "thumb": "thumbs/6ade714e995f02.webp",
    "addedAt": 1792962894223
+  },
+  {
+   "id": "6ade71adb90b87",
+   "name": "Silver Metallic Bodysuit",
+   "description": "A metallic silver bodysuit featuring a high halter neckline and high-cut legs. It is paired with matching silver opera gloves and thigh-high stiletto boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade71adb90b87.webp",
+   "thumb": "thumbs/6ade71adb90b87.webp",
+   "addedAt": 1792962989062
+  },
+  {
+   "id": "6ade71ada6a661",
+   "name": "Silver Metallic Mini Dress",
+   "description": "A metallic silver mini dress featuring a strapless, structured bodice and a pleated skirt, paired with a matching choker. The look is completed with shiny silver knee-high boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade71ada6a661.webp",
+   "thumb": "thumbs/6ade71ada6a661.webp",
+   "addedAt": 1792962989063
   }
  ],
  "categories": [
