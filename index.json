@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963311637,
+ "updatedAt": 1792963387223,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6191,6 +6191,16 @@
    "image": "items/6ade72ee23c668.webp",
    "thumb": "thumbs/6ade72ee23c668.webp",
    "addedAt": 1792963310811
+  },
+  {
+   "id": "6ade733a6598e3",
+   "name": "Pink Bunny Corset Costume",
+   "description": "A light pink fantasy costume featuring a shiny corset-style bodice with a high collar and a large fabric bow at the neck. It is accessorized with matching pink bunny ears, long white gloves, sheer lace-topped tights, and pink ballet pointe shoes.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade733a6598e3.webp",
+   "thumb": "thumbs/6ade733a6598e3.webp",
+   "addedAt": 1792963386406
   }
  ],
  "categories": [
