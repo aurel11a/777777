@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908309056,
+ "updatedAt": 1792908377224,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3351,6 +3351,16 @@
    "image": "items/6add9c1468f30a.webp",
    "thumb": "thumbs/6add9c1468f30a.webp",
    "addedAt": 1792908308292
+  },
+  {
+   "id": "6add9c58d8eb7b",
+   "name": "блейзер, кардиган, платье с рюшами и светлые сапоги",
+   "description": "A grey oversized blazer is layered over a grey button-down cardigan and a white ruffled lace mini dress. The look is accessorized with a white structured tote bag and white pointed-toe knee-high boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9c58d8eb7b.webp",
+   "thumb": "thumbs/6add9c58d8eb7b.webp",
+   "addedAt": 1792908376458
   }
  ],
  "categories": [
