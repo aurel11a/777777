@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909961625,
+ "updatedAt": 1792910021820,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3611,6 +3611,16 @@
    "image": "items/6adda288fcb94c.webp",
    "thumb": "thumbs/6adda288fcb94c.webp",
    "addedAt": 1792909960881
+  },
+  {
+   "id": "6adda2c52fe349",
+   "name": "женский костюм авантюриста",
+   "description": "A fantasy-style adventurer outfit featuring a brown fitted tunic with dark patterned details, paired with a green hooded capelet. The look includes a wide leather belt, strapped thigh-high boots, and a dark tricorn-style hat.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda2c52fe349.webp",
+   "thumb": "thumbs/6adda2c52fe349.webp",
+   "addedAt": 1792910021018
   }
  ],
  "categories": [
