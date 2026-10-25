@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912354618,
+ "updatedAt": 1792912410311,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3951,6 +3951,16 @@
    "image": "items/6addabe13017dd.webp",
    "thumb": "thumbs/6addabe13017dd.webp",
    "addedAt": 1792912353804
+  },
+  {
+   "id": "6addac1986f961",
+   "name": "атласная пижама цвета шампанского",
+   "description": "A champagne-colored satin pajama set featuring a long, open robe, a gathered crop top with thin straps, and matching elastic-waist shorts.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6addac1986f961.webp",
+   "thumb": "thumbs/6addac1986f961.webp",
+   "addedAt": 1792912409443
   }
  ],
  "categories": [
