@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792914917518,
+ "updatedAt": 1792914961605,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4011,6 +4011,16 @@
    "image": "items/6addb5e47571e8.webp",
    "thumb": "thumbs/6addb5e47571e8.webp",
    "addedAt": 1792914916683
+  },
+  {
+   "id": "6addb610725b39",
+   "name": "бежевый свитер оверсайз",
+   "description": "An oversized, cream-colored cable-knit sweater with a crew neckline and voluminous sleeves.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6addb610725b39.webp",
+   "thumb": "thumbs/6addb610725b39.webp",
+   "addedAt": 1792914960743
   }
  ],
  "categories": [
