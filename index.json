@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962153765,
+ "updatedAt": 1792962225838,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6051,6 +6051,16 @@
    "image": "items/6ade6e68267453.webp",
    "thumb": "thumbs/6ade6e68267453.webp",
    "addedAt": 1792962152974
+  },
+  {
+   "id": "6ade6eb0ebd776",
+   "name": "Shadowed Lace",
+   "description": "A cropped brown and cream striped knit sweater with open-weave details pairs with a black corset-style flared mini dress cinched with a silver chain belt. Black lace tights, chunky platform combat boots with silver buckles, and edgy silver jewelry complete the dark look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade6eb0ebd776.webp",
+   "thumb": "thumbs/6ade6eb0ebd776.webp",
+   "addedAt": 1792962224813
   }
  ],
  "categories": [
