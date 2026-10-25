@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910443044,
+ "updatedAt": 1792910568373,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3671,6 +3671,16 @@
    "image": "items/6adda4694a85b8.webp",
    "thumb": "thumbs/6adda4694a85b8.webp",
    "addedAt": 1792910441819
+  },
+  {
+   "id": "6adda4e7f54df3",
+   "name": "туника, подпоясанная кожаным ремнем",
+   "description": "A historical-style outfit featuring a light beige tunic cinched with a thin brown leather belt, layered under a thick, fringed grey woven cloak with a large cowl. It is paired with loose brown trousers and textured leg wraps.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adda4e7f54df3.webp",
+   "thumb": "thumbs/6adda4e7f54df3.webp",
+   "addedAt": 1792910567631
   }
  ],
  "categories": [
