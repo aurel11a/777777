@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792959533379,
+ "updatedAt": 1792959745700,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5741,6 +5741,46 @@
    "image": "items/6ade642ca94318.webp",
    "thumb": "thumbs/6ade642ca94318.webp",
    "addedAt": 1792959532335
+  },
+  {
+   "id": "6ade6500c13d81",
+   "name": "Ivory Lace Wedding Gown",
+   "description": "A vintage-style ivory wedding gown featuring a high lace neckline, long sheer lace sleeves, and a gathered chiffon bodice. The dress has a wide waistband and a flowing floor-length skirt with a button-down side detail.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ade6500c13d81.webp",
+   "thumb": "thumbs/6ade6500c13d81.webp",
+   "addedAt": 1792959744783
+  },
+  {
+   "id": "6ade6500a625b7",
+   "name": "Rugged Leather Harness Outfit",
+   "description": "A dark, rugged outfit featuring a black long-sleeved henley shirt, dark trousers, and brown leather suspenders attached to a wide, double-buckled belt. It is accessorized with black gloves and dark brown lace-up boots.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6ade6500a625b7.webp",
+   "thumb": "thumbs/6ade6500a625b7.webp",
+   "addedAt": 1792959744784
+  },
+  {
+   "id": "6ade65002cc7c2",
+   "name": "Ivory Lace Vintage Gown",
+   "description": "A vintage-style ivory wedding gown featuring a high lace neckline, three-quarter sheer lace sleeves, and a pleated waist. It is accessorized with a long sheer lace veil, a floral headpiece, and delicate lace gloves.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ade65002cc7c2.webp",
+   "thumb": "thumbs/6ade65002cc7c2.webp",
+   "addedAt": 1792959744785
+  },
+  {
+   "id": "6ade650029bcd1",
+   "name": "Ivory Lace Gown",
+   "description": "A vintage-style ivory wedding gown completely covered in intricate lace, featuring a high neckline and long sleeves. It is paired with a matching long lace veil and a delicate floral headpiece.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ade650029bcd1.webp",
+   "thumb": "thumbs/6ade650029bcd1.webp",
+   "addedAt": 1792959744786
   }
  ],
  "categories": [
