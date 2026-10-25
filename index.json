@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905095619,
+ "updatedAt": 1792905144708,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2851,6 +2851,16 @@
    "image": "items/6add8f86619ba6.webp",
    "thumb": "thumbs/6add8f86619ba6.webp",
    "addedAt": 1792905094612
+  },
+  {
+   "id": "6add8fb74ceaf1",
+   "name": "красный купальник бикини",
+   "description": "A bright red two-piece swimsuit featuring a bikini top with thin straps and a central gold ring detail, paired with a matching ruched mini sarong skirt that ties at the side. Both pieces have a subtle dark marbled pattern.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add8fb74ceaf1.webp",
+   "thumb": "thumbs/6add8fb74ceaf1.webp",
+   "addedAt": 1792905143899
   }
  ],
  "categories": [
