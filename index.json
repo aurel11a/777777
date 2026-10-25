@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909759157,
+ "updatedAt": 1792909800973,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3571,6 +3571,16 @@
    "image": "items/6adda1be36aa9d.webp",
    "thumb": "thumbs/6adda1be36aa9d.webp",
    "addedAt": 1792909758373
+  },
+  {
+   "id": "6adda1e7da58ce",
+   "name": "темно-коричневая туника с многослойной накидкой на плечи",
+   "description": "A fantasy-style outfit featuring a dark brown tunic with a layered shoulder cape and a diagonal leather strap. It is paired with a wide fabric waist sash, dark trousers, and tall brown leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda1e7da58ce.webp",
+   "thumb": "thumbs/6adda1e7da58ce.webp",
+   "addedAt": 1792909799981
   }
  ],
  "categories": [
