@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905741936,
+ "updatedAt": 1792905805900,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2961,6 +2961,16 @@
    "image": "items/6add920c2ae6ee.webp",
    "thumb": "thumbs/6add920c2ae6ee.webp",
    "addedAt": 1792905740952
+  },
+  {
+   "id": "6add924ccc43a1",
+   "name": "аутфит с беретом и свитером с далматинцем",
+   "description": "A cream-colored knit sweater featuring a large graphic of a Dalmatian dog, paired with a red and white plaid pleated mini skirt. The outfit is accessorized with a red beret, a red fringed scarf, tall black leather boots, and a plaid shoulder bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add924ccc43a1.webp",
+   "thumb": "thumbs/6add924ccc43a1.webp",
+   "addedAt": 1792905804901
   }
  ],
  "categories": [
