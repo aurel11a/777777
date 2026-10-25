@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911063503,
+ "updatedAt": 1792911108834,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3741,6 +3741,16 @@
    "image": "items/6adda6d6ce39db.webp",
    "thumb": "thumbs/6adda6d6ce39db.webp",
    "addedAt": 1792911062489
+  },
+  {
+   "id": "6adda70438e848",
+   "name": "бежевый купальник с вырезами",
+   "description": "A beige one-piece swimsuit featuring a textured fabric with multiple cutouts at the chest and waist. It has a high-cut leg and a sleeveless design with a central vertical seam.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adda70438e848.webp",
+   "thumb": "thumbs/6adda70438e848.webp",
+   "addedAt": 1792911108081
   }
  ],
  "categories": [
