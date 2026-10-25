@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910914811,
+ "updatedAt": 1792910960614,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3711,6 +3711,16 @@
    "image": "items/6adda64189e2ad.webp",
    "thumb": "thumbs/6adda64189e2ad.webp",
    "addedAt": 1792910913836
+  },
+  {
+   "id": "6adda66f752b68",
+   "name": "темно-синее фактурное пальто с неровным подолом",
+   "description": "A fantasy-style layered outfit featuring a dark blue textured coat with jagged hem details over a lighter blue pleated inner robe. It is accessorized with a brown woven belt, a small leather pouch, and dark boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6adda66f752b68.webp",
+   "thumb": "thumbs/6adda66f752b68.webp",
+   "addedAt": 1792910959886
   }
  ],
  "categories": [
