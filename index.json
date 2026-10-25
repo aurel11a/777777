@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962584741,
+ "updatedAt": 1792962634702,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6101,6 +6101,16 @@
    "image": "items/6ade7017b984c2.webp",
    "thumb": "thumbs/6ade7017b984c2.webp",
    "addedAt": 1792962583894
+  },
+  {
+   "id": "6ade70498e7b62",
+   "name": "Olive Parka & High-Tops",
+   "description": "An olive green hooded parka worn open over a white t-shirt and black skinny jeans. The look is completed with a silver necklace and black high-top canvas sneakers.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade70498e7b62.webp",
+   "thumb": "thumbs/6ade70498e7b62.webp",
+   "addedAt": 1792962633453
   }
  ],
  "categories": [
