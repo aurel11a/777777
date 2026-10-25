@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910216629,
+ "updatedAt": 1792910265777,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3651,6 +3651,16 @@
    "image": "items/6adda38704d11b.webp",
    "thumb": "thumbs/6adda38704d11b.webp",
    "addedAt": 1792910215407
+  },
+  {
+   "id": "6adda3b8821597",
+   "name": "костюм с застежками и ремешками",
+   "description": "A historical fantasy-style outfit featuring a long, dark brown leather coat with metallic clasps and a layered collar. It is paired with a blue waist sash, dark trousers, black gloves, and cuffed black leather boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adda3b8821597.webp",
+   "thumb": "thumbs/6adda3b8821597.webp",
+   "addedAt": 1792910264862
   }
  ],
  "categories": [
