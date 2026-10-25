@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915170290,
+ "updatedAt": 1792915248295,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4061,6 +4061,16 @@
    "image": "items/6addb6e122b06b.webp",
    "thumb": "thumbs/6addb6e122b06b.webp",
    "addedAt": 1792915169538
+  },
+  {
+   "id": "6addb72f89f87b",
+   "name": "футболка и синие штаны",
+   "description": "A white cropped t-shirt with a red graphic print is paired with bright blue, oversized wide-leg sweatpants featuring a \"92\" logo. The look is accessorized with a black shoulder bag, dark bracelets, and leopard-print flat shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6addb72f89f87b.webp",
+   "thumb": "thumbs/6addb72f89f87b.webp",
+   "addedAt": 1792915247517
   }
  ],
  "categories": [
