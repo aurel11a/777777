@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961745399,
+ "updatedAt": 1792961808847,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6011,6 +6011,16 @@
    "image": "items/6ade6ccea2b181.webp",
    "thumb": "thumbs/6ade6ccea2b181.webp",
    "addedAt": 1792961742541
+  },
+  {
+   "id": "6ade6d0f9097ec",
+   "name": "Striped Sweater & Brown Trousers",
+   "description": "A grey and white vertically striped long-sleeved sweater, tucked into dark brown tailored trousers with a black belt. The look is accessorized with a black crossbody bag featuring a small pouch and chunky black Chelsea boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6d0f9097ec.webp",
+   "thumb": "thumbs/6ade6d0f9097ec.webp",
+   "addedAt": 1792961807910
   }
  ],
  "categories": [
