@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792958288028,
+ "updatedAt": 1792958467507,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5531,6 +5531,36 @@
    "image": "items/6ade5f4fb616fc.webp",
    "thumb": "thumbs/6ade5f4fb616fc.webp",
    "addedAt": 1792958287136
+  },
+  {
+   "id": "6ade6002f1300c",
+   "name": "Red Velvet Stage Dress",
+   "description": "A theatrical mini dress featuring an asymmetrical design with a deep red velvet bodice adorned with gold embroidery and large red rose appliqués. The skirt is made of white lace and tulle, draped with layered pearl chains. It is paired with white knee-high boots and a pearl necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade6002f1300c.webp",
+   "thumb": "thumbs/6ade6002f1300c.webp",
+   "addedAt": 1792958466144
+  },
+  {
+   "id": "6ade6002557ebf",
+   "name": "White Rose Mini Dress",
+   "description": "A white one-shoulder mini dress featuring a dramatic, asymmetrical deep red velvet sash heavily embellished with gold embroidery, jewels, and large 3D red roses. The skirt has a ruffled white lace hem and is draped with dangling pearl chains, paired with white knee-high boots.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade6002557ebf.webp",
+   "thumb": "thumbs/6ade6002557ebf.webp",
+   "addedAt": 1792958466145
+  },
+  {
+   "id": "6ade60020ecd55",
+   "name": "Red Velvet Pearl Dress",
+   "description": "A one-shoulder mini dress featuring a white bodice and a deep red velvet skirt adorned with gold embroidery and large red rose appliqués. The dress has a white lace hem and is draped with layered pearl chains, paired with white knee-high boots.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade60020ecd55.webp",
+   "thumb": "thumbs/6ade60020ecd55.webp",
+   "addedAt": 1792958466146
   }
  ],
  "categories": [
