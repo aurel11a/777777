@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961209849,
+ "updatedAt": 1792961335836,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5941,6 +5941,16 @@
    "image": "items/6ade6ab82d91f8.webp",
    "thumb": "thumbs/6ade6ab82d91f8.webp",
    "addedAt": 1792961208991
+  },
+  {
+   "id": "6ade6b36b841b3",
+   "name": "Brown Tailored Coat Outfit",
+   "description": "A long brown tailored coat with dark buttons is worn over a textured brown V-neck sweater and matching wide-leg trousers. It is completed with dark brown leather shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade6b36b841b3.webp",
+   "thumb": "thumbs/6ade6b36b841b3.webp",
+   "addedAt": 1792961334964
   }
  ],
  "categories": [
