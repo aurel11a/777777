@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961404005,
+ "updatedAt": 1792961493540,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5961,6 +5961,16 @@
    "image": "items/6ade6b7a1c9a79.webp",
    "thumb": "thumbs/6ade6b7a1c9a79.webp",
    "addedAt": 1792961402828
+  },
+  {
+   "id": "6ade6bd4040002",
+   "name": "Graphic Tee & Baggy Jeans",
+   "description": "A black oversized t-shirt featuring a pink graphic cat and text, paired with medium-wash loose-fitting jeans. The look is completed with white socks and chunky light pink sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6bd4040002.webp",
+   "thumb": "thumbs/6ade6bd4040002.webp",
+   "addedAt": 1792961492648
   }
  ],
  "categories": [
