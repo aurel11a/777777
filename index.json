@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905521265,
+ "updatedAt": 1792905572882,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2921,6 +2921,16 @@
    "image": "items/6add9130890dc1.webp",
    "thumb": "thumbs/6add9130890dc1.webp",
    "addedAt": 1792905520096
+  },
+  {
+   "id": "6add91631ddaef",
+   "name": "пижама с животными",
+   "description": "A cream-colored, textured two-piece pajama set featuring a sleeveless top with wide dark blue straps, a front bow, and a repeating navy animal sketch print. It is paired with matching shorts that have a dark blue ruffled hem.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add91631ddaef.webp",
+   "thumb": "thumbs/6add91631ddaef.webp",
+   "addedAt": 1792905571962
   }
  ],
  "categories": [
