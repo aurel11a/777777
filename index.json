@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792956517309,
+ "updatedAt": 1792956709809,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5361,6 +5361,26 @@
    "image": "items/6ade58648519a8.webp",
    "thumb": "thumbs/6ade58648519a8.webp",
    "addedAt": 1792956516399
+  },
+  {
+   "id": "6ade59249b4fa1",
+   "name": "Warrior Leather Armor",
+   "description": "A rugged, historical warrior outfit featuring a dark leather chest piece with metal ring details and shoulder guards. It is paired with a layered leather and fabric skirt, a wide brown belt, leather bracers, and distressed tall boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ade59249b4fa1.webp",
+   "thumb": "thumbs/6ade59249b4fa1.webp",
+   "addedAt": 1792956708949
+  },
+  {
+   "id": "6ade5924cae618",
+   "name": "Silver Knight Armor",
+   "description": "A fantasy-style female knight armor set featuring a silver metallic breastplate with red accents, layered shoulder guards, and arm bracers. It includes a chainmail skirt panel, red gauntlets, and matching silver leg armor.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade5924cae618.webp",
+   "thumb": "thumbs/6ade5924cae618.webp",
+   "addedAt": 1792956708950
   }
  ],
  "categories": [
