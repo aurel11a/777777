@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792959866385,
+ "updatedAt": 1792960033147,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5801,6 +5801,16 @@
    "image": "items/6ade657920aa07.webp",
    "thumb": "thumbs/6ade657920aa07.webp",
    "addedAt": 1792959865047
+  },
+  {
+   "id": "6ade6620b6a730",
+   "name": "Olive Military Uniform",
+   "description": "A vintage military uniform featuring an olive green collared jacket with buttoned chest pockets and a matching belt. It is paired with matching breeches and tall black leather boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ade6620b6a730.webp",
+   "thumb": "thumbs/6ade6620b6a730.webp",
+   "addedAt": 1792960032149
   }
  ],
  "categories": [
