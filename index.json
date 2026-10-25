@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905144708,
+ "updatedAt": 1792905199393,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2861,6 +2861,16 @@
    "image": "items/6add8fb74ceaf1.webp",
    "thumb": "thumbs/6add8fb74ceaf1.webp",
    "addedAt": 1792905143899
+  },
+  {
+   "id": "6add8feeb3b44d",
+   "name": "длинное бордовое платье с мехом",
+   "description": "A floor-length deep burgundy gown with a fitted bodice and a full skirt, heavily embellished with intricate gold embroidery and beadwork down the center and along the edges. It is paired with a matching burgundy cape featuring a thick grey fur trim and accessorized with a gold necklace and white gloves.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6add8feeb3b44d.webp",
+   "thumb": "thumbs/6add8feeb3b44d.webp",
+   "addedAt": 1792905198628
   }
  ],
  "categories": [
