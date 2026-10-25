@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905572882,
+ "updatedAt": 1792905633346,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2931,6 +2931,16 @@
    "image": "items/6add91631ddaef.webp",
    "thumb": "thumbs/6add91631ddaef.webp",
    "addedAt": 1792905571962
+  },
+  {
+   "id": "6add91a0d37e83",
+   "name": "желтый купальник с земляникой",
+   "description": "A yellow two-piece swimsuit featuring a straight-neck spaghetti-strap top and matching bottoms with a front tie detail. Both pieces are decorated with a repeating pattern of red strawberries and green leaves.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add91a0d37e83.webp",
+   "thumb": "thumbs/6add91a0d37e83.webp",
+   "addedAt": 1792905632466
   }
  ],
  "categories": [
