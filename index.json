@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792959745700,
+ "updatedAt": 1792959866385,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5781,6 +5781,26 @@
    "image": "items/6ade650029bcd1.webp",
    "thumb": "thumbs/6ade650029bcd1.webp",
    "addedAt": 1792959744786
+  },
+  {
+   "id": "6ade65791ee1e6",
+   "name": "Beige & Blue Vintage Dress",
+   "description": "A vintage-style dress featuring a light beige, vertically striped long-sleeved top with a button-down front and a scalloped waistline. The skirt is a solid dusty blue, and the look is accessorized with a matching blue scarf, white gloves, and beige t-strap heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ade65791ee1e6.webp",
+   "thumb": "thumbs/6ade65791ee1e6.webp",
+   "addedAt": 1792959865046
+  },
+  {
+   "id": "6ade657920aa07",
+   "name": "Navy & Cream Vintage Suit",
+   "description": "A vintage-style outfit featuring a navy blue structured jacket with short puff sleeves over a cream-colored blouse with a dotted pattern. It is paired with a matching cream midi skirt with a navy hem, a navy hat, white gloves, and a small navy handbag.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ade657920aa07.webp",
+   "thumb": "thumbs/6ade657920aa07.webp",
+   "addedAt": 1792959865047
   }
  ],
  "categories": [
