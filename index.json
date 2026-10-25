@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905848916,
+ "updatedAt": 1792905905773,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2981,6 +2981,16 @@
    "image": "items/6add9278bcafa1.webp",
    "thumb": "thumbs/6add9278bcafa1.webp",
    "addedAt": 1792905848150
+  },
+  {
+   "id": "6add92b0bdccd7",
+   "name": "пижама с синим медведем",
+   "description": "A dark grey short-sleeve pajama top featuring a large graphic of a grumpy blue bear and the text \"Grumpy Day\". It is paired with light blue pajama pants covered in a repeating pattern of the same bear.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add92b0bdccd7.webp",
+   "thumb": "thumbs/6add92b0bdccd7.webp",
+   "addedAt": 1792905904541
   }
  ],
  "categories": [
