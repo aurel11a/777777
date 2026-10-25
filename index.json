@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960033147,
+ "updatedAt": 1792960123594,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5811,6 +5811,16 @@
    "image": "items/6ade6620b6a730.webp",
    "thumb": "thumbs/6ade6620b6a730.webp",
    "addedAt": 1792960032149
+  },
+  {
+   "id": "6ade667ab7c844",
+   "name": "Striped Shirt & Black Jeans",
+   "description": "A black and white vertically striped button-down shirt worn open over a white top, paired with black skinny jeans. The look is completed with black leather ankle boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade667ab7c844.webp",
+   "thumb": "thumbs/6ade667ab7c844.webp",
+   "addedAt": 1792960122798
   }
  ],
  "categories": [
