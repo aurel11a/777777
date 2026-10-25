@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940912816,
+ "updatedAt": 1792940988635,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4781,6 +4781,16 @@
    "image": "items/6ade1b6f204f7e.webp",
    "thumb": "thumbs/6ade1b6f204f7e.webp",
    "addedAt": 1792940911648
+  },
+  {
+   "id": "6ade1bbbfad930",
+   "name": "свитер с котиком и юбка",
+   "description": "A light pink knitted long-sleeved sweater with a high cowl neckline, featuring a graphic print and a large pink ribbon tied at the collar. It is paired with a matching pink ruffled mini skirt adorned with a large satin bow.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade1bbbfad930.webp",
+   "thumb": "thumbs/6ade1bbbfad930.webp",
+   "addedAt": 1792940987785
   }
  ],
  "categories": [
