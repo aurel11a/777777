@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909015060,
+ "updatedAt": 1792909058422,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3441,6 +3441,16 @@
    "image": "items/6add9ed61dc3c1.webp",
    "thumb": "thumbs/6add9ed61dc3c1.webp",
    "addedAt": 1792909014232
+  },
+  {
+   "id": "6add9f01749a80",
+   "name": "топ бургунди со светлыми широкими брюками и кедами",
+   "description": "A burgundy lace-trimmed halter top with a ruched bodice is paired with light grey wide-leg trousers. The outfit is accessorized with black high-top canvas sneakers, a black leather shoulder bag with a lace bow, and red-framed glasses.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9f01749a80.webp",
+   "thumb": "thumbs/6add9f01749a80.webp",
+   "addedAt": 1792909057627
   }
  ],
  "categories": [
