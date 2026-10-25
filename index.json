@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911661419,
+ "updatedAt": 1792911742013,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3841,6 +3841,16 @@
    "image": "items/6adda92c696399.webp",
    "thumb": "thumbs/6adda92c696399.webp",
    "addedAt": 1792911660445
+  },
+  {
+   "id": "6adda97d505287",
+   "name": "костюм с босоножками",
+   "description": "A light pink zip-up hoodie with a plush faux-fur hood is paired with matching relaxed-fit wide-leg sweatpants. The look is completed with a delicate lace-trimmed camisole underneath and metallic heeled sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adda97d505287.webp",
+   "thumb": "thumbs/6adda97d505287.webp",
+   "addedAt": 1792911741266
   }
  ],
  "categories": [
