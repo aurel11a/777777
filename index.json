@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906369802,
+ "updatedAt": 1792906416814,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3061,6 +3061,16 @@
    "image": "items/6add9480d3e18c.webp",
    "thumb": "thumbs/6add9480d3e18c.webp",
    "addedAt": 1792906368971
+  },
+  {
+   "id": "6add94b08c39c5",
+   "name": "плюшевый комбинезон с мишками",
+   "description": "A white, plush fleece jumpsuit featuring an all-over brown teddy bear print. It has a hood with small bear ears and is accessorized with a long beige scarf and brown boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add94b08c39c5.webp",
+   "thumb": "thumbs/6add94b08c39c5.webp",
+   "addedAt": 1792906416020
   }
  ],
  "categories": [
