@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940146363,
+ "updatedAt": 1792940260976,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4671,6 +4671,16 @@
    "image": "items/6ade18713ef6a6.webp",
    "thumb": "thumbs/6ade18713ef6a6.webp",
    "addedAt": 1792940145498
+  },
+  {
+   "id": "6ade18e49f2533",
+   "name": "голубой полупрозрачный бэбидол",
+   "description": "A light blue sheer babydoll lingerie slip featuring a deep V-neckline with ruffled lace trim and a small white bow at the center. It has a flowy, tiered skirt with ruffled hems.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ade18e49f2533.webp",
+   "thumb": "thumbs/6ade18e49f2533.webp",
+   "addedAt": 1792940260136
   }
  ],
  "categories": [
