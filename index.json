@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792956398937,
+ "updatedAt": 1792956517309,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5341,6 +5341,26 @@
    "image": "items/6ade57edeecd89.webp",
    "thumb": "thumbs/6ade57edeecd89.webp",
    "addedAt": 1792956397862
+  },
+  {
+   "id": "6ade5864b0a0cc",
+   "name": "Denim Floral Set",
+   "description": "A light blue denim halter top with a high collar and an open front, paired with dark wash low-rise flared jeans. The jeans feature a large blue fabric floral appliqué and long wrapped ties at the hip.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade5864b0a0cc.webp",
+   "thumb": "thumbs/6ade5864b0a0cc.webp",
+   "addedAt": 1792956516398
+  },
+  {
+   "id": "6ade58648519a8",
+   "name": "Blue 3D Floral Dress",
+   "description": "A light blue satin mini dress featuring a structured corset bodice and a dramatic, oversized 3D floral appliqué at the hip. It is paired with a matching sheer lace off-the-shoulder jacket and pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade58648519a8.webp",
+   "thumb": "thumbs/6ade58648519a8.webp",
+   "addedAt": 1792956516399
   }
  ],
  "categories": [
