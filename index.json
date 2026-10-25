@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907390457,
+ "updatedAt": 1792907457154,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3201,6 +3201,16 @@
    "image": "items/6add987d519b75.webp",
    "thumb": "thumbs/6add987d519b75.webp",
    "addedAt": 1792907389273
+  },
+  {
+   "id": "6add98bff15e99",
+   "name": "свадебное платье с объемной юбкой без бретелей",
+   "description": "A white wedding gown featuring an off-the-shoulder, strapless bodice with detached long sleeves. The voluminous skirt is composed of tiered, cascading ruffles and includes a long, flowing train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6add98bff15e99.webp",
+   "thumb": "thumbs/6add98bff15e99.webp",
+   "addedAt": 1792907455310
   }
  ],
  "categories": [
