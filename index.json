@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909662626,
+ "updatedAt": 1792909712765,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3551,6 +3551,16 @@
    "image": "items/6adda15d48dc35.webp",
    "thumb": "thumbs/6adda15d48dc35.webp",
    "addedAt": 1792909661654
+  },
+  {
+   "id": "6adda18f5114b8",
+   "name": "многослойный женский доспех",
+   "description": "A dark fantasy-style armor set featuring a black fur-collared top, layered leather and metal waist guards, and a wide belt with a large circular buckle. It is paired with patterned mesh leggings, armored gauntlets, and heavy metal-plated boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda18f5114b8.webp",
+   "thumb": "thumbs/6adda18f5114b8.webp",
+   "addedAt": 1792909711886
   }
  ],
  "categories": [
