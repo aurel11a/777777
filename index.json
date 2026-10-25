@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962099277,
+ "updatedAt": 1792962153765,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6041,6 +6041,16 @@
    "image": "items/6ade6e322bf421.webp",
    "thumb": "thumbs/6ade6e322bf421.webp",
    "addedAt": 1792962098412
+  },
+  {
+   "id": "6ade6e68267453",
+   "name": "Black Tee & Pinstripe Trousers",
+   "description": "A black crewneck t-shirt tucked into black pinstriped tailored trousers with a black belt. The look is completed with black leather lace-up shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6e68267453.webp",
+   "thumb": "thumbs/6ade6e68267453.webp",
+   "addedAt": 1792962152974
   }
  ],
  "categories": [
