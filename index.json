@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792955990603,
+ "updatedAt": 1792956160184,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5281,6 +5281,36 @@
    "image": "items/6ade5655e4a40e.webp",
    "thumb": "thumbs/6ade5655e4a40e.webp",
    "addedAt": 1792955989341
+  },
+  {
+   "id": "6ade56ff03ba3d",
+   "name": "Teal Celtic Tunic",
+   "description": "A historical-style teal tunic dress featuring a gold-embroidered neckline and a large gold Celtic knot motif near the hem. It is accessorized with a long beige waist sash, a beaded necklace, and a draped blue fringed shawl.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade56ff03ba3d.webp",
+   "thumb": "thumbs/6ade56ff03ba3d.webp",
+   "addedAt": 1792956159172
+  },
+  {
+   "id": "6ade56ff238d66",
+   "name": "Celtic Brooch Tunic",
+   "description": "A historical-style cream tunic dress featuring vertical black Celtic knotwork embroidery and a dark grey waistband. It is accessorized with a large grey fringed shawl secured by ornate round brooches and multiple layered beaded necklaces.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade56ff238d66.webp",
+   "thumb": "thumbs/6ade56ff238d66.webp",
+   "addedAt": 1792956159173
+  },
+  {
+   "id": "6ade56ff0070a8",
+   "name": "Green Historical Gown",
+   "description": "A historical-style green gown featuring a high neckline and a patterned border at the hem, paired with a draped cape with an intricate geometric print. The look is accessorized with layered green and silver beaded necklaces and round brooches.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade56ff0070a8.webp",
+   "thumb": "thumbs/6ade56ff0070a8.webp",
+   "addedAt": 1792956159174
   }
  ],
  "categories": [
