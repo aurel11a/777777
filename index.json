@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907682082,
+ "updatedAt": 1792907730863,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3251,6 +3251,16 @@
    "image": "items/6add99a1aac2ea.webp",
    "thumb": "thumbs/6add99a1aac2ea.webp",
    "addedAt": 1792907681045
+  },
+  {
+   "id": "6add99d24d0566",
+   "name": "мерцающее изумрудно-зеленое платье в пол",
+   "description": "A floor-length, shimmering emerald green gown with thin straps and a V-neckline, paired with a matching voluminous wrap or shawl. The look is completed with matching green pointed-toe heels and a delicate silver necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add99d24d0566.webp",
+   "thumb": "thumbs/6add99d24d0566.webp",
+   "addedAt": 1792907730017
   }
  ],
  "categories": [
