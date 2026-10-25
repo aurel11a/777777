@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906996618,
+ "updatedAt": 1792907049885,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3141,6 +3141,16 @@
    "image": "items/6add96f34a7979.webp",
    "thumb": "thumbs/6add96f34a7979.webp",
    "addedAt": 1792906995815
+  },
+  {
+   "id": "6add972800a34a",
+   "name": "темно-коричневый облегающий комбинезон без рукавов",
+   "description": "A dark brown, form-fitting sleeveless romper with a high mock neckline, a front zipper, and contoured seam details. It features a small white logo on the chest and is paired with a matching wristband.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add972800a34a.webp",
+   "thumb": "thumbs/6add972800a34a.webp",
+   "addedAt": 1792907048936
   }
  ],
  "categories": [
