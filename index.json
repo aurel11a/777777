@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915680424,
+ "updatedAt": 1792915772403,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4151,6 +4151,16 @@
    "image": "items/6addb8df9bdb56.webp",
    "thumb": "thumbs/6addb8df9bdb56.webp",
    "addedAt": 1792915679676
+  },
+  {
+   "id": "6addb93b56c23f",
+   "name": "серый спортивный костюм с корсетом",
+   "description": "A dark grey matching sweatsuit featuring a cropped zip-up hoodie with a structured corset-style waist and an open neckline. It is paired with matching high-waisted jogger sweatpants and white chunky sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6addb93b56c23f.webp",
+   "thumb": "thumbs/6addb93b56c23f.webp",
+   "addedAt": 1792915771088
   }
  ],
  "categories": [
