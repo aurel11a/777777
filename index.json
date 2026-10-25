@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911742013,
+ "updatedAt": 1792911834263,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3851,6 +3851,16 @@
    "image": "items/6adda97d505287.webp",
    "thumb": "thumbs/6adda97d505287.webp",
    "addedAt": 1792911741266
+  },
+  {
+   "id": "6adda9d9f69dbb",
+   "name": "зимний образ с сине-зеленой курткой в клетку",
+   "description": "A blue and green plaid jacket featuring a large faux-fur collar, cuffs, and hem, worn over a dark mini skirt and opaque tights. The winter look is completed with thick knit leg warmers and dark boots with fur trim.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adda9d9f69dbb.webp",
+   "thumb": "thumbs/6adda9d9f69dbb.webp",
+   "addedAt": 1792911833265
   }
  ],
  "categories": [
