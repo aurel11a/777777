@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911154045,
+ "updatedAt": 1792911205165,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3761,6 +3761,16 @@
    "image": "items/6adda731d15412.webp",
    "thumb": "thumbs/6adda731d15412.webp",
    "addedAt": 1792911153249
+  },
+  {
+   "id": "6adda764c710e5",
+   "name": "темно-синий купальник с глубоким вырезом",
+   "description": "A navy blue one-piece swimsuit featuring a halter neckline with a deep plunging front and side waist cutouts. It has a high-cut leg and a fitted silhouette.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adda764c710e5.webp",
+   "thumb": "thumbs/6adda764c710e5.webp",
+   "addedAt": 1792911204422
   }
  ],
  "categories": [
