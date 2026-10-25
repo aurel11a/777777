@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961493540,
+ "updatedAt": 1792961548341,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5971,6 +5971,16 @@
    "image": "items/6ade6bd4040002.webp",
    "thumb": "thumbs/6ade6bd4040002.webp",
    "addedAt": 1792961492648
+  },
+  {
+   "id": "6ade6c0bff0384",
+   "name": "Renaissance Gold Doublet",
+   "description": "A historical-style men's outfit featuring a gold patterned doublet with red velvet accents, slashed sleeves, and a ruffled white collar. It is paired with matching puffed trunk hose, dark red tights, and tall black leather boots, accessorized with layered gold chains.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ade6c0bff0384.webp",
+   "thumb": "thumbs/6ade6c0bff0384.webp",
+   "addedAt": 1792961547436
   }
  ],
  "categories": [
