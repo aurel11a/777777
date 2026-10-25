@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961633187,
+ "updatedAt": 1792961741288,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5991,6 +5991,16 @@
    "image": "items/6ade6c60638052.webp",
    "thumb": "thumbs/6ade6c60638052.webp",
    "addedAt": 1792961632132
+  },
+  {
+   "id": "6ade6ccce2cc87",
+   "name": "Rustic Rose",
+   "description": "A white long-sleeve blouse with ruffled cuffs layers under a floral lace-up corset top, paired with a sweeping brown satin maxi skirt. Brown pointed-toe Mary Jane heels, a matching brown handbag, and elegant pearl-drop jewelry complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ade6ccce2cc87.webp",
+   "thumb": "thumbs/6ade6ccce2cc87.webp",
+   "addedAt": 1792961740378
   }
  ],
  "categories": [
