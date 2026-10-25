@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906014019,
+ "updatedAt": 1792906092625,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3011,6 +3011,16 @@
    "image": "items/6add931dee2042.webp",
    "thumb": "thumbs/6add931dee2042.webp",
    "addedAt": 1792906013287
+  },
+  {
+   "id": "6add936b281269",
+   "name": "розовый комплект с толстовкой и чепчиком",
+   "description": "A light pink camisole and shorts set with a small repeating pattern, paired with a cream zip-up hoodie featuring a pink cherry blossom tree graphic. Accessories include a black satin sleep bonnet and brown slippers with plush white trim and cat faces.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add936b281269.webp",
+   "thumb": "thumbs/6add936b281269.webp",
+   "addedAt": 1792906091635
   }
  ],
  "categories": [
