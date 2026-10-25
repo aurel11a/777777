@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906467972,
+ "updatedAt": 1792906519870,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3081,6 +3081,16 @@
    "image": "items/6add94e28efd72.webp",
    "thumb": "thumbs/6add94e28efd72.webp",
    "addedAt": 1792906466972
+  },
+  {
+   "id": "6add95169dd088",
+   "name": "домашний комбинезон с топом",
+   "description": "A cream-colored, sleeveless romper with a relaxed fit, featuring ruffled spaghetti straps and a repeating pink heart pattern. It has a buttoned front and ruffled hems at the leg openings, worn over a pink top.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add95169dd088.webp",
+   "thumb": "thumbs/6add95169dd088.webp",
+   "addedAt": 1792906518938
   }
  ],
  "categories": [
