@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906648875,
+ "updatedAt": 1792906709309,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3111,6 +3111,16 @@
    "image": "items/6add9598fe0798.webp",
    "thumb": "thumbs/6add9598fe0798.webp",
    "addedAt": 1792906648140
+  },
+  {
+   "id": "6add95d4be6070",
+   "name": "розово-зеленый комплект Nike",
+   "description": "A light green two-piece athletic set featuring a spaghetti-strap top with black geometric trim and pink panels, paired with matching shorts with a black waistband and side ties. Both pieces have a small black Nike swoosh logo.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add95d4be6070.webp",
+   "thumb": "thumbs/6add95d4be6070.webp",
+   "addedAt": 1792906708280
   }
  ],
  "categories": [
