@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912564071,
+ "updatedAt": 1792914857651,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3991,6 +3991,16 @@
    "image": "items/6addacb24d2ead.webp",
    "thumb": "thumbs/6addacb24d2ead.webp",
    "addedAt": 1792912562736
+  },
+  {
+   "id": "6addb5a86f3028",
+   "name": "серый свитшот с белой мини-юбкой",
+   "description": "An oversized grey half-zip sweatshirt is paired with a white pleated mini skirt featuring a black striped hem. The look is completed with white crew socks and white and silver chunky sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6addb5a86f3028.webp",
+   "thumb": "thumbs/6addb5a86f3028.webp",
+   "addedAt": 1792914856836
   }
  ],
  "categories": [
