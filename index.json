@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907457154,
+ "updatedAt": 1792907504862,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3211,6 +3211,16 @@
    "image": "items/6add98bff15e99.webp",
    "thumb": "thumbs/6add98bff15e99.webp",
    "addedAt": 1792907455310
+  },
+  {
+   "id": "6add98efb7ada8",
+   "name": "костюм в стиле all-black",
+   "description": "An all-black outfit featuring an oversized leather blazer, a cropped top, and wide-leg tailored trousers. The look is accessorized with layered gold necklaces and a black structured handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add98efb7ada8.webp",
+   "thumb": "thumbs/6add98efb7ada8.webp",
+   "addedAt": 1792907503941
   }
  ],
  "categories": [
