@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915859168,
+ "updatedAt": 1792915915401,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4181,6 +4181,16 @@
    "image": "items/6addb9923f8765.webp",
    "thumb": "thumbs/6addb9923f8765.webp",
    "addedAt": 1792915858434
+  },
+  {
+   "id": "6addb9ca3ad4d3",
+   "name": "голубой вязаный купальник с цветочками",
+   "description": "A light blue crochet two-piece set featuring a strapless tube top and matching drawstring shorts, both adorned with white floral appliqués. The look is accessorized with a shell necklace.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addb9ca3ad4d3.webp",
+   "thumb": "thumbs/6addb9ca3ad4d3.webp",
+   "addedAt": 1792915914596
   }
  ],
  "categories": [
