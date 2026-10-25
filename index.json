@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907504862,
+ "updatedAt": 1792907571199,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3221,6 +3221,16 @@
    "image": "items/6add98efb7ada8.webp",
    "thumb": "thumbs/6add98efb7ada8.webp",
    "addedAt": 1792907503941
+  },
+  {
+   "id": "6add9932ad74ab",
+   "name": "розовое платье с вишнями",
+   "description": "A light pink mini dress with thin straps, a ruffled gingham hem, and a cherry-embroidered bodice.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add9932ad74ab.webp",
+   "thumb": "thumbs/6add9932ad74ab.webp",
+   "addedAt": 1792907570294
   }
  ],
  "categories": [
