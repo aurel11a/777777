@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792956160184,
+ "updatedAt": 1792956398937,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5311,6 +5311,36 @@
    "image": "items/6ade56ff0070a8.webp",
    "thumb": "thumbs/6ade56ff0070a8.webp",
    "addedAt": 1792956159174
+  },
+  {
+   "id": "6ade57ed17f1bd",
+   "name": "Thief Leather Costume",
+   "description": "A dark fantasy-style thief costume featuring a black hooded cowl and a structured, multi-buckled leather corset over a fitted black top. It is accessorized with a diagonal chest strap, a leather waist belt with pouches, and black leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade57ed17f1bd.webp",
+   "thumb": "thumbs/6ade57ed17f1bd.webp",
+   "addedAt": 1792956397860
+  },
+  {
+   "id": "6ade57eda26e4b",
+   "name": "Mint Rococo Gown",
+   "description": "A historical-style mint green gown featuring a fitted bodice with a stomacher, ruffled elbow-length sleeves, and a voluminous skirt. It is heavily decorated with green ribbon bows, ruffled trim, and a floral-embroidered pocket, accessorized with a layered gold necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade57eda26e4b.webp",
+   "thumb": "thumbs/6ade57eda26e4b.webp",
+   "addedAt": 1792956397861
+  },
+  {
+   "id": "6ade57edeecd89",
+   "name": "Gold Byzantine Gown",
+   "description": "An ornate, historical-style gold gown featuring a long, textured tunic with a heavily embroidered central panel and a matching patterned cloak. The look is completed with a large, circular gold headpiece, a sheer veil, and layered gold necklaces.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade57edeecd89.webp",
+   "thumb": "thumbs/6ade57edeecd89.webp",
+   "addedAt": 1792956397862
   }
  ],
  "categories": [
