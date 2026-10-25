@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960174798,
+ "updatedAt": 1792960228154,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5831,6 +5831,16 @@
    "image": "items/6ade66ad8f17ca.webp",
    "thumb": "thumbs/6ade66ad8f17ca.webp",
    "addedAt": 1792960173828
+  },
+  {
+   "id": "6ade66e36de95a",
+   "name": "Beige & Black Minimalist Outfit",
+   "description": "A men's outfit featuring a beige half-zip sweater paired with dark navy tailored trousers and a black tailored coat. It is accessorized with a silver watch and black chunky Chelsea boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade66e36de95a.webp",
+   "thumb": "thumbs/6ade66e36de95a.webp",
+   "addedAt": 1792960227299
   }
  ],
  "categories": [
