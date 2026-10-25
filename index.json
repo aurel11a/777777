@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962225838,
+ "updatedAt": 1792962357526,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6061,6 +6061,16 @@
    "image": "items/6ade6eb0ebd776.webp",
    "thumb": "thumbs/6ade6eb0ebd776.webp",
    "addedAt": 1792962224813
+  },
+  {
+   "id": "6ade6f341f33e0",
+   "name": "Brown Tweed Three-Piece Suit",
+   "description": "A tailored brown tweed three-piece suit featuring a long overcoat, a double-breasted waistcoat, and matching trousers. It is worn with a white collared shirt, a dark tie, a silver pocket watch chain, and brown leather brogue shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ade6f341f33e0.webp",
+   "thumb": "thumbs/6ade6f341f33e0.webp",
+   "addedAt": 1792962356560
   }
  ],
  "categories": [
