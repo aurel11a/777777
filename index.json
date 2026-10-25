@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909557940,
+ "updatedAt": 1792909600111,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3531,6 +3531,16 @@
    "image": "items/6adda0f5449cb6.webp",
    "thumb": "thumbs/6adda0f5449cb6.webp",
    "addedAt": 1792909557184
+  },
+  {
+   "id": "6adda11f3d7a76",
+   "name": "красное фэнтези платье с золотой вышивкой",
+   "description": "A fantasy-style red gown with a white paneled skirt and gold embroidered trim, worn with a matching ornate headpiece. The outfit features a decorative belt with a large circular buckle and red and gold patterned arm bands.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda11f3d7a76.webp",
+   "thumb": "thumbs/6adda11f3d7a76.webp",
+   "addedAt": 1792909599403
   }
  ],
  "categories": [
