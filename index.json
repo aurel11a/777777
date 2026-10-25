@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907326791,
+ "updatedAt": 1792907390457,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3191,6 +3191,16 @@
    "image": "items/6add983db92cae.webp",
    "thumb": "thumbs/6add983db92cae.webp",
    "addedAt": 1792907325595
+  },
+  {
+   "id": "6add987d519b75",
+   "name": "черный атласный комбинезон с бретелями и перчатками",
+   "description": "A black satin romper with thin straps, a fitted bodice featuring a rhinestone cat face design, and ruffled, flared shorts. It is accessorized with long black lace gloves, a black neck ribbon, and white hair bows.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add987d519b75.webp",
+   "thumb": "thumbs/6add987d519b75.webp",
+   "addedAt": 1792907389273
   }
  ],
  "categories": [
