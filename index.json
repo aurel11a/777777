@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911496162,
+ "updatedAt": 1792911543060,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3811,6 +3811,16 @@
    "image": "items/6adda8873d5862.webp",
    "thumb": "thumbs/6adda8873d5862.webp",
    "addedAt": 1792911495207
+  },
+  {
+   "id": "6adda8b638df5b",
+   "name": "светло-розовый комплект в рубчик",
+   "description": "A light pink ribbed matching set featuring a long-sleeved, zip-up top with a collared neckline and a peplum waist. It is paired with matching flared trousers and pink and white platform sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adda8b638df5b.webp",
+   "thumb": "thumbs/6adda8b638df5b.webp",
+   "addedAt": 1792911542244
   }
  ],
  "categories": [
