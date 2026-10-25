@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911205165,
+ "updatedAt": 1792911254628,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3771,6 +3771,16 @@
    "image": "items/6adda764c710e5.webp",
    "thumb": "thumbs/6adda764c710e5.webp",
    "addedAt": 1792911204422
+  },
+  {
+   "id": "6adda795a9917e",
+   "name": "бикини с розовой кружевной отделкой",
+   "description": "A white two-piece bikini featuring pink ruffled lace trim along the edges. The top has halter straps and pink bow accents, paired with matching tie-side bottoms adorned with small pink bows.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adda795a9917e.webp",
+   "thumb": "thumbs/6adda795a9917e.webp",
+   "addedAt": 1792911253734
   }
  ],
  "categories": [
