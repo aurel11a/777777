@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906092625,
+ "updatedAt": 1792906155041,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3021,6 +3021,16 @@
    "image": "items/6add936b281269.webp",
    "thumb": "thumbs/6add936b281269.webp",
    "addedAt": 1792906091635
+  },
+  {
+   "id": "6add93aa7d0110",
+   "name": "боди с коровами",
+   "description": "A long-sleeve, white bodysuit with a deep V-neckline and a front zip closure, featuring a black cow-print pattern with cartoon cow graphics and \"moo~\" text throughout.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add93aa7d0110.webp",
+   "thumb": "thumbs/6add93aa7d0110.webp",
+   "addedAt": 1792906154277
   }
  ],
  "categories": [
