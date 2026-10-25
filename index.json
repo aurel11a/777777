@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960123594,
+ "updatedAt": 1792960174798,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5821,6 +5821,16 @@
    "image": "items/6ade667ab7c844.webp",
    "thumb": "thumbs/6ade667ab7c844.webp",
    "addedAt": 1792960122798
+  },
+  {
+   "id": "6ade66ad8f17ca",
+   "name": "Grey Business Casual Outfit",
+   "description": "A men's business casual outfit featuring a dark grey double-breasted coat with a belt, layered over a light grey quarter-zip sweater and a black button-down shirt. It is paired with grey pleated trousers, black leather loafers, and a black square-faced watch.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ade66ad8f17ca.webp",
+   "thumb": "thumbs/6ade66ad8f17ca.webp",
+   "addedAt": 1792960173828
   }
  ],
  "categories": [
