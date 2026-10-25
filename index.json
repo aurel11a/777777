@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916304302,
+ "updatedAt": 1792916586401,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4271,6 +4271,66 @@
    "image": "items/6addbb4fba5190.webp",
    "thumb": "thumbs/6addbb4fba5190.webp",
    "addedAt": 1792916303016
+  },
+  {
+   "id": "6addbc6927994c",
+   "name": "платье с глубоким вырезом и цветами",
+   "description": "A black sheer maxi dress with thin spaghetti straps and a deep V-neckline, featuring a vibrant pink and green floral print. The dress is detailed with cascading ruffles down the front and is accessorized with a delicate pendant necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc6927994c.webp",
+   "thumb": "thumbs/6addbc6927994c.webp",
+   "addedAt": 1792916585335
+  },
+  {
+   "id": "6addbc690f390d",
+   "name": "светло-зеленое платье  цветами",
+   "description": "A light green midi dress with a strapless sweetheart neckline and thin straps, featuring pink floral embroidery and an asymmetrical ruffled hem. It is paired with black strappy heeled sandals adorned with floral accents.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc690f390d.webp",
+   "thumb": "thumbs/6addbc690f390d.webp",
+   "addedAt": 1792916585336
+  },
+  {
+   "id": "6addbc69b07ba0",
+   "name": "пыльно-голубое платье комбинация",
+   "description": "A sheer, dusty blue slip dress with a purple floral print, featuring a strapless neckline with thin straps and a form-fitting maxi silhouette. It is accessorized with a delicate necklace and metallic strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc69b07ba0.webp",
+   "thumb": "thumbs/6addbc69b07ba0.webp",
+   "addedAt": 1792916585337
+  },
+  {
+   "id": "6addbc696f8f08",
+   "name": "dusty rose",
+   "description": "A form-fitting, dusty rose maxi dress featuring a sheer overlay with dark floral appliqués and scattered sequin embellishments. It has a sweetheart neckline with thin straps and a subtle side slit, paired with light-colored strappy heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc696f8f08.webp",
+   "thumb": "thumbs/6addbc696f8f08.webp",
+   "addedAt": 1792916585338
+  },
+  {
+   "id": "6addbc693924c9",
+   "name": "черное прозрачное сетчатое платье миди",
+   "description": "A black sheer mesh midi dress with an off-the-shoulder neckline, adorned with pink floral appliqués along the straps and bodice. The dress features a scalloped hem and is accessorized with a small woven basket bag and black heeled sandals with floral accents.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc693924c9.webp",
+   "thumb": "thumbs/6addbc693924c9.webp",
+   "addedAt": 1792916585339
+  },
+  {
+   "id": "6addbc69f2fc2e",
+   "name": "deep red",
+   "description": "A deep red, form-fitting midi dress featuring a sheer overlay with textured floral patterns and thin off-the-shoulder straps. It has an asymmetrical, ruffled hemline and is accessorized with a black choker and red floral heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addbc69f2fc2e.webp",
+   "thumb": "thumbs/6addbc69f2fc2e.webp",
+   "addedAt": 1792916585340
   }
  ],
  "categories": [
