@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792875615876,
+ "updatedAt": 1792904928026,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2821,6 +2821,16 @@
    "image": "items/6add1c5f885535.webp",
    "thumb": "thumbs/6add1c5f885535.webp",
    "addedAt": 1792875615095
+  },
+  {
+   "id": "6add8edf79a721",
+   "name": "рубашка, майка и трусы",
+   "description": "A white fitted camisole with thin straps and a religious graphic print, paired with black star-patterned lace-trimmed panties. The look is layered with an oversized grey plaid button-up shirt and accessorized with white slouchy socks.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add8edf79a721.webp",
+   "thumb": "thumbs/6add8edf79a721.webp",
+   "addedAt": 1792904927081
   }
  ],
  "categories": [
