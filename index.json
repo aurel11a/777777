@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961741288,
+ "updatedAt": 1792961745399,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6001,6 +6001,16 @@
    "image": "items/6ade6ccce2cc87.webp",
    "thumb": "thumbs/6ade6ccce2cc87.webp",
    "addedAt": 1792961740378
+  },
+  {
+   "id": "6ade6ccea2b181",
+   "name": "Teal & Black Tracksuit",
+   "description": "A black and teal color-blocked tracksuit featuring a hooded jacket and matching trousers, both detailed with white Russian text. The look is completed with black combat boots.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6ade6ccea2b181.webp",
+   "thumb": "thumbs/6ade6ccea2b181.webp",
+   "addedAt": 1792961742541
   }
  ],
  "categories": [
