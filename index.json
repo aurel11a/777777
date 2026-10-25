@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792954738573,
+ "updatedAt": 1792954977299,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5081,6 +5081,36 @@
    "image": "items/6ade5171d82a75.webp",
    "thumb": "thumbs/6ade5171d82a75.webp",
    "addedAt": 1792954737663
+  },
+  {
+   "id": "6ade5260608cd6",
+   "name": "Green Lace Corset Gown",
+   "description": "An olive green gown featuring a fitted corset-style bodice with lace trim and thin straps. The skirt is layered with ruffled lace detailing and cascades into a full, floor-length hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5260608cd6.webp",
+   "thumb": "thumbs/6ade5260608cd6.webp",
+   "addedAt": 1792954976466
+  },
+  {
+   "id": "6ade52608df67c",
+   "name": "Olive Lace Maxi Dress",
+   "description": "An olive green maxi dress featuring a halter neckline, a sheer lace-trimmed bodice, and a flowing skirt scattered with subtle sequins.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade52608df67c.webp",
+   "thumb": "thumbs/6ade52608df67c.webp",
+   "addedAt": 1792954976467
+  },
+  {
+   "id": "6ade5260c8069d",
+   "name": "Green Satin Ruffled Gown",
+   "description": "An olive green satin gown featuring thin straps, a ruched bodice with a jeweled brooch, and a draped, asymmetrical ruffled skirt. It is accessorized with a delicate necklace and light-colored t-strap heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ade5260c8069d.webp",
+   "thumb": "thumbs/6ade5260c8069d.webp",
+   "addedAt": 1792954976468
   }
  ],
  "categories": [
