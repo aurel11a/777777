@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916004720,
+ "updatedAt": 1792916052024,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4211,6 +4211,16 @@
    "image": "items/6addba23522760.webp",
    "thumb": "thumbs/6addba23522760.webp",
    "addedAt": 1792916003944
+  },
+  {
+   "id": "6addba52ea228f",
+   "name": "черно-серый спортивный костюм",
+   "description": "A black and grey textured athletic set featuring a long-sleeved, zip-up cropped top with thumbholes and a high collar. It is paired with matching high-waisted leggings with color-blocked panels and chunky black sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6addba52ea228f.webp",
+   "thumb": "thumbs/6addba52ea228f.webp",
+   "addedAt": 1792916050703
   }
  ],
  "categories": [
