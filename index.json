@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792957572921,
+ "updatedAt": 1792958288028,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5481,6 +5481,56 @@
    "image": "items/6ade5c8364cc4f.webp",
    "thumb": "thumbs/6ade5c8364cc4f.webp",
    "addedAt": 1792957571830
+  },
+  {
+   "id": "6ade5f4f32c559",
+   "name": "Pink Floral Ballgown",
+   "description": "An elaborate light pink ballgown featuring a corset-style bodice and an off-the-shoulder neckline adorned with large white floral appliqués. The tiered, scalloped skirt is heavily embellished with sequins and matching floral details.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5f4f32c559.webp",
+   "thumb": "thumbs/6ade5f4f32c559.webp",
+   "addedAt": 1792958287132
+  },
+  {
+   "id": "6ade5f4f0f3fcf",
+   "name": "Purple Sequin Floral Gown",
+   "description": "A light purple, heavily sequined gown with a strapless neckline and a fitted silhouette. It features a dramatic, voluminous cape made of sheer fabric adorned with large 3D floral appliqués.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5f4f0f3fcf.webp",
+   "thumb": "thumbs/6ade5f4f0f3fcf.webp",
+   "addedAt": 1792958287133
+  },
+  {
+   "id": "6ade5f4fde0fba",
+   "name": "White 3D Floral Gown",
+   "description": "A white ballgown wedding dress featuring a strapless bodice and a voluminous skirt covered in large 3D floral appliqués. It is paired with a long sheer veil and a floral headpiece.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ade5f4fde0fba.webp",
+   "thumb": "thumbs/6ade5f4fde0fba.webp",
+   "addedAt": 1792958287134
+  },
+  {
+   "id": "6ade5f4f8e7353",
+   "name": "Lavender Satin Gown",
+   "description": "A floor-length lavender satin gown featuring an off-the-shoulder draped neckline and a structured, corset-style bodice with cutouts. The full skirt is heavily pleated, creating a voluminous silhouette.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5f4f8e7353.webp",
+   "thumb": "thumbs/6ade5f4f8e7353.webp",
+   "addedAt": 1792958287135
+  },
+  {
+   "id": "6ade5f4fb616fc",
+   "name": "Silver Tiered Ballgown",
+   "description": "A voluminous, light silver-grey ballgown featuring a sheer, long-sleeved bodice with a deep neckline, heavily embellished with gold and silver floral appliqués. The tiered tulle skirt is detailed with matching floral embroidery and is paired with a sheer, embellished veil.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5f4fb616fc.webp",
+   "thumb": "thumbs/6ade5f4fb616fc.webp",
+   "addedAt": 1792958287136
   }
  ],
  "categories": [
