@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940379187,
+ "updatedAt": 1792940478358,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4691,6 +4691,16 @@
    "image": "items/6ade195aee51e1.webp",
    "thumb": "thumbs/6ade195aee51e1.webp",
    "addedAt": 1792940378200
+  },
+  {
+   "id": "6ade19bd786cfb",
+   "name": "оранжевое платье с бабочками",
+   "description": "An orange silk dress featuring a cutout bodice, off-the-shoulder sleeves, and a high side slit. The look is heavily embellished with 3D butterfly appliqués and is paired with strappy gladiator-style sandals.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade19bd786cfb.webp",
+   "thumb": "thumbs/6ade19bd786cfb.webp",
+   "addedAt": 1792940477284
   }
  ],
  "categories": [
