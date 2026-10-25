@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912177205,
+ "updatedAt": 1792912284759,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3931,6 +3931,16 @@
    "image": "items/6addab30560dc0.webp",
    "thumb": "thumbs/6addab30560dc0.webp",
    "addedAt": 1792912176389
+  },
+  {
+   "id": "6addab9b6b5ac7",
+   "name": "белье с розовым коровьим принтом",
+   "description": "A pink and white cow-print two-piece lingerie set featuring a long-sleeved crop top and matching panties, both detailed with delicate lace trim.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6addab9b6b5ac7.webp",
+   "thumb": "thumbs/6addab9b6b5ac7.webp",
+   "addedAt": 1792912283717
   }
  ],
  "categories": [
