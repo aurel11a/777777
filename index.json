@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792959160843,
+ "updatedAt": 1792959307356,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5681,6 +5681,26 @@
    "image": "items/6ade62b7a3df95.webp",
    "thumb": "thumbs/6ade62b7a3df95.webp",
    "addedAt": 1792959159934
+  },
+  {
+   "id": "6ade634af6a75f",
+   "name": "Blue Floral Maxi Set",
+   "description": "A vibrant blue two-piece set featuring a triangle bikini top with purple and red accents, paired with a matching high-waisted maxi skirt decorated with a large red floral print.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade634af6a75f.webp",
+   "thumb": "thumbs/6ade634af6a75f.webp",
+   "addedAt": 1792959306435
+  },
+  {
+   "id": "6ade634a389920",
+   "name": "Yellow Sheer Maxi Set",
+   "description": "A pale yellow two-piece set featuring a triangle bikini top with pink floral accents, paired with a sheer, low-rise maxi skirt. The skirt has a large pink floral print at the hem and cutout details at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade634a389920.webp",
+   "thumb": "thumbs/6ade634a389920.webp",
+   "addedAt": 1792959306436
   }
  ],
  "categories": [
