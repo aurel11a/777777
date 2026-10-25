@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962521993,
+ "updatedAt": 1792962584741,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6091,6 +6091,16 @@
    "image": "items/6ade6fd902416c.webp",
    "thumb": "thumbs/6ade6fd902416c.webp",
    "addedAt": 1792962521031
+  },
+  {
+   "id": "6ade7017b984c2",
+   "name": "Plaid Flannel & Black Trousers",
+   "description": "A green and navy plaid flannel shirt worn open over a black t-shirt and black trousers. The look is completed with a silver watch and black leather lace-up shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade7017b984c2.webp",
+   "thumb": "thumbs/6ade7017b984c2.webp",
+   "addedAt": 1792962583894
   }
  ],
  "categories": [
