@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911322110,
+ "updatedAt": 1792911445833,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3791,6 +3791,16 @@
    "image": "items/6adda7d9144637.webp",
    "thumb": "thumbs/6adda7d9144637.webp",
    "addedAt": 1792911321347
+  },
+  {
+   "id": "6adda8549ab842",
+   "name": "ночнушка с небесной вышивкой в виде лун, звезд и облаков",
+   "description": "A light pink mini dress with thin straps, featuring white celestial embroidery of moons, stars, and clouds. It is paired with sheer white thigh-high stockings and simple white slip-on shoes.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adda8549ab842.webp",
+   "thumb": "thumbs/6adda8549ab842.webp",
+   "addedAt": 1792911444969
   }
  ],
  "categories": [
