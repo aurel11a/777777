@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916109912,
+ "updatedAt": 1792916172741,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4231,6 +4231,16 @@
    "image": "items/6addba8c1a1f0c.webp",
    "thumb": "thumbs/6addba8c1a1f0c.webp",
    "addedAt": 1792916108822
+  },
+  {
+   "id": "6addbacb6e868c",
+   "name": "пыльно-розовая ночнушка с халатом",
+   "description": "A dusty pink satin sleep set featuring a cowl-neck slip nightdress with thin straps and a floral print. It is paired with a matching long-sleeved robe with a waist tie.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6addbacb6e868c.webp",
+   "thumb": "thumbs/6addbacb6e868c.webp",
+   "addedAt": 1792916171420
   }
  ],
  "categories": [
