@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905379719,
+ "updatedAt": 1792905453673,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2901,6 +2901,16 @@
    "image": "items/6add90a2d3d0aa.webp",
    "thumb": "thumbs/6add90a2d3d0aa.webp",
    "addedAt": 1792905378963
+  },
+  {
+   "id": "6add90ec4a0143",
+   "name": "розово-зеленый наряд с серьгами-вишенками",
+   "description": "A pastel green cropped cardigan with white buttons is worn over a light pink top and paired with high-waisted, wide-leg pink trousers. The outfit is accessorized with pink and green low-top sneakers, a pink shoulder bag with a floral charm, cherry drop earrings, a layered beaded butterfly necklace, and rings including a heart-shaped and green flower design.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add90ec4a0143.webp",
+   "thumb": "thumbs/6add90ec4a0143.webp",
+   "addedAt": 1792905452842
   }
  ],
  "categories": [
