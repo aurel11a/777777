@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910655490,
+ "updatedAt": 1792910828579,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3691,6 +3691,16 @@
    "image": "items/6adda53e489f30.webp",
    "thumb": "thumbs/6adda53e489f30.webp",
    "addedAt": 1792910654617
+  },
+  {
+   "id": "6adda5eb15fe7e",
+   "name": "коричневая туника в историческом стиле",
+   "description": "A historical-style brown tunic with a V-neckline and studded detailing, cinched at the waist with layered dark belts and a hanging fabric sash. The look is paired with dark trousers and tall, wrapped leather boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adda5eb15fe7e.webp",
+   "thumb": "thumbs/6adda5eb15fe7e.webp",
+   "addedAt": 1792910827563
   }
  ],
  "categories": [
