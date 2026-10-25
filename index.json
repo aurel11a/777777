@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960620177,
+ "updatedAt": 1792960768198,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5871,6 +5871,16 @@
    "image": "items/6ade686b970f64.webp",
    "thumb": "thumbs/6ade686b970f64.webp",
    "addedAt": 1792960619043
+  },
+  {
+   "id": "6ade68ffcaf7d8",
+   "name": "Black Puffer & Combat Boots",
+   "description": "A black hooded puffer jacket is paired with matching black trousers and chunky black lace-up boots. The look is accessorized with a small black crossbody bag.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade68ffcaf7d8.webp",
+   "thumb": "thumbs/6ade68ffcaf7d8.webp",
+   "addedAt": 1792960767298
   }
  ],
  "categories": [
