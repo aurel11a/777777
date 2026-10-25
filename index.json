@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962357526,
+ "updatedAt": 1792962478020,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6071,6 +6071,16 @@
    "image": "items/6ade6f341f33e0.webp",
    "thumb": "thumbs/6ade6f341f33e0.webp",
    "addedAt": 1792962356560
+  },
+  {
+   "id": "6ade6fad18f5f4",
+   "name": "Brown Coat & Black Turtleneck",
+   "description": "A long brown wool overcoat worn over a black turtleneck sweater and black trousers. The look is completed with black socks and black leather lace-up shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade6fad18f5f4.webp",
+   "thumb": "thumbs/6ade6fad18f5f4.webp",
+   "addedAt": 1792962477041
   }
  ],
  "categories": [
