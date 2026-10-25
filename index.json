@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910021820,
+ "updatedAt": 1792910114126,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3621,6 +3621,16 @@
    "image": "items/6adda2c52fe349.webp",
    "thumb": "thumbs/6adda2c52fe349.webp",
    "addedAt": 1792910021018
+  },
+  {
+   "id": "6adda3206d5443",
+   "name": "длинное коричневое кожаное пальто с многослойным воротником",
+   "description": "A historical-style outfit featuring a long brown leather coat with a layered collar and a diagonal chest strap. It is paired with a blue waist sash, a wide leather belt, dark gloves, and tall brown leather boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adda3206d5443.webp",
+   "thumb": "thumbs/6adda3206d5443.webp",
+   "addedAt": 1792910112967
   }
  ],
  "categories": [
