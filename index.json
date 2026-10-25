@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909404070,
+ "updatedAt": 1792909454383,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3501,6 +3501,16 @@
    "image": "items/6adda05ba083db.webp",
    "thumb": "thumbs/6adda05ba083db.webp",
    "addedAt": 1792909403316
+  },
+  {
+   "id": "6adda08d95aa59",
+   "name": "кожаные доспехи женские",
+   "description": "A dark fantasy-style armor set featuring a hooded leather tunic with metallic shoulder and chest plates. The outfit includes a wide leather belt with a circular buckle, layered tassets, and matching armored boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda08d95aa59.webp",
+   "thumb": "thumbs/6adda08d95aa59.webp",
+   "addedAt": 1792909453563
   }
  ],
  "categories": [
