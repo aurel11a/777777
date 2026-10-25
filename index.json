@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912037894,
+ "updatedAt": 1792912086067,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3901,6 +3901,16 @@
    "image": "items/6addaaa46b1648.webp",
    "thumb": "thumbs/6addaaa46b1648.webp",
    "addedAt": 1792912036969
+  },
+  {
+   "id": "6addaad5d22c53",
+   "name": "черный купальник с вырезом",
+   "description": "A black one-piece swimsuit with thin spaghetti straps and a high-cut leg, featuring a contrasting pink trim along the edges and a cutout detail below the bust. It is accessorized with a wide-brimmed straw hat.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addaad5d22c53.webp",
+   "thumb": "thumbs/6addaad5d22c53.webp",
+   "addedAt": 1792912085256
   }
  ],
  "categories": [
