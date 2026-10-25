@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792955390089,
+ "updatedAt": 1792955542886,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5181,6 +5181,46 @@
    "image": "items/6ade53fdc5e48b.webp",
    "thumb": "thumbs/6ade53fdc5e48b.webp",
    "addedAt": 1792955389131
+  },
+  {
+   "id": "6ade549555c3f6",
+   "name": "Olive Toggle Coat",
+   "description": "A long, dark olive green coat with a toggle closure front and plaid cuffs, paired with a matching plaid scarf. It is accessorized with a brown leather shoulder bag, white slouchy socks, and tan platform boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade549555c3f6.webp",
+   "thumb": "thumbs/6ade549555c3f6.webp",
+   "addedAt": 1792955541920
+  },
+  {
+   "id": "6ade5495661a7a",
+   "name": "Grey Toggle Coat",
+   "description": "A long, light grey wool coat with a large collar and dark toggle closures, worn over an olive green turtleneck sweater. It is accessorized with a brown leather crossbody bag and black leather boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade5495661a7a.webp",
+   "thumb": "thumbs/6ade5495661a7a.webp",
+   "addedAt": 1792955541921
+  },
+  {
+   "id": "6ade549511648d",
+   "name": "Pink Long Coat",
+   "description": "A long, dusty pink coat with a collar, button front, and a tie at the neck, worn over a beige turtleneck and white wide-leg trousers. The look is accessorized with a matching beret and brown flat shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade549511648d.webp",
+   "thumb": "thumbs/6ade549511648d.webp",
+   "addedAt": 1792955541922
+  },
+  {
+   "id": "6ade549599f5cf",
+   "name": "Lavender Puffer Set",
+   "description": "A long, light lavender puffer coat with a hood, worn with a chunky purple knit scarf. The winter look is accessorized with cream knit gloves, a cream tote bag, grey tights, and fluffy white ankle boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade549599f5cf.webp",
+   "thumb": "thumbs/6ade549599f5cf.webp",
+   "addedAt": 1792955541923
   }
  ],
  "categories": [
