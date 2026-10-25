@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909847574,
+ "updatedAt": 1792909912801,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3591,6 +3591,16 @@
    "image": "items/6adda216ee486b.webp",
    "thumb": "thumbs/6adda216ee486b.webp",
    "addedAt": 1792909846668
+  },
+  {
+   "id": "6adda258019283",
+   "name": "готическое бархатное красное платье",
+   "description": "A gothic fantasy gown featuring a deep red velvet overcoat with gold trim over a patterned cream underskirt. The outfit includes a structured corset-style bodice, dark feathered shoulder accents, and layered gold necklaces.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda258019283.webp",
+   "thumb": "thumbs/6adda258019283.webp",
+   "addedAt": 1792909912038
   }
  ],
  "categories": [
