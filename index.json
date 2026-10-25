@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915484421,
+ "updatedAt": 1792915541875,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4111,6 +4111,16 @@
    "image": "items/6addb81bb03376.webp",
    "thumb": "thumbs/6addb81bb03376.webp",
    "addedAt": 1792915483559
+  },
+  {
+   "id": "6addb85578bdc1",
+   "name": "кремовый костюм с бантом на шее",
+   "description": "A cream-colored textured two-piece set featuring a long-sleeved peplum top with a large neck bow and jeweled buttons, paired with a matching flowing midi skirt. The look is completed with white pointed-toe slingback heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6addb85578bdc1.webp",
+   "thumb": "thumbs/6addb85578bdc1.webp",
+   "addedAt": 1792915541112
   }
  ],
  "categories": [
