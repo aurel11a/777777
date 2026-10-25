@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915915401,
+ "updatedAt": 1792915954457,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4191,6 +4191,16 @@
    "image": "items/6addb9ca3ad4d3.webp",
    "thumb": "thumbs/6addb9ca3ad4d3.webp",
    "addedAt": 1792915914596
+  },
+  {
+   "id": "6addb9f1d0381d",
+   "name": "NEED VITAMIN SEA",
+   "description": "A cream-colored, long-sleeved beach cover-up shirt featuring black marine life illustrations, including starfish, shells, and \"NEED VITAMIN SEA\" text. It has a deep V-neckline with tassel ties and is worn over a black bikini top.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addb9f1d0381d.webp",
+   "thumb": "thumbs/6addb9f1d0381d.webp",
+   "addedAt": 1792915953115
   }
  ],
  "categories": [
