@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906416814,
+ "updatedAt": 1792906467972,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3071,6 +3071,16 @@
    "image": "items/6add94b08c39c5.webp",
    "thumb": "thumbs/6add94b08c39c5.webp",
    "addedAt": 1792906416020
+  },
+  {
+   "id": "6add94e28efd72",
+   "name": "пижама Strawberry Shortcake",
+   "description": "A light pink pajama set featuring an off-the-shoulder short-sleeve top with a Strawberry Shortcake graphic and text. It is paired with matching wide-leg pants patterned with small red strawberries.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add94e28efd72.webp",
+   "thumb": "thumbs/6add94e28efd72.webp",
+   "addedAt": 1792906466972
   }
  ],
  "categories": [
