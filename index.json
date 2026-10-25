@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792954977299,
+ "updatedAt": 1792955127809,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5111,6 +5111,26 @@
    "image": "items/6ade5260c8069d.webp",
    "thumb": "thumbs/6ade5260c8069d.webp",
    "addedAt": 1792954976468
+  },
+  {
+   "id": "6ade52f6c44976",
+   "name": "Tom & Jerry Set",
+   "description": "A red two-piece athletic set featuring a sports bra and matching shorts with black trim. Both pieces are decorated with a tie-dye pattern and graphics of Tom and Jerry.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade52f6c44976.webp",
+   "thumb": "thumbs/6ade52f6c44976.webp",
+   "addedAt": 1792955126944
+  },
+  {
+   "id": "6ade52f6d67ead",
+   "name": "Leopard Playboy Set",
+   "description": "A leopard-print two-piece set featuring a fitted camisole top with pink \"PLAYBOY\" lettering. It is paired with matching high-cut bottoms adorned with a pink bunny logo.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ade52f6d67ead.webp",
+   "thumb": "thumbs/6ade52f6d67ead.webp",
+   "addedAt": 1792955126945
   }
  ],
  "categories": [
