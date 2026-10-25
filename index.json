@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940478358,
+ "updatedAt": 1792940822552,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4701,6 +4701,76 @@
    "image": "items/6ade19bd786cfb.webp",
    "thumb": "thumbs/6ade19bd786cfb.webp",
    "addedAt": 1792940477284
+  },
+  {
+   "id": "6ade1b157edad2",
+   "name": "пляжный комплект в стиле карнавал",
+   "description": "A vibrant, carnival-style two-piece costume made of intricate beaded chains in shades of orange, red, and gold. The halter-style top and matching fringed bottoms are heavily embellished with colorful beads and dangling jewels, accessorized with a thick gold cuff bracelet.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b157edad2.webp",
+   "thumb": "thumbs/6ade1b157edad2.webp",
+   "addedAt": 1792940821428
+  },
+  {
+   "id": "6ade1b1576b285",
+   "name": "купальник с лимонами",
+   "description": "A light blue two-piece swimsuit featuring a high-neck crop top with a lemon and floral graphic and tan trim. It is paired with matching high-cut bottoms adorned with ruffled side details and a lemon print.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b1576b285.webp",
+   "thumb": "thumbs/6ade1b1576b285.webp",
+   "addedAt": 1792940821429
+  },
+  {
+   "id": "6ade1b150defe7",
+   "name": "бикини с вышивкой",
+   "description": "A cream-colored two-piece set featuring a structured bikini top with red floral embroidery and red whipstitch trim along the edges. It is paired with a matching low-rise mini skirt with a side slit and coordinating floral embroidery.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b150defe7.webp",
+   "thumb": "thumbs/6ade1b150defe7.webp",
+   "addedAt": 1792940821430
+  },
+  {
+   "id": "6ade1b15b7dc1b",
+   "name": "слитный купальник с кулоном",
+   "description": "A black one-piece swimsuit featuring a deep V-neckline with a connecting strap, white contrasting trim along the edges, and high-cut legs. It is accessorized with a large silver starfish pendant necklace.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b15b7dc1b.webp",
+   "thumb": "thumbs/6ade1b15b7dc1b.webp",
+   "addedAt": 1792940821431
+  },
+  {
+   "id": "6ade1b153bc330",
+   "name": "черно-белый купальник в горошек",
+   "description": "A black two-piece swimsuit with a white polka dot pattern, featuring a thin-strapped bikini top and matching high-waisted shorts.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b153bc330.webp",
+   "thumb": "thumbs/6ade1b153bc330.webp",
+   "addedAt": 1792940821432
+  },
+  {
+   "id": "6ade1b1575069a",
+   "name": "темно-синий купальник с саронгом",
+   "description": "A navy blue one-piece swimsuit with a scoop neckline and a ribbed texture. It is paired with a sheer, tie-dye blue and green sarong tied at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b1575069a.webp",
+   "thumb": "thumbs/6ade1b1575069a.webp",
+   "addedAt": 1792940821433
+  },
+  {
+   "id": "6ade1b150457ec",
+   "name": "голубой комплект с ракушками и жемчугом",
+   "description": "A light blue, ethereal two-piece costume featuring a pleated halter top and a matching draped, ruffled mini skirt. The look is heavily accessorized with layered pearl and silver waist chains, a white floral accent, and a shell choker necklace.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade1b150457ec.webp",
+   "thumb": "thumbs/6ade1b150457ec.webp",
+   "addedAt": 1792940821434
   }
  ],
  "categories": [
