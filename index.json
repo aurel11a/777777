@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908860911,
+ "updatedAt": 1792908907340,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3411,6 +3411,16 @@
    "image": "items/6add9e3ca6df52.webp",
    "thumb": "thumbs/6add9e3ca6df52.webp",
    "addedAt": 1792908860053
+  },
+  {
+   "id": "6add9e6ab83a17",
+   "name": "фактурный жакет с бордовой мини-юбкой",
+   "description": "A black textured button-up jacket is paired with a burgundy mini skirt featuring a cream hem. The outfit is accessorized with a chunky burgundy scarf, sheer black tights with lace trim, black knee-high boots, and a small black handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add9e6ab83a17.webp",
+   "thumb": "thumbs/6add9e6ab83a17.webp",
+   "addedAt": 1792908906463
   }
  ],
  "categories": [
