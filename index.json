@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792958467507,
+ "updatedAt": 1792958668572,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5561,6 +5561,26 @@
    "image": "items/6ade60020ecd55.webp",
    "thumb": "thumbs/6ade60020ecd55.webp",
    "addedAt": 1792958466146
+  },
+  {
+   "id": "6ade60cb342cf8",
+   "name": "Olive Corset Gown",
+   "description": "An olive green floor-length gown featuring a draped, one-shoulder neckline and a high side slit. It is cinched at the waist with an ornate gold corset-style belt and paired with strappy gladiator sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade60cb342cf8.webp",
+   "thumb": "thumbs/6ade60cb342cf8.webp",
+   "addedAt": 1792958667715
+  },
+  {
+   "id": "6ade60cbbe1c58",
+   "name": "Grey Corset Gown",
+   "description": "A flowing, pale grey floor-length gown featuring a draped one-shoulder neckline and a high side slit. It is cinched at the waist with an ornate gold corset-style belt and includes a long, trailing cape detail at the back.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade60cbbe1c58.webp",
+   "thumb": "thumbs/6ade60cbbe1c58.webp",
+   "addedAt": 1792958667716
   }
  ],
  "categories": [
