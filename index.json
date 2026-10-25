@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961140063,
+ "updatedAt": 1792961209849,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5931,6 +5931,16 @@
    "image": "items/6ade6a73a4aaa2.webp",
    "thumb": "thumbs/6ade6a73a4aaa2.webp",
    "addedAt": 1792961139131
+  },
+  {
+   "id": "6ade6ab82d91f8",
+   "name": "Olive Twist",
+   "description": "A plaid cropped jacket layers over an olive green ribbed turtleneck and wide-leg cargo pants accented with a pink plaid scarf. The look is completed with pink-striped olive sneakers, a green leather shoulder bag, a baseball cap, and green-framed glasses.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade6ab82d91f8.webp",
+   "thumb": "thumbs/6ade6ab82d91f8.webp",
+   "addedAt": 1792961208991
   }
  ],
  "categories": [
