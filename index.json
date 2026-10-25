@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962634702,
+ "updatedAt": 1792962894996,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6111,6 +6111,16 @@
    "image": "items/6ade70498e7b62.webp",
    "thumb": "thumbs/6ade70498e7b62.webp",
    "addedAt": 1792962633453
+  },
+  {
+   "id": "6ade714e995f02",
+   "name": "Gothic Corset & Draped Skirt",
+   "description": "A gothic, historical-style outfit featuring a black corset bodice with an off-the-shoulder ruffled neckline and voluminous short sleeves. It is paired with a draped, asymmetrical grey skirt, a black thigh strap, and dark brown lace-up boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade714e995f02.webp",
+   "thumb": "thumbs/6ade714e995f02.webp",
+   "addedAt": 1792962894223
   }
  ],
  "categories": [
