@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906519870,
+ "updatedAt": 1792906587460,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3091,6 +3091,16 @@
    "image": "items/6add95169dd088.webp",
    "thumb": "thumbs/6add95169dd088.webp",
    "addedAt": 1792906518938
+  },
+  {
+   "id": "6add955a0db9ed",
+   "name": "майка и шорты-боксеры HIDDEN CHILD",
+   "description": "A white ribbed cotton two-piece set consisting of a high-neck sleeveless tank top and matching high-waisted boyshorts. Both pieces feature black gothic-style lettering reading \"HIDDEN CHILD.\"",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add955a0db9ed.webp",
+   "thumb": "thumbs/6add955a0db9ed.webp",
+   "addedAt": 1792906586516
   }
  ],
  "categories": [
