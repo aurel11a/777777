@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911254628,
+ "updatedAt": 1792911322110,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3781,6 +3781,16 @@
    "image": "items/6adda795a9917e.webp",
    "thumb": "thumbs/6adda795a9917e.webp",
    "addedAt": 1792911253734
+  },
+  {
+   "id": "6adda7d9144637",
+   "name": "кроп-топ с шортами",
+   "description": "A light grey short-sleeved crop top with a small front zipper is paired with black low-rise shorts featuring a white waistband and trim.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adda7d9144637.webp",
+   "thumb": "thumbs/6adda7d9144637.webp",
+   "addedAt": 1792911321347
   }
  ],
  "categories": [
