@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905260865,
+ "updatedAt": 1792905320959,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2881,6 +2881,16 @@
    "image": "items/6add902ccf0df1.webp",
    "thumb": "thumbs/6add902ccf0df1.webp",
    "addedAt": 1792905260004
+  },
+  {
+   "id": "6add90672484a0",
+   "name": "вязаный комплект для пляжа с ракушками",
+   "description": "A beige crochet two-piece set featuring a triangle halter bikini top with a decorative shell fringe hanging down the midriff, paired with a matching low-rise mini skirt with a drawstring tie. Accessories include a white shell choker necklace and gold bracelets.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add90672484a0.webp",
+   "thumb": "thumbs/6add90672484a0.webp",
+   "addedAt": 1792905319983
   }
  ],
  "categories": [
