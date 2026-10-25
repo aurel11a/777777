@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792904928026,
+ "updatedAt": 1792905037451,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2831,6 +2831,16 @@
    "image": "items/6add8edf79a721.webp",
    "thumb": "thumbs/6add8edf79a721.webp",
    "addedAt": 1792904927081
+  },
+  {
+   "id": "6add8f4c7132e1",
+   "name": "серый спортивный костюм",
+   "description": "A dark grey athleisure outfit featuring a long-sleeve cropped sweatshirt with a wide neckline, paired with matching wide-leg sweatpants that have a white elastic waistband and drawstring. Accessories include white and black athletic sneakers, a silver pendant necklace, and small hoop earrings.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add8f4c7132e1.webp",
+   "thumb": "thumbs/6add8f4c7132e1.webp",
+   "addedAt": 1792905036558
   }
  ],
  "categories": [
