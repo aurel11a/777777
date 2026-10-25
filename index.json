@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792955127809,
+ "updatedAt": 1792955243490,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5131,6 +5131,26 @@
    "image": "items/6ade52f6d67ead.webp",
    "thumb": "thumbs/6ade52f6d67ead.webp",
    "addedAt": 1792955126945
+  },
+  {
+   "id": "6ade536aa7e11e",
+   "name": "Animal Print Fringe Set",
+   "description": "A brown and beige animal-print two-piece set featuring a plunging halter top with a draped cowl neckline. It is paired with a matching mini skirt detailed with a side tie and long fringe trim.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade536aa7e11e.webp",
+   "thumb": "thumbs/6ade536aa7e11e.webp",
+   "addedAt": 1792955242540
+  },
+  {
+   "id": "6ade536aedaa6f",
+   "name": "Tropical Sheer Mini Dress",
+   "description": "A vibrant, sheer mini dress featuring a bold pink, yellow, and green abstract floral and animal print. It has a deep plunging neckline with halter straps and a blue trim along the hem.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade536aedaa6f.webp",
+   "thumb": "thumbs/6ade536aedaa6f.webp",
+   "addedAt": 1792955242541
   }
  ],
  "categories": [
