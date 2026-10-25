@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909454383,
+ "updatedAt": 1792909510663,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3511,6 +3511,16 @@
    "image": "items/6adda08d95aa59.webp",
    "thumb": "thumbs/6adda08d95aa59.webp",
    "addedAt": 1792909453563
+  },
+  {
+   "id": "6adda0c50790c3",
+   "name": "розово-бежевый фэнтези наряд",
+   "description": "A fantasy-style outfit featuring a long-sleeved pink and beige tunic with gold trim and a high collar. The look is accessorized with a multi-buckled brown leather belt, dark gloves, and brown thigh-high boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda0c50790c3.webp",
+   "thumb": "thumbs/6adda0c50790c3.webp",
+   "addedAt": 1792909509889
   }
  ],
  "categories": [
