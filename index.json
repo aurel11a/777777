@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915637740,
+ "updatedAt": 1792915680424,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4141,6 +4141,16 @@
    "image": "items/6addb8b48305b3.webp",
    "thumb": "thumbs/6addb8b48305b3.webp",
    "addedAt": 1792915636898
+  },
+  {
+   "id": "6addb8df9bdb56",
+   "name": "желто-фиолетовый спортивный аутфит",
+   "description": "A pale yellow fitted tank top is layered over a light purple halter-style sports bra. The athleisure look is paired with matching light purple high-waisted biker shorts, white crew socks, and grey and white chunky sneakers, accessorized with a small cream fringed bucket bag.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6addb8df9bdb56.webp",
+   "thumb": "thumbs/6addb8df9bdb56.webp",
+   "addedAt": 1792915679676
   }
  ],
  "categories": [
