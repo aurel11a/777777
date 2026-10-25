@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909293180,
+ "updatedAt": 1792909340964,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3481,6 +3481,16 @@
    "image": "items/6add9fecb69513.webp",
    "thumb": "thumbs/6add9fecb69513.webp",
    "addedAt": 1792909292385
+  },
+  {
+   "id": "6adda01c6c8780",
+   "name": "изысканные фэнтезийные доспехи",
+   "description": "An ornate, bronze-colored fantasy armor set featuring a full helmet, segmented chest plate, and layered skirt-like tassets. The look is completed with matching detailed gauntlets, greaves, and boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda01c6c8780.webp",
+   "thumb": "thumbs/6adda01c6c8780.webp",
+   "addedAt": 1792909340140
   }
  ],
  "categories": [
