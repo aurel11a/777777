@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963752793,
+ "updatedAt": 1792963798770,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6251,6 +6251,16 @@
    "image": "items/6ade74a76487f9.webp",
    "thumb": "thumbs/6ade74a76487f9.webp",
    "addedAt": 1792963751928
+  },
+  {
+   "id": "6ade74d59f8370",
+   "name": "Frosted Sky",
+   "description": "A light blue puffer jacket layers over a white cropped mock-neck sweater and light-wash wide-leg jeans. A chunky blue and white fringed scarf and blue and white sneakers complete the winter ensemble.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade74d59f8370.webp",
+   "thumb": "thumbs/6ade74d59f8370.webp",
+   "addedAt": 1792963797865
   }
  ],
  "categories": [
