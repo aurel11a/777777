@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907049885,
+ "updatedAt": 1792907136391,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3151,6 +3151,16 @@
    "image": "items/6add972800a34a.webp",
    "thumb": "thumbs/6add972800a34a.webp",
    "addedAt": 1792907048936
+  },
+  {
+   "id": "6add977f96ce3b",
+   "name": "костюм для верховой езды и шуба",
+   "description": "A long, brown faux fur coat with a wide collar, worn open over a grey tailored vest with a button closure and matching wide-leg trousers. A white collared shirt is layered underneath, and the outfit is completed with black leather knee-high boots.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add977f96ce3b.webp",
+   "thumb": "thumbs/6add977f96ce3b.webp",
+   "addedAt": 1792907135527
   }
  ],
  "categories": [
