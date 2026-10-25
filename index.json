@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792941033697,
+ "updatedAt": 1792941089499,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4801,6 +4801,16 @@
    "image": "items/6ade1be865b2c7.webp",
    "thumb": "thumbs/6ade1be865b2c7.webp",
    "addedAt": 1792941032601
+  },
+  {
+   "id": "6ade1c200a78c8",
+   "name": "комбинезон с рюшами",
+   "description": "A light pink denim-like romper featuring a sweetheart neckline with ruffled trim, thin straps, and a fitted bodice. It is finished with ruffled hems on the shorts.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade1c200a78c8.webp",
+   "thumb": "thumbs/6ade1c200a78c8.webp",
+   "addedAt": 1792941088738
   }
  ],
  "categories": [
