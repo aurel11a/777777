@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915248295,
+ "updatedAt": 1792915334456,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4071,6 +4071,16 @@
    "image": "items/6addb72f89f87b.webp",
    "thumb": "thumbs/6addb72f89f87b.webp",
    "addedAt": 1792915247517
+  },
+  {
+   "id": "6addb785bb8611",
+   "name": "топ-бикини, джинсы и кроссовки",
+   "description": "A white halter-style bikini top with a plunging neckline and logo-printed underband is paired with low-rise, light wash baggy jeans. The look is completed with blue and white high-top sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6addb785bb8611.webp",
+   "thumb": "thumbs/6addb785bb8611.webp",
+   "addedAt": 1792915333625
   }
  ],
  "categories": [
