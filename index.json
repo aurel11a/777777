@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911445833,
+ "updatedAt": 1792911496162,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3801,6 +3801,16 @@
    "image": "items/6adda8549ab842.webp",
    "thumb": "thumbs/6adda8549ab842.webp",
    "addedAt": 1792911444969
+  },
+  {
+   "id": "6adda8873d5862",
+   "name": "ярко-розовый комплект",
+   "description": "A bright pink two-piece set featuring a strapless crop top with a white butterfly rhinestone graphic and matching low-rise flared trousers. The look is completed with white and tan platform sandals.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adda8873d5862.webp",
+   "thumb": "thumbs/6adda8873d5862.webp",
+   "addedAt": 1792911495207
   }
  ],
  "categories": [
