@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909800973,
+ "updatedAt": 1792909847574,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3581,6 +3581,16 @@
    "image": "items/6adda1e7da58ce.webp",
    "thumb": "thumbs/6adda1e7da58ce.webp",
    "addedAt": 1792909799981
+  },
+  {
+   "id": "6adda216ee486b",
+   "name": "платье без бретелей в стиле темного фэнтези",
+   "description": "A dark fantasy-style strapless gown featuring a textured bodice and a draped, asymmetrical skirt. The look is accessorized with a multi-layered leather belt with a circular buckle, textured arm wraps, and strapped boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda216ee486b.webp",
+   "thumb": "thumbs/6adda216ee486b.webp",
+   "addedAt": 1792909846668
   }
  ],
  "categories": [
