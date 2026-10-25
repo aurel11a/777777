@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792954181538,
+ "updatedAt": 1792954308109,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4981,6 +4981,26 @@
    "image": "items/6ade4f44b99339.webp",
    "thumb": "thumbs/6ade4f44b99339.webp",
    "addedAt": 1792954180685
+  },
+  {
+   "id": "6ade4fc347338b",
+   "name": "Blue Floral Ballgown",
+   "description": "A white satin ballgown featuring an off-the-shoulder ruffled neckline and a full, voluminous skirt. The dress is heavily embellished with cascading blue floral appliqués and ruffled trim.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade4fc347338b.webp",
+   "thumb": "thumbs/6ade4fc347338b.webp",
+   "addedAt": 1792954307260
+  },
+  {
+   "id": "6ade4fc33bd354",
+   "name": "Gold Embroidered Gown",
+   "description": "A white satin wedding gown with a square neckline and a full A-line skirt, featuring a sheer overlay heavily embroidered with gold floral patterns. It is paired with a matching sheer shawl with embroidered trim.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ade4fc33bd354.webp",
+   "thumb": "thumbs/6ade4fc33bd354.webp",
+   "addedAt": 1792954307261
   }
  ],
  "categories": [
