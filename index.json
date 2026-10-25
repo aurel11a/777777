@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912086067,
+ "updatedAt": 1792912127546,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3911,6 +3911,16 @@
    "image": "items/6addaad5d22c53.webp",
    "thumb": "thumbs/6addaad5d22c53.webp",
    "addedAt": 1792912085256
+  },
+  {
+   "id": "6addaafe3d9cec",
+   "name": "купальник в винтажном стиле",
+   "description": "A vintage-style two-piece swimsuit featuring a square-neck top with a grey and white botanical print and cap sleeves. It is paired with high-waisted, solid black bottoms detailed with a wide belt and a rectangular buckle.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addaafe3d9cec.webp",
+   "thumb": "thumbs/6addaafe3d9cec.webp",
+   "addedAt": 1792912126597
   }
  ],
  "categories": [
