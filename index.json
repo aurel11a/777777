@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911004598,
+ "updatedAt": 1792911063503,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3731,6 +3731,16 @@
    "image": "items/6adda69bd5f34a.webp",
    "thumb": "thumbs/6adda69bd5f34a.webp",
    "addedAt": 1792911003696
+  },
+  {
+   "id": "6adda6d6ce39db",
+   "name": "купальник барби",
+   "description": "A black and white striped one-piece swimsuit with a halter neckline and a structured, sweetheart-style bodice.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adda6d6ce39db.webp",
+   "thumb": "thumbs/6adda6d6ce39db.webp",
+   "addedAt": 1792911062489
   }
  ],
  "categories": [
