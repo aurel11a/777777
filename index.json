@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905633346,
+ "updatedAt": 1792905689875,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2941,6 +2941,16 @@
    "image": "items/6add91a0d37e83.webp",
    "thumb": "thumbs/6add91a0d37e83.webp",
    "addedAt": 1792905632466
+  },
+  {
+   "id": "6add91d90ea024",
+   "name": "сливовое атласное белье",
+   "description": "A deep plum satin lingerie set featuring a camisole with thin straps and scalloped lace trim along the neckline and hem, paired with matching shorts with lace detailing at the sides.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6add91d90ea024.webp",
+   "thumb": "thumbs/6add91d90ea024.webp",
+   "addedAt": 1792905689171
   }
  ],
  "categories": [
