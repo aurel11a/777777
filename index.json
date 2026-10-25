@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906709309,
+ "updatedAt": 1792906879437,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3121,6 +3121,16 @@
    "image": "items/6add95d4be6070.webp",
    "thumb": "thumbs/6add95d4be6070.webp",
    "addedAt": 1792906708280
+  },
+  {
+   "id": "6add967e29c50a",
+   "name": "розово-коричневый комплект Adidas",
+   "description": "A brown and pink velour tracksuit featuring a cropped, long-sleeve zip-up jacket with a pink collar, cuffs, hem, and side stripes, along with zippered pockets and a white Adidas logo. It is paired with matching brown shorts with a pink waistband, side stripes, zippered details, and an Adidas logo.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add967e29c50a.webp",
+   "thumb": "thumbs/6add967e29c50a.webp",
+   "addedAt": 1792906878194
   }
  ],
  "categories": [
