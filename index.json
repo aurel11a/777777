@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907853723,
+ "updatedAt": 1792907947357,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3281,6 +3281,16 @@
    "image": "items/6add9a4c356970.webp",
    "thumb": "thumbs/6add9a4c356970.webp",
    "addedAt": 1792907852814
+  },
+  {
+   "id": "6add9aaa82b595",
+   "name": "бежевая пижама с лоскутами",
+   "description": "A peach gingham two-piece set featuring a strapless, cropped top and matching shorts, both accented with large patchwork heart appliqués. The shorts are finished with a white ruffled hem, and the outfit is detailed with small white ribbon bows.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add9aaa82b595.webp",
+   "thumb": "thumbs/6add9aaa82b595.webp",
+   "addedAt": 1792907946044
   }
  ],
  "categories": [
