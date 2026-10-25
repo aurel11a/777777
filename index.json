@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916586401,
+ "updatedAt": 1792916672623,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4331,6 +4331,16 @@
    "image": "items/6addbc69f2fc2e.webp",
    "thumb": "thumbs/6addbc69f2fc2e.webp",
    "addedAt": 1792916585340
+  },
+  {
+   "id": "6addbcbff9e0dd",
+   "name": "школьное темно-синее платье",
+   "description": "A navy blue long-sleeved mini dress layered over a light blue and white striped collared shirt. The look is accessorized with a large navy hair bow, gold bracelets, a navy quilted handbag, and navy Mary Jane flats.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6addbcbff9e0dd.webp",
+   "thumb": "thumbs/6addbcbff9e0dd.webp",
+   "addedAt": 1792916671829
   }
  ],
  "categories": [
