@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912127546,
+ "updatedAt": 1792912177205,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3921,6 +3921,16 @@
    "image": "items/6addaafe3d9cec.webp",
    "thumb": "thumbs/6addaafe3d9cec.webp",
    "addedAt": 1792912126597
+  },
+  {
+   "id": "6addab30560dc0",
+   "name": "купальник с вырезами в виде цветов",
+   "description": "A black one-piece swimsuit with thin straps and white contrast trim, featuring side cutouts shaped like white daisies. It has a shorts-style bottom for added coverage.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addab30560dc0.webp",
+   "thumb": "thumbs/6addab30560dc0.webp",
+   "addedAt": 1792912176389
   }
  ],
  "categories": [
