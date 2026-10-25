@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910960614,
+ "updatedAt": 1792911004598,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3721,6 +3721,16 @@
    "image": "items/6adda66f752b68.webp",
    "thumb": "thumbs/6adda66f752b68.webp",
    "addedAt": 1792910959886
+  },
+  {
+   "id": "6adda69bd5f34a",
+   "name": "воинский наряд в стиле фэнтези",
+   "description": "A fantasy-style warrior outfit featuring a single metallic shoulder pauldron with chainmail and fur trim, paired with a dark chest strap. The look includes a layered leather and fur waist belt with a pouch, green trousers, and fur-trimmed leg guards.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6adda69bd5f34a.webp",
+   "thumb": "thumbs/6adda69bd5f34a.webp",
+   "addedAt": 1792911003696
   }
  ],
  "categories": [
