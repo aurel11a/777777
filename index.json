@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916052024,
+ "updatedAt": 1792916109912,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4221,6 +4221,16 @@
    "image": "items/6addba52ea228f.webp",
    "thumb": "thumbs/6addba52ea228f.webp",
    "addedAt": 1792916050703
+  },
+  {
+   "id": "6addba8c1a1f0c",
+   "name": "атласная бирюзовая ночнушка с халатом",
+   "description": "A teal satin sleep set featuring a slip nightdress with thin straps, a V-neckline, and a delicate floral print. It is paired with a matching long robe.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6addba8c1a1f0c.webp",
+   "thumb": "thumbs/6addba8c1a1f0c.webp",
+   "addedAt": 1792916108822
   }
  ],
  "categories": [
