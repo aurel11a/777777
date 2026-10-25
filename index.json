@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792918100747,
+ "updatedAt": 1792940146363,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4631,6 +4631,46 @@
    "image": "items/6addc2534a992b.webp",
    "thumb": "thumbs/6addc2534a992b.webp",
    "addedAt": 1792918099488
+  },
+  {
+   "id": "6ade18718e787a",
+   "name": "гимнастический бордовый леотард",
+   "description": "A long-sleeved rhythmic gymnastics leotard featuring a sheer black mesh upper body and sleeves, heavily embellished with red and silver sequins and crystals. It has an off-the-shoulder neckline and a high-cut leg.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade18718e787a.webp",
+   "thumb": "thumbs/6ade18718e787a.webp",
+   "addedAt": 1792940145495
+  },
+  {
+   "id": "6ade18711bbc6c",
+   "name": "фигуристский тигриный костюм",
+   "description": "A full-body figure skating costume featuring a bold orange and black tiger stripe pattern. The suit has long sleeves, a high neckline, and sheer, flesh-toned mesh cutouts along the sides and back.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade18711bbc6c.webp",
+   "thumb": "thumbs/6ade18711bbc6c.webp",
+   "addedAt": 1792940145496
+  },
+  {
+   "id": "6ade187183db0c",
+   "name": "черный гимнастический леотард",
+   "description": "A black long-sleeved rhythmic gymnastics leotard with sheer mesh panels and intricate, swirling silver sequin embellishments along the bodice and legs. The design features a high neckline and full-length leg coverage.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade187183db0c.webp",
+   "thumb": "thumbs/6ade187183db0c.webp",
+   "addedAt": 1792940145497
+  },
+  {
+   "id": "6ade18713ef6a6",
+   "name": "ассиметричный гимнастичекий леотард с узорами",
+   "description": "A white asymmetrical gymnastics or dance costume featuring a swirling gold and silver glitter pattern. It has a single long sleeve, a cutout at the waist, and an asymmetrical design with one leg fully covered and the other high-cut.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade18713ef6a6.webp",
+   "thumb": "thumbs/6ade18713ef6a6.webp",
+   "addedAt": 1792940145498
   }
  ],
  "categories": [
