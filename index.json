@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792960768198,
+ "updatedAt": 1792960850777,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5881,6 +5881,16 @@
    "image": "items/6ade68ffcaf7d8.webp",
    "thumb": "thumbs/6ade68ffcaf7d8.webp",
    "addedAt": 1792960767298
+  },
+  {
+   "id": "6ade69519a185c",
+   "name": "Silver Puffer Outfit",
+   "description": "A metallic silver hooded puffer jacket worn with black trousers and black chunky lace-up combat boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ade69519a185c.webp",
+   "thumb": "thumbs/6ade69519a185c.webp",
+   "addedAt": 1792960849925
   }
  ],
  "categories": [
