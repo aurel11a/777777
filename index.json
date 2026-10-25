@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905905773,
+ "updatedAt": 1792905974389,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2991,6 +2991,16 @@
    "image": "items/6add92b0bdccd7.webp",
    "thumb": "thumbs/6add92b0bdccd7.webp",
    "addedAt": 1792905904541
+  },
+  {
+   "id": "6add92f53ab660",
+   "name": "пижама инопланетяне",
+   "description": "A black short-sleeve t-shirt featuring a large graphic of a green alien, UFOs, and a starry space background. It is paired with grey and black plaid shorts.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6add92f53ab660.webp",
+   "thumb": "thumbs/6add92f53ab660.webp",
+   "addedAt": 1792905973578
   }
  ],
  "categories": [
