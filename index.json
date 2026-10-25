@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792955883154,
+ "updatedAt": 1792955990603,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5261,6 +5261,26 @@
    "image": "items/6ade55ea3048cd.webp",
    "thumb": "thumbs/6ade55ea3048cd.webp",
    "addedAt": 1792955882013
+  },
+  {
+   "id": "6ade56556ab954",
+   "name": "Ice Blue Fantasy Costume",
+   "description": "An ethereal, ice-blue costume featuring a sheer halter bodice heavily embellished with 3D floral appliqués, sequins, and beads. It is paired with a matching draped, asymmetrical skirt with ruffled tulle details and a long trailing hem.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade56556ab954.webp",
+   "thumb": "thumbs/6ade56556ab954.webp",
+   "addedAt": 1792955989340
+  },
+  {
+   "id": "6ade5655e4a40e",
+   "name": "Teal Tulle Ballgown",
+   "description": "A vibrant teal and blue ballgown featuring a halter neckline and a voluminous, layered tulle skirt. The dress is adorned with scattered purple floral appliqués and a sheer, flowing cape.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade5655e4a40e.webp",
+   "thumb": "thumbs/6ade5655e4a40e.webp",
+   "addedAt": 1792955989341
   }
  ],
  "categories": [
