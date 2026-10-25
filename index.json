@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910568373,
+ "updatedAt": 1792910655490,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3681,6 +3681,16 @@
    "image": "items/6adda4e7f54df3.webp",
    "thumb": "thumbs/6adda4e7f54df3.webp",
    "addedAt": 1792910567631
+  },
+  {
+   "id": "6adda53e489f30",
+   "name": "магическая роба",
+   "description": "A historical fantasy-style outfit featuring a long, blue textured tunic layered under a brown hooded cowl. The look is cinched with a patterned waist sash and accessorized with arm wraps, a round shoulder buckle, and dark boots.",
+   "type": "fantasy",
+   "gender": "unisex",
+   "image": "items/6adda53e489f30.webp",
+   "thumb": "thumbs/6adda53e489f30.webp",
+   "addedAt": 1792910654617
   }
  ],
  "categories": [
