@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940260976,
+ "updatedAt": 1792940379187,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4681,6 +4681,16 @@
    "image": "items/6ade18e49f2533.webp",
    "thumb": "thumbs/6ade18e49f2533.webp",
    "addedAt": 1792940260136
+  },
+  {
+   "id": "6ade195aee51e1",
+   "name": "голубой костюм феи",
+   "description": "A light blue fairy costume featuring a corset-style top with lace-up detailing and sheer off-the-shoulder sleeves. It is paired with a matching asymmetrical, ruffled mini skirt with trailing fabric strips and iridescent wings. The look is completed with strappy, wrap-around flat sandals.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade195aee51e1.webp",
+   "thumb": "thumbs/6ade195aee51e1.webp",
+   "addedAt": 1792940378200
   }
  ],
  "categories": [
