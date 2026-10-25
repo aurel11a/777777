@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905453673,
+ "updatedAt": 1792905521265,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2911,6 +2911,16 @@
    "image": "items/6add90ec4a0143.webp",
    "thumb": "thumbs/6add90ec4a0143.webp",
    "addedAt": 1792905452842
+  },
+  {
+   "id": "6add9130890dc1",
+   "name": "лавандовый вязаный бикини",
+   "description": "A lavender crochet two-piece set featuring a halter bikini top with a scalloped hem and a matching low-rise bottom with a ruffled, scalloped edge.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add9130890dc1.webp",
+   "thumb": "thumbs/6add9130890dc1.webp",
+   "addedAt": 1792905520096
   }
  ],
  "categories": [
