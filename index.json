@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906587460,
+ "updatedAt": 1792906648875,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3101,6 +3101,16 @@
    "image": "items/6add955a0db9ed.webp",
    "thumb": "thumbs/6add955a0db9ed.webp",
    "addedAt": 1792906586516
+  },
+  {
+   "id": "6add9598fe0798",
+   "name": "черный комбинезон с вырезами и застежками",
+   "description": "A black, form-fitting romper with long sleeves and a high neckline, featuring a large cutout across the chest and midriff with a front zipper detail. It has thumbhole cuffs and small white text on the collar.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add9598fe0798.webp",
+   "thumb": "thumbs/6add9598fe0798.webp",
+   "addedAt": 1792906648140
   }
  ],
  "categories": [
