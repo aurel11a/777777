@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915001684,
+ "updatedAt": 1792915048075,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4031,6 +4031,16 @@
    "image": "items/6addb638cf6997.webp",
    "thumb": "thumbs/6addb638cf6997.webp",
    "addedAt": 1792915000917
+  },
+  {
+   "id": "6addb6671bbef1",
+   "name": "белый комплект с рюшами для дома",
+   "description": "A white, sleeveless top with thin straps, featuring a delicate floral print, ruffled lace trim, and a button-down front. It is paired with matching white bloomer-style shorts with ruffled hems.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6addb6671bbef1.webp",
+   "thumb": "thumbs/6addb6671bbef1.webp",
+   "addedAt": 1792915047263
   }
  ],
  "categories": [
