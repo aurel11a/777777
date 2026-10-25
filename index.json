@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911108834,
+ "updatedAt": 1792911154045,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3751,6 +3751,16 @@
    "image": "items/6adda70438e848.webp",
    "thumb": "thumbs/6adda70438e848.webp",
    "addedAt": 1792911108081
+  },
+  {
+   "id": "6adda731d15412",
+   "name": "комплект серого цвета",
+   "description": "grey textured two-piece set featuring a fitted crop top with thin straps and matching high-waisted shorts.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adda731d15412.webp",
+   "thumb": "thumbs/6adda731d15412.webp",
+   "addedAt": 1792911153249
   }
  ],
  "categories": [
