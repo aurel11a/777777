@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907571199,
+ "updatedAt": 1792907634440,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3231,6 +3231,16 @@
    "image": "items/6add9932ad74ab.webp",
    "thumb": "thumbs/6add9932ad74ab.webp",
    "addedAt": 1792907570294
+  },
+  {
+   "id": "6add9971f4e79d",
+   "name": "черный халат и золотистый боди",
+   "description": "A black satin robe with lace trim is paired with a gold-toned lace bodysuit. The look is accessorized with pearl bow earrings and black fuzzy slippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add9971f4e79d.webp",
+   "thumb": "thumbs/6add9971f4e79d.webp",
+   "addedAt": 1792907633642
   }
  ],
  "categories": [
