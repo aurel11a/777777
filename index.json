@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905974389,
+ "updatedAt": 1792906014019,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3001,6 +3001,16 @@
    "image": "items/6add92f53ab660.webp",
    "thumb": "thumbs/6add92f53ab660.webp",
    "addedAt": 1792905973578
+  },
+  {
+   "id": "6add931dee2042",
+   "name": "розовая пижама с ягненком",
+   "description": "A light pink short-sleeve pajama top featuring a graphic of a fluffy white sheep with a blue bow and the text \"Sweet Garden.\" It is paired with pink and white striped shorts and fluffy white bunny slippers.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add931dee2042.webp",
+   "thumb": "thumbs/6add931dee2042.webp",
+   "addedAt": 1792906013287
   }
  ],
  "categories": [
