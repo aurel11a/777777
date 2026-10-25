@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962478020,
+ "updatedAt": 1792962521993,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6081,6 +6081,16 @@
    "image": "items/6ade6fad18f5f4.webp",
    "thumb": "thumbs/6ade6fad18f5f4.webp",
    "addedAt": 1792962477041
+  },
+  {
+   "id": "6ade6fd902416c",
+   "name": "Vintage Windbreaker Outfit",
+   "description": "A dark green, navy, and red color-blocked windbreaker jacket worn open over a white graphic t-shirt. It is paired with medium-wash straight-leg jeans with rolled cuffs and white canvas sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6fd902416c.webp",
+   "thumb": "thumbs/6ade6fd902416c.webp",
+   "addedAt": 1792962521031
   }
  ],
  "categories": [
