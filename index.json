@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961548341,
+ "updatedAt": 1792961633187,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5981,6 +5981,16 @@
    "image": "items/6ade6c0bff0384.webp",
    "thumb": "thumbs/6ade6c0bff0384.webp",
    "addedAt": 1792961547436
+  },
+  {
+   "id": "6ade6c60638052",
+   "name": "Black Sweatshirt & Trousers",
+   "description": "A black crewneck sweatshirt with small white text on the chest, paired with matching black wide-leg tailored trousers. The outfit is completed with silver and white chunky sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6c60638052.webp",
+   "thumb": "thumbs/6ade6c60638052.webp",
+   "addedAt": 1792961632132
   }
  ],
  "categories": [
