@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963580241,
+ "updatedAt": 1792963629843,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6231,6 +6231,16 @@
    "image": "items/6ade73fb089753.webp",
    "thumb": "thumbs/6ade73fb089753.webp",
    "addedAt": 1792963579007
+  },
+  {
+   "id": "6ade742cc11a74",
+   "name": "Burgundy Leather & Plaid Outfit",
+   "description": "An oversized, dark burgundy leather jacket worn over brown and beige plaid capri pants with lace trim at the hem. The look is accessorized with a black shoulder bag and dark burgundy pointed-toe slingback heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade742cc11a74.webp",
+   "thumb": "thumbs/6ade742cc11a74.webp",
+   "addedAt": 1792963628619
   }
  ],
  "categories": [
