@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908705834,
+ "updatedAt": 1792908759335,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3381,6 +3381,16 @@
    "image": "items/6add9da008c492.webp",
    "thumb": "thumbs/6add9da008c492.webp",
    "addedAt": 1792908704676
+  },
+  {
+   "id": "6add9dd699bcc9",
+   "name": "серый школьный наряд с широкими брюками",
+   "description": "A white long-sleeved blouse with a large bow at the neck is layered under a grey button-down cropped vest. The outfit is paired with high-waisted, wide-leg grey trousers and accessorized with a brown and black top-handle bag and black shoes.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6add9dd699bcc9.webp",
+   "thumb": "thumbs/6add9dd699bcc9.webp",
+   "addedAt": 1792908758515
   }
  ],
  "categories": [
