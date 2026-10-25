@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911610890,
+ "updatedAt": 1792911661419,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3831,6 +3831,16 @@
    "image": "items/6adda8fa75444d.webp",
    "thumb": "thumbs/6adda8fa75444d.webp",
    "addedAt": 1792911610084
+  },
+  {
+   "id": "6adda92c696399",
+   "name": "нежно-розовый комплект для дома",
+   "description": "A fuzzy, light pink two-piece set featuring a V-neck cardigan with dark red striped trim and heart motifs, paired with matching drawstring shorts. Both pieces are detailed with dark red cursive embroidery.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6adda92c696399.webp",
+   "thumb": "thumbs/6adda92c696399.webp",
+   "addedAt": 1792911660445
   }
  ],
  "categories": [
