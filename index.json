@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908907340,
+ "updatedAt": 1792908964264,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3421,6 +3421,16 @@
    "image": "items/6add9e6ab83a17.webp",
    "thumb": "thumbs/6add9e6ab83a17.webp",
    "addedAt": 1792908906463
+  },
+  {
+   "id": "6add9ea34345a3",
+   "name": "кремовый женский костюм",
+   "description": "A cream-colored tailored suit featuring an oversized blazer and a matching fitted mini skirt, worn over a light top. The look is completed with metallic silver strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add9ea34345a3.webp",
+   "thumb": "thumbs/6add9ea34345a3.webp",
+   "addedAt": 1792908963317
   }
  ],
  "categories": [
