@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792940822552,
+ "updatedAt": 1792940912816,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4771,6 +4771,16 @@
    "image": "items/6ade1b150457ec.webp",
    "thumb": "thumbs/6ade1b150457ec.webp",
    "addedAt": 1792940821434
+  },
+  {
+   "id": "6ade1b6f204f7e",
+   "name": "элегантное бальное платье",
+   "description": "An elegant ballgown featuring a black strapless velvet bodice paired with a voluminous, vibrant teal satin skirt. The skirt is heavily embellished with scattered multicolored jewels and features a dramatic black velvet panel down the center, accessorized with long black opera gloves and a statement necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade1b6f204f7e.webp",
+   "thumb": "thumbs/6ade1b6f204f7e.webp",
+   "addedAt": 1792940911648
   }
  ],
  "categories": [
