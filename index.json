@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963629843,
+ "updatedAt": 1792963752793,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6241,6 +6241,16 @@
    "image": "items/6ade742cc11a74.webp",
    "thumb": "thumbs/6ade742cc11a74.webp",
    "addedAt": 1792963628619
+  },
+  {
+   "id": "6ade74a76487f9",
+   "name": "Berry Bloom",
+   "description": "A cream fleece jacket covered in large pink floral appliqués pairs with dusty rose wide-leg pants featuring buttoned cuffs. Cream fluffy ankle boots, a cream bouclé shoulder bag, and a matching pink scrunchie complete the cozy look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade74a76487f9.webp",
+   "thumb": "thumbs/6ade74a76487f9.webp",
+   "addedAt": 1792963751928
   }
  ],
  "categories": [
