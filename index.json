@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792907136391,
+ "updatedAt": 1792907189613,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3161,6 +3161,16 @@
    "image": "items/6add977f96ce3b.webp",
    "thumb": "thumbs/6add977f96ce3b.webp",
    "addedAt": 1792907135527
+  },
+  {
+   "id": "6add97b413c4cc",
+   "name": "платье бургунди и ботильоны",
+   "description": "A deep burgundy satin slip dress with thin spaghetti straps, a V-neckline, and a tie detail at the waist. It is paired with black pointed-toe ankle boots, a black shoulder bag with a circular gold handle, and a matching burgundy velvet choker.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6add97b413c4cc.webp",
+   "thumb": "thumbs/6add97b413c4cc.webp",
+   "addedAt": 1792907188585
   }
  ],
  "categories": [
