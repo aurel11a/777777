@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909340964,
+ "updatedAt": 1792909404070,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3491,6 +3491,16 @@
    "image": "items/6adda01c6c8780.webp",
    "thumb": "thumbs/6adda01c6c8780.webp",
    "addedAt": 1792909340140
+  },
+  {
+   "id": "6adda05ba083db",
+   "name": "изысканное фэнтези платье в изумрундом и красном цвете",
+   "description": "An elaborate fantasy gown featuring a deep red center panel with a dark green and gold patterned overlay. The dress has long sleeves, a high slit, an ornate gold belt, and is accessorized with a gold necklace and a small round bag.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adda05ba083db.webp",
+   "thumb": "thumbs/6adda05ba083db.webp",
+   "addedAt": 1792909403316
   }
  ],
  "categories": [
