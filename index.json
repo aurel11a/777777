@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963117018,
+ "updatedAt": 1792963158331,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6161,6 +6161,16 @@
    "image": "items/6ade722b3ca06f.webp",
    "thumb": "thumbs/6ade722b3ca06f.webp",
    "addedAt": 1792963115838
+  },
+  {
+   "id": "6ade72553c079a",
+   "name": "Pink Tulle Ballet Dress",
+   "description": "A light pink tulle midi dress featuring an off-the-shoulder sweetheart neckline and a pleated bodice. The look is completed with matching pink pointe shoes and a delicate gold necklace.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade72553c079a.webp",
+   "thumb": "thumbs/6ade72553c079a.webp",
+   "addedAt": 1792963157304
   }
  ],
  "categories": [
