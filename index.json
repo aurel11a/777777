@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909216225,
+ "updatedAt": 1792909293180,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3471,6 +3471,16 @@
    "image": "items/6add9f9f32dec5.webp",
    "thumb": "thumbs/6add9f9f32dec5.webp",
    "addedAt": 1792909215503
+  },
+  {
+   "id": "6add9fecb69513",
+   "name": "меховой комплект в стиле фэнтези",
+   "description": "A fantasy-style two-piece outfit featuring a brown, fur-textured bikini top and a matching asymmetrical loincloth-style skirt. The look is accessorized with long, brown arm sleeves and matching thigh-high boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6add9fecb69513.webp",
+   "thumb": "thumbs/6add9fecb69513.webp",
+   "addedAt": 1792909292385
   }
  ],
  "categories": [
