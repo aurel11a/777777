@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963453742,
+ "updatedAt": 1792963526631,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6211,6 +6211,16 @@
    "image": "items/6ade737ce148c0.webp",
    "thumb": "thumbs/6ade737ce148c0.webp",
    "addedAt": 1792963452884
+  },
+  {
+   "id": "6ade73c5acb97b",
+   "name": "Iridescent Sequin Set",
+   "description": "A festival outfit featuring an iridescent, sequined two-piece set with a halter-style top and high-waisted shorts, complete with long, sheer trailing panels. It is paired with chunky white platform boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ade73c5acb97b.webp",
+   "thumb": "thumbs/6ade73c5acb97b.webp",
+   "addedAt": 1792963525695
   }
  ],
  "categories": [
