@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910114126,
+ "updatedAt": 1792910165273,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3631,6 +3631,16 @@
    "image": "items/6adda3206d5443.webp",
    "thumb": "thumbs/6adda3206d5443.webp",
    "addedAt": 1792910112967
+  },
+  {
+   "id": "6adda3549899f8",
+   "name": "комплект доспехов в стиле темного фэнтези",
+   "description": "A dark fantasy-style armor set featuring a black leather doublet with intricate strapping, a studded waist belt, and layered shoulder and arm guards. The outfit is completed with matching dark trousers, tall leather boots, and black gloves.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6adda3549899f8.webp",
+   "thumb": "thumbs/6adda3549899f8.webp",
+   "addedAt": 1792910164088
   }
  ],
  "categories": [
