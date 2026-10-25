@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792963227794,
+ "updatedAt": 1792963311637,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6181,6 +6181,16 @@
    "image": "items/6ade729a557dac.webp",
    "thumb": "thumbs/6ade729a557dac.webp",
    "addedAt": 1792963226707
+  },
+  {
+   "id": "6ade72ee23c668",
+   "name": "Tribal Fantasy Costume",
+   "description": "A tribal-inspired fantasy costume featuring an olive green, frayed halter crop top and a matching asymmetrical mini skirt. It is accessorized with a wide leather belt with a large buckle, feather and bead embellishments, leather arm cuffs, and layered necklaces.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade72ee23c668.webp",
+   "thumb": "thumbs/6ade72ee23c668.webp",
+   "addedAt": 1792963310811
   }
  ],
  "categories": [
