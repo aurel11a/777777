@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908808568,
+ "updatedAt": 1792908860911,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3401,6 +3401,16 @@
    "image": "items/6add9e0787fa73.webp",
    "thumb": "thumbs/6add9e0787fa73.webp",
    "addedAt": 1792908807689
+  },
+  {
+   "id": "6add9e3ca6df52",
+   "name": "урокоченный кардиган и джинсы",
+   "description": "A light blue cropped zip-up cardigan with black and white stripes and a \"20\" graphic, paired with low-rise grey flared jeans. The look is accessorized with a small white shoulder bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9e3ca6df52.webp",
+   "thumb": "thumbs/6add9e3ca6df52.webp",
+   "addedAt": 1792908860053
   }
  ],
  "categories": [
