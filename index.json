@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912410311,
+ "updatedAt": 1792912463990,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3961,6 +3961,16 @@
    "image": "items/6addac1986f961.webp",
    "thumb": "thumbs/6addac1986f961.webp",
    "addedAt": 1792912409443
+  },
+  {
+   "id": "6addac4eaccf61",
+   "name": "голубое белье с трусами-шортами",
+   "description": "A light blue two-piece undergarment set featuring a sheer mesh bra with wide straps and a matching solid boyshort with a wide elastic waistband.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6addac4eaccf61.webp",
+   "thumb": "thumbs/6addac4eaccf61.webp",
+   "addedAt": 1792912462936
   }
  ],
  "categories": [
