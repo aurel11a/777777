@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792953382675,
+ "updatedAt": 1792954016873,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4861,6 +4861,106 @@
    "image": "items/6ade4c25826f16.webp",
    "thumb": "thumbs/6ade4c25826f16.webp",
    "addedAt": 1792953381737
+  },
+  {
+   "id": "6ade4e9f259282",
+   "name": "зеленый комплект на кольцах",
+   "description": "A light green two-piece outfit featuring a bandana-style top with oversized gold ring straps and a matching low-rise mini skirt with gold chain and ring detailing.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f259282.webp",
+   "thumb": "thumbs/6ade4e9f259282.webp",
+   "addedAt": 1792954015880
+  },
+  {
+   "id": "6ade4e9fe3db50",
+   "name": "купальник с журавлями",
+   "description": "A dark navy one-piece swimsuit featuring a graphic print of flying cranes and stylized clouds, with thick cream-colored tie straps and trim. It is accompanied by a matching sheer sarong wrap with the same crane print and a large cream tie at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9fe3db50.webp",
+   "thumb": "thumbs/6ade4e9fe3db50.webp",
+   "addedAt": 1792954015881
+  },
+  {
+   "id": "6ade4e9f99b567",
+   "name": "gold sun motifs",
+   "description": "A navy blue one-piece swimsuit featuring gold sun motifs, a cutout detail below the bust, and twisted white halter straps. It is paired with a matching white and navy sarong wrap featuring a large, stylized sun face print.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f99b567.webp",
+   "thumb": "thumbs/6ade4e9f99b567.webp",
+   "addedAt": 1792954015882
+  },
+  {
+   "id": "6ade4e9fa1f274",
+   "name": "red cherry",
+   "description": "A white one-piece swimsuit with a red cherry print, featuring ruffled red trim, a lace-up front, and criss-cross straps. The look is accessorized with a deep red sarong, a wide-brimmed straw hat with a white bow, a woven net tote bag with shells, white floral slide sandals, and pearl earrings.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9fa1f274.webp",
+   "thumb": "thumbs/6ade4e9fa1f274.webp",
+   "addedAt": 1792954015883
+  },
+  {
+   "id": "6ade4e9f3794be",
+   "name": "starfish appliqués",
+   "description": "A red two-piece swimsuit featuring a sheer short-sleeved crop top with light blue trim and white starfish appliqués. It is paired with matching red and light blue string bikini bottoms.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f3794be.webp",
+   "thumb": "thumbs/6ade4e9f3794be.webp",
+   "addedAt": 1792954015884
+  },
+  {
+   "id": "6ade4e9fcea651",
+   "name": "black polka dot",
+   "description": "A white two-piece swimsuit with a black polka dot pattern, featuring a halter-style bikini top with a cutout under the bust and matching low-rise shorts.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9fcea651.webp",
+   "thumb": "thumbs/6ade4e9fcea651.webp",
+   "addedAt": 1792954015885
+  },
+  {
+   "id": "6ade4e9f742532",
+   "name": "magenta swimsuit",
+   "description": "A magenta one-piece swimsuit featuring a vibrant pink floral print, a V-neckline, and thin straps with circular ring accents. It is paired with a matching sheer, high-low maxi skirt with the same floral pattern.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f742532.webp",
+   "thumb": "thumbs/6ade4e9f742532.webp",
+   "addedAt": 1792954015886
+  },
+  {
+   "id": "6ade4e9f3fb8e0",
+   "name": "вязаное розово-белое платье для пляжа",
+   "description": "A pink and white crochet mini dress featuring a structured, embellished bustier top with pearl details and a large shell centerpiece. The sheer, open-knit body is adorned with pink starfish and flower appliqués, finishing with a ruffled pink hem.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f3fb8e0.webp",
+   "thumb": "thumbs/6ade4e9f3fb8e0.webp",
+   "addedAt": 1792954015887
+  },
+  {
+   "id": "6ade4e9fe33acd",
+   "name": "toile pattern",
+   "description": "A light pink one-piece swimsuit featuring a red toile pattern, thin straps, and a structured, corset-style bodice with a sweetheart neckline. It is paired with a matching sarong wrap with a large, solid red satin bow tied at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9fe33acd.webp",
+   "thumb": "thumbs/6ade4e9fe33acd.webp",
+   "addedAt": 1792954015888
+  },
+  {
+   "id": "6ade4e9f9d2398",
+   "name": "peacock feather print",
+   "description": "A dark, sheer two-piece set featuring a halter-style top with a peacock feather print and delicate chain detailing across the midriff. It is paired with a matching low-rise, floor-length skirt with a draped waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ade4e9f9d2398.webp",
+   "thumb": "thumbs/6ade4e9f9d2398.webp",
+   "addedAt": 1792954015889
   }
  ],
  "categories": [
