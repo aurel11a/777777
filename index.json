@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906289775,
+ "updatedAt": 1792906369802,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3051,6 +3051,16 @@
    "image": "items/6add94312d61c4.webp",
    "thumb": "thumbs/6add94312d61c4.webp",
    "addedAt": 1792906289017
+  },
+  {
+   "id": "6add9480d3e18c",
+   "name": "пижама Dress up miffy",
+   "description": "A pink pajama set featuring a spaghetti-strap top with a small polka-dot pattern and a large Miffy graphic with the text \"Dress up miffy\". It is paired with solid pink polka-dot shorts with a small Miffy detail on the leg and ruffled side trim.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6add9480d3e18c.webp",
+   "thumb": "thumbs/6add9480d3e18c.webp",
+   "addedAt": 1792906368971
   }
  ],
  "categories": [
