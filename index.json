@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910265777,
+ "updatedAt": 1792910443044,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3661,6 +3661,16 @@
    "image": "items/6adda3b8821597.webp",
    "thumb": "thumbs/6adda3b8821597.webp",
    "addedAt": 1792910264862
+  },
+  {
+   "id": "6adda4694a85b8",
+   "name": "дублет из коричневой кожи",
+   "description": "A dark fantasy-style outfit featuring a textured brown leather doublet with a high collar and structured shoulder pieces, cinched with multiple belts at the waist. The look is paired with dark trousers, black leather gloves, and tall black leather boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6adda4694a85b8.webp",
+   "thumb": "thumbs/6adda4694a85b8.webp",
+   "addedAt": 1792910441819
   }
  ],
  "categories": [
