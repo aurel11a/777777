@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792954016873,
+ "updatedAt": 1792954181538,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4961,6 +4961,26 @@
    "image": "items/6ade4e9f9d2398.webp",
    "thumb": "thumbs/6ade4e9f9d2398.webp",
    "addedAt": 1792954015889
+  },
+  {
+   "id": "6ade4f44519e50",
+   "name": "Spotted Fur Set",
+   "description": "A white and black spotted faux-fur coat and matching hat, worn with sheer black tights and black heels with a gold buckle. The look is completed with black gloves.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade4f44519e50.webp",
+   "thumb": "thumbs/6ade4f44519e50.webp",
+   "addedAt": 1792954180684
+  },
+  {
+   "id": "6ade4f44b99339",
+   "name": "White Fur Lace",
+   "description": "A white faux-fur coat and matching hat are worn over a sheer white lace dress and patterned white tights. The look is accessorized with a layered pearl necklace and white pointed-toe heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade4f44b99339.webp",
+   "thumb": "thumbs/6ade4f44b99339.webp",
+   "addedAt": 1792954180685
   }
  ],
  "categories": [
