@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909058422,
+ "updatedAt": 1792909169502,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3451,6 +3451,16 @@
    "image": "items/6add9f01749a80.webp",
    "thumb": "thumbs/6add9f01749a80.webp",
    "addedAt": 1792909057627
+  },
+  {
+   "id": "6add9f7060c2f6",
+   "name": "костюм в стиле темного фэнтези с курткой с мехом",
+   "description": "A dark fantasy-style outfit featuring a fitted leather jacket with a brown fur collar, leather buckle straps, and flared sleeves. It is paired with dark textured flared trousers, a diagonal leather chest strap, and dark gloves.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6add9f7060c2f6.webp",
+   "thumb": "thumbs/6add9f7060c2f6.webp",
+   "addedAt": 1792909168721
   }
  ],
  "categories": [
