@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916813022,
+ "updatedAt": 1792916964945,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4371,6 +4371,36 @@
    "image": "items/6addbd4c9ce620.webp",
    "thumb": "thumbs/6addbd4c9ce620.webp",
    "addedAt": 1792916812265
+  },
+  {
+   "id": "6addbde4cf7aa4",
+   "name": "бальное платье с жемчугом",
+   "description": "An elaborate white ballgown featuring a structured corset bodice, voluminous ruffled puff sleeves, and a full, floor-length skirt. The dress is heavily embellished with cascading pearl strands, silver star appliqués, and is accessorized with a matching pearl choker necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6addbde4cf7aa4.webp",
+   "thumb": "thumbs/6addbde4cf7aa4.webp",
+   "addedAt": 1792916964120
+  },
+  {
+   "id": "6addbde4a03cfa",
+   "name": "винтажное свадебное платье",
+   "description": "A vintage-style ivory wedding gown featuring a high lace collar, long sheer bishop sleeves, and a heavily embellished lace bodice. It is paired with a flowing tulle skirt and a matching long lace-trimmed veil.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6addbde4a03cfa.webp",
+   "thumb": "thumbs/6addbde4a03cfa.webp",
+   "addedAt": 1792916964121
+  },
+  {
+   "id": "6addbde49f2f34",
+   "name": "пышное винтажное свадебное платье",
+   "description": "A vintage-style ivory wedding gown featuring a fitted, corset-style bodice with a sweetheart neckline and voluminous puff sleeves. The full skirt is adorned with large floral appliqués near the hem, and the look is completed with long gloves, a pearl necklace, a sheer veil, and matching pointed-toe heels.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6addbde49f2f34.webp",
+   "thumb": "thumbs/6addbde49f2f34.webp",
+   "addedAt": 1792916964122
   }
  ],
  "categories": [
