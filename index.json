@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906229034,
+ "updatedAt": 1792906289775,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3041,6 +3041,16 @@
    "image": "items/6add93f45f2989.webp",
    "thumb": "thumbs/6add93f45f2989.webp",
    "addedAt": 1792906228256
+  },
+  {
+   "id": "6add94312d61c4",
+   "name": "атласное платье с розовым халатом",
+   "description": "A white satin slip dress with a V-neckline and intricate lace detailing on the bodice. It is layered under a long, pink floral-jacquard robe with wide sleeves.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6add94312d61c4.webp",
+   "thumb": "thumbs/6add94312d61c4.webp",
+   "addedAt": 1792906289017
   }
  ],
  "categories": [
