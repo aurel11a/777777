@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792912512958,
+ "updatedAt": 1792912564071,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3981,6 +3981,16 @@
    "image": "items/6addac7e201a9a.webp",
    "thumb": "thumbs/6addac7e201a9a.webp",
    "addedAt": 1792912510667
+  },
+  {
+   "id": "6addacb24d2ead",
+   "name": "школьный аутфит с кофтой и мини-юбкой",
+   "description": "A fitted white long-sleeved top with a high neckline is paired with a dark pleated mini skirt. The outfit is completed with white knee-high socks and black chunky loafers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6addacb24d2ead.webp",
+   "thumb": "thumbs/6addacb24d2ead.webp",
+   "addedAt": 1792912562736
   }
  ],
  "categories": [
