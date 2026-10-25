@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792916207499,
+ "updatedAt": 1792916259993,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4251,6 +4251,16 @@
    "image": "items/6addbaee72ff54.webp",
    "thumb": "thumbs/6addbaee72ff54.webp",
    "addedAt": 1792916206206
+  },
+  {
+   "id": "6addbb220c55f4",
+   "name": "серый школьный аутфит",
+   "description": "A grey textured long-sleeved mini dress with a half-zip front, a contrasting black collar, and a small embroidered logo. The look is accessorized with a black shoulder bag, cream slouchy socks, and black chunky platform loafers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6addbb220c55f4.webp",
+   "thumb": "thumbs/6addbb220c55f4.webp",
+   "addedAt": 1792916258970
   }
  ],
  "categories": [
