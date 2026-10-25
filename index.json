@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792958668572,
+ "updatedAt": 1792959160843,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5581,6 +5581,106 @@
    "image": "items/6ade60cbbe1c58.webp",
    "thumb": "thumbs/6ade60cbbe1c58.webp",
    "addedAt": 1792958667716
+  },
+  {
+   "id": "6ade62b752f37a",
+   "name": "Leopard Mini Dress",
+   "description": "A form-fitting, leopard-print mini dress with thin spaghetti straps and a straight neckline.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade62b752f37a.webp",
+   "thumb": "thumbs/6ade62b752f37a.webp",
+   "addedAt": 1792959159925
+  },
+  {
+   "id": "6ade62b7d21b2f",
+   "name": "Striped Peplum Set",
+   "description": "An olive green and brown striped long-sleeved peplum top with a lace-trimmed neckline, paired with distressed blue denim shorts. The look is completed with cream slouchy leg warmers and platform shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade62b7d21b2f.webp",
+   "thumb": "thumbs/6ade62b7d21b2f.webp",
+   "addedAt": 1792959159926
+  },
+  {
+   "id": "6ade62b7650d44",
+   "name": "Black Embroidered Mini Dress",
+   "description": "A black long-sleeved mini dress featuring a high neckline and white floral embroidery along the side. It is accessorized with a layered, studded black belt, a silver pendant necklace, sheer black tights, and black buckled boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade62b7650d44.webp",
+   "thumb": "thumbs/6ade62b7650d44.webp",
+   "addedAt": 1792959159927
+  },
+  {
+   "id": "6ade62b7237898",
+   "name": "White Floral Corset Set",
+   "description": "A white two-piece set featuring a strapless corset-style top with red ribbon slots and a small red floral print. It is paired with a matching low-rise mini skirt with ruffled hems and red ribbon detailing.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade62b7237898.webp",
+   "thumb": "thumbs/6ade62b7237898.webp",
+   "addedAt": 1792959159928
+  },
+  {
+   "id": "6ade62b71f5ce2",
+   "name": "Pink \"BABY\" Set",
+   "description": "A light pink ribbed two-piece set featuring a square-neck crop tank top with \"BABY\" printed in white. It is paired with matching drawstring shorts with a ruffled elastic waistband.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade62b71f5ce2.webp",
+   "thumb": "thumbs/6ade62b71f5ce2.webp",
+   "addedAt": 1792959159929
+  },
+  {
+   "id": "6ade62b7a11f75",
+   "name": "Pink Ribbed Activewear",
+   "description": "A light pink athletic set featuring a ribbed sports bra with a cutout detail and thin straps. It is paired with matching high-waisted capri leggings and white sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ade62b7a11f75.webp",
+   "thumb": "thumbs/6ade62b7a11f75.webp",
+   "addedAt": 1792959159930
+  },
+  {
+   "id": "6ade62b702bdd4",
+   "name": "Blue Ruched Short Set",
+   "description": "A dusty blue two-piece set featuring a cropped camisole top with spaghetti straps and a gathered, ruched front. It is paired with matching high-waisted tailored shorts accented with a light-colored bow belt.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ade62b702bdd4.webp",
+   "thumb": "thumbs/6ade62b702bdd4.webp",
+   "addedAt": 1792959159931
+  },
+  {
+   "id": "6ade62b7cd01ca",
+   "name": "Pink Knit & Grey Sweatpants",
+   "description": "A light pink, long-sleeved knit top with a deep V-neckline and cable-knit detailing, paired with grey low-rise sweatpants featuring a pink drawstring. The look is completed with white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade62b7cd01ca.webp",
+   "thumb": "thumbs/6ade62b7cd01ca.webp",
+   "addedAt": 1792959159932
+  },
+  {
+   "id": "6ade62b7078fa1",
+   "name": "Graphic Crop & Wide-Leg Pants",
+   "description": "A black and red halter-style crop top with graphic text and a corset-like waist. It is paired with oversized black wide-leg sweatpants featuring large graphic lettering and rhinestone embellishments.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade62b7078fa1.webp",
+   "thumb": "thumbs/6ade62b7078fa1.webp",
+   "addedAt": 1792959159933
+  },
+  {
+   "id": "6ade62b7a3df95",
+   "name": "Striped Crop & Wide Jeans",
+   "description": "A white and pink striped long-sleeved crop top with a deep V-neckline, paired with light wash, loose-fitting wide-leg jeans and white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ade62b7a3df95.webp",
+   "thumb": "thumbs/6ade62b7a3df95.webp",
+   "addedAt": 1792959159934
   }
  ],
  "categories": [
