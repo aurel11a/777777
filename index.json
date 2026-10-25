@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910828579,
+ "updatedAt": 1792910914811,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3701,6 +3701,16 @@
    "image": "items/6adda5eb15fe7e.webp",
    "thumb": "thumbs/6adda5eb15fe7e.webp",
    "addedAt": 1792910827563
+  },
+  {
+   "id": "6adda64189e2ad",
+   "name": "темно-бордовая туника с черным капюшоном и кожаным поясом",
+   "description": "A historical fantasy-style outfit featuring a deep burgundy tunic with a black hooded cowl and a leather waist pouch. It is paired with dark trousers, studded leather bracers, black gloves, and tall leather boots with strap detailing.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6adda64189e2ad.webp",
+   "thumb": "thumbs/6adda64189e2ad.webp",
+   "addedAt": 1792910913836
   }
  ],
  "categories": [
