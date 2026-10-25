@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908377224,
+ "updatedAt": 1792908430082,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3361,6 +3361,16 @@
    "image": "items/6add9c58d8eb7b.webp",
    "thumb": "thumbs/6add9c58d8eb7b.webp",
    "addedAt": 1792908376458
+  },
+  {
+   "id": "6add9c8c754a0e",
+   "name": "угольно-серое пальто поверх брюк и туфель",
+   "description": "A long, charcoal grey textured coat with a belted waist and oversized fit, worn over grey trousers and black leather shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6add9c8c754a0e.webp",
+   "thumb": "thumbs/6add9c8c754a0e.webp",
+   "addedAt": 1792908428825
   }
  ],
  "categories": [
