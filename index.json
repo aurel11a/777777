@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792962989973,
+ "updatedAt": 1792963027792,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6141,6 +6141,16 @@
    "image": "items/6ade71ada6a661.webp",
    "thumb": "thumbs/6ade71ada6a661.webp",
    "addedAt": 1792962989063
+  },
+  {
+   "id": "6ade71d324848c",
+   "name": "Burgundy Frost",
+   "description": "A long burgundy faux-suede coat with cream shearling lining layers over a ribbed burgundy sweater dress featuring side slits and a black underlayer. Black leather ankle boots, a black shoulder bag, a thin black belt, and a matching burgundy scarf complete the winter look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ade71d324848c.webp",
+   "thumb": "thumbs/6ade71d324848c.webp",
+   "addedAt": 1792963027016
   }
  ],
  "categories": [
