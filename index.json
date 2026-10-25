@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792909169502,
+ "updatedAt": 1792909216225,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3461,6 +3461,16 @@
    "image": "items/6add9f7060c2f6.webp",
    "thumb": "thumbs/6add9f7060c2f6.webp",
    "addedAt": 1792909168721
+  },
+  {
+   "id": "6add9f9f32dec5",
+   "name": "платье-туника в средневековом стиле с капюшоном",
+   "description": "A medieval-style brown tunic dress with a hood, featuring intricate gold embroidery down the front and a sash tied at the waist. The outfit is completed with dark leather bracers and simple dark shoes.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6add9f9f32dec5.webp",
+   "thumb": "thumbs/6add9f9f32dec5.webp",
+   "addedAt": 1792909215503
   }
  ],
  "categories": [
