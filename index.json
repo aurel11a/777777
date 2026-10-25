@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792917817236,
+ "updatedAt": 1792917985100,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4601,6 +4601,26 @@
    "image": "items/6addc1387ebf3a.webp",
    "thumb": "thumbs/6addc1387ebf3a.webp",
    "addedAt": 1792917816414
+  },
+  {
+   "id": "6addc1e0de4d32",
+   "name": "бело-серый сноубордический костюм в стиле колор-блок",
+   "description": "A white and grey color-blocked snowboard suit featuring an oversized hooded pullover jacket with a half-zip front and a matching pair of track-style pants with side panels. The look is completed with a grey knit beanie and white snow boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6addc1e0de4d32.webp",
+   "thumb": "thumbs/6addc1e0de4d32.webp",
+   "addedAt": 1792917984281
+  },
+  {
+   "id": "6addc1e0bbdb67",
+   "name": "сноубордический костюм в светло-розовых тонах",
+   "description": "A light pink and dark grey color-blocked snowboard suit featuring an oversized hooded jacket with a high collar and a matching pair of baggy pants. The look is completed with a cream knit beanie and pink snow boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6addc1e0bbdb67.webp",
+   "thumb": "thumbs/6addc1e0bbdb67.webp",
+   "addedAt": 1792917984282
   }
  ],
  "categories": [
