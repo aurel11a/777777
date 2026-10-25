@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792906879437,
+ "updatedAt": 1792906996618,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3131,6 +3131,16 @@
    "image": "items/6add967e29c50a.webp",
    "thumb": "thumbs/6add967e29c50a.webp",
    "addedAt": 1792906878194
+  },
+  {
+   "id": "6add96f34a7979",
+   "name": "зелено-розовый комплект",
+   "description": "A dark green athletic set consisting of a zip-up bomber jacket with a ribbed collar and cuffs, pink stripes on the sleeves, and zippered pockets. It is paired with matching green shorts with an elastic waistband and pink side stripes, worn over a white crop top.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6add96f34a7979.webp",
+   "thumb": "thumbs/6add96f34a7979.webp",
+   "addedAt": 1792906995815
   }
  ],
  "categories": [
