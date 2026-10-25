@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792911944811,
+ "updatedAt": 1792911990630,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3881,6 +3881,16 @@
    "image": "items/6addaa476116cb.webp",
    "thumb": "thumbs/6addaa476116cb.webp",
    "addedAt": 1792911943833
+  },
+  {
+   "id": "6addaa75119e26",
+   "name": "лавандовый купальник с рисунком",
+   "description": "A purple two-piece swimsuit featuring a floral and bird print with tie-strap shoulders and a matching high-waisted bottom with side ties. It is accompanied by a sheer, solid purple sarong wrap.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6addaa75119e26.webp",
+   "thumb": "thumbs/6addaa75119e26.webp",
+   "addedAt": 1792911989757
   }
  ],
  "categories": [
