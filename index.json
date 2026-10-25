@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792961335836,
+ "updatedAt": 1792961404005,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5951,6 +5951,16 @@
    "image": "items/6ade6b36b841b3.webp",
    "thumb": "thumbs/6ade6b36b841b3.webp",
    "addedAt": 1792961334964
+  },
+  {
+   "id": "6ade6b7a1c9a79",
+   "name": "Brown Sweater & Black Trousers",
+   "description": "A brown crewneck sweater tucked into black tailored trousers with a black belt. The look is completed with brown leather lace-up shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ade6b7a1c9a79.webp",
+   "thumb": "thumbs/6ade6b7a1c9a79.webp",
+   "addedAt": 1792961402828
   }
  ],
  "categories": [
