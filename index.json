@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915541875,
+ "updatedAt": 1792915592522,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4121,6 +4121,16 @@
    "image": "items/6addb85578bdc1.webp",
    "thumb": "thumbs/6addb85578bdc1.webp",
    "addedAt": 1792915541112
+  },
+  {
+   "id": "6addb887fe62d6",
+   "name": "черный комплект с ремешками",
+   "description": "A black two-piece set featuring a long-sleeved crop top with a plunging neckline and multi-strap cutout detailing across the midriff. It is paired with matching low-rise, flared trousers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6addb887fe62d6.webp",
+   "thumb": "thumbs/6addb887fe62d6.webp",
+   "addedAt": 1792915591589
   }
  ],
  "categories": [
