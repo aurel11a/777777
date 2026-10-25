@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905320959,
+ "updatedAt": 1792905379719,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2891,6 +2891,16 @@
    "image": "items/6add90672484a0.webp",
    "thumb": "thumbs/6add90672484a0.webp",
    "addedAt": 1792905319983
+  },
+  {
+   "id": "6add90a2d3d0aa",
+   "name": "белый вязаный комплект для пляжа",
+   "description": "A white crochet two-piece set featuring a halter crop top with a lace-up front and a matching mini skirt with an open, netted pattern. Accessories include a shell and pearl waist chain and gold hoop earrings.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6add90a2d3d0aa.webp",
+   "thumb": "thumbs/6add90a2d3d0aa.webp",
+   "addedAt": 1792905378963
   }
  ],
  "categories": [
