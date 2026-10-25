@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792905805900,
+ "updatedAt": 1792905848916,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -2971,6 +2971,16 @@
    "image": "items/6add924ccc43a1.webp",
    "thumb": "thumbs/6add924ccc43a1.webp",
    "addedAt": 1792905804901
+  },
+  {
+   "id": "6add9278bcafa1",
+   "name": "пижама скуби ду",
+   "description": "A black short-sleeve pajama top featuring a \"Scooby-Doo! Where Are You?\" graphic with a haunted house, paired with black and white plaid flannel shorts.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6add9278bcafa1.webp",
+   "thumb": "thumbs/6add9278bcafa1.webp",
+   "addedAt": 1792905848150
   }
  ],
  "categories": [
