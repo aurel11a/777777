@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792908053684,
+ "updatedAt": 1792908121182,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3311,6 +3311,16 @@
    "image": "items/6add9b14b90d54.webp",
    "thumb": "thumbs/6add9b14b90d54.webp",
    "addedAt": 1792908052854
+  },
+  {
+   "id": "6add9b58379641",
+   "name": "топ и джинсы со шнуровкой",
+   "description": "A long-sleeved, ruched white crop top paired with light blue low-rise flared jeans. The jeans feature distinctive lace-up detailing on the hips and split hems, styled with black chunky platform boots and a small fuzzy handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6add9b58379641.webp",
+   "thumb": "thumbs/6add9b58379641.webp",
+   "addedAt": 1792908120357
   }
  ],
  "categories": [
