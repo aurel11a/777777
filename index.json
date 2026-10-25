@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792956709809,
+ "updatedAt": 1792957572921,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -5381,6 +5381,106 @@
    "image": "items/6ade5924cae618.webp",
    "thumb": "thumbs/6ade5924cae618.webp",
    "addedAt": 1792956708950
+  },
+  {
+   "id": "6ade5c83fa05c0",
+   "name": "Tactical Military Gear",
+   "description": "A tactical military outfit featuring a tan combat shirt and camouflage trousers, layered with an olive green tactical vest and pouches. It is accessorized with a black beanie, a patterned shemagh scarf, black gloves, tan knee pads, and black combat boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ade5c83fa05c0.webp",
+   "thumb": "thumbs/6ade5c83fa05c0.webp",
+   "addedAt": 1792957571821
+  },
+  {
+   "id": "6ade5c830e4e8f",
+   "name": "Black Lace Cloak",
+   "description": "A long, flowing black lace hooded cloak with a sheer, intricate floral pattern.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade5c830e4e8f.webp",
+   "thumb": "thumbs/6ade5c830e4e8f.webp",
+   "addedAt": 1792957571822
+  },
+  {
+   "id": "6ade5c83581cae",
+   "name": "Earth Tone Fringe Set",
+   "description": "A brown, earthy two-piece costume featuring a strapless, ruched top with a fringed hem and a matching low-rise mini skirt with frayed, jagged edges. The look is accessorized with a large layered silver necklace and a belly chain.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade5c83581cae.webp",
+   "thumb": "thumbs/6ade5c83581cae.webp",
+   "addedAt": 1792957571823
+  },
+  {
+   "id": "6ade5c838936bf",
+   "name": "Black Hooded Tunic",
+   "description": "A historical-style black tunic featuring a hood with a pointed cowl collar and long sleeves. It is cinched with a thin black leather belt and paired with dark trousers and black boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ade5c838936bf.webp",
+   "thumb": "thumbs/6ade5c838936bf.webp",
+   "addedAt": 1792957571824
+  },
+  {
+   "id": "6ade5c8389db59",
+   "name": "Silver Embroidered Tunic",
+   "description": "A historical-style outfit featuring a white tunic with a heavily embroidered silver and black chest panel and matching cuffs, worn under a long black open coat. It is accessorized with a long black leather belt and black leather boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ade5c8389db59.webp",
+   "thumb": "thumbs/6ade5c8389db59.webp",
+   "addedAt": 1792957571825
+  },
+  {
+   "id": "6ade5c8316e1d6",
+   "name": "Silver Blue Gown",
+   "description": "A long, silver-blue historical gown featuring a square neckline, a button-down front, and a delicate gold floral pattern throughout. It is accessorized with a draped blue velvet cloak and a gold circular brooch at the collar.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade5c8316e1d6.webp",
+   "thumb": "thumbs/6ade5c8316e1d6.webp",
+   "addedAt": 1792957571826
+  },
+  {
+   "id": "6ade5c837b9bb2",
+   "name": "Black Gothic Corset Dress",
+   "description": "A black gothic corset dress featuring a structured, lace-trimmed bodice with a ruffled peplum waist. It is paired with a voluminous layered tulle skirt with a high-low hemline and sheer black tights.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ade5c837b9bb2.webp",
+   "thumb": "thumbs/6ade5c837b9bb2.webp",
+   "addedAt": 1792957571827
+  },
+  {
+   "id": "6ade5c8322146d",
+   "name": "Fantasy Warrior Set",
+   "description": "A fantasy-style warrior outfit featuring a dark brown textured crop top and a layered, asymmetrical skirt with light fabric. It is accessorized with a wide, ornate gold and brown belt, leather arm bracers, and hand wraps.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ade5c8322146d.webp",
+   "thumb": "thumbs/6ade5c8322146d.webp",
+   "addedAt": 1792957571828
+  },
+  {
+   "id": "6ade5c833fa762",
+   "name": "Green Medieval Gown",
+   "description": "A historical-style gown featuring an olive green over-dress with bright yellow lining and trim, worn over a white chemise with voluminous sleeves. It is accessorized with a long, sheer white veil.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade5c833fa762.webp",
+   "thumb": "thumbs/6ade5c833fa762.webp",
+   "addedAt": 1792957571829
+  },
+  {
+   "id": "6ade5c8364cc4f",
+   "name": "Red Gold Historical Gown",
+   "description": "A deep red historical gown featuring a wide, gold-embroidered neckline, long sleeves, and a long braided belt. It is paired with a matching gold-lined cape and an ornate, jeweled headpiece with a red veil.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ade5c8364cc4f.webp",
+   "thumb": "thumbs/6ade5c8364cc4f.webp",
+   "addedAt": 1792957571830
   }
  ],
  "categories": [
