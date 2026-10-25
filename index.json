@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792910165273,
+ "updatedAt": 1792910216629,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -3641,6 +3641,16 @@
    "image": "items/6adda3549899f8.webp",
    "thumb": "thumbs/6adda3549899f8.webp",
    "addedAt": 1792910164088
+  },
+  {
+   "id": "6adda38704d11b",
+   "name": "богатый фэнтези костюм",
+   "description": "A dark fantasy-style outfit featuring an ornate, structured leather jacket with intricate metallic detailing and a single armored pauldron. The look is paired with dark trousers, black leather gloves, and knee-high leather boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6adda38704d11b.webp",
+   "thumb": "thumbs/6adda38704d11b.webp",
+   "addedAt": 1792910215407
   }
  ],
  "categories": [
