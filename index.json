@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792915772403,
+ "updatedAt": 1792915812811,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -4161,6 +4161,16 @@
    "image": "items/6addb93b56c23f.webp",
    "thumb": "thumbs/6addb93b56c23f.webp",
    "addedAt": 1792915771088
+  },
+  {
+   "id": "6addb963f0b298",
+   "name": "розовый спортивный костюм с корсетом",
+   "description": "A light pink matching sweatsuit featuring a cropped zip-up hoodie with a corset-style waist and an open neckline. It is paired with matching high-waisted jogger sweatpants and white chunky sneakers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6addb963f0b298.webp",
+   "thumb": "thumbs/6addb963f0b298.webp",
+   "addedAt": 1792915811942
   }
  ],
  "categories": [
