@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050620762,
+ "updatedAt": 1793050668523,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6931,6 +6931,16 @@
    "image": "items/6adfc7fb3fc744.webp",
    "thumb": "thumbs/6adfc7fb3fc744.webp",
    "addedAt": 1793050619868
+  },
+  {
+   "id": "6adfc82b1ae320",
+   "name": "Polka Dot Ballet Dress",
+   "description": "A theatrical ballet costume featuring a black velvet bodice with a lace-up front and a white tulle skirt with black polka dots and ruffled lace trim. It is paired with pink pointe shoes.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adfc82b1ae320.webp",
+   "thumb": "thumbs/6adfc82b1ae320.webp",
+   "addedAt": 1793050667700
   }
  ],
  "categories": [
