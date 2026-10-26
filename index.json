@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793040405647,
+ "updatedAt": 1793042947702,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6281,6 +6281,16 @@
    "image": "items/6adfa014049d98.webp",
    "thumb": "thumbs/6adfa014049d98.webp",
    "addedAt": 1793040404548
+  },
+  {
+   "id": "6adfaa021551e2",
+   "name": "Fringed Tribal Outfit",
+   "description": "A tribal fantasy-style outfit featuring an olive green, fringed off-the-shoulder top and a matching asymmetrical loincloth-style skirt with side straps. It is accessorized with leather arm bracers, a necklace, and fringed lace-up boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adfaa021551e2.webp",
+   "thumb": "thumbs/6adfaa021551e2.webp",
+   "addedAt": 1793042946841
   }
  ],
  "categories": [
