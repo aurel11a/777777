@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793048662816,
+ "updatedAt": 1793048726693,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6591,6 +6591,26 @@
    "image": "items/6adfc0550e4aaa.webp",
    "thumb": "thumbs/6adfc0550e4aaa.webp",
    "addedAt": 1793048661914
+  },
+  {
+   "id": "6adfc095d31fd0",
+   "name": "Dusty Rose Puff Sleeve Dress",
+   "description": "A dusty rose mini dress featuring a V-neckline, long voluminous puff sleeves, and a button-down front. The dress has a fitted waist and a flared skirt, paired with matching knee-high boots and a silver choker necklace.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc095d31fd0.webp",
+   "thumb": "thumbs/6adfc095d31fd0.webp",
+   "addedAt": 1793048725718
+  },
+  {
+   "id": "6adfc09563220a",
+   "name": "Black Puff Sleeve Mini Dress",
+   "description": "A black mini dress featuring a square neckline, dramatic puff sleeves, and a voluminous bubble skirt. It is paired with black knee-high leather boots and accessorized with a sparkly thigh band.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc09563220a.webp",
+   "thumb": "thumbs/6adfc09563220a.webp",
+   "addedAt": 1793048725719
   }
  ],
  "categories": [
