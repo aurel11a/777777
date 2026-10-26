@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793045466343,
+ "updatedAt": 1793046483271,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6451,6 +6451,26 @@
    "image": "items/6adfb3d9a72a26.webp",
    "thumb": "thumbs/6adfb3d9a72a26.webp",
    "addedAt": 1793045465172
+  },
+  {
+   "id": "6adfb7d2947069",
+   "name": "Navy Coat Dress",
+   "description": "A navy blue, long-sleeved coat dress with a high neckline and a single toggle closure at the chest. It is paired with brown strappy heeled sandals and a textured brown leather handbag.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfb7d2947069.webp",
+   "thumb": "thumbs/6adfb7d2947069.webp",
+   "addedAt": 1793046482289
+  },
+  {
+   "id": "6adfb7d211ba41",
+   "name": "Red Toggle Mini Dress",
+   "description": "A bright red, short-sleeved mini dress with a high neckline and a decorative toggle detail at the chest. It is accessorized with a dark brown rectangular clutch and brown strappy heeled sandals.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfb7d211ba41.webp",
+   "thumb": "thumbs/6adfb7d211ba41.webp",
+   "addedAt": 1793046482290
   }
  ],
  "categories": [
