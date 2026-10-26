@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050355105,
+ "updatedAt": 1793050441525,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6861,6 +6861,26 @@
    "image": "items/6adfc6f2de002e.webp",
    "thumb": "thumbs/6adfc6f2de002e.webp",
    "addedAt": 1793050354291
+  },
+  {
+   "id": "6adfc748bbd39a",
+   "name": "Yellow Bear Overalls & Striped Shirt",
+   "description": "A bright yellow overall set featuring a large front pocket and colorful cartoon bear and star graphics. It is worn over a long-sleeved shirt with bold red, yellow, blue, and green stripes, paired with white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc748bbd39a.webp",
+   "thumb": "thumbs/6adfc748bbd39a.webp",
+   "addedAt": 1793050440720
+  },
+  {
+   "id": "6adfc748da1939",
+   "name": "Red Mickey Mouse Overalls",
+   "description": "A red short overall dress featuring a large Mickey Mouse graphic on the bib and \"FUNNY MOUSE\" text on the pocket. It is worn over a black and white striped t-shirt and paired with red sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc748da1939.webp",
+   "thumb": "thumbs/6adfc748da1939.webp",
+   "addedAt": 1793050440721
   }
  ],
  "categories": [
