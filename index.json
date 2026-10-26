@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050441525,
+ "updatedAt": 1793050510075,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6881,6 +6881,26 @@
    "image": "items/6adfc748da1939.webp",
    "thumb": "thumbs/6adfc748da1939.webp",
    "addedAt": 1793050440721
+  },
+  {
+   "id": "6adfc78d58d116",
+   "name": "Polka Dot Swing Dress",
+   "description": "A vintage-style navy blue and white polka dot dress featuring an off-the-shoulder neckline and a full, flared skirt. The skirt reveals a bright red tulle petticoat underneath and is accessorized with a black hat, black gloves, a red clutch, and red pumps.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfc78d58d116.webp",
+   "thumb": "thumbs/6adfc78d58d116.webp",
+   "addedAt": 1793050509191
+  },
+  {
+   "id": "6adfc78de12831",
+   "name": "Pink Floral Vintage Dress",
+   "description": "A vintage-style light pink dress featuring a large floral print, short puff sleeves, and a sweetheart neckline. It has a fitted bodice and a full, pleated midi skirt, accessorized with a wide-brimmed straw hat with a pink bow, a pearl necklace, white lace gloves, and silver strappy heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfc78de12831.webp",
+   "thumb": "thumbs/6adfc78de12831.webp",
+   "addedAt": 1793050509192
   }
  ],
  "categories": [
