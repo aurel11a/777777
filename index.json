@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050546408,
+ "updatedAt": 1793050581289,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6911,6 +6911,16 @@
    "image": "items/6adfc7b1652f07.webp",
    "thumb": "thumbs/6adfc7b1652f07.webp",
    "addedAt": 1793050545523
+  },
+  {
+   "id": "6adfc7d47f131f",
+   "name": "Tribal Shaman Costume",
+   "description": "A dark, tribal fantasy costume featuring a horned headpiece, a tattered, layered cloak, and a top adorned with bone details. The look includes a fringed, distressed skirt and is accessorized with a tall, ornate staff covered in beads and talismans.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adfc7d47f131f.webp",
+   "thumb": "thumbs/6adfc7d47f131f.webp",
+   "addedAt": 1793050580352
   }
  ],
  "categories": [
