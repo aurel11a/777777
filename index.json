@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050012329,
+ "updatedAt": 1793050355105,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6801,6 +6801,66 @@
    "image": "items/6adfc59bdf2bac.webp",
    "thumb": "thumbs/6adfc59bdf2bac.webp",
    "addedAt": 1793050011327
+  },
+  {
+   "id": "6adfc6f29279a3",
+   "name": "Pink Off-Shoulder & Maxi Skirt",
+   "description": "A light pink two-piece set featuring an off-the-shoulder long-sleeved top with a folded neckline and lace trim. It is paired with a matching low-rise, floor-length skirt patterned with small bows, and styled with white pointed-toe heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc6f29279a3.webp",
+   "thumb": "thumbs/6adfc6f29279a3.webp",
+   "addedAt": 1793050354286
+  },
+  {
+   "id": "6adfc6f232ab1f",
+   "name": "White Floral Cape Coat",
+   "description": "A white cape-style coat featuring a vibrant floral print, a large white faux-fur collar, and matching fur trim along the hem. It is accessorized with layered gold necklaces, a small brown chain-strap handbag, cream knee-high socks, and light-colored shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc6f232ab1f.webp",
+   "thumb": "thumbs/6adfc6f232ab1f.webp",
+   "addedAt": 1793050354287
+  },
+  {
+   "id": "6adfc6f21801e8",
+   "name": "White Floral Knit Set",
+   "description": "A white matching two-piece set featuring a long-sleeved turtleneck sweater and a pleated midi skirt, both decorated with a vibrant floral print. The look is accessorized with layered gold necklaces, a small brown handbag, cream slouchy socks, and metallic shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc6f21801e8.webp",
+   "thumb": "thumbs/6adfc6f21801e8.webp",
+   "addedAt": 1793050354288
+  },
+  {
+   "id": "6adfc6f2e25137",
+   "name": "Beige Knit & Mint Skirt",
+   "description": "A beige cable-knit poncho-style sweater with a large collar and a light green ribbon bow, worn over a matching knit top. It is paired with a light mint green midi skirt featuring delicate floral embroidery and light-colored pointed-toe heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfc6f2e25137.webp",
+   "thumb": "thumbs/6adfc6f2e25137.webp",
+   "addedAt": 1793050354289
+  },
+  {
+   "id": "6adfc6f27e7e6a",
+   "name": "White Satin Blouse & Mini Skirt",
+   "description": "A white satin V-neck blouse with voluminous sleeves featuring ruched detailing and long drawstring ties. It is paired with a short, heavily textured white mini skirt, opaque white tights, and white pointed-toe pumps.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc6f27e7e6a.webp",
+   "thumb": "thumbs/6adfc6f27e7e6a.webp",
+   "addedAt": 1793050354290
+  },
+  {
+   "id": "6adfc6f2de002e",
+   "name": "Cream Sheer Knit & Textured Dress",
+   "description": "A cream-colored oversized sheer knit sweater layered over a matching maxi dress with heavily textured, three-dimensional floral appliqués. The look is completed with metallic silver pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc6f2de002e.webp",
+   "thumb": "thumbs/6adfc6f2de002e.webp",
+   "addedAt": 1793050354291
   }
  ],
  "categories": [
