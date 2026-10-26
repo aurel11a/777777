@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050581289,
+ "updatedAt": 1793050620762,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6921,6 +6921,16 @@
    "image": "items/6adfc7d47f131f.webp",
    "thumb": "thumbs/6adfc7d47f131f.webp",
    "addedAt": 1793050580352
+  },
+  {
+   "id": "6adfc7fb3fc744",
+   "name": "Pink Tulle Ballet Dress",
+   "description": "A light pink ballet dress featuring a fitted bodice with sheer, voluminous ruffled cap sleeves and a short, layered tulle skirt. It is worn with sheer pink tights and pink ballet slippers.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6adfc7fb3fc744.webp",
+   "thumb": "thumbs/6adfc7fb3fc744.webp",
+   "addedAt": 1793050619868
   }
  ],
  "categories": [
