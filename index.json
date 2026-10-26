@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1792964037575,
+ "updatedAt": 1793040405647,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6271,6 +6271,16 @@
    "image": "items/6ade75c40fae08.webp",
    "thumb": "thumbs/6ade75c40fae08.webp",
    "addedAt": 1792964036790
+  },
+  {
+   "id": "6adfa014049d98",
+   "name": "Rosewater Rococo",
+   "description": "An elaborate corseted gown features a dusty rose and cream color palette with sheer billowing sleeves, metallic embroidery, and cascading ruffled lace tiers adorned with large fabric roses. Matching floral hair accessories, a beaded floral handbag, and embellished lace pumps complete the opulent ensemble.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6adfa014049d98.webp",
+   "thumb": "thumbs/6adfa014049d98.webp",
+   "addedAt": 1793040404548
   }
  ],
  "categories": [
