@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793048930191,
+ "updatedAt": 1793049497003,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6641,6 +6641,106 @@
    "image": "items/6adfc160ee01e3.webp",
    "thumb": "thumbs/6adfc160ee01e3.webp",
    "addedAt": 1793048928982
+  },
+  {
+   "id": "6adfc397a10bd5",
+   "name": "Cream Toggle Coat & Tights",
+   "description": "A cream-colored, oversized coat with a large collar, toggle closures, and a waist tie, worn over a short white skirt. The look is completed with sheer white dotted tights, white slouchy leg warmers, black patent leather Mary Jane shoes, and a small white quilted chain bag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc397a10bd5.webp",
+   "thumb": "thumbs/6adfc397a10bd5.webp",
+   "addedAt": 1793049495760
+  },
+  {
+   "id": "6adfc397808eff",
+   "name": "Pink Bow Coat & Leg Warmers",
+   "description": "A light pink double-breasted coat featuring a high collar with a large bow and faux-fur cuffs. It is paired with sheer white dotted tights, cream lace-up leg warmers, and black patent leather Mary Jane heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc397808eff.webp",
+   "thumb": "thumbs/6adfc397808eff.webp",
+   "addedAt": 1793049495761
+  },
+  {
+   "id": "6adfc397a7078e",
+   "name": "Blue Pinstripe Midi Dress",
+   "description": "A light blue pinstriped midi dress featuring a V-neckline, ruffled cap sleeves, and a peplum waist. The skirt has an asymmetrical, high-low hem and is accessorized with a sheer neck scarf, a silver chain-strap bag, and black strappy sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc397a7078e.webp",
+   "thumb": "thumbs/6adfc397a7078e.webp",
+   "addedAt": 1793049495762
+  },
+  {
+   "id": "6adfc3972ee076",
+   "name": "Pink Dress & Black Bow",
+   "description": "A light pink sleeveless mini dress featuring a ruffled bodice and tiered skirt, accented with a large black bow at the neckline. The look is completed with a black quilted chain bag, white socks, and black Mary Jane heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc3972ee076.webp",
+   "thumb": "thumbs/6adfc3972ee076.webp",
+   "addedAt": 1793049495763
+  },
+  {
+   "id": "6adfc397e58072",
+   "name": "Black & White Tulle Dress",
+   "description": "A black sleeveless mini dress featuring a ruffled white neckline, a white waistband, and a voluminous white tulle skirt. The look is accessorized with a pearl necklace, a pearl bracelet, white dotted tights, and black patent leather Mary Jane shoes.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc397e58072.webp",
+   "thumb": "thumbs/6adfc397e58072.webp",
+   "addedAt": 1793049495764
+  },
+  {
+   "id": "6adfc3975d9e1d",
+   "name": "Cream Coat & Tulle Skirt",
+   "description": "A cream-colored double-breasted coat featuring a high collar with a large bow and faux-fur cuffs, worn over a matching long, flowing tulle skirt. The look is completed with cream tights and black cap-toe Mary Jane heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc3975d9e1d.webp",
+   "thumb": "thumbs/6adfc3975d9e1d.webp",
+   "addedAt": 1793049495765
+  },
+  {
+   "id": "6adfc397cdea43",
+   "name": "Pink Fur-Hood Puffer Coat",
+   "description": "A long, light pink puffer coat with a faux-fur hood and toggle closures, worn with light pink dotted tights. The winter look is completed with cream slouchy leg warmers and light pink boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc397cdea43.webp",
+   "thumb": "thumbs/6adfc397cdea43.webp",
+   "addedAt": 1793049495766
+  },
+  {
+   "id": "6adfc39770c083",
+   "name": "White Knit & Pearl Set",
+   "description": "A white ribbed knit two-piece set featuring a long-sleeved top with a ruffled neckline and a matching fitted maxi skirt with a flared hem. The outfit is accessorized with a pearl necklace, a fuzzy white bag, and white cap-toe Mary Jane heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc39770c083.webp",
+   "thumb": "thumbs/6adfc39770c083.webp",
+   "addedAt": 1793049495767
+  },
+  {
+   "id": "6adfc3975e8239",
+   "name": "White Ruffle Maxi Dress",
+   "description": "A white, form-fitting maxi dress featuring long sleeves with ruffled cuffs and a ruffled neckline with a front bow. The dress has a cascading ruffle detail down the side and is accessorized with a white hat, a lace choker, and white cap-toe heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc3975e8239.webp",
+   "thumb": "thumbs/6adfc3975e8239.webp",
+   "addedAt": 1793049495768
+  },
+  {
+   "id": "6adfc397564ffe",
+   "name": "Cream Floral Mini Dress",
+   "description": "A cream-colored short-sleeved mini dress with a white collar, featuring a delicate pink and green floral print and a lace-trimmed hem. The look is accessorized with a small pink quilted handbag, ruffled white ankle socks, and pink strappy shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6adfc397564ffe.webp",
+   "thumb": "thumbs/6adfc397564ffe.webp",
+   "addedAt": 1793049495769
   }
  ],
  "categories": [
