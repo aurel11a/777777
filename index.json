@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793043800742,
+ "updatedAt": 1793043982398,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6351,6 +6351,26 @@
    "image": "items/6adfad57ca80f3.webp",
    "thumb": "thumbs/6adfad57ca80f3.webp",
    "addedAt": 1793043799808
+  },
+  {
+   "id": "6adfae0df5038d",
+   "name": "Yellow Crochet Set",
+   "description": "A pale yellow open-knit two-piece set featuring a long-sleeved crop top and a matching low-rise maxi skirt. The look is accessorized with a large woven straw tote bag with \"PRADA\" text.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adfae0df5038d.webp",
+   "thumb": "thumbs/6adfae0df5038d.webp",
+   "addedAt": 1793043981524
+  },
+  {
+   "id": "6adfae0db5059b",
+   "name": "White Knit Beach Set",
+   "description": "A white open-knit two-piece set featuring a halter-style crop top and a matching low-rise maxi skirt with a geometric pattern. It includes detached long sleeves and a criss-cross string detail at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6adfae0db5059b.webp",
+   "thumb": "thumbs/6adfae0db5059b.webp",
+   "addedAt": 1793043981525
   }
  ],
  "categories": [
