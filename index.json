@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793049729842,
+ "updatedAt": 1793049830917,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6761,6 +6761,26 @@
    "image": "items/6adfc481c661b0.webp",
    "thumb": "thumbs/6adfc481c661b0.webp",
    "addedAt": 1793049729009
+  },
+  {
+   "id": "6adfc4e51d514d",
+   "name": "Black Hoodie & Striped Socks",
+   "description": "A black zip-up hoodie with a faux-fur hood and ribbed hem, layered over a black top and denim shorts. The look is completed with grey and black striped thigh-high socks and grey boots with faux-fur trim.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc4e51d514d.webp",
+   "thumb": "thumbs/6adfc4e51d514d.webp",
+   "addedAt": 1793049829966
+  },
+  {
+   "id": "6adfc4e5cc611f",
+   "name": "Olive Coat & Floral Dress",
+   "description": "A long, olive green tailored coat worn open over a flowing, floral-print maxi dress. The look is accessorized with a patterned green scarf, grey gloves, and brown lace-up leather boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6adfc4e5cc611f.webp",
+   "thumb": "thumbs/6adfc4e5cc611f.webp",
+   "addedAt": 1793049829967
   }
  ],
  "categories": [
