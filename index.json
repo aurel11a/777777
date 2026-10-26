@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793046956690,
+ "updatedAt": 1793048662816,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6561,6 +6561,36 @@
    "image": "items/6adfb9ab9cffc7.webp",
    "thumb": "thumbs/6adfb9ab9cffc7.webp",
    "addedAt": 1793046955631
+  },
+  {
+   "id": "6adfc055126ca5",
+   "name": "White Leaf Appliqué Dress",
+   "description": "An ethereal white midi dress featuring an off-the-shoulder neckline and a fitted bodice. It is decorated with green leafy vine appliqués along the neckline and waist, and is accessorized with a pale yellow ribbon belt and nude heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc055126ca5.webp",
+   "thumb": "thumbs/6adfc055126ca5.webp",
+   "addedAt": 1793048661912
+  },
+  {
+   "id": "6adfc0550d405b",
+   "name": "White Tulle Leaf Gown",
+   "description": "An ethereal white gown featuring a sheer tulle overlay and a fitted bodice with thin straps. The dress is adorned with delicate green leafy vine appliqués along the straps, waist, and cascading down the skirt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc0550d405b.webp",
+   "thumb": "thumbs/6adfc0550d405b.webp",
+   "addedAt": 1793048661913
+  },
+  {
+   "id": "6adfc0550e4aaa",
+   "name": "White Tulle Floral Midi Dress",
+   "description": "A white tulle midi dress featuring a deep V-neckline, long sheer sleeves, and a tiered skirt. The dress is scattered with small, delicate floral embroideries along the bodice and skirt, and is paired with nude strappy heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfc0550e4aaa.webp",
+   "thumb": "thumbs/6adfc0550e4aaa.webp",
+   "addedAt": 1793048661914
   }
  ],
  "categories": [
