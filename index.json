@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793046483271,
+ "updatedAt": 1793046956690,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6471,6 +6471,96 @@
    "image": "items/6adfb7d211ba41.webp",
    "thumb": "thumbs/6adfb7d211ba41.webp",
    "addedAt": 1793046482290
+  },
+  {
+   "id": "6adfb9abe13bde",
+   "name": "Renaissance Gold & Lace Gown",
+   "description": "A historical-style gown featuring a gold bodice with a square neckline and long, patterned sheer sleeves. The full skirt is cream-colored with a central lace panel and green embroidered trim, accessorized with a cross necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6adfb9abe13bde.webp",
+   "thumb": "thumbs/6adfb9abe13bde.webp",
+   "addedAt": 1793046955623
+  },
+  {
+   "id": "6adfb9abc6390a",
+   "name": "Champagne Satin Bustle Gown",
+   "description": "An elegant, vintage-style champagne satin gown featuring an off-the-shoulder draped bodice and a heavily gathered, bustle-style skirt. The dress is adorned with 3D floral appliqués at the shoulder and cascading down the side, with a tulle hem and a satin bow. It is accessorized with long white gloves.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfb9abc6390a.webp",
+   "thumb": "thumbs/6adfb9abc6390a.webp",
+   "addedAt": 1793046955624
+  },
+  {
+   "id": "6adfb9ab63d31c",
+   "name": "Sheer Lace Wedding Gown",
+   "description": "An ethereal white wedding gown featuring an off-the-shoulder sweetheart neckline and long, sheer draped sleeves. The bodice is heavily embellished with lace appliqués and features sheer cutouts, flowing into a fitted skirt with a voluminous sheer overskirt.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6adfb9ab63d31c.webp",
+   "thumb": "thumbs/6adfb9ab63d31c.webp",
+   "addedAt": 1793046955625
+  },
+  {
+   "id": "6adfb9ab15cf2f",
+   "name": "Brown Lace Collar Dress",
+   "description": "A vintage-style brown dress featuring a large white lace collar, short sleeves, and a button-down bodice. It has a fitted waist and a full, gathered midi skirt.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfb9ab15cf2f.webp",
+   "thumb": "thumbs/6adfb9ab15cf2f.webp",
+   "addedAt": 1793046955626
+  },
+  {
+   "id": "6adfb9abe37910",
+   "name": "Ivory Lace Vintage Gown",
+   "description": "A vintage-style ivory wedding gown featuring a high lace neckline, long sheer bishop sleeves, and a heavily embellished lace bodice. The A-line skirt is decorated with lace appliqués and is paired with a long, matching sheer veil.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6adfb9abe37910.webp",
+   "thumb": "thumbs/6adfb9abe37910.webp",
+   "addedAt": 1793046955627
+  },
+  {
+   "id": "6adfb9ab256895",
+   "name": "Sheer Lace Bell Sleeve Gown",
+   "description": "A sheer, vintage-style gown featuring a high neckline, an illusion bodice, and dramatic bell sleeves. The dress is heavily embroidered with white floral lace and accented with pearl trim along the edges.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6adfb9ab256895.webp",
+   "thumb": "thumbs/6adfb9ab256895.webp",
+   "addedAt": 1793046955628
+  },
+  {
+   "id": "6adfb9abd4c15d",
+   "name": "Elizabethan Ruff Gown",
+   "description": "An elaborate Elizabethan-style gown featuring a dark, textured over-robe worn over a heavily gold-embroidered underskirt. The look includes a large white lace ruff collar, a jeweled headpiece, and a long pearl necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6adfb9abd4c15d.webp",
+   "thumb": "thumbs/6adfb9abd4c15d.webp",
+   "addedAt": 1793046955629
+  },
+  {
+   "id": "6adfb9ab71e3d8",
+   "name": "Green & Gold Velvet Ballgown",
+   "description": "An ornate ballgown featuring a dark green velvet off-the-shoulder bodice heavily embellished with gold embroidery and jewels. The voluminous skirt is made of alternating panels of champagne satin and sheer green fabric with intricate gold floral embroidery.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfb9ab71e3d8.webp",
+   "thumb": "thumbs/6adfb9ab71e3d8.webp",
+   "addedAt": 1793046955630
+  },
+  {
+   "id": "6adfb9ab9cffc7",
+   "name": "White Tulle Floral Gown",
+   "description": "A white tulle gown featuring a structured, corset-style bodice with off-the-shoulder sheer sleeves. The voluminous skirt has a high front slit and is heavily decorated with large, cascading red and pink floral appliqués.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6adfb9ab9cffc7.webp",
+   "thumb": "thumbs/6adfb9ab9cffc7.webp",
+   "addedAt": 1793046955631
   }
  ],
  "categories": [
