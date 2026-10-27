@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793090448076,
+ "updatedAt": 1793090492829,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7251,6 +7251,16 @@
    "image": "items/6ae0638fa78634.webp",
    "thumb": "thumbs/6ae0638fa78634.webp",
    "addedAt": 1793090447144
+  },
+  {
+   "id": "6ae063bbf88b78",
+   "name": "Highland Plaid Ensemble",
+   "description": "A white long-sleeved lace-up blouse is worn under an olive green and brown corset-style bodice with lace detailing. A rust and black plaid draped overskirt is layered over a long black skirt, accessorized with a plaid shawl and a round pendant necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae063bbf88b78.webp",
+   "thumb": "thumbs/6ae063bbf88b78.webp",
+   "addedAt": 1793090491801
   }
  ],
  "categories": [
