@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793115116227,
+ "updatedAt": 1793115290094,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8101,6 +8101,36 @@
    "image": "items/6ae0c3eb52f33c.webp",
    "thumb": "thumbs/6ae0c3eb52f33c.webp",
    "addedAt": 1793115115227
+  },
+  {
+   "id": "6ae0c4981615a6",
+   "name": "Gingham Fruit Set",
+   "description": "A light blue and white gingham two-piece set features a smocked camisole top with tie straps and a ruffled hem, printed with colorful fruit and vegetable motifs. It is paired with matching ruffled shorts in the same print.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0c4981615a6.webp",
+   "thumb": "thumbs/6ae0c4981615a6.webp",
+   "addedAt": 1793115288817
+  },
+  {
+   "id": "6ae0c498f76bbc",
+   "name": "Mint Ruffle Set",
+   "description": "A pale mint green two-piece set features a cropped top with ruffled cap sleeves, a lace-trimmed square neckline, and a gathered waist. It is paired with matching high-waisted shorts with an elastic waistband and ruffled hems.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0c498f76bbc.webp",
+   "thumb": "thumbs/6ae0c498f76bbc.webp",
+   "addedAt": 1793115288818
+  },
+  {
+   "id": "6ae0c49858f456",
+   "name": "Floral Puff Sleeve Set",
+   "description": "A white corset-style top with a delicate green floral print features an off-the-shoulder neckline and voluminous sheer puff sleeves. It is paired with matching white high-cut bottoms and accessorized with a pearl necklace.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae0c49858f456.webp",
+   "thumb": "thumbs/6ae0c49858f456.webp",
+   "addedAt": 1793115288819
   }
  ],
  "categories": [
