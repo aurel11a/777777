@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793091888144,
+ "updatedAt": 1793110482296,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7361,6 +7361,86 @@
    "image": "items/6ae0692f4c7df3.webp",
    "thumb": "thumbs/6ae0692f4c7df3.webp",
    "addedAt": 1793091887108
+  },
+  {
+   "id": "6ae0b1d0900a44",
+   "name": "Ombre Knit Dress",
+   "description": "A long-sleeved fuzzy knit mini dress features a black and white ombre gradient, a contrasting white scalloped collar, and gold button detailing. Black pointed-toe kitten heels with gold buckles complete the look.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae0b1d0900a44.webp",
+   "thumb": "thumbs/6ae0b1d0900a44.webp",
+   "addedAt": 1793110480789
+  },
+  {
+   "id": "6ae0b1d03fcd38",
+   "name": "Black Pink Romper",
+   "description": "A black long-sleeved knit romper features light pink contrasting trim at the collar, cuffs, waist pockets, and hems, detailed with gold buttons down the front. Black over-the-knee socks and pink pointed-toe heels with gold buckles complete the outfit.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0b1d03fcd38.webp",
+   "thumb": "thumbs/6ae0b1d03fcd38.webp",
+   "addedAt": 1793110480790
+  },
+  {
+   "id": "6ae0b1d0f9d766",
+   "name": "Green Glitter Set",
+   "description": "A light green glittery two-piece set features a long-sleeved cropped top with a high neckline and keyhole cutout, paired with matching low-rise flared pants accented by a large fabric rosette at the waist.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0b1d0f9d766.webp",
+   "thumb": "thumbs/6ae0b1d0f9d766.webp",
+   "addedAt": 1793110480791
+  },
+  {
+   "id": "6ae0b1d0e1b081",
+   "name": "Black Lace Bodysuit",
+   "description": "A black off-the-shoulder bodysuit with a draped, asymmetrical design features white lace trim along the neckline and hem. Opaque black tights and black pointed-toe heels complete the look.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae0b1d0e1b081.webp",
+   "thumb": "thumbs/6ae0b1d0e1b081.webp",
+   "addedAt": 1793110480792
+  },
+  {
+   "id": "6ae0b1d0b80bc8",
+   "name": "Striped Lace Romper",
+   "description": "A white and black horizontally striped short-sleeved romper features white lace trim along the scoop neckline, cap sleeves, and leg openings, with a front tie detail at the chest.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0b1d0b80bc8.webp",
+   "thumb": "thumbs/6ae0b1d0b80bc8.webp",
+   "addedAt": 1793110480793
+  },
+  {
+   "id": "6ae0b1d0a8b645",
+   "name": "Yellow Fur-Trim Dress",
+   "description": "A yellow floor-length dress with a pink floral print features long sleeves ending in oversized fluffy green fur cuffs, and a hem trimmed with matching green fur.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0b1d0a8b645.webp",
+   "thumb": "thumbs/6ae0b1d0a8b645.webp",
+   "addedAt": 1793110480794
+  },
+  {
+   "id": "6ae0b1d0d96220",
+   "name": "Yellow Knit Set",
+   "description": "A pale yellow ribbed knit two-piece set features a collared long-sleeve cardigan with button details and flared cuffs, worn partially open over matching high-waisted flared pants with front buttons and side slits. White pointed-toe shoes complete the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0b1d0d96220.webp",
+   "thumb": "thumbs/6ae0b1d0d96220.webp",
+   "addedAt": 1793110480795
+  },
+  {
+   "id": "6ae0b1d04f6711",
+   "name": "Floral Knit Skirt Set",
+   "description": "A black high-neck knit sweater features a large yellow and green floral pattern with patterned trim at the cuffs and hem. It is paired with a cream maxi skirt decorated with an all-over green and pink floral motif.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0b1d04f6711.webp",
+   "thumb": "thumbs/6ae0b1d04f6711.webp",
+   "addedAt": 1793110480796
   }
  ],
  "categories": [
