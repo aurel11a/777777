@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137072333,
+ "updatedAt": 1793137224330,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8681,6 +8681,46 @@
    "image": "items/6ae119af224940.webp",
    "thumb": "thumbs/6ae119af224940.webp",
    "addedAt": 1793137071447
+  },
+  {
+   "id": "6ae11a4770b419",
+   "name": "Green Beaded Set",
+   "description": "A green two-piece belly dance costume features a bandeau top and a matching mini skirt, both heavily embellished with silver sequins and beaded swirl patterns. The top and skirt are finished with long, dangling beaded fringe.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae11a4770b419.webp",
+   "thumb": "thumbs/6ae11a4770b419.webp",
+   "addedAt": 1793137223280
+  },
+  {
+   "id": "6ae11a4752f3ad",
+   "name": "Burgundy Gold Leotard",
+   "description": "A deep burgundy velvet leotard features an illusion neckline with gold appliqué detailing, including a central chest piece and ornate scrollwork down the front. It has a deep plunge and sheer burgundy ruffled side panels, paired with nude fishnet tights.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae11a4752f3ad.webp",
+   "thumb": "thumbs/6ae11a4752f3ad.webp",
+   "addedAt": 1793137223281
+  },
+  {
+   "id": "6ae11a47f7e83a",
+   "name": "Circus Star Bodysuit",
+   "description": "A red and white circus-style bodysuit features a velvet bust with a large bow, gold star appliqués, and intricate silver rhinestone trim. The lower half is detailed with vertical red and white stripes, silver studs, and cutout sides.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae11a47f7e83a.webp",
+   "thumb": "thumbs/6ae11a47f7e83a.webp",
+   "addedAt": 1793137223282
+  },
+  {
+   "id": "6ae11a47a97b6a",
+   "name": "Queen of Hearts Costume",
+   "description": "A red, black, and white playing card-themed two-piece costume features a studded bra top with card suit motifs and a draped silver chain, paired with a harlequin-patterned skirt trimmed with red sequins and white pom-poms.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae11a47a97b6a.webp",
+   "thumb": "thumbs/6ae11a47a97b6a.webp",
+   "addedAt": 1793137223283
   }
  ],
  "categories": [
