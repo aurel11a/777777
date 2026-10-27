@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793087478970,
+ "updatedAt": 1793087609476,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7091,6 +7091,16 @@
    "image": "items/6ae057f58b1e9b.webp",
    "thumb": "thumbs/6ae057f58b1e9b.webp",
    "addedAt": 1793087477839
+  },
+  {
+   "id": "6ae0587850773f",
+   "name": "Navy Suit Classic",
+   "description": "A navy two-piece suit with a single-breasted, two-button jacket and flap pockets is worn over a crisp white collared dress shirt. Brown suede chukka boots complete the tailored look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae0587850773f.webp",
+   "thumb": "thumbs/6ae0587850773f.webp",
+   "addedAt": 1793087608107
   }
  ],
  "categories": [
