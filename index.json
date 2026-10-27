@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137485565,
+ "updatedAt": 1793137839737,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8791,6 +8791,106 @@
    "image": "items/6ae11b4c669b16.webp",
    "thumb": "thumbs/6ae11b4c669b16.webp",
    "addedAt": 1793137484615
+  },
+  {
+   "id": "6ae11caedaad04",
+   "name": "Grey Fur-Trim Set",
+   "description": "A grey wool two-piece set features a long-sleeved button-up jacket with white faux fur trim on the collar and cuffs, paired with matching high-waisted shorts with fur-trimmed hems. A white fuzzy hat, sheer tights, and cream knee-high boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11caedaad04.webp",
+   "thumb": "thumbs/6ae11caedaad04.webp",
+   "addedAt": 1793137838857
+  },
+  {
+   "id": "6ae11cae652c65",
+   "name": "Grey Fur Collar Suit",
+   "description": "A grey tailored double-breasted jacket with flap pockets is paired with a matching grey pleated midi skirt. A large brown fur collar and grey suede ankle boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11cae652c65.webp",
+   "thumb": "thumbs/6ae11cae652c65.webp",
+   "addedAt": 1793137838858
+  },
+  {
+   "id": "6ae11caebb5f9b",
+   "name": "Cream Lace Slip",
+   "description": "A cream floor-length slip dress features a gathered bust with a central brooch and a gold chain draped across the waist. It is layered under a sheer cream lace long-sleeved duster with ruffled edges, paired with white ballet flats.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11caebb5f9b.webp",
+   "thumb": "thumbs/6ae11caebb5f9b.webp",
+   "addedAt": 1793137838859
+  },
+  {
+   "id": "6ae11cae332b2e",
+   "name": "Pink Fur Coat",
+   "description": "A floor-length light pink fur coat features an oversized shawl collar and voluminous sleeves. It is accessorized with a layered silver choker necklace and light pink pointed-toe boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11cae332b2e.webp",
+   "thumb": "thumbs/6ae11cae332b2e.webp",
+   "addedAt": 1793137838860
+  },
+  {
+   "id": "6ae11cae299378",
+   "name": "Grey Fuzzy Red",
+   "description": "A dark grey fuzzy long-sleeved sweater is paired with matching wide-leg trousers, layered with a grey fringed scarf. A red beret, a small black quilted handbag, and red pointed-toe heels complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11cae299378.webp",
+   "thumb": "thumbs/6ae11cae299378.webp",
+   "addedAt": 1793137838861
+  },
+  {
+   "id": "6ae11cae3d9467",
+   "name": "White Fur Cape",
+   "description": "A white V-neck midi dress with a row of small buttons down the front is paired with a matching white cape featuring large, fluffy faux fur trim along the edges. White pointed-toe knee-high boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11cae3d9467.webp",
+   "thumb": "thumbs/6ae11cae3d9467.webp",
+   "addedAt": 1793137838862
+  },
+  {
+   "id": "6ae11caed659c0",
+   "name": "Beige Romantic Dress",
+   "description": "A beige floor-length dress features a fitted bodice with a sweetheart neckline and a bow detail, paired with a full skirt with a ruffled hem. The look is accessorized with a wide-brimmed straw hat with a ribbon, sheer lace gloves, and beige pointed-toe shoes with bow details.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae11caed659c0.webp",
+   "thumb": "thumbs/6ae11caed659c0.webp",
+   "addedAt": 1793137838863
+  },
+  {
+   "id": "6ae11caed10c19",
+   "name": "Leopard Lined Coat",
+   "description": "A black long-sleeved midi dress with a V-neckline is worn under a long coat featuring a black exterior and a prominent leopard-print lining and trim. Black pointed-toe pumps and black sunglasses complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11caed10c19.webp",
+   "thumb": "thumbs/6ae11caed10c19.webp",
+   "addedAt": 1793137838864
+  },
+  {
+   "id": "6ae11caee3bea6",
+   "name": "Victorian Striped Dress",
+   "description": "A light blue and white striped Victorian-style dress features a high lace neckline, a white ruffled bodice, and a long floor-length skirt. A wide cream belt cinches the waist, and a wide-brimmed straw hat with a white veil completes the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae11caee3bea6.webp",
+   "thumb": "thumbs/6ae11caee3bea6.webp",
+   "addedAt": 1793137838865
+  },
+  {
+   "id": "6ae11caee43201",
+   "name": "Spotted Fur Jacket",
+   "description": "A brown and white spotted faux fur jacket with a large collar is paired with light blue opaque tights and red patent leather Mary Jane heels. A small black woven bucket bag completes the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11caee43201.webp",
+   "thumb": "thumbs/6ae11caee43201.webp",
+   "addedAt": 1793137838866
   }
  ],
  "categories": [
