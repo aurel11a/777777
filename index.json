@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793129740190,
+ "updatedAt": 1793129975501,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8211,6 +8211,26 @@
    "image": "items/6ae0fd0b465612.webp",
    "thumb": "thumbs/6ae0fd0b465612.webp",
    "addedAt": 1793129739204
+  },
+  {
+   "id": "6ae0fdf6c8378b",
+   "name": "Ladybug Denim Set",
+   "description": "A cream chunky knit sweater features a red ladybug graphic on the front and red trim along the collar, cuffs, and hem. It is paired with a blue denim midi skirt with a lace-trimmed hem and waist ties, worn with white lace knee-high socks and red patent Mary Jane heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0fdf6c8378b.webp",
+   "thumb": "thumbs/6ae0fdf6c8378b.webp",
+   "addedAt": 1793129974610
+  },
+  {
+   "id": "6ae0fdf6517d05",
+   "name": "Duck Knit Loungewear",
+   "description": "A green knit sweater with yellow trim on the shoulder and cuffs features a large yellow duck graphic, paired with pink and white vertically striped button-up shorts. Green star-patterned socks and fluffy yellow duck slippers complete the cozy look, accessorized with colorful wired earphones.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0fdf6517d05.webp",
+   "thumb": "thumbs/6ae0fdf6517d05.webp",
+   "addedAt": 1793129974611
   }
  ],
  "categories": [
