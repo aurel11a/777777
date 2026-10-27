@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793087409597,
+ "updatedAt": 1793087478970,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7081,6 +7081,16 @@
    "image": "items/6ae057b017f8ed.webp",
    "thumb": "thumbs/6ae057b017f8ed.webp",
    "addedAt": 1793087408425
+  },
+  {
+   "id": "6ae057f58b1e9b",
+   "name": "Cream Tuxedo Formal",
+   "description": "A cream single-breasted tuxedo jacket with contrasting black shawl lapels, pocket trim, and cuffs is worn over a light grey button-up shirt with a black bow tie. Black tailored trousers and black dress shoes complete the formal look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae057f58b1e9b.webp",
+   "thumb": "thumbs/6ae057f58b1e9b.webp",
+   "addedAt": 1793087477839
   }
  ],
  "categories": [
