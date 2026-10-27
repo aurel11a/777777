@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137895573,
+ "updatedAt": 1793137954161,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8901,6 +8901,16 @@
    "image": "items/6ae11ce62f2e9c.webp",
    "thumb": "thumbs/6ae11ce62f2e9c.webp",
    "addedAt": 1793137894632
+  },
+  {
+   "id": "6ae11d21f2c8f4",
+   "name": "Floral Cutout Swimsuit",
+   "description": "A green and pink floral print one-piece swimsuit features a halter neckline with crisscross straps and a gold ring detail at the waist cutout. A gold bangle bracelet completes the look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae11d21f2c8f4.webp",
+   "thumb": "thumbs/6ae11d21f2c8f4.webp",
+   "addedAt": 1793137953312
   }
  ],
  "categories": [
