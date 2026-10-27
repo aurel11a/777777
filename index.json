@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793086970232,
+ "updatedAt": 1793087081215,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7051,6 +7051,16 @@
    "image": "items/6ae055f915c697.webp",
    "thumb": "thumbs/6ae055f915c697.webp",
    "addedAt": 1793086969318
+  },
+  {
+   "id": "6ae056678f3348",
+   "name": "Burgundy Layered Casual",
+   "description": "A dark red long-sleeved crew-neck sweater is paired with blue jeans rolled at the cuffs, with a dark grey long-sleeved shirt tied around the waist. The look is finished with black and yellow patterned high-top sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae056678f3348.webp",
+   "thumb": "thumbs/6ae056678f3348.webp",
+   "addedAt": 1793087079982
   }
  ],
  "categories": [
