@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793129975501,
+ "updatedAt": 1793130092933,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8231,6 +8231,16 @@
    "image": "items/6ae0fdf6517d05.webp",
    "thumb": "thumbs/6ae0fdf6517d05.webp",
    "addedAt": 1793129974611
+  },
+  {
+   "id": "6ae0fe6b4eced5",
+   "name": "Olive Puff Dress",
+   "description": "An olive green mini dress features a fitted bodice, a deep V-neckline, and short puff sleeves with gathered cuffs. The look is accessorized with sheer dark tights, brown suede pointed-toe slingback heels, a brown suede top-handle bag, gold knotted earrings, and a gold chain necklace with a logo pendant.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0fe6b4eced5.webp",
+   "thumb": "thumbs/6ae0fe6b4eced5.webp",
+   "addedAt": 1793130091870
   }
  ],
  "categories": [
