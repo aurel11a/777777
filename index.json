@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793130430079,
+ "updatedAt": 1793131786478,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8251,6 +8251,106 @@
    "image": "items/6ae0ffbcbbb3dd.webp",
    "thumb": "thumbs/6ae0ffbcbbb3dd.webp",
    "addedAt": 1793130428989
+  },
+  {
+   "id": "6ae1050950bc2d",
+   "name": "Blue Abstract Maxi",
+   "description": "A long-sleeved floor-length dress in sheer dark fabric features an abstract blue and green print, a plunging V-neckline, and ruffled bell cuffs. The look is detailed with a knotted front tie at the waist and a front slit, paired with black strappy sandals.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae1050950bc2d.webp",
+   "thumb": "thumbs/6ae1050950bc2d.webp",
+   "addedAt": 1793131785240
+  },
+  {
+   "id": "6ae1050994f597",
+   "name": "Burgundy Mesh Dress",
+   "description": "A burgundy sheer mesh maxi dress features a ruched bodice, a sweetheart neckline with black lace trim, and long sheer sleeves. Burgundy pointed-toe stiletto pumps and a gold ring complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae1050994f597.webp",
+   "thumb": "thumbs/6ae1050994f597.webp",
+   "addedAt": 1793131785241
+  },
+  {
+   "id": "6ae105097fbd8f",
+   "name": "Peach Knit Maxi",
+   "description": "A peach long-sleeved maxi dress features a scoop neckline with a center keyhole cutout and flared cuffs. The fitted knit fabric is accented with a contrasting dashed seam detail running down the front.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae105097fbd8f.webp",
+   "thumb": "thumbs/6ae105097fbd8f.webp",
+   "addedAt": 1793131785242
+  },
+  {
+   "id": "6ae10509eb312f",
+   "name": "Animal Print Halter",
+   "description": "A brown and cream animal-print halter dress features a deep draped cowl neckline and an asymmetrical hem. It is accessorized with a black leather shoulder bag, a dark beaded bracelet, and brown strappy heeled sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae10509eb312f.webp",
+   "thumb": "thumbs/6ae10509eb312f.webp",
+   "addedAt": 1793131785243
+  },
+  {
+   "id": "6ae105093f2703",
+   "name": "Taupe Mesh Maxi",
+   "description": "A dark taupe sheer mesh maxi dress features a ruched bodice, a sweetheart neckline with lace trim, and long sheer sleeves. Black strappy heeled sandals complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae105093f2703.webp",
+   "thumb": "thumbs/6ae105093f2703.webp",
+   "addedAt": 1793131785244
+  },
+  {
+   "id": "6ae105093ad622",
+   "name": "Green Sheer Bodysuit",
+   "description": "A sage green one-piece bodysuit features a sheer, draped overlay with a brown branch and floral print, a wide boat neckline, and cap sleeves.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae105093ad622.webp",
+   "thumb": "thumbs/6ae105093ad622.webp",
+   "addedAt": 1793131785245
+  },
+  {
+   "id": "6ae10509379786",
+   "name": "Cream Knit Cover-Up",
+   "description": "A cream knit maxi dress features a draped cowl neckline, long bell sleeves, and a high side slit. It is layered over a white triangle bikini top and paired with brown thong sandals.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae10509379786.webp",
+   "thumb": "thumbs/6ae10509379786.webp",
+   "addedAt": 1793131785246
+  },
+  {
+   "id": "6ae1050963d905",
+   "name": "Pink Rose Maxi",
+   "description": "A dusty pink sheer maxi dress features a large black rose print, a ruffled off-the-shoulder neckline with lace trim, and thin spaghetti straps. It is cinched with a matching front tie and paired with pink pointed-toe kitten heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae1050963d905.webp",
+   "thumb": "thumbs/6ae1050963d905.webp",
+   "addedAt": 1793131785247
+  },
+  {
+   "id": "6ae10509c3740e",
+   "name": "Pink Ombre Set",
+   "description": "A flowing ombre set features a light pink to cream high-low tunic with draped, wide sleeves, paired with matching wide-leg trousers. The look is accessorized with a sheer cream scarf, a pink and white patterned saddle bag, and pink pointed-toe stiletto pumps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae10509c3740e.webp",
+   "thumb": "thumbs/6ae10509c3740e.webp",
+   "addedAt": 1793131785248
+  },
+  {
+   "id": "6ae1050976a233",
+   "name": "Abstract Halter Dress",
+   "description": "A sleeveless halter maxi dress features an abstract blue, green, and brown print with a twisted front bodice and a high side slit. It is worn over black bikini bottoms and accessorized with a silver cross necklace and small hoop rings at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae1050976a233.webp",
+   "thumb": "thumbs/6ae1050976a233.webp",
+   "addedAt": 1793131785249
   }
  ],
  "categories": [
