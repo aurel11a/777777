@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793089784359,
+ "updatedAt": 1793090448076,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7241,6 +7241,16 @@
    "image": "items/6ae060f73ebea7.webp",
    "thumb": "thumbs/6ae060f73ebea7.webp",
    "addedAt": 1793089783245
+  },
+  {
+   "id": "6ae0638fa78634",
+   "name": "Gold Sequin Set",
+   "description": "A gold sequined two-piece set features a halter-style bra top with draped chains and a matching high-slit maxi skirt with a draped waist detail. Gold strappy heels and a gold arm chain complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0638fa78634.webp",
+   "thumb": "thumbs/6ae0638fa78634.webp",
+   "addedAt": 1793090447144
   }
  ],
  "categories": [
