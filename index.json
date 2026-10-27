@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793088034698,
+ "updatedAt": 1793088900510,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7141,6 +7141,26 @@
    "image": "items/6ae05a21923d3b.webp",
    "thumb": "thumbs/6ae05a21923d3b.webp",
    "addedAt": 1793088033729
+  },
+  {
+   "id": "6ae05d83073317",
+   "name": "Lavender Floral Slip",
+   "description": "A light purple satin slip dress with a lace-trimmed bodice and thin straps features a vibrant floral and butterfly print. A delicate silver pendant necklace completes the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae05d83073317.webp",
+   "thumb": "thumbs/6ae05d83073317.webp",
+   "addedAt": 1793088899475
+  },
+  {
+   "id": "6ae05d8369b3d4",
+   "name": "Coral Halter Dress",
+   "description": "A coral halter-neck mini dress with a deep V-neckline features a large floral and orchid print, a tied front detail with a dangling bead, and a flared hem.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae05d8369b3d4.webp",
+   "thumb": "thumbs/6ae05d8369b3d4.webp",
+   "addedAt": 1793088899476
   }
  ],
  "categories": [
