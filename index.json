@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793114165126,
+ "updatedAt": 1793114531506,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7961,6 +7961,26 @@
    "image": "items/6ae0c034afcdbd.webp",
    "thumb": "thumbs/6ae0c034afcdbd.webp",
    "addedAt": 1793114164126
+  },
+  {
+   "id": "6ae0c1a26d62c9",
+   "name": "Yellow Floral Dress",
+   "description": "A sleeveless yellow and blue geometric floral print mini dress features a high neckline and front pleat. The look is accessorized with light blue ribbon hair bow, gold floral statement earrings, a yellow top-handle handbag, light blue ribbed tights, yellow Mary Jane block heels, and beaded bracelets.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0c1a26d62c9.webp",
+   "thumb": "thumbs/6ae0c1a26d62c9.webp",
+   "addedAt": 1793114530416
+  },
+  {
+   "id": "6ae0c1a2f6fad5",
+   "name": "Pumpkin Flared Set",
+   "description": "A dark grey long-sleeved top with a vibrant orange pumpkin print and green cuffs is tucked into orange ribbed flared trousers secured by a thin black belt. Brown shoes complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0c1a2f6fad5.webp",
+   "thumb": "thumbs/6ae0c1a2f6fad5.webp",
+   "addedAt": 1793114530417
   }
  ],
  "categories": [
