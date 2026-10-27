@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793090535941,
+ "updatedAt": 1793091080839,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7271,6 +7271,66 @@
    "image": "items/6ae063e62f8368.webp",
    "thumb": "thumbs/6ae063e62f8368.webp",
    "addedAt": 1793090534902
+  },
+  {
+   "id": "6ae06607d1cf59",
+   "name": "Burgundy Tennis Set",
+   "description": "A burgundy one-shoulder sports bra is paired with a matching high-waisted pleated mini skirt. White crew socks and white Fila sneakers complete the athletic look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae06607d1cf59.webp",
+   "thumb": "thumbs/6ae06607d1cf59.webp",
+   "addedAt": 1793091079799
+  },
+  {
+   "id": "6ae066075a4433",
+   "name": "Puma Basketball Set",
+   "description": "A black cropped basketball jersey with orange and white trim features a large \"Puma\" logo across the chest. Matching black shorts with orange drawstrings, white and orange waistband, and grey patterned side panels complete the athletic set.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae066075a4433.webp",
+   "thumb": "thumbs/6ae066075a4433.webp",
+   "addedAt": 1793091079800
+  },
+  {
+   "id": "6ae06607e6e9fe",
+   "name": "Pink Boxing Set",
+   "description": "A light pink cropped tank top with a black \"EVERLAST\" logo is paired with matching pink boxing shorts featuring a wide black waistband, black trim, and a central logo patch. A silver chain necklace completes the look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae06607e6e9fe.webp",
+   "thumb": "thumbs/6ae06607e6e9fe.webp",
+   "addedAt": 1793091079801
+  },
+  {
+   "id": "6ae06607b0011d",
+   "name": "Green Hiking Set",
+   "description": "A dark green long-sleeved fitted top is paired with dark brown high-waisted biker shorts. White crew socks and dark blue and grey hiking sneakers complete the outfit.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae06607b0011d.webp",
+   "thumb": "thumbs/6ae06607b0011d.webp",
+   "addedAt": 1793091079802
+  },
+  {
+   "id": "6ae0660770ca25",
+   "name": "Grey Athleisure Set",
+   "description": "A dark grey spaghetti-strap sports bra is paired with light grey high-waisted drawstring sweat shorts with white trim. White scrunched socks and white and grey athletic sneakers complete the look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae0660770ca25.webp",
+   "thumb": "thumbs/6ae0660770ca25.webp",
+   "addedAt": 1793091079803
+  },
+  {
+   "id": "6ae0660747e1d7",
+   "name": "Chicago Bulls Set",
+   "description": "A white sleeveless jersey with red and black trim features \"BULLS 23\" printed in red, paired with matching white shorts displaying a \"CHICAGO BULLS\" logo and red bull graphic. The shorts have an elastic waistband and side drawstring ties.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae0660747e1d7.webp",
+   "thumb": "thumbs/6ae0660747e1d7.webp",
+   "addedAt": 1793091079804
   }
  ],
  "categories": [
