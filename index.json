@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793090492829,
+ "updatedAt": 1793090535941,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7261,6 +7261,16 @@
    "image": "items/6ae063bbf88b78.webp",
    "thumb": "thumbs/6ae063bbf88b78.webp",
    "addedAt": 1793090491801
+  },
+  {
+   "id": "6ae063e62f8368",
+   "name": "Fantasy Fur Cloak",
+   "description": "A light blue quilted bodice is worn under a long light blue cloak with a thick cream fur collar, layered over a cream tunic and fitted light blue leggings. The outfit is accessorized with brown leather gloves, a multi-strap leather belt with a pouch, and tall brown lace-up boots with fur trim.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae063e62f8368.webp",
+   "thumb": "thumbs/6ae063e62f8368.webp",
+   "addedAt": 1793090534902
   }
  ],
  "categories": [
