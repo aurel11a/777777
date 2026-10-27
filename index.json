@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793091080839,
+ "updatedAt": 1793091367246,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7331,6 +7331,26 @@
    "image": "items/6ae0660747e1d7.webp",
    "thumb": "thumbs/6ae0660747e1d7.webp",
    "addedAt": 1793091079804
+  },
+  {
+   "id": "6ae06726f17561",
+   "name": "Lavender Satin Knit",
+   "description": "A lavender ribbed knit V-neck cardigan with front buttons is worn over a matching lavender satin slip midi skirt. Silver strappy heeled sandals complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae06726f17561.webp",
+   "thumb": "thumbs/6ae06726f17561.webp",
+   "addedAt": 1793091366223
+  },
+  {
+   "id": "6ae067261ea830",
+   "name": "Green Floral Knit",
+   "description": "A bright green cable-knit cropped sweater with short sleeves is paired with a high-waisted white maxi skirt featuring a large green floral print. Brown strappy heeled sandals and a white basket-style handbag complete the outfit.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae067261ea830.webp",
+   "thumb": "thumbs/6ae067261ea830.webp",
+   "addedAt": 1793091366224
   }
  ],
  "categories": [
