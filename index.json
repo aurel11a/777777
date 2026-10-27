@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793129605304,
+ "updatedAt": 1793129740190,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8201,6 +8201,16 @@
    "image": "items/6ae0fc847b8e8a.webp",
    "thumb": "thumbs/6ae0fc847b8e8a.webp",
    "addedAt": 1793129604125
+  },
+  {
+   "id": "6ae0fd0b465612",
+   "name": "Botanical Maxi Dress",
+   "description": "A long-sleeved cream maxi dress features a large brown and green botanical print with wide bell cuffs. The outfit is accessorized with a brown woven leather handbag, brown crocodile-embossed strappy heeled sandals, and gold statement earrings.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0fd0b465612.webp",
+   "thumb": "thumbs/6ae0fd0b465612.webp",
+   "addedAt": 1793129739204
   }
  ],
  "categories": [
