@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793133102133,
+ "updatedAt": 1793135386312,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8371,6 +8371,106 @@
    "image": "items/6ae10a2d7a22cd.webp",
    "thumb": "thumbs/6ae10a2d7a22cd.webp",
    "addedAt": 1793133101138
+  },
+  {
+   "id": "6ae11319ffe787",
+   "name": "Navy Pearl Gown",
+   "description": "A navy blue floor-length gown features a fitted bodice with an off-the-shoulder neckline and sheer long sleeves. The neckline and cuffs are heavily embellished with rows of pearls, and the skirt includes a side slit and a slight train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11319ffe787.webp",
+   "thumb": "thumbs/6ae11319ffe787.webp",
+   "addedAt": 1793135385359
+  },
+  {
+   "id": "6ae11319b99bc2",
+   "name": "Brown Floral Wrap",
+   "description": "A brown long-sleeved wrap dress with a white floral print features a deep V-neckline, a ruffled white peplum hem, and a matching fabric waist tie. The look is accessorized with a small brown leather top-handle bag and brown and white pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11319b99bc2.webp",
+   "thumb": "thumbs/6ae11319b99bc2.webp",
+   "addedAt": 1793135385360
+  },
+  {
+   "id": "6ae11319d1de18",
+   "name": "Pink Plaid Denim",
+   "description": "A pink plaid cropped cardigan with a contrasting white collar and black buttons is paired with light blue jeans embellished with pearls and sequined butterfly appliqués. The look is accessorized with pink sunglasses, a pastel ombre chain-strap handbag, and pink fluffy heeled mules with gold logo embellishments.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11319d1de18.webp",
+   "thumb": "thumbs/6ae11319d1de18.webp",
+   "addedAt": 1793135385361
+  },
+  {
+   "id": "6ae11319ca40c2",
+   "name": "Grey Floral Set",
+   "description": "A grey zip-up bomber-style jacket and matching mini skirt set is detailed with small white floral embroidery. It is worn over a white t-shirt and styled with white ankle socks and white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11319ca40c2.webp",
+   "thumb": "thumbs/6ae11319ca40c2.webp",
+   "addedAt": 1793135385362
+  },
+  {
+   "id": "6ae11319351b2f",
+   "name": "Mint Satin Glam",
+   "description": "A mint green satin strapless midi dress features a fitted, draped silhouette. The look is accessorized with white ruched opera gloves, a silver rhinestone statement necklace and dangling earrings, a large silver ring, a green satin drawstring pouch with beaded fringe, and mint green platform sandals worn with white socks.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11319351b2f.webp",
+   "thumb": "thumbs/6ae11319351b2f.webp",
+   "addedAt": 1793135385363
+  },
+  {
+   "id": "6ae11319b46abd",
+   "name": "Red Velvet Fur Set",
+   "description": "A black long-sleeved top features a deep red faux fur off-the-shoulder collar and matching fur cuffs. It is paired with deep red crushed velvet flared trousers and black strappy heels with gold stiletto details and red insoles.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11319b46abd.webp",
+   "thumb": "thumbs/6ae11319b46abd.webp",
+   "addedAt": 1793135385364
+  },
+  {
+   "id": "6ae113193540e3",
+   "name": "Pink Floral Gown",
+   "description": "A floor-length pink gown features a deep V-neckline, short puff sleeves with large bow details, and a full skirt with cascading ruffled trim. The dress is adorned with a pastel floral print and a large bow at the waist, paired with pink embellished pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae113193540e3.webp",
+   "thumb": "thumbs/6ae113193540e3.webp",
+   "addedAt": 1793135385365
+  },
+  {
+   "id": "6ae11319a0ce89",
+   "name": "Blue Fur-Trim Dress",
+   "description": "A light blue ruched mini dress features a sweetheart neckline and hem trimmed with white faux fur, accented by a belted waist with a button. The outfit is accessorized with a white beret, a white fluffy Prada clutch, gold heart-shaped earrings with pearls, pearl hair clips, cream socks, and light blue suede pointed-toe pumps.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11319a0ce89.webp",
+   "thumb": "thumbs/6ae11319a0ce89.webp",
+   "addedAt": 1793135385366
+  },
+  {
+   "id": "6ae11319d81ecf",
+   "name": "Black Lace Corset",
+   "description": "A black lace long-sleeved mini dress features a corset-style bodice with lace-up detailing and a high neckline. The outfit is accessorized with black cat-eye sunglasses, ornate silver drop earrings, black lace gloves, sheer black floral tights, a black crocodile-embossed handbag, and black pointed-toe pumps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11319d81ecf.webp",
+   "thumb": "thumbs/6ae11319d81ecf.webp",
+   "addedAt": 1793135385367
+  },
+  {
+   "id": "6ae11319855d94",
+   "name": "Pink Fur Brocade",
+   "description": "A pink satin mini dress with a floral brocade pattern features a ruffled hem, topped with a thick pink faux fur stole tied with a satin bow. The look is accessorized with a pink feather fascinator with netting, pink rose rings and earrings, white ruffled gloves, and metallic pink block-heel ankle boots.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae11319855d94.webp",
+   "thumb": "thumbs/6ae11319855d94.webp",
+   "addedAt": 1793135385368
   }
  ],
  "categories": [
