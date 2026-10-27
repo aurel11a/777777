@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793091367246,
+ "updatedAt": 1793091888144,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7351,6 +7351,16 @@
    "image": "items/6ae067261ea830.webp",
    "thumb": "thumbs/6ae067261ea830.webp",
    "addedAt": 1793091366224
+  },
+  {
+   "id": "6ae0692f4c7df3",
+   "name": "Pink Angel Corset",
+   "description": "A pink satin corset with lace trim, front buttons, and a ribbon bow is worn with a white tiered ruffled mini skirt and white lace-topped thigh-high stockings. The outfit is accessorized with large white feathered wings, a white feather fan, and a gold bracelet.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0692f4c7df3.webp",
+   "thumb": "thumbs/6ae0692f4c7df3.webp",
+   "addedAt": 1793091887108
   }
  ],
  "categories": [
