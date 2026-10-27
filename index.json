@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793131786478,
+ "updatedAt": 1793133102133,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8351,6 +8351,26 @@
    "image": "items/6ae1050976a233.webp",
    "thumb": "thumbs/6ae1050976a233.webp",
    "addedAt": 1793131785249
+  },
+  {
+   "id": "6ae10a2d5a6fba",
+   "name": "Yellow Floral Lace",
+   "description": "A pale yellow floor-length dress with a subtle ribbed texture features a scooped neckline and a side slit with lace-up detailing. It is adorned with three-dimensional floral appliqués cascading down the bodice and skirt, layered under a sheer white lace jacket with long sleeves.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae10a2d5a6fba.webp",
+   "thumb": "thumbs/6ae10a2d5a6fba.webp",
+   "addedAt": 1793133101137
+  },
+  {
+   "id": "6ae10a2d7a22cd",
+   "name": "Lace Ruffle Gown",
+   "description": "A long-sleeved sheer lace gown features a corset-style bodice with a central black bow and white rosette, plus ruffled detailing at the waist and hips. The floor-length skirt has a fitted silhouette that flares into tiered lace ruffles at the hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae10a2d7a22cd.webp",
+   "thumb": "thumbs/6ae10a2d7a22cd.webp",
+   "addedAt": 1793133101138
   }
  ],
  "categories": [
