@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793112336196,
+ "updatedAt": 1793113038472,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7641,6 +7641,106 @@
    "image": "items/6ae0b90f7d40be.webp",
    "thumb": "thumbs/6ae0b90f7d40be.webp",
    "addedAt": 1793112335123
+  },
+  {
+   "id": "6ae0bbcdd6c027",
+   "name": "Lavender Jacquard Dress",
+   "description": "A light lavender floor-length dress with a floral jacquard texture features a V-neckline, half-length puff sleeves, and a buttoned front bodice. A matching choker and brown strappy sandals complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0bbcdd6c027.webp",
+   "thumb": "thumbs/6ae0bbcdd6c027.webp",
+   "addedAt": 1793113037086
+  },
+  {
+   "id": "6ae0bbcd1b6e43",
+   "name": "Cream Toggle Coat",
+   "description": "A cream fuzzy knee-length coat features a hood, front toggle closures with bow details, and large patch pockets. Cream ribbed socks and dark brown lace-up shoes complete the outfit, accessorized with a brown leather handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcd1b6e43.webp",
+   "thumb": "thumbs/6ae0bbcd1b6e43.webp",
+   "addedAt": 1793113037087
+  },
+  {
+   "id": "6ae0bbcd8bd10d",
+   "name": "Pink Fur Coat",
+   "description": "A light pink A-line coat features a faux fur collar and wide cuffs with matching fur trim, plus a front bow detail with pom-poms. Sheer patterned tights, cream ribbed leg warmers, and black Mary Jane shoes complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcd8bd10d.webp",
+   "thumb": "thumbs/6ae0bbcd8bd10d.webp",
+   "addedAt": 1793113037088
+  },
+  {
+   "id": "6ae0bbcdfdbe45",
+   "name": "Plaid Preppy Set",
+   "description": "A black long-sleeved top is paired with a beige plaid pleated mini skirt and a matching plaid neck scarf. The outfit is accessorized with a brown leather belt, a dark brown handbag, white slouch socks, and brown leather loafers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0bbcdfdbe45.webp",
+   "thumb": "thumbs/6ae0bbcdfdbe45.webp",
+   "addedAt": 1793113037089
+  },
+  {
+   "id": "6ae0bbcd6db8b3",
+   "name": "Lavender Polka Puffer",
+   "description": "A light lavender puffer coat with a white polka-dot print features a white faux-fur collar, front bow ties, and a cinched waist with a ruffled hem. It is paired with white tights, layered cream and grey knit leg warmers with pom-poms, and white lace-up fur-trimmed winter boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcd6db8b3.webp",
+   "thumb": "thumbs/6ae0bbcd6db8b3.webp",
+   "addedAt": 1793113037090
+  },
+  {
+   "id": "6ae0bbcde0e072",
+   "name": "Leopard Patch Jacket",
+   "description": "A grey leopard-print zip-up jacket with black trim features small animal graphic patches on the chest. It is paired with a tan gathered mini skirt, layered white lace and patterned knee-high socks, and black fur-trimmed lace-up boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcde0e072.webp",
+   "thumb": "thumbs/6ae0bbcde0e072.webp",
+   "addedAt": 1793113037091
+  },
+  {
+   "id": "6ae0bbcdd092a1",
+   "name": "Pink Wool Coat",
+   "description": "A dusty pink wool coat features a wide draped collar, long sleeves, and a belted waist with a fabric rosette detail. Nude pointed-toe pumps complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcdd092a1.webp",
+   "thumb": "thumbs/6ae0bbcdd092a1.webp",
+   "addedAt": 1793113037092
+  },
+  {
+   "id": "6ae0bbcdb80a3e",
+   "name": "Plaid Cape Coat",
+   "description": "A grey plaid cape-style coat features a large faux fur collar and matching fur cuffs, worn over a coordinating plaid skirt. The look is accessorized with tan leather gloves, a beige quilted chain-strap handbag, sheer black tights, and brown suede knee-high boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcdb80a3e.webp",
+   "thumb": "thumbs/6ae0bbcdb80a3e.webp",
+   "addedAt": 1793113037093
+  },
+  {
+   "id": "6ae0bbcd8359b6",
+   "name": "Mint Fuzzy Coat",
+   "description": "A pale mint green fuzzy knee-length coat features a white faux fur trim along the collar and front placket, with buttoned cuffs and large front pockets. Cream ribbed socks and light grey suede sneakers complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0bbcd8359b6.webp",
+   "thumb": "thumbs/6ae0bbcd8359b6.webp",
+   "addedAt": 1793113037094
+  },
+  {
+   "id": "6ae0bbcdb97f68",
+   "name": "Pink Fuzzy Cardigan",
+   "description": "A light pink fuzzy knit cardigan with floral appliqués is worn over a white ruffled high-neck top, paired with a long grey pleated skirt. A white fluffy chain-strap crossbody bag and cream fuzzy slide slippers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0bbcdb97f68.webp",
+   "thumb": "thumbs/6ae0bbcdb97f68.webp",
+   "addedAt": 1793113037095
   }
  ],
  "categories": [
