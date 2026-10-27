@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793114700466,
+ "updatedAt": 1793114777342,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8011,6 +8011,26 @@
    "image": "items/6ae0c24b9cee47.webp",
    "thumb": "thumbs/6ae0c24b9cee47.webp",
    "addedAt": 1793114699538
+  },
+  {
+   "id": "6ae0c2986951ba",
+   "name": "Red Knit Layered",
+   "description": "A red cable-knit long-sleeved sweater is layered over a white collared shirt with an extended hem and paired with a red mini skirt. Sheer red tights, red pointed-toe stiletto pumps, and a small red box handbag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0c2986951ba.webp",
+   "thumb": "thumbs/6ae0c2986951ba.webp",
+   "addedAt": 1793114776175
+  },
+  {
+   "id": "6ae0c298a98648",
+   "name": "Green Monochrome Set",
+   "description": "A bright green cable-knit sweater with voluminous sleeves is paired with a matching green mini skirt, opaque green tights, and a long green scarf with fringed ends. Green platform pumps and a small green handbag complete the monochromatic look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0c298a98648.webp",
+   "thumb": "thumbs/6ae0c298a98648.webp",
+   "addedAt": 1793114776176
   }
  ],
  "categories": [
