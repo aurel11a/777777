@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793129244010,
+ "updatedAt": 1793129605304,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8151,6 +8151,56 @@
    "image": "items/6ae0fb1a0fa2cf.webp",
    "thumb": "thumbs/6ae0fb1a0fa2cf.webp",
    "addedAt": 1793129242952
+  },
+  {
+   "id": "6ae0fc84dfc8ab",
+   "name": "Black Winter Layers",
+   "description": "A black fitted long-sleeve top and black high-waisted leggings are layered with a black zip-up jacket and a black cropped puffer coat with a hood. The outfit is accessorized with a fluffy white scarf, cream ribbed leg warmers, and tan suede platform boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0fc84dfc8ab.webp",
+   "thumb": "thumbs/6ae0fc84dfc8ab.webp",
+   "addedAt": 1793129604121
+  },
+  {
+   "id": "6ae0fc841667ae",
+   "name": "Purple Retro Set",
+   "description": "A purple ribbed off-the-shoulder long-sleeve knit top is paired with high-waisted blue flared jeans featuring gold button detailing. The outfit is accessorized with a purple beret, a glossy purple shoulder bag, and chunky lavender platform boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0fc841667ae.webp",
+   "thumb": "thumbs/6ae0fc841667ae.webp",
+   "addedAt": 1793129604122
+  },
+  {
+   "id": "6ae0fc84dd6086",
+   "name": "Grey Turtleneck Mini",
+   "description": "A dark grey oversized turtleneck sweater with long bell sleeves is worn over a black mini skirt and opaque black tights. The outfit is accessorized with black chunky loafers, white ankle socks, a black shoulder bag, a black ribbon hair tie, small hoop earrings, and a silver watch.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0fc84dd6086.webp",
+   "thumb": "thumbs/6ae0fc84dd6086.webp",
+   "addedAt": 1793129604123
+  },
+  {
+   "id": "6ae0fc84c02dff",
+   "name": "Spider-Man Plaid Pajamas",
+   "description": "A dark red short-sleeved t-shirt features a vintage-style \"The Amazing Spider-Man\" graphic print. It is paired with dark navy and red plaid pajama pants with a relaxed fit.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6ae0fc84c02dff.webp",
+   "thumb": "thumbs/6ae0fc84c02dff.webp",
+   "addedAt": 1793129604124
+  },
+  {
+   "id": "6ae0fc847b8e8a",
+   "name": "Pink Hello Kitty Romper",
+   "description": "A light pink long-sleeved romper features an all-over Hello Kitty print and a button-down front with a V-neckline. A silver Hello Kitty pendant necklace completes the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae0fc847b8e8a.webp",
+   "thumb": "thumbs/6ae0fc847b8e8a.webp",
+   "addedAt": 1793129604125
   }
  ],
  "categories": [
