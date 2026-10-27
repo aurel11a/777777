@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137262242,
+ "updatedAt": 1793137317218,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8731,6 +8731,16 @@
    "image": "items/6ae11a6d03df83.webp",
    "thumb": "thumbs/6ae11a6d03df83.webp",
    "addedAt": 1793137261330
+  },
+  {
+   "id": "6ae11aa4a60fa5",
+   "name": "Red Varsity Pleated",
+   "description": "A red cropped V-neck sweater with white striped sleeve details and a large white \"E\" graphic is layered over a white turtleneck. It is paired with a white pleated mini skirt, opaque white tights, white ankle socks, and white sneakers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae11aa4a60fa5.webp",
+   "thumb": "thumbs/6ae11aa4a60fa5.webp",
+   "addedAt": 1793137316004
   }
  ],
  "categories": [
