@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793114777342,
+ "updatedAt": 1793114879217,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8031,6 +8031,26 @@
    "image": "items/6ae0c298a98648.webp",
    "thumb": "thumbs/6ae0c298a98648.webp",
    "addedAt": 1793114776176
+  },
+  {
+   "id": "6ae0c2feaa447e",
+   "name": "Ivory Satin Gown",
+   "description": "A strapless ivory satin gown features a fitted bodice, a peplum waist with floral embroidery, and a floor-length skirt with cascading floral motifs. A sheer tulle veil completes the bridal look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae0c2feaa447e.webp",
+   "thumb": "thumbs/6ae0c2feaa447e.webp",
+   "addedAt": 1793114878158
+  },
+  {
+   "id": "6ae0c2fe4ed430",
+   "name": "Ivory Rose Gown",
+   "description": "An ivory satin floor-length gown features a fitted, draped bodice and an off-the-shoulder neckline adorned with large pink fabric roses. The skirt flows into a slight train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae0c2fe4ed430.webp",
+   "thumb": "thumbs/6ae0c2fe4ed430.webp",
+   "addedAt": 1793114878159
   }
  ],
  "categories": [
