@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137014074,
+ "updatedAt": 1793137072333,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8671,6 +8671,16 @@
    "image": "items/6ae11975eae44c.webp",
    "thumb": "thumbs/6ae11975eae44c.webp",
    "addedAt": 1793137013077
+  },
+  {
+   "id": "6ae119af224940",
+   "name": "Gingham Cat Dress",
+   "description": "A pink and white gingham mini dress features a lavender yoke with a heart cutout, layered over lavender puff sleeves with ruffled pink trim. It is detailed with cherry motifs, a scalloped waistline, and two front pockets adorned with cat faces and bows.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae119af224940.webp",
+   "thumb": "thumbs/6ae119af224940.webp",
+   "addedAt": 1793137071447
   }
  ],
  "categories": [
