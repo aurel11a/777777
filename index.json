@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793086428159,
+ "updatedAt": 1793086970232,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7041,6 +7041,16 @@
    "image": "items/6ae053db7c9792.webp",
    "thumb": "thumbs/6ae053db7c9792.webp",
    "addedAt": 1793086427226
+  },
+  {
+   "id": "6ae055f915c697",
+   "name": "Black Leather Cargo",
+   "description": "A black leather biker jacket with silver hardware is worn over a white graphic t-shirt featuring a chain-style neckline print. Black wide-leg cargo pants are paired with white low-top sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae055f915c697.webp",
+   "thumb": "thumbs/6ae055f915c697.webp",
+   "addedAt": 1793086969318
   }
  ],
  "categories": [
