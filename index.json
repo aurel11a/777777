@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793114531506,
+ "updatedAt": 1793114700466,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7981,6 +7981,36 @@
    "image": "items/6ae0c1a2f6fad5.webp",
    "thumb": "thumbs/6ae0c1a2f6fad5.webp",
    "addedAt": 1793114530417
+  },
+  {
+   "id": "6ae0c24be3a1e7",
+   "name": "Silver Showgirl Costume",
+   "description": "A silver and black sequined corset bodysuit features a structured bodice and a voluminous black tinsel-fringed bustle. The outfit includes long sequined sleeves, black fishnet tights, silver lace-up ankle boots, and a matching black top hat.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0c24be3a1e7.webp",
+   "thumb": "thumbs/6ae0c24be3a1e7.webp",
+   "addedAt": 1793114699536
+  },
+  {
+   "id": "6ae0c24b243ba0",
+   "name": "Crystal Showgirl Costume",
+   "description": "A red and pink high-cut showgirl bodysuit is heavily embellished with multicolored crystals, featuring a high neckline, chest cutout, and a large red feathered bustle at the back. Matching crystal-embellished long gloves and strappy heels complete the costume.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0c24b243ba0.webp",
+   "thumb": "thumbs/6ae0c24b243ba0.webp",
+   "addedAt": 1793114699537
+  },
+  {
+   "id": "6ae0c24b9cee47",
+   "name": "White Pearl Showgirl",
+   "description": "A white satin corset-style bodysuit with pearl embellishments and fringe details is paired with a large white feathered bustle. The outfit includes a matching feathered headpiece, pearl-embellished gloves, sheer white tights, and white pointed-toe pumps.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0c24b9cee47.webp",
+   "thumb": "thumbs/6ae0c24b9cee47.webp",
+   "addedAt": 1793114699538
   }
  ],
  "categories": [
