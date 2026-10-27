@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793110845123,
+ "updatedAt": 1793111980041,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7461,6 +7461,106 @@
    "image": "items/6ae0b33b8f51e0.webp",
    "thumb": "thumbs/6ae0b33b8f51e0.webp",
    "addedAt": 1793110843815
+  },
+  {
+   "id": "6ae0b7ab931638",
+   "name": "Grey Ruffled Layered",
+   "description": "A grey sleeveless button-up top is tucked into a grey asymmetrical ruffled skirt secured by a dark brown belt, layered under a dark grey knit hooded cardigan. Dark grey fingerless gloves, patterned tights, and black knee-high buckled boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0b7ab931638.webp",
+   "thumb": "thumbs/6ae0b7ab931638.webp",
+   "addedAt": 1793111979078
+  },
+  {
+   "id": "6ae0b7ab535e87",
+   "name": "Viking Fur Ensemble",
+   "description": "A brown apron-style dress with embroidered detailing and gold trim is worn over a blue long-sleeved underdress, layered with a grey long-sleeved coat and a thick fur shoulder mantle. The outfit is accessorized with a beaded necklace, a brown leather belt with a pouch, and metal brooches.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7ab535e87.webp",
+   "thumb": "thumbs/6ae0b7ab535e87.webp",
+   "addedAt": 1793111979079
+  },
+  {
+   "id": "6ae0b7ab23df1d",
+   "name": "Pirate Corset Outfit",
+   "description": "A white long-sleeved poet-style blouse with wide cuffs is worn under a dark navy velvet corset featuring silver front lacing. Cream fitted trousers are accessorized with a brown leather belt and a decorative silver chain, completed by navy lace-up boots.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7ab23df1d.webp",
+   "thumb": "thumbs/6ae0b7ab23df1d.webp",
+   "addedAt": 1793111979080
+  },
+  {
+   "id": "6ae0b7ab4ff797",
+   "name": "Peasant Apron Dress",
+   "description": "A deep red long-sleeved peasant blouse with a gathered neckline and ruffled cuffs is worn over a matching floor-length skirt. A long cream apron is secured at the waist with a brown leather belt featuring a small hanging pouch, and a cream cloth head wrap completes the historical look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7ab4ff797.webp",
+   "thumb": "thumbs/6ae0b7ab4ff797.webp",
+   "addedAt": 1793111979081
+  },
+  {
+   "id": "6ae0b7ab6b744b",
+   "name": "Viking Tunic Ensemble",
+   "description": "An orange tunic with gold trim and a central patterned panel is layered over a long red skirt and a dark green open over-garment, accented by a patterned waist sash with hanging tassels. A thick fur shoulder mantle, a multi-layered beaded necklace with a central pendant, and a small pouch complete the historical ensemble.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7ab6b744b.webp",
+   "thumb": "thumbs/6ae0b7ab6b744b.webp",
+   "addedAt": 1793111979082
+  },
+  {
+   "id": "6ae0b7ab479701",
+   "name": "Black Embroidered Hanfu",
+   "description": "A black long-sleeved Chinese-style robe features silver floral embroidery along the front placket and wide sleeves, worn over a matching black skirt with a large embroidered floral motif.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7ab479701.webp",
+   "thumb": "thumbs/6ae0b7ab479701.webp",
+   "addedAt": 1793111979083
+  },
+  {
+   "id": "6ae0b7ab1ef93f",
+   "name": "Grey Hooded Avant-Garde",
+   "description": "A dark grey hooded long-sleeve top with a draped, asymmetrical hem is layered over a black top and paired with dark grey drop-crotch harem pants. Black leather knee-high boots with multiple buckles complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0b7ab1ef93f.webp",
+   "thumb": "thumbs/6ae0b7ab1ef93f.webp",
+   "addedAt": 1793111979084
+  },
+  {
+   "id": "6ae0b7abd89b2d",
+   "name": "Red Embroidered Gown",
+   "description": "A vibrant red traditional gown features wide bell sleeves and a fitted bodice, heavily embellished with intricate gold floral embroidery along the sleeves and the long, ruffled train.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae0b7abd89b2d.webp",
+   "thumb": "thumbs/6ae0b7abd89b2d.webp",
+   "addedAt": 1793111979085
+  },
+  {
+   "id": "6ae0b7ab30a289",
+   "name": "Fantasy Red Adventurer",
+   "description": "A deep red floor-length skirt with a dark hem is paired with a matching red bodice layered under a brown leather corset with front lacing. The outfit features dark green and white slashed long sleeves, a multi-layered pendant necklace, and a large round compass hanging from a chain belt.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae0b7ab30a289.webp",
+   "thumb": "thumbs/6ae0b7ab30a289.webp",
+   "addedAt": 1793111979086
+  },
+  {
+   "id": "6ae0b7ab02d57e",
+   "name": "Grey Hooded Tunic",
+   "description": "A grey hooded long-sleeve tunic with draped, asymmetrical fabric and a fringed knit chest panel is cinched at the waist with a silver key pendant. The outfit is completed with black leggings, grey ribbed knit leg warmers, and brown suede boots with faux fur trim.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae0b7ab02d57e.webp",
+   "thumb": "thumbs/6ae0b7ab02d57e.webp",
+   "addedAt": 1793111979087
   }
  ],
  "categories": [
