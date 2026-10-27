@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793050668523,
+ "updatedAt": 1793085386765,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6941,6 +6941,46 @@
    "image": "items/6adfc82b1ae320.webp",
    "thumb": "thumbs/6adfc82b1ae320.webp",
    "addedAt": 1793050667700
+  },
+  {
+   "id": "6ae04fc974df34",
+   "name": "Blue Satin Floral Slip Dress",
+   "description": "A light blue satin slip dress with thin spaghetti straps and a V-neckline featuring delicate lace trim. The dress is adorned with pink floral embroidery cascading down the side.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae04fc974df34.webp",
+   "thumb": "thumbs/6ae04fc974df34.webp",
+   "addedAt": 1793085385754
+  },
+  {
+   "id": "6ae04fc9ba2cd0",
+   "name": "Pink Satin Brocade Mini Dress",
+   "description": "A light pink satin mini dress featuring a delicate floral brocade pattern, thin spaghetti straps, and a square neckline. The dress has a fitted bodice and a structured, slightly flared skirt.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae04fc9ba2cd0.webp",
+   "thumb": "thumbs/6ae04fc9ba2cd0.webp",
+   "addedAt": 1793085385755
+  },
+  {
+   "id": "6ae04fc9943b19",
+   "name": "Goldfish Print Mini Dress",
+   "description": "A white mini dress with thin spaghetti straps, featuring an all-over print of orange goldfish.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae04fc9943b19.webp",
+   "thumb": "thumbs/6ae04fc9943b19.webp",
+   "addedAt": 1793085385756
+  },
+  {
+   "id": "6ae04fc9e283e6",
+   "name": "Green Floral Slip Dress",
+   "description": "A light green satin slip dress featuring a vintage-style floral and damask print. It has a V-neckline with lace trim, thin straps with small bow accents, and a fitted, A-line silhouette.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae04fc9e283e6.webp",
+   "thumb": "thumbs/6ae04fc9e283e6.webp",
+   "addedAt": 1793085385757
   }
  ],
  "categories": [
