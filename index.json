@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793110482296,
+ "updatedAt": 1793110845123,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7441,6 +7441,26 @@
    "image": "items/6ae0b1d04f6711.webp",
    "thumb": "thumbs/6ae0b1d04f6711.webp",
    "addedAt": 1793110480796
+  },
+  {
+   "id": "6ae0b33ba4d0f9",
+   "name": "Black Tactical Suit",
+   "description": "A black long-sleeved tactical bodysuit features a high collar, utility straps, and harness details across the chest and thighs. The outfit includes black knee pads, black gloves, and black lace-up combat boots.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae0b33ba4d0f9.webp",
+   "thumb": "thumbs/6ae0b33ba4d0f9.webp",
+   "addedAt": 1793110843814
+  },
+  {
+   "id": "6ae0b33b8f51e0",
+   "name": "Black Leather Edgy",
+   "description": "A black leather sleeveless bodysuit with a deep V-neckline features a central zipper and a long pendant necklace. Black fishnet tights, a black lace fingerless glove, and black platform lace-up combat boots complete the edgy look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae0b33b8f51e0.webp",
+   "thumb": "thumbs/6ae0b33b8f51e0.webp",
+   "addedAt": 1793110843815
   }
  ],
  "categories": [
