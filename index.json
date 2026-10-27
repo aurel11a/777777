@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793085386765,
+ "updatedAt": 1793085595089,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -6981,6 +6981,46 @@
    "image": "items/6ae04fc9e283e6.webp",
    "thumb": "thumbs/6ae04fc9e283e6.webp",
    "addedAt": 1793085385757
+  },
+  {
+   "id": "6ae0509aeb9786",
+   "name": "Purple Sweatshirt & Pink Joggers",
+   "description": "A light purple cropped sweatshirt with a colorful anime graphic, paired with light pink baggy jogger sweatpants. The look is accessorized with a small purple crossbody bag, silver chain details, and chunky white sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0509aeb9786.webp",
+   "thumb": "thumbs/6ae0509aeb9786.webp",
+   "addedAt": 1793085594029
+  },
+  {
+   "id": "6ae0509aa92320",
+   "name": "White Cardigan & Plaid Skirt",
+   "description": "A white long-sleeved knit cardigan with a faux-fur trim and a front tie, worn over a pink and white plaid mini skirt. The look is accessorized with white tights featuring a bow pattern down the front, a pearl choker, and chunky black platform Mary Jane shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0509aa92320.webp",
+   "thumb": "thumbs/6ae0509aa92320.webp",
+   "addedAt": 1793085594030
+  },
+  {
+   "id": "6ae0509a951878",
+   "name": "Pink Floral Sweater & Mini Skirt",
+   "description": "An oversized light pink knit sweater featuring large 3D flower appliqués, worn over a white ruffled mini skirt. The look is accessorized with a small brown shoulder bag, white slouchy leg warmers, and tan platform boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae0509a951878.webp",
+   "thumb": "thumbs/6ae0509a951878.webp",
+   "addedAt": 1793085594031
+  },
+  {
+   "id": "6ae0509acec797",
+   "name": "Pink Fur Coat & Mini Skirt",
+   "description": "A long, light pink faux-fur coat with a large collar and cuffs, worn open over a matching pink top and a short, pale pink ruffled mini skirt. The look is accessorized with a pink structured crossbody bag with a gold heart detail, white thigh-high socks, and light-colored lace-up boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0509acec797.webp",
+   "thumb": "thumbs/6ae0509acec797.webp",
+   "addedAt": 1793085594032
   }
  ],
  "categories": [
