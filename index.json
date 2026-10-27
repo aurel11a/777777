@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793130092933,
+ "updatedAt": 1793130430079,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8241,6 +8241,16 @@
    "image": "items/6ae0fe6b4eced5.webp",
    "thumb": "thumbs/6ae0fe6b4eced5.webp",
    "addedAt": 1793130091870
+  },
+  {
+   "id": "6ae0ffbcbbb3dd",
+   "name": "Blue Floral Satin",
+   "description": "A white satin maxi dress with a blue floral print features a wrap-style V-neckline, a knotted waist, and voluminous balloon sleeves. The look is layered with a long blue belted trench coat and accessorized with black leather pointed-toe ankle boots, a black shoulder bag, and a matching blue gemstone necklace, earrings, and bracelet set.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0ffbcbbb3dd.webp",
+   "thumb": "thumbs/6ae0ffbcbbb3dd.webp",
+   "addedAt": 1793130428989
   }
  ],
  "categories": [
