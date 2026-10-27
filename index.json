@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793087081215,
+ "updatedAt": 1793087131776,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7061,6 +7061,16 @@
    "image": "items/6ae056678f3348.webp",
    "thumb": "thumbs/6ae056678f3348.webp",
    "addedAt": 1793087079982
+  },
+  {
+   "id": "6ae0569af5bce9",
+   "name": "Floral Pleated Classic",
+   "description": "A short-sleeved brown button-up shirt with a large pink floral print is tucked into grey pleated trousers with rolled cuffs. Brown suede ankle boots complete the look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae0569af5bce9.webp",
+   "thumb": "thumbs/6ae0569af5bce9.webp",
+   "addedAt": 1793087130892
   }
  ],
  "categories": [
