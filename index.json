@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793136603194,
+ "updatedAt": 1793136690816,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8581,6 +8581,16 @@
    "image": "items/6ae117d95d563c.webp",
    "thumb": "thumbs/6ae117d95d563c.webp",
    "addedAt": 1793136601998
+  },
+  {
+   "id": "6ae11831ade53a",
+   "name": "Gingham Ruffle Bikini",
+   "description": "A blue and white gingham two-piece swimsuit features a front-tie bikini top with red and white ruffled trim and small red bows. It is paired with matching high-waisted bottoms with ruffled edges and red and white side stripes.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae11831ade53a.webp",
+   "thumb": "thumbs/6ae11831ade53a.webp",
+   "addedAt": 1793136689600
   }
  ],
  "categories": [
