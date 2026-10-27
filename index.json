@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793136152367,
+ "updatedAt": 1793136603194,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8511,6 +8511,76 @@
    "image": "items/6ae11617eae460.webp",
    "thumb": "thumbs/6ae11617eae460.webp",
    "addedAt": 1793136151089
+  },
+  {
+   "id": "6ae117d9b2d49d",
+   "name": "Tactical Adventure Outfit",
+   "description": "A dark teal short-sleeved V-neck t-shirt is worn under a brown leather harness with a green center buckle. The outfit is paired with dark grey fitted cargo pants, brown leather straps with a thigh holster, black fingerless gloves, and tall brown lace-up boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae117d9b2d49d.webp",
+   "thumb": "thumbs/6ae117d9b2d49d.webp",
+   "addedAt": 1793136601992
+  },
+  {
+   "id": "6ae117d97889ab",
+   "name": "Brown Cargo Utility",
+   "description": "A brown long-sleeved button-up shirt with chest pockets is tucked into matching brown cargo pants with large side pockets. The look is accessorized with a black belt with a silver buckle, a silver chain hanging from the waist, layered necklaces, and cream lace-up combat boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae117d97889ab.webp",
+   "thumb": "thumbs/6ae117d97889ab.webp",
+   "addedAt": 1793136601993
+  },
+  {
+   "id": "6ae117d9c9c39f",
+   "name": "Apres-Ski Jacket",
+   "description": "A beige quilted jacket features a large white faux fur collar and matching fur cuffs, with a front zip closure and a black inner top. The look is paired with dark grey opaque tights, a black choker, black ski goggles, and white and grey sneakers with furry leg warmers.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae117d9c9c39f.webp",
+   "thumb": "thumbs/6ae117d9c9c39f.webp",
+   "addedAt": 1793136601994
+  },
+  {
+   "id": "6ae117d943e87f",
+   "name": "Grey Tactical Utility",
+   "description": "A grey cropped utility jacket with zipper details and a dark grey turtleneck is paired with black wide-leg cargo pants. The look is accessorized with a black and brown fur trapper hat, black cutout gloves, a distressed leather crossbody bag with a bullet belt strap, and brown fur-trimmed lace-up boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae117d943e87f.webp",
+   "thumb": "thumbs/6ae117d943e87f.webp",
+   "addedAt": 1793136601995
+  },
+  {
+   "id": "6ae117d9ba875a",
+   "name": "Survivor Utility Outfit",
+   "description": "An olive green distressed tank top is tucked into dark denim shorts secured by a brown leather belt. The outfit includes ripped black leggings, brown fingerless leather gloves, a white arm bandage, and brown leather lace-up boots.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae117d9ba875a.webp",
+   "thumb": "thumbs/6ae117d9ba875a.webp",
+   "addedAt": 1793136601996
+  },
+  {
+   "id": "6ae117d9d32c79",
+   "name": "Camo Utility Casual",
+   "description": "A green and brown camouflage button-up shirt is worn open over a grey tank top and paired with black skinny jeans. Black lace-up boots with a contrasting white sole complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae117d9d32c79.webp",
+   "thumb": "thumbs/6ae117d9d32c79.webp",
+   "addedAt": 1793136601997
+  },
+  {
+   "id": "6ae117d95d563c",
+   "name": "Grey Cargo Utility",
+   "description": "A grey long-sleeved henley top is paired with olive green cargo shorts, layered with a dark grey denim jacket. The look is accessorized with a black fringed scarf, black fingerless gloves, and black lace-up combat boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae117d95d563c.webp",
+   "thumb": "thumbs/6ae117d95d563c.webp",
+   "addedAt": 1793136601998
   }
  ],
  "categories": [
