@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793115290094,
+ "updatedAt": 1793129071170,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8131,6 +8131,16 @@
    "image": "items/6ae0c49858f456.webp",
    "thumb": "thumbs/6ae0c49858f456.webp",
    "addedAt": 1793115288819
+  },
+  {
+   "id": "6ae0fa6e24bd9b",
+   "name": "Cream Textured Set",
+   "description": "A cream textured two-piece set features a collarless jacket with a single button and voluminous sleeves, paired with a matching long, flared skirt. Sheer patterned tights, cream pointed-toe heels, and a small brown patterned handbag complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae0fa6e24bd9b.webp",
+   "thumb": "thumbs/6ae0fa6e24bd9b.webp",
+   "addedAt": 1793129070285
   }
  ],
  "categories": [
