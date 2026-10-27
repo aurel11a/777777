@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793135386312,
+ "updatedAt": 1793136152367,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8471,6 +8471,46 @@
    "image": "items/6ae11319855d94.webp",
    "thumb": "thumbs/6ae11319855d94.webp",
    "addedAt": 1793135385368
+  },
+  {
+   "id": "6ae1161768b365",
+   "name": "Tapestry Puff Dress",
+   "description": "A cream mini dress with a floral tapestry print features a sweetheart neckline, thin straps, and sheer off-the-shoulder puff sleeves. The look is accessorized with a layered pearl choker, pearl bow earrings, a gold bangle, a gold chain bracelet, a satin ribbon, and gold metallic pointed-toe slingback heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae1161768b365.webp",
+   "thumb": "thumbs/6ae1161768b365.webp",
+   "addedAt": 1793136151086
+  },
+  {
+   "id": "6ae116178fbd58",
+   "name": "Pink Rose Set",
+   "description": "A long-sleeved sheer pink top with a large rose print features a V-neckline and ruffled cuffs, paired with matching pink and white floral printed straight-leg jeans. The look is accessorized with pink sunglasses, a pink floral-embellished handbag, a rose pendant necklace, pink rose earrings, and pink strappy heeled sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae116178fbd58.webp",
+   "thumb": "thumbs/6ae116178fbd58.webp",
+   "addedAt": 1793136151087
+  },
+  {
+   "id": "6ae1161712107d",
+   "name": "Green Polka Dress",
+   "description": "A green mini dress with a black polka-dot pattern features a square neckline, black lace cap sleeves, and a black lace-trimmed hem. It is accessorized with a black choker with a green pendant, a green ribbon bow, green ruffled ankle socks, and black patent Mary Jane block heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae1161712107d.webp",
+   "thumb": "thumbs/6ae1161712107d.webp",
+   "addedAt": 1793136151088
+  },
+  {
+   "id": "6ae11617eae460",
+   "name": "Dark Red Gothic",
+   "description": "A dark red long-sleeved mini dress features a gathered bodice with a black ribbon tie, puffy sleeves, and a ruffled hem. The outfit is accessorized with bat and skull drop earrings, a thick black headband, opaque black tights, and burgundy patent leather platform Mary Jane heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae11617eae460.webp",
+   "thumb": "thumbs/6ae11617eae460.webp",
+   "addedAt": 1793136151089
   }
  ],
  "categories": [
