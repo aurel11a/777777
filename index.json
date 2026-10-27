@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137317218,
+ "updatedAt": 1793137485565,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8741,6 +8741,56 @@
    "image": "items/6ae11aa4a60fa5.webp",
    "thumb": "thumbs/6ae11aa4a60fa5.webp",
    "addedAt": 1793137316004
+  },
+  {
+   "id": "6ae11b4c20e718",
+   "name": "White Fur Dress",
+   "description": "A white long-sleeved midi dress features a fitted ruched silhouette with a white faux fur off-the-shoulder collar and matching fur cuffs and hem. White pointed-toe pumps and a pearl necklace complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11b4c20e718.webp",
+   "thumb": "thumbs/6ae11b4c20e718.webp",
+   "addedAt": 1793137484611
+  },
+  {
+   "id": "6ae11b4ce86b5a",
+   "name": "Dalmatian Fur Coat",
+   "description": "A long white faux fur coat with black spots features a high collar and rolled cuffs. It is accessorized with a structured black leather briefcase and black strappy pointed-toe stiletto pumps.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11b4ce86b5a.webp",
+   "thumb": "thumbs/6ae11b4ce86b5a.webp",
+   "addedAt": 1793137484612
+  },
+  {
+   "id": "6ae11b4c23188a",
+   "name": "Leopard Collar Dress",
+   "description": "A black long-sleeved mini dress features a wide leopard-print collar, matching leopard cuffs, and silver button detailing down the front. A matching leopard-print headband, black beret, sheer black tights, and black pointed-toe pumps complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11b4c23188a.webp",
+   "thumb": "thumbs/6ae11b4c23188a.webp",
+   "addedAt": 1793137484613
+  },
+  {
+   "id": "6ae11b4ce23ce1",
+   "name": "Cream Fur Set",
+   "description": "A cream long-sleeved tailored jacket features a wide faux fur collar and matching fur cuffs, worn over a matching mini skirt with a thick fur-trimmed hem. A pearl necklace and nude pointed-toe heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae11b4ce23ce1.webp",
+   "thumb": "thumbs/6ae11b4ce23ce1.webp",
+   "addedAt": 1793137484614
+  },
+  {
+   "id": "6ae11b4c669b16",
+   "name": "Grey Fur Coat",
+   "description": "A floor-length light grey fur coat features a large shawl collar and voluminous long sleeves. A small black top-handle handbag completes the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae11b4c669b16.webp",
+   "thumb": "thumbs/6ae11b4c669b16.webp",
+   "addedAt": 1793137484615
   }
  ],
  "categories": [
