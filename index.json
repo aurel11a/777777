@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793087131776,
+ "updatedAt": 1793087409597,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -7071,6 +7071,16 @@
    "image": "items/6ae0569af5bce9.webp",
    "thumb": "thumbs/6ae0569af5bce9.webp",
    "addedAt": 1793087130892
+  },
+  {
+   "id": "6ae057b017f8ed",
+   "name": "Navy Burgundy Tailored",
+   "description": "A navy short-sleeved button-up shirt with vertical seam detailing is tucked into burgundy wide-leg trousers secured by a gold-tone belt. Brown leather lace-up boots complete the outfit.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae057b017f8ed.webp",
+   "thumb": "thumbs/6ae057b017f8ed.webp",
+   "addedAt": 1793087408425
   }
  ],
  "categories": [
