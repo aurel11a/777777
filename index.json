@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793222832568,
+ "updatedAt": 1793223496169,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9681,6 +9681,26 @@
    "image": "items/6ae268af6f9ce5.webp",
    "thumb": "thumbs/6ae268af6f9ce5.webp",
    "addedAt": 1793222831502
+  },
+  {
+   "id": "6ae26b47589593",
+   "name": "Black Houndstooth Coat",
+   "description": "A long black double-breasted coat with a collar and flap pockets is worn over a houndstooth patterned dress, accented by a large cream bow at the neck. Sheer black tights and black patent leather Mary Jane heels complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae26b47589593.webp",
+   "thumb": "thumbs/6ae26b47589593.webp",
+   "addedAt": 1793223495315
+  },
+  {
+   "id": "6ae26b470f8b51",
+   "name": "Houndstooth Coat",
+   "description": "A long black and white houndstooth coat features a wide collar with black contrasting lapels. It is layered over a cream collared top and a matching pleated skirt, accessorized with a black patent leather handbag with gold hardware and cream two-tone Mary Jane heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae26b470f8b51.webp",
+   "thumb": "thumbs/6ae26b470f8b51.webp",
+   "addedAt": 1793223495316
   }
  ],
  "categories": [
