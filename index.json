@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793226739936,
+ "updatedAt": 1793227190048,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9771,6 +9771,16 @@
    "image": "items/6ae277f2443dc4.webp",
    "thumb": "thumbs/6ae277f2443dc4.webp",
    "addedAt": 1793226738995
+  },
+  {
+   "id": "6ae279b5cdc1c4",
+   "name": "Denim Plaid Western",
+   "description": "A light blue denim short-sleeved jacket with button details is worn open over a white t-shirt. It is paired with beige and brown plaid trousers secured by a brown leather belt with a large silver buckle, accessorized with layered silver necklaces and black leather boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae279b5cdc1c4.webp",
+   "thumb": "thumbs/6ae279b5cdc1c4.webp",
+   "addedAt": 1793227189191
   }
  ],
  "categories": [
