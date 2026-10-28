@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793222194686,
+ "updatedAt": 1793222300359,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9631,6 +9631,16 @@
    "image": "items/6ae2663199e7bd.webp",
    "thumb": "thumbs/6ae2663199e7bd.webp",
    "addedAt": 1793222193708
+  },
+  {
+   "id": "6ae2669b648885",
+   "name": "Cream Cable Knit",
+   "description": "A cream cable-knit long-sleeved crewneck sweater is worn over a dark collared shirt and paired with light wash loose-fitting jeans. A black leather belt and black leather loafers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae2669b648885.webp",
+   "thumb": "thumbs/6ae2669b648885.webp",
+   "addedAt": 1793222299414
   }
  ],
  "categories": [
