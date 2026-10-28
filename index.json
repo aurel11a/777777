@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793221497842,
+ "updatedAt": 1793222194686,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9621,6 +9621,16 @@
    "image": "items/6ae26379d08960.webp",
    "thumb": "thumbs/6ae26379d08960.webp",
    "addedAt": 1793221497027
+  },
+  {
+   "id": "6ae2663199e7bd",
+   "name": "Patterned Knit Sweater",
+   "description": "A multicolored patterned knit crewneck sweater with horizontal stripes is worn over a light collared shirt and paired with loose-fitting blue jeans. Black leather lace-up shoes complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae2663199e7bd.webp",
+   "thumb": "thumbs/6ae2663199e7bd.webp",
+   "addedAt": 1793222193708
   }
  ],
  "categories": [
