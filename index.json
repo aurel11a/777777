@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793137954161,
+ "updatedAt": 1793198249903,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8911,6 +8911,46 @@
    "image": "items/6ae11d21f2c8f4.webp",
    "thumb": "thumbs/6ae11d21f2c8f4.webp",
    "addedAt": 1793137953312
+  },
+  {
+   "id": "6ae208a8be5b49",
+   "name": "Ringmaster Costume",
+   "description": "A black corset-style bodysuit is worn under a long red, gold, and purple brocade coat with gold embroidered trim. The outfit is accessorized with a black top hat, white gloves, a red beaded necklace, and black over-the-knee boots with gold embroidery.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae208a8be5b49.webp",
+   "thumb": "thumbs/6ae208a8be5b49.webp",
+   "addedAt": 1793198248826
+  },
+  {
+   "id": "6ae208a8e4b813",
+   "name": "Gold Showgirl Gown",
+   "description": "A gold sequined corset-style gown features a sweetheart neckline and a high side slit, revealing a beaded red and gold thigh strap. The look is accessorized with matching gold and red jeweled cuffs, a statement necklace, and gold strappy heels.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae208a8e4b813.webp",
+   "thumb": "thumbs/6ae208a8e4b813.webp",
+   "addedAt": 1793198248827
+  },
+  {
+   "id": "6ae208a83f9a24",
+   "name": "Harlequin Corset Dress",
+   "description": "A black corset-style mini dress features a white ruffled neckline and hem, with a front zipper and thin straps. It is accessorized with a white ruffled choker with a black bow, matching wrist cuffs, and mismatched knee-high socks in black-and-white harlequin and vertical stripe patterns, paired with black Mary Jane heels.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae208a83f9a24.webp",
+   "thumb": "thumbs/6ae208a83f9a24.webp",
+   "addedAt": 1793198248828
+  },
+  {
+   "id": "6ae208a869c74c",
+   "name": "Harlequin Lace Dress",
+   "description": "A black and cream harlequin diamond-patterned dress features a corset-style bodice, thin straps, and a full, pleated skirt with lace trim at the hem. It is accessorized with long matching harlequin-patterned gloves, matching tights, and black pointed-toe shoes.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae208a869c74c.webp",
+   "thumb": "thumbs/6ae208a869c74c.webp",
+   "addedAt": 1793198248829
   }
  ],
  "categories": [
