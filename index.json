@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793223496169,
+ "updatedAt": 1793223861431,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9701,6 +9701,16 @@
    "image": "items/6ae26b470f8b51.webp",
    "thumb": "thumbs/6ae26b470f8b51.webp",
    "addedAt": 1793223495316
+  },
+  {
+   "id": "6ae26cb49300a0",
+   "name": "Striped Shirt & Tie",
+   "description": "A white and grey vertically striped long-sleeved dress shirt with rolled cuffs is paired with a dark red dotted necktie. It is worn with dark grey loose-fitting jeans and black leather pointed-toe boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae26cb49300a0.webp",
+   "thumb": "thumbs/6ae26cb49300a0.webp",
+   "addedAt": 1793223860490
   }
  ],
  "categories": [
