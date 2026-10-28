@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793229003957,
+ "updatedAt": 1793229131760,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9881,6 +9881,26 @@
    "image": "items/6ae280cae4fb52.webp",
    "thumb": "thumbs/6ae280cae4fb52.webp",
    "addedAt": 1793229002959
+  },
+  {
+   "id": "6ae2814a1466ad",
+   "name": "Pink Lace Dress",
+   "description": "A light pink lace floor-length dress features a sweetheart neckline with a front tie detail, long flared sleeves, and a fitted silhouette. Gold metallic pointed-toe heels and a thin gold necklace complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae2814a1466ad.webp",
+   "thumb": "thumbs/6ae2814a1466ad.webp",
+   "addedAt": 1793229130841
+  },
+  {
+   "id": "6ae2814a7851e2",
+   "name": "Pink Tulle Gown",
+   "description": "A light pink floor-length gown features an off-the-shoulder tulle neckline and a voluminous layered tulle skirt. The dress is accented with large, three-dimensional pink floral appliqués at the waist and skirt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae2814a7851e2.webp",
+   "thumb": "thumbs/6ae2814a7851e2.webp",
+   "addedAt": 1793229130842
   }
  ],
  "categories": [
