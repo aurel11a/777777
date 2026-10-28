@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793228950706,
+ "updatedAt": 1793229003957,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9871,6 +9871,16 @@
    "image": "items/6ae28093ce3e8f.webp",
    "thumb": "thumbs/6ae28093ce3e8f.webp",
    "addedAt": 1793228947988
+  },
+  {
+   "id": "6ae280cae4fb52",
+   "name": "Lilac Butterfly Knit",
+   "description": "A light purple knit two-piece set features a long-sleeved cropped top with a large butterfly motif on the bodice and matching fitted shorts. It is accessorized with a butterfly choker and a matching butterfly waist chain.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae280cae4fb52.webp",
+   "thumb": "thumbs/6ae280cae4fb52.webp",
+   "addedAt": 1793229002959
   }
  ],
  "categories": [
