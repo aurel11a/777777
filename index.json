@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793202284112,
+ "updatedAt": 1793202415854,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9191,6 +9191,16 @@
    "image": "items/6ae2186b486aea.webp",
    "thumb": "thumbs/6ae2186b486aea.webp",
    "addedAt": 1793202283046
+  },
+  {
+   "id": "6ae218eebeed9e",
+   "name": "Cream Half-Zip Knit",
+   "description": "A cream ribbed knit long-sleeved quarter-zip sweater is worn over a white collared shirt, paired with light wash straight-leg jeans. White sneakers and a black watch complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae218eebeed9e.webp",
+   "thumb": "thumbs/6ae218eebeed9e.webp",
+   "addedAt": 1793202414311
   }
  ],
  "categories": [
