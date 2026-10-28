@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793219435244,
+ "updatedAt": 1793220063815,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9571,6 +9571,36 @@
    "image": "items/6ae25b69d5e9e4.webp",
    "thumb": "thumbs/6ae25b69d5e9e4.webp",
    "addedAt": 1793219433964
+  },
+  {
+   "id": "6ae25dde7fcb8b",
+   "name": "Grey V-Neck Sweater",
+   "description": "A grey V-neck long-sleeved sweater is layered over a blue and white checkered button-up shirt. It is paired with olive green corduroy trousers and grey canvas sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae25dde7fcb8b.webp",
+   "thumb": "thumbs/6ae25dde7fcb8b.webp",
+   "addedAt": 1793220062309
+  },
+  {
+   "id": "6ae25dde1fa23f",
+   "name": "Olive Utility Jacket",
+   "description": "An olive green utility jacket with multiple pockets is layered over a grey t-shirt and an unbuttoned red and blue plaid shirt. It is paired with medium wash blue jeans, brown leather lace-up boots, and a silver pendant necklace.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae25dde1fa23f.webp",
+   "thumb": "thumbs/6ae25dde1fa23f.webp",
+   "addedAt": 1793220062310
+  },
+  {
+   "id": "6ae25dde0894f2",
+   "name": "Black Winter Uniform",
+   "description": "A black winter uniform features a button-up jacket with a thick black fur collar and a badge patch on the chest, paired with matching black trousers. The outfit includes a brown leather duty belt with pouches and a holster, black gloves, black lace-up boots, and a black fur hat with a front emblem.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae25dde0894f2.webp",
+   "thumb": "thumbs/6ae25dde0894f2.webp",
+   "addedAt": 1793220062311
   }
  ],
  "categories": [
