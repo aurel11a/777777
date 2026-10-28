@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793229131760,
+ "updatedAt": 1793229338185,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9901,6 +9901,16 @@
    "image": "items/6ae2814a7851e2.webp",
    "thumb": "thumbs/6ae2814a7851e2.webp",
    "addedAt": 1793229130842
+  },
+  {
+   "id": "6ae2821877b736",
+   "name": "Pink Bunny Lace",
+   "description": "A light pink floral lace midi dress features a ruffled high neckline, short cap sleeves, and a full skirt with a scalloped hem. The outfit is accessorized with a white bunny ear headpiece, short pink gloves, opaque white tights, and white Mary Jane shoes.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae2821877b736.webp",
+   "thumb": "thumbs/6ae2821877b736.webp",
+   "addedAt": 1793229336712
   }
  ],
  "categories": [
