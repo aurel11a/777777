@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793202089369,
+ "updatedAt": 1793202223800,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9171,6 +9171,16 @@
    "image": "items/6ae217a85c1aae.webp",
    "thumb": "thumbs/6ae217a85c1aae.webp",
    "addedAt": 1793202088139
+  },
+  {
+   "id": "6ae2182e26a78b",
+   "name": "Cream Cable Knit",
+   "description": "A cream cable-knit long-sleeved sweater with a small dark logo on the chest is paired with light wash straight-leg jeans. White sneakers and a silver wristwatch complete the casual look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae2182e26a78b.webp",
+   "thumb": "thumbs/6ae2182e26a78b.webp",
+   "addedAt": 1793202222667
   }
  ],
  "categories": [
