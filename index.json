@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793222300359,
+ "updatedAt": 1793222403924,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9641,6 +9641,16 @@
    "image": "items/6ae2669b648885.webp",
    "thumb": "thumbs/6ae2669b648885.webp",
    "addedAt": 1793222299414
+  },
+  {
+   "id": "6ae2670217db78",
+   "name": "Grey Knit Trousers",
+   "description": "A grey ribbed knit crewneck sweater features long sleeves and a relaxed fit. It is tucked into black wide-leg pleated trousers secured by a thin black belt with a silver buckle, and paired with black leather loafers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae2670217db78.webp",
+   "thumb": "thumbs/6ae2670217db78.webp",
+   "addedAt": 1793222402858
   }
  ],
  "categories": [
