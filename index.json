@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793228015353,
+ "updatedAt": 1793228149312,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9831,6 +9831,16 @@
    "image": "items/6ae27cee6d2454.webp",
    "thumb": "thumbs/6ae27cee6d2454.webp",
    "addedAt": 1793228014494
+  },
+  {
+   "id": "6ae27d74e5418e",
+   "name": "Pink Satin Gown",
+   "description": "A floor-length pink satin gown features a plunging V-neckline with a draped, ruched bodice and a fitted mermaid silhouette. The skirt flares at the hem and includes a slight train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae27d74e5418e.webp",
+   "thumb": "thumbs/6ae27d74e5418e.webp",
+   "addedAt": 1793228148246
   }
  ],
  "categories": [
