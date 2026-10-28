@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793222403924,
+ "updatedAt": 1793222482732,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9651,6 +9651,16 @@
    "image": "items/6ae2670217db78.webp",
    "thumb": "thumbs/6ae2670217db78.webp",
    "addedAt": 1793222402858
+  },
+  {
+   "id": "6ae26751e1fbfa",
+   "name": "Striped Beige Trousers",
+   "description": "A light blue and white striped long-sleeved button-up shirt with rolled cuffs is tucked into beige pleated trousers secured by a brown leather belt. Brown leather loafers complete the look.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae26751e1fbfa.webp",
+   "thumb": "thumbs/6ae26751e1fbfa.webp",
+   "addedAt": 1793222481827
   }
  ],
  "categories": [
