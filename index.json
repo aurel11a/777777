@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793227477857,
+ "updatedAt": 1793228015353,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9811,6 +9811,26 @@
    "image": "items/6ae27ad5a19a98.webp",
    "thumb": "thumbs/6ae27ad5a19a98.webp",
    "addedAt": 1793227477044
+  },
+  {
+   "id": "6ae27cee123eda",
+   "name": "Floral Ruffle Pajamas",
+   "description": "A white two-piece pajama set with a small red floral print features a cropped top with ruffled red lace trim, a front tie detail, and matching ruffled shorts. White ribbed crew socks complete the look.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae27cee123eda.webp",
+   "thumb": "thumbs/6ae27cee123eda.webp",
+   "addedAt": 1793228014493
+  },
+  {
+   "id": "6ae27cee6d2454",
+   "name": "Green Ribbed Pajamas",
+   "description": "A dark green ribbed knit two-piece pajama set features a long-sleeved henley top with a partial button placket and matching shorts with an elastic waistband and button fly.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae27cee6d2454.webp",
+   "thumb": "thumbs/6ae27cee6d2454.webp",
+   "addedAt": 1793228014494
   }
  ],
  "categories": [
