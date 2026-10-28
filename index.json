@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793198249903,
+ "updatedAt": 1793198646521,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -8951,6 +8951,106 @@
    "image": "items/6ae208a869c74c.webp",
    "thumb": "thumbs/6ae208a869c74c.webp",
    "addedAt": 1793198248829
+  },
+  {
+   "id": "6ae20a35f3e854",
+   "name": "Outdoor Fleece Set",
+   "description": "A cream fleece zip-up jacket with green pocket details is layered over a black spaghetti-strap top or a cream graphic t-shirt. The look is paired with black flared leggings, white crew socks, beige hiking boots, and a dark green baseball cap.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20a35f3e854.webp",
+   "thumb": "thumbs/6ae20a35f3e854.webp",
+   "addedAt": 1793198645334
+  },
+  {
+   "id": "6ae20a35f9eb90",
+   "name": "Olive Cargo Hiking",
+   "description": "An olive green fitted tank top is paired with beige wide-leg cargo pants. A beige bucket hat with a chin cord and brown hiking boots complete the outdoor look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae20a35f9eb90.webp",
+   "thumb": "thumbs/6ae20a35f9eb90.webp",
+   "addedAt": 1793198645335
+  },
+  {
+   "id": "6ae20a354efcdd",
+   "name": "Medieval Peasant Tunic",
+   "description": "A dark grey short-sleeved tunic features a laced V-neckline and is worn over a long-sleeved beige under-tunic and a layered, textured floor-length skirt. The outfit is accessorized with a brown leather belt holding a pouch and tools, along with brown leather shoes.",
+   "type": "fantasy",
+   "gender": "unisex",
+   "image": "items/6ae20a354efcdd.webp",
+   "thumb": "thumbs/6ae20a354efcdd.webp",
+   "addedAt": 1793198645336
+  },
+  {
+   "id": "6ae20a35341a38",
+   "name": "Gingham Peplum Top",
+   "description": "A blue and white gingham off-the-shoulder top features a smocked bodice with a peplum hem and long puff sleeves. It is paired with dark grey wide-leg trousers, black shoes, and accessorized with a cream rectangular handbag and a red striped necktie.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20a35341a38.webp",
+   "thumb": "thumbs/6ae20a35341a38.webp",
+   "addedAt": 1793198645337
+  },
+  {
+   "id": "6ae20a35079110",
+   "name": "Red Summer Mini",
+   "description": "A red sleeveless mini dress with a small white pattern features thin spaghetti straps and a bubble hem. The look is accessorized with a starfish hair clip, layered necklaces, a gold bracelet, brown suede lace-up ankle boots, and a woven straw tote bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20a35079110.webp",
+   "thumb": "thumbs/6ae20a35079110.webp",
+   "addedAt": 1793198645338
+  },
+  {
+   "id": "6ae20a35a4a2bf",
+   "name": "Beige Knit Set",
+   "description": "A beige knit two-piece set features a long-sleeved cardigan with light blue trim at the collar and cuffs, detailed with silver buttons and a front bow. It is paired with a matching mini skirt and light blue rubber rain boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20a35a4a2bf.webp",
+   "thumb": "thumbs/6ae20a35a4a2bf.webp",
+   "addedAt": 1793198645339
+  },
+  {
+   "id": "6ae20a354e1856",
+   "name": "Pink Knit Lounge Set",
+   "description": "A light pink long-sleeved cropped cardigan with a front tie is layered over a white corset-style top with a small pink pattern. It is paired with matching light pink wide-leg drawstring pants featuring silver aglet details.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae20a354e1856.webp",
+   "thumb": "thumbs/6ae20a354e1856.webp",
+   "addedAt": 1793198645340
+  },
+  {
+   "id": "6ae20a351a6bff",
+   "name": "White Cargo Halter",
+   "description": "A white ribbed halter tank top is layered over a black bra and paired with cream wide-leg drawstring cargo pants. Black chunky sneakers, gold bracelets, and rings complete the casual look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae20a351a6bff.webp",
+   "thumb": "thumbs/6ae20a351a6bff.webp",
+   "addedAt": 1793198645341
+  },
+  {
+   "id": "6ae20a35af0fd8",
+   "name": "Blue Seam Bodysuit",
+   "description": "A light blue long-sleeved form-fitting bodysuit features contrasting dark seam detailing across the chest, waist, and legs. The design includes a high crew neckline and extends into full-length leggings.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae20a35af0fd8.webp",
+   "thumb": "thumbs/6ae20a35af0fd8.webp",
+   "addedAt": 1793198645342
+  },
+  {
+   "id": "6ae20a35a374f8",
+   "name": "Black Cowl Gown",
+   "description": "A black floor-length slip dress features a draped cowl neckline with thin spaghetti straps and small white bow appliqués at the shoulders and chest. The dress has a fitted silhouette that flares slightly at the hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae20a35a374f8.webp",
+   "thumb": "thumbs/6ae20a35a374f8.webp",
+   "addedAt": 1793198645343
   }
  ],
  "categories": [
