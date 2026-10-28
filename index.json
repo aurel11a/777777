@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793203467817,
+ "updatedAt": 1793203950598,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9301,6 +9301,66 @@
    "image": "items/6ae21d0a8f8d0c.webp",
    "thumb": "thumbs/6ae21d0a8f8d0c.webp",
    "addedAt": 1793203466727
+  },
+  {
+   "id": "6ae21eedbbaec0",
+   "name": "Red Hooded Cloak",
+   "description": "A deep red velvet hooded cloak with a gold clasp is worn over a floor-length ivory gown featuring a draped bodice and a textured lace overlay. The gown has a fitted silhouette that flares slightly at the hem.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae21eedbbaec0.webp",
+   "thumb": "thumbs/6ae21eedbbaec0.webp",
+   "addedAt": 1793203949544
+  },
+  {
+   "id": "6ae21eedda7d80",
+   "name": "Blue Kimono Maxi",
+   "description": "A blue textured maxi dress features a deep V-neckline, wide kimono-style sleeves, and a loose, flowing silhouette. A silver shell pendant necklace completes the look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae21eedda7d80.webp",
+   "thumb": "thumbs/6ae21eedda7d80.webp",
+   "addedAt": 1793203949545
+  },
+  {
+   "id": "6ae21eedae746e",
+   "name": "White Halter Gown",
+   "description": "A white metallic halter maxi dress features a plunging cowl neckline with a central silver brooch and a draped sash tied at the waist. The fitted skirt flows into a slight train, accessorized with silver statement earrings.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae21eedae746e.webp",
+   "thumb": "thumbs/6ae21eedae746e.webp",
+   "addedAt": 1793203949546
+  },
+  {
+   "id": "6ae21eed4c04b0",
+   "name": "Olive Halter Mini",
+   "description": "An olive green halter mini dress features a deep draped cowl neckline with a matching scarf collar and gold bead trim along the edges. The fitted skirt includes tiered bead detailing and a ruffled hem, paired with clear pointed-toe mule heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae21eed4c04b0.webp",
+   "thumb": "thumbs/6ae21eed4c04b0.webp",
+   "addedAt": 1793203949547
+  },
+  {
+   "id": "6ae21eeda7a68b",
+   "name": "Black Polka Bow",
+   "description": "A black strapless mini dress features a fitted bodice and a dramatic side bow with long, trailing sheer polka-dot fabric. The look is accessorized with matching sheer polka-dot opera gloves, a silver rhinestone necklace, statement earrings, and black sheer socks with pearl anklets paired with black pointed-toe pumps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae21eeda7a68b.webp",
+   "thumb": "thumbs/6ae21eeda7a68b.webp",
+   "addedAt": 1793203949548
+  },
+  {
+   "id": "6ae21eedf3fec4",
+   "name": "Olive Satin Set",
+   "description": "An olive green satin midi dress features a V-neckline with lace trim and short puff sleeves with tie details. The outfit is accessorized with an olive green cable-knit cardigan, green and pearl drop earrings, a white handbag with pink floral embroidery, and gold pointed-toe mules with pink floral designs.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae21eedf3fec4.webp",
+   "thumb": "thumbs/6ae21eedf3fec4.webp",
+   "addedAt": 1793203949549
   }
  ],
  "categories": [
