@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793219240785,
+ "updatedAt": 1793219435244,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9561,6 +9561,16 @@
    "image": "items/6ae25aa7383f47.webp",
    "thumb": "thumbs/6ae25aa7383f47.webp",
    "addedAt": 1793219239638
+  },
+  {
+   "id": "6ae25b69d5e9e4",
+   "name": "Castle Plaid Pants",
+   "description": "A faded black short-sleeved t-shirt features a \"CASTLE\" graphic with a distressed architectural print. It is paired with wide-leg black, white, and grey plaid trousers.",
+   "type": "home",
+   "gender": "unisex",
+   "image": "items/6ae25b69d5e9e4.webp",
+   "thumb": "thumbs/6ae25b69d5e9e4.webp",
+   "addedAt": 1793219433964
   }
  ],
  "categories": [
