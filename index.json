@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793227190048,
+ "updatedAt": 1793227477857,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9781,6 +9781,36 @@
    "image": "items/6ae279b5cdc1c4.webp",
    "thumb": "thumbs/6ae279b5cdc1c4.webp",
    "addedAt": 1793227189191
+  },
+  {
+   "id": "6ae27ad5fc013b",
+   "name": "Navy Cardigan Layers",
+   "description": "A navy blue ribbed knit shawl-collar cardigan is layered over a brown buttoned vest and a light checkered dress shirt with a dark brown tie. It is paired with dark olive corduroy trousers and brown suede lace-up shoes, accessorized with a silver watch.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae27ad5fc013b.webp",
+   "thumb": "thumbs/6ae27ad5fc013b.webp",
+   "addedAt": 1793227477042
+  },
+  {
+   "id": "6ae27ad50b306b",
+   "name": "Olive Corduroy Set",
+   "description": "An olive green knit long-sleeved sweater features a contrasting brown ribbed collar, cuffs, and hem. It is paired with brown wide-leg corduroy trousers, dark brown leather lace-up boots, and a grey canvas messenger bag with brown leather straps.",
+   "type": "casual",
+   "gender": "unisex",
+   "image": "items/6ae27ad50b306b.webp",
+   "thumb": "thumbs/6ae27ad50b306b.webp",
+   "addedAt": 1793227477043
+  },
+  {
+   "id": "6ae27ad5a19a98",
+   "name": "Rust Knit Cardigan",
+   "description": "A rust-orange knit cardigan with front buttons is worn open over a mustard yellow t-shirt and paired with brown corduroy trousers. Black leather lace-up boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae27ad5a19a98.webp",
+   "thumb": "thumbs/6ae27ad5a19a98.webp",
+   "addedAt": 1793227477044
   }
  ],
  "categories": [
