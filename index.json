@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793223861431,
+ "updatedAt": 1793224359167,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9711,6 +9711,16 @@
    "image": "items/6ae26cb49300a0.webp",
    "thumb": "thumbs/6ae26cb49300a0.webp",
    "addedAt": 1793223860490
+  },
+  {
+   "id": "6ae26ea6a9e3c1",
+   "name": "Grey Riding Coat",
+   "description": "A long grey tailored coat with a brown velvet collar is worn open over a loose white button-up shirt and high-waisted tan trousers with button detailing. Brown and black leather riding boots complete the historical look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae26ea6a9e3c1.webp",
+   "thumb": "thumbs/6ae26ea6a9e3c1.webp",
+   "addedAt": 1793224358038
   }
  ],
  "categories": [
