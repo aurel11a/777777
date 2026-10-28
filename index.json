@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793198646521,
+ "updatedAt": 1793199252011,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9051,6 +9051,106 @@
    "image": "items/6ae20a35a374f8.webp",
    "thumb": "thumbs/6ae20a35a374f8.webp",
    "addedAt": 1793198645343
+  },
+  {
+   "id": "6ae20c92c86689",
+   "name": "Brown Lace Gown",
+   "description": "A dark brown floor-length gown features a sheer lace bodice with a one-shoulder neckline and a thin spaghetti strap. The skirt is accented with draped ruching at the waist and a fitted silhouette, accessorized with a small black chain-strap handbag and black pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae20c92c86689.webp",
+   "thumb": "thumbs/6ae20c92c86689.webp",
+   "addedAt": 1793199250977
+  },
+  {
+   "id": "6ae20c92c8b1e7",
+   "name": "White Halter Top",
+   "description": "A white strapless fitted top features a circular ring cutout at the center chest with a long, tasseled cord necklace draped through it. It is paired with a blue mini skirt printed with yellow flowers and water ripples.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae20c92c8b1e7.webp",
+   "thumb": "thumbs/6ae20c92c8b1e7.webp",
+   "addedAt": 1793199250978
+  },
+  {
+   "id": "6ae20c92106fb1",
+   "name": "Printed Scalloped Maxi",
+   "description": "A cream sleeveless maxi dress features a large blue and green graphic print with floral and geometric motifs, finished with white scalloped trim along the edges. Gold strappy flat sandals complete the look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae20c92106fb1.webp",
+   "thumb": "thumbs/6ae20c92106fb1.webp",
+   "addedAt": 1793199250979
+  },
+  {
+   "id": "6ae20c92a824a4",
+   "name": "Denim Buckle Dress",
+   "description": "A blue denim strapless mini dress features a corset-style bodice and a pleated skirt, detailed with two wide black belts with large buckles across the chest and waist. White lace tights and white, black, and beige chunky sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20c92a824a4.webp",
+   "thumb": "thumbs/6ae20c92a824a4.webp",
+   "addedAt": 1793199250980
+  },
+  {
+   "id": "6ae20c92305149",
+   "name": "Plaid White Skirt",
+   "description": "A white ribbed cropped tank top is paired with a white pleated mini skirt and layered under an unbuttoned purple and black plaid flannel shirt. Grey suede cowboy boots complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae20c92305149.webp",
+   "thumb": "thumbs/6ae20c92305149.webp",
+   "addedAt": 1793199250981
+  },
+  {
+   "id": "6ae20c92f24f80",
+   "name": "Tie-Dye Fairy Set",
+   "description": "A colorful tie-dye two-piece set features a halter-style bra top with a center ring and long, sheer ruffled sleeves. It is paired with a matching asymmetrical mini skirt with a butterfly appliqué, accessorized with a beaded waist chain and layered necklaces.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae20c92f24f80.webp",
+   "thumb": "thumbs/6ae20c92f24f80.webp",
+   "addedAt": 1793199250982
+  },
+  {
+   "id": "6ae20c928f06ca",
+   "name": "Sequin Scale Set",
+   "description": "A white strapless bandeau top and a blue mini skirt are both covered in overlapping, iridescent sequin-like scales. A matching blue scale-covered shoulder bag completes the mermaid-inspired look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae20c928f06ca.webp",
+   "thumb": "thumbs/6ae20c928f06ca.webp",
+   "addedAt": 1793199250983
+  },
+  {
+   "id": "6ae20c927f7c4a",
+   "name": "Blue Bubble Corset",
+   "description": "A light blue strapless mini dress features a lace corset-style bodice and a voluminous bubble skirt. The look includes sheer white gloves with a large blue ribbon bow tied at the upper arm and white pointed-toe knee-high boots.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae20c927f7c4a.webp",
+   "thumb": "thumbs/6ae20c927f7c4a.webp",
+   "addedAt": 1793199250984
+  },
+  {
+   "id": "6ae20c9220fa52",
+   "name": "Tie-Dye Ruffle Skirt",
+   "description": "A white textured square-neck crop top is paired with a sheer pink and yellow tie-dye maxi skirt featuring tiered ruffles and a high-low hem. A yellow shoulder bag and gold strappy flat sandals complete the look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae20c9220fa52.webp",
+   "thumb": "thumbs/6ae20c9220fa52.webp",
+   "addedAt": 1793199250985
+  },
+  {
+   "id": "6ae20c921bc611",
+   "name": "Beige Knit Set",
+   "description": "A beige textured knit two-piece set features a V-neck cardigan with front buttons and a matching mini skirt. The look is accessorized with a pearl necklace, a cream and brown handbag, white knee-high socks, and brown pointed-toe heels with bow details.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae20c921bc611.webp",
+   "thumb": "thumbs/6ae20c921bc611.webp",
+   "addedAt": 1793199250986
   }
  ],
  "categories": [
