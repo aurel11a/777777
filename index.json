@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793224359167,
+ "updatedAt": 1793224410709,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9721,6 +9721,16 @@
    "image": "items/6ae26ea6a9e3c1.webp",
    "thumb": "thumbs/6ae26ea6a9e3c1.webp",
    "addedAt": 1793224358038
+  },
+  {
+   "id": "6ae26ed933d77b",
+   "name": "Olive Utility Layers",
+   "description": "An olive green utility jacket with a brown corduroy collar is layered over a brown knit vest and a striped scarf, paired with cream cuffed trousers. The look is accessorized with a brown leather crossbody bag, a green canvas backpack, a brown flat cap, green socks, and black lace-up boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae26ed933d77b.webp",
+   "thumb": "thumbs/6ae26ed933d77b.webp",
+   "addedAt": 1793224409753
   }
  ],
  "categories": [
