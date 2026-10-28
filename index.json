@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793202016557,
+ "updatedAt": 1793202089369,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9161,6 +9161,16 @@
    "image": "items/6ae2175ff0a621.webp",
    "thumb": "thumbs/6ae2175ff0a621.webp",
    "addedAt": 1793202015436
+  },
+  {
+   "id": "6ae217a85c1aae",
+   "name": "Camel Coat Outfit",
+   "description": "A camel-colored mid-length coat is worn open over a black turtleneck sweater, accessorized with a black and grey patterned fringed scarf. It is paired with matching camel tailored trousers, black leather gloves, and black leather ankle boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae217a85c1aae.webp",
+   "thumb": "thumbs/6ae217a85c1aae.webp",
+   "addedAt": 1793202088139
   }
  ],
  "categories": [
