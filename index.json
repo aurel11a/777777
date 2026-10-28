@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793199252011,
+ "updatedAt": 1793202016557,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9151,6 +9151,16 @@
    "image": "items/6ae20c921bc611.webp",
    "thumb": "thumbs/6ae20c921bc611.webp",
    "addedAt": 1793199250986
+  },
+  {
+   "id": "6ae2175ff0a621",
+   "name": "Black Long Coat",
+   "description": "A long black double-breasted coat with wide lapels is worn open over a dark brown turtleneck sweater. The look is paired with black tailored trousers secured by a black belt with a silver buckle and black leather dress shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae2175ff0a621.webp",
+   "thumb": "thumbs/6ae2175ff0a621.webp",
+   "addedAt": 1793202015436
   }
  ],
  "categories": [
