@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793202223800,
+ "updatedAt": 1793202284112,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9181,6 +9181,16 @@
    "image": "items/6ae2182e26a78b.webp",
    "thumb": "thumbs/6ae2182e26a78b.webp",
    "addedAt": 1793202222667
+  },
+  {
+   "id": "6ae2186b486aea",
+   "name": "Navy Zip Pullover",
+   "description": "A navy blue quarter-zip pullover is worn over a white undershirt, paired with loose-fitting off-white trousers. White sneakers and a silver watch with a brown leather strap complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae2186b486aea.webp",
+   "thumb": "thumbs/6ae2186b486aea.webp",
+   "addedAt": 1793202283046
   }
  ],
  "categories": [
