@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793205847238,
+ "updatedAt": 1793211506426,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9531,6 +9531,16 @@
    "image": "items/6ae2265533b325.webp",
    "thumb": "thumbs/6ae2265533b325.webp",
    "addedAt": 1793205845531
+  },
+  {
+   "id": "6ae23c7142a3fa",
+   "name": "Burgundy Witch Costume",
+   "description": "A deep burgundy two-piece costume features a halter-style bra top with a central jeweled ring and a matching bikini bottom. The look includes a draped, sheer burgundy fabric skirt with gold chain belt detailing and a silver jeweled necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae23c7142a3fa.webp",
+   "thumb": "thumbs/6ae23c7142a3fa.webp",
+   "addedAt": 1793211505489
   }
  ],
  "categories": [
