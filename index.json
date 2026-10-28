@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793228149312,
+ "updatedAt": 1793228876492,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9841,6 +9841,16 @@
    "image": "items/6ae27d74e5418e.webp",
    "thumb": "thumbs/6ae27d74e5418e.webp",
    "addedAt": 1793228148246
+  },
+  {
+   "id": "6ae2804b22ea38",
+   "name": "Green Velvet Gown",
+   "description": "A dark green velvet floor-length gown features a square neckline with a gold patterned inset and long sleeves. The dress is decorated with gold embroidered leaf motifs cascading down the sleeves and skirt, paired with matching green pointed-toe shoes and a pendant necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae2804b22ea38.webp",
+   "thumb": "thumbs/6ae2804b22ea38.webp",
+   "addedAt": 1793228875439
   }
  ],
  "categories": [
