@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793228876492,
+ "updatedAt": 1793228950706,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9851,6 +9851,26 @@
    "image": "items/6ae2804b22ea38.webp",
    "thumb": "thumbs/6ae2804b22ea38.webp",
    "addedAt": 1793228875439
+  },
+  {
+   "id": "6ae2809323c93d",
+   "name": "Blue Star Gown",
+   "description": "A floor-length blue gown features a gradient from light blue at the bodice to deep blue at the hem, with puffed sleeves and long, draped sheer panels. The dress is embellished with silver star and cloud embroidery, and includes a silver patterned inset at the neckline.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae2809323c93d.webp",
+   "thumb": "thumbs/6ae2809323c93d.webp",
+   "addedAt": 1793228947987
+  },
+  {
+   "id": "6ae28093ce3e8f",
+   "name": "Silver Art Deco",
+   "description": "A silver metallic gown features a plunging V-neckline and a textured, art deco-inspired pattern, paired with a long black lace cape with fur-trimmed shoulders and beaded tassels. The look is accessorized with layered pearl necklaces, a pearl arm cuff, and silver strappy heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae28093ce3e8f.webp",
+   "thumb": "thumbs/6ae28093ce3e8f.webp",
+   "addedAt": 1793228947988
   }
  ],
  "categories": [
