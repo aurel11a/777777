@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793220535981,
+ "updatedAt": 1793221497842,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9611,6 +9611,16 @@
    "image": "items/6ae25fb67b6198.webp",
    "thumb": "thumbs/6ae25fb67b6198.webp",
    "addedAt": 1793220534520
+  },
+  {
+   "id": "6ae26379d08960",
+   "name": "Western Grunge Outfit",
+   "description": "A blue and brown plaid long-sleeved flannel shirt is worn open over a grey button-up shirt and paired with medium wash blue jeans. The look is accessorized with a brown leather belt with a large steer head buckle, a brown leather cowboy hat, black combat boots, a bullet pendant necklace, a skull ring, a chain bracelet, and a skull bracelet.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae26379d08960.webp",
+   "thumb": "thumbs/6ae26379d08960.webp",
+   "addedAt": 1793221497027
   }
  ],
  "categories": [
