@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793220063815,
+ "updatedAt": 1793220535981,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9601,6 +9601,16 @@
    "image": "items/6ae25dde0894f2.webp",
    "thumb": "thumbs/6ae25dde0894f2.webp",
    "addedAt": 1793220062311
+  },
+  {
+   "id": "6ae25fb67b6198",
+   "name": "Blue Ocean Bikini",
+   "description": "A bright blue two-piece bikini features an all-over tropical fish and seashell print. Both the bandeau-style top and the tie-side bottoms are detailed with ruffled edges and thin shoulder straps.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae25fb67b6198.webp",
+   "thumb": "thumbs/6ae25fb67b6198.webp",
+   "addedAt": 1793220534520
   }
  ],
  "categories": [
