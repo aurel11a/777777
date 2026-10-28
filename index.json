@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793204224249,
+ "updatedAt": 1793204894032,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9421,6 +9421,106 @@
    "image": "items/6ae21ffea619ce.webp",
    "thumb": "thumbs/6ae21ffea619ce.webp",
    "addedAt": 1793204222908
+  },
+  {
+   "id": "6ae2229dc03324",
+   "name": "Red Stripe Set",
+   "description": "A red strapless crop top and matching midi skirt set features white and black horizontal stripes at the bandeau neckline and ruffled hem. A long red fur coat, a red and black structured crossbody bag, and black pointed-toe pumps complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae2229dc03324.webp",
+   "thumb": "thumbs/6ae2229dc03324.webp",
+   "addedAt": 1793204893078
+  },
+  {
+   "id": "6ae2229dc5875c",
+   "name": "White Satin Puff Gown",
+   "description": "A white satin floor-length gown features a strapless sweetheart bodice with a subtle lace overlay and voluminous off-the-shoulder puff sleeves. The full skirt extends into a long train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae2229dc5875c.webp",
+   "thumb": "thumbs/6ae2229dc5875c.webp",
+   "addedAt": 1793204893079
+  },
+  {
+   "id": "6ae2229d1d04c8",
+   "name": "Sheer Black Gown",
+   "description": "A black floor-length gown features a sheer high-neck bodice with long sleeves and an off-the-shoulder ruffled overlay. It is cinched at the waist with a black satin sash tied in a bow and includes a pleated skirt, paired with black heels.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae2229d1d04c8.webp",
+   "thumb": "thumbs/6ae2229d1d04c8.webp",
+   "addedAt": 1793204893080
+  },
+  {
+   "id": "6ae2229d720759",
+   "name": "White Paisley Shawl",
+   "description": "A white long-sleeved gown with a square neckline features a textured, patterned fabric and a floor-length skirt with a slight train. A long cream shawl with a deep red and gold paisley border is draped over the shoulders and arms.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae2229d720759.webp",
+   "thumb": "thumbs/6ae2229d720759.webp",
+   "addedAt": 1793204893081
+  },
+  {
+   "id": "6ae2229d09676e",
+   "name": "Cream Embroidered Gown",
+   "description": "A cream floor-length gown features a wide square neckline, short puff sleeves, and a gathered empire waist. The fabric is decorated with scattered small embroidered motifs and a detailed gold floral embroidered border at the hem.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae2229d09676e.webp",
+   "thumb": "thumbs/6ae2229d09676e.webp",
+   "addedAt": 1793204893082
+  },
+  {
+   "id": "6ae2229d94e2be",
+   "name": "Black Gold Gown",
+   "description": "A black and gold period-style gown features an off-the-shoulder neckline with voluminous puff sleeves and white lace cuffs. The corset-style bodice is heavily adorned with gold embroidery and a front lace-up detail, paired with a full, layered skirt with a ruffled hem.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae2229d94e2be.webp",
+   "thumb": "thumbs/6ae2229d94e2be.webp",
+   "addedAt": 1793204893083
+  },
+  {
+   "id": "6ae2229d174d6c",
+   "name": "Pink Puff Dress",
+   "description": "A light pink mini dress features a square neckline with a gathered yoke, long puff sleeves, and a loose, flowing silhouette. Cream espadrille wedges with ribbon ankle ties and a small checkered handbag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae2229d174d6c.webp",
+   "thumb": "thumbs/6ae2229d174d6c.webp",
+   "addedAt": 1793204893084
+  },
+  {
+   "id": "6ae2229d691028",
+   "name": "Black Leather Pink",
+   "description": "A black faux leather two-piece set features a long-sleeved corset-style crop top with a front zipper and a matching mini skirt with a pink sheer panel and silver chain details. The look is accessorized with pink ribbon earrings, a black and silver headband, a pink patent leather shoulder bag, silver hoop earrings, and black platform lace-up boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae2229d691028.webp",
+   "thumb": "thumbs/6ae2229d691028.webp",
+   "addedAt": 1793204893085
+  },
+  {
+   "id": "6ae2229d5efbe4",
+   "name": "White Victorian Lace",
+   "description": "A floor-length white lace gown features a high neckline, a sheer V-shaped lace overlay on the bodice, and long sleeves with flared ruffled cuffs. The skirt is detailed with lace panels and tiered ruffles, cinched at the waist with a white fabric tie.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae2229d5efbe4.webp",
+   "thumb": "thumbs/6ae2229d5efbe4.webp",
+   "addedAt": 1793204893086
+  },
+  {
+   "id": "6ae2229d95103e",
+   "name": "Blue Beaded Gown",
+   "description": "A light blue strapless gown features a heavily embellished bodice and skirt with intricate silver and dark beadwork in floral and paisley patterns. A matching light blue satin shawl is draped over the arms.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae2229d95103e.webp",
+   "thumb": "thumbs/6ae2229d95103e.webp",
+   "addedAt": 1793204893087
   }
  ],
  "categories": [
