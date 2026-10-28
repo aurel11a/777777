@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793202947550,
+ "updatedAt": 1793203467817,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9241,6 +9241,66 @@
    "image": "items/6ae21b02e4c1c8.webp",
    "thumb": "thumbs/6ae21b02e4c1c8.webp",
    "addedAt": 1793202946126
+  },
+  {
+   "id": "6ae21d0a466c5b",
+   "name": "Blue Satin Maxi",
+   "description": "A light blue satin maxi dress features a high boat neckline, long sleeves with buttoned cuffs, and a draped, asymmetrical wrap-style bodice. The skirt falls to a slight flare at the hem, paired with nude strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae21d0a466c5b.webp",
+   "thumb": "thumbs/6ae21d0a466c5b.webp",
+   "addedAt": 1793203466722
+  },
+  {
+   "id": "6ae21d0a4bd3e5",
+   "name": "Pink Pleated Gown",
+   "description": "A light pink floor-length gown features a sleeveless, high-neck fitted bodice and a sharply pleated skirt. A structured cream and brown top-handle handbag and gold hoop earrings complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae21d0a4bd3e5.webp",
+   "thumb": "thumbs/6ae21d0a4bd3e5.webp",
+   "addedAt": 1793203466723
+  },
+  {
+   "id": "6ae21d0aadac99",
+   "name": "Cream Crochet Set",
+   "description": "A cream crochet two-piece set features a sleeveless crop top with a scalloped neckline and a matching tiered fringed mini skirt. A beige structured handbag, a gold bracelet, a necklace, and cream slide sandals with gold hardware complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae21d0aadac99.webp",
+   "thumb": "thumbs/6ae21d0aadac99.webp",
+   "addedAt": 1793203466724
+  },
+  {
+   "id": "6ae21d0ab1efb2",
+   "name": "Green Crochet Set",
+   "description": "A light green crochet two-piece set features a halter-neck top with braided trim and a front tie, paired with matching fitted shorts with a braided waistband.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae21d0ab1efb2.webp",
+   "thumb": "thumbs/6ae21d0ab1efb2.webp",
+   "addedAt": 1793203466725
+  },
+  {
+   "id": "6ae21d0a7e4184",
+   "name": "Grey Denim Fur",
+   "description": "A grey denim long-sleeved zip-up jacket with corset-style seam detailing is paired with matching grey denim mini shorts secured by a wide studded belt. The outfit is accessorized with a fluffy grey shoulder bag and tall grey faux fur boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae21d0a7e4184.webp",
+   "thumb": "thumbs/6ae21d0a7e4184.webp",
+   "addedAt": 1793203466726
+  },
+  {
+   "id": "6ae21d0a8f8d0c",
+   "name": "White Plaid Set",
+   "description": "A white plaid two-piece set features a short-sleeved top with a ruffled V-neckline, lace trim, and button detailing, paired with matching high-waisted shorts with scalloped lace pockets. Gold strappy flat sandals complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae21d0a8f8d0c.webp",
+   "thumb": "thumbs/6ae21d0a8f8d0c.webp",
+   "addedAt": 1793203466727
   }
  ],
  "categories": [
