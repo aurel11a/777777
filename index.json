@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793211506426,
+ "updatedAt": 1793219240785,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9541,6 +9541,26 @@
    "image": "items/6ae23c7142a3fa.webp",
    "thumb": "thumbs/6ae23c7142a3fa.webp",
    "addedAt": 1793211505489
+  },
+  {
+   "id": "6ae25aa7c91122",
+   "name": "Pink Velour Tracksuit",
+   "description": "A light pink velour long-sleeved zip-up hoodie with appliqué details is worn partially off the shoulder over a white bandeau top. It is paired with matching pink velour drawstring shorts, white ankle socks, white sneakers, and a white quilted handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae25aa7c91122.webp",
+   "thumb": "thumbs/6ae25aa7c91122.webp",
+   "addedAt": 1793219239637
+  },
+  {
+   "id": "6ae25aa7383f47",
+   "name": "Cream Plaid Skirt",
+   "description": "A cream ribbed turtleneck sweater is paired with a beige, black, and pink plaid mini skirt over opaque white tights. Cream slouchy boots with pointed toes and a cream leather shoulder bag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae25aa7383f47.webp",
+   "thumb": "thumbs/6ae25aa7383f47.webp",
+   "addedAt": 1793219239638
   }
  ],
  "categories": [
