@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317682192,
+ "updatedAt": 1793317828544,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10001,6 +10001,16 @@
    "image": "items/6ae3db30528072.webp",
    "thumb": "thumbs/6ae3db30528072.webp",
    "addedAt": 1793317680487
+  },
+  {
+   "id": "6ae3dbc313e664",
+   "name": "Navy Satin Pajamas",
+   "description": "A long navy blue robe with a light blue floral print features a lapel collar and white piping along the edges. It is worn open over a matching navy blue satin button-up pajama shirt and trousers with white piping details.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6ae3dbc313e664.webp",
+   "thumb": "thumbs/6ae3dbc313e664.webp",
+   "addedAt": 1793317827534
   }
  ],
  "categories": [
