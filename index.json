@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793316955722,
+ "updatedAt": 1793317014739,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9941,6 +9941,16 @@
    "image": "items/6ae3d85a4507dd.webp",
    "thumb": "thumbs/6ae3d85a4507dd.webp",
    "addedAt": 1793316954762
+  },
+  {
+   "id": "6ae3d895e16994",
+   "name": "White Cargo Utility",
+   "description": "A fitted white long-sleeved crewneck shirt is tucked into olive green cargo pants with large flap pockets. A black belt and black leather lace-up boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae3d895e16994.webp",
+   "thumb": "thumbs/6ae3d895e16994.webp",
+   "addedAt": 1793317013717
   }
  ],
  "categories": [
