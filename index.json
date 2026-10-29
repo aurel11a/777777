@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793315445488,
+ "updatedAt": 1793315589814,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9921,6 +9921,16 @@
    "image": "items/6ae3d274ac9f8e.webp",
    "thumb": "thumbs/6ae3d274ac9f8e.webp",
    "addedAt": 1793315444387
+  },
+  {
+   "id": "6ae3d3047a4286",
+   "name": "Black Leather Biker",
+   "description": "A black leather motorcycle jacket with silver hardware is worn open over a black graphic t-shirt. The look is paired with dark grey washed jeans secured by a black studded belt, a silver pendant necklace, and black leather platform boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae3d3047a4286.webp",
+   "thumb": "thumbs/6ae3d3047a4286.webp",
+   "addedAt": 1793315588738
   }
  ],
  "categories": [
