@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317828544,
+ "updatedAt": 1793317896815,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10011,6 +10011,16 @@
    "image": "items/6ae3dbc313e664.webp",
    "thumb": "thumbs/6ae3dbc313e664.webp",
    "addedAt": 1793317827534
+  },
+  {
+   "id": "6ae3dc07ebdc71",
+   "name": "Navy Plaid Pajamas",
+   "description": "A navy blue plaid two-piece pajama set features a long-sleeved button-up top with a notched collar, front pockets, and contrasting light piping. It is paired with matching elastic-waist trousers with piped cuffs.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6ae3dc07ebdc71.webp",
+   "thumb": "thumbs/6ae3dc07ebdc71.webp",
+   "addedAt": 1793317895840
   }
  ],
  "categories": [
