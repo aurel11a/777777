@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793318083843,
+ "updatedAt": 1793318298291,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10041,6 +10041,16 @@
    "image": "items/6ae3dcc2adcbfc.webp",
    "thumb": "thumbs/6ae3dcc2adcbfc.webp",
    "addedAt": 1793318082348
+  },
+  {
+   "id": "6ae3dd99085291",
+   "name": "Grey Tom Ford Boxers",
+   "description": "Grey boxer briefs with a black elastic waistband featuring the text \"TOM FORD\" in white. A black logo-patterned wristband is also visible.",
+   "type": "underwear",
+   "gender": "male",
+   "image": "items/6ae3dd99085291.webp",
+   "thumb": "thumbs/6ae3dd99085291.webp",
+   "addedAt": 1793318297399
   }
  ],
  "categories": [
