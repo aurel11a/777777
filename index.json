@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317209291,
+ "updatedAt": 1793317336336,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9961,6 +9961,16 @@
    "image": "items/6ae3d9589f6863.webp",
    "thumb": "thumbs/6ae3d9589f6863.webp",
    "addedAt": 1793317208392
+  },
+  {
+   "id": "6ae3d9d7ccf0b9",
+   "name": "Brown Long Coat",
+   "description": "A long brown tailored coat is worn open over a black V-neck sweater, a white collared shirt, and a black tie. It is paired with black wide-leg trousers secured by a black belt and black leather shoes, accessorized with a black tote bag.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae3d9d7ccf0b9.webp",
+   "thumb": "thumbs/6ae3d9d7ccf0b9.webp",
+   "addedAt": 1793317335356
   }
  ],
  "categories": [
