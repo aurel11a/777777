@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317336336,
+ "updatedAt": 1793317568296,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9971,6 +9971,16 @@
    "image": "items/6ae3d9d7ccf0b9.webp",
    "thumb": "thumbs/6ae3d9d7ccf0b9.webp",
    "addedAt": 1793317335356
+  },
+  {
+   "id": "6ae3dabf14b420",
+   "name": "Black Long Overcoat",
+   "description": "A long black double-breasted overcoat with wide lapels is worn over a white dress shirt and a dark grey tie. The look is paired with black wide-leg trousers and black leather dress shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae3dabf14b420.webp",
+   "thumb": "thumbs/6ae3dabf14b420.webp",
+   "addedAt": 1793317567413
   }
  ],
  "categories": [
