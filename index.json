@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317568296,
+ "updatedAt": 1793317616964,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9981,6 +9981,16 @@
    "image": "items/6ae3dabf14b420.webp",
    "thumb": "thumbs/6ae3dabf14b420.webp",
    "addedAt": 1793317567413
+  },
+  {
+   "id": "6ae3daefaa97aa",
+   "name": "Burgundy Velvet Coat",
+   "description": "A deep burgundy velvet double-breasted coat features a wide brown fur collar and gold button detailing. It is worn over a white dress shirt with a dark red tie, paired with dark striped trousers, brown leather gloves, and burgundy leather dress shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae3daefaa97aa.webp",
+   "thumb": "thumbs/6ae3daefaa97aa.webp",
+   "addedAt": 1793317615566
   }
  ],
  "categories": [
