@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317616964,
+ "updatedAt": 1793317682192,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9991,6 +9991,16 @@
    "image": "items/6ae3daefaa97aa.webp",
    "thumb": "thumbs/6ae3daefaa97aa.webp",
    "addedAt": 1793317615566
+  },
+  {
+   "id": "6ae3db30528072",
+   "name": "Navy Velvet Robe",
+   "description": "A long navy blue velvet robe features a wide, quilted burgundy shawl collar and matching cuffs, accented with gold piping along the edges. It is cinched at the waist with a navy belt and includes a small chest pocket and gold tassels near the hem.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6ae3db30528072.webp",
+   "thumb": "thumbs/6ae3db30528072.webp",
+   "addedAt": 1793317680487
   }
  ],
  "categories": [
