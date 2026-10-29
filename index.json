@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793317014739,
+ "updatedAt": 1793317209291,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -9951,6 +9951,16 @@
    "image": "items/6ae3d895e16994.webp",
    "thumb": "thumbs/6ae3d895e16994.webp",
    "addedAt": 1793317013717
+  },
+  {
+   "id": "6ae3d9589f6863",
+   "name": "Navy Cardigan & Tie",
+   "description": "A dark navy blue V-neck cardigan with front buttons is worn over a light blue collared dress shirt and a black tie. It is paired with black wide-leg trousers and black leather dress shoes.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae3d9589f6863.webp",
+   "thumb": "thumbs/6ae3d9589f6863.webp",
+   "addedAt": 1793317208392
   }
  ],
  "categories": [
