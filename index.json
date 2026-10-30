@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373020437,
+ "updatedAt": 1793373063136,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10951,6 +10951,16 @@
    "image": "items/6ae4b35b8ac85a.webp",
    "thumb": "thumbs/6ae4b35b8ac85a.webp",
    "addedAt": 1793373019430
+  },
+  {
+   "id": "6ae4b3852de508",
+   "name": "Black Zip Sweater",
+   "description": "A black ribbed knit long-sleeved sweater features a silver front zipper and a wide collar. It is styled off one shoulder with a deep V-neck opening.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae4b3852de508.webp",
+   "thumb": "thumbs/6ae4b3852de508.webp",
+   "addedAt": 1793373061651
   }
  ],
  "categories": [
