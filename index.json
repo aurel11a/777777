@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793372503633,
+ "updatedAt": 1793372562349,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10921,6 +10921,16 @@
    "image": "items/6ae4b1561f1e93.webp",
    "thumb": "thumbs/6ae4b1561f1e93.webp",
    "addedAt": 1793372502541
+  },
+  {
+   "id": "6ae4b1916c500e",
+   "name": "Silver Fringe Costume",
+   "description": "A silver metallic two-piece costume features embellished diamond-shaped pasties and a matching low-rise skirt with a geometric belt and cascading fringe. The look is completed with a long, shimmering silver cape.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4b1916c500e.webp",
+   "thumb": "thumbs/6ae4b1916c500e.webp",
+   "addedAt": 1793372561403
   }
  ],
  "categories": [
