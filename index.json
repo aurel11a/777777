@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793369403890,
+ "updatedAt": 1793370024284,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10631,6 +10631,86 @@
    "image": "items/6ae4a53a41cfe1.webp",
    "thumb": "thumbs/6ae4a53a41cfe1.webp",
    "addedAt": 1793369402737
+  },
+  {
+   "id": "6ae4a7a79225f0",
+   "name": "Cream Backless Gown",
+   "description": "A backless cream gown features a draped bodice and a flowing, multi-layered sheer skirt. The open back is detailed with a network of beaded straps and an ornate choker necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae4a7a79225f0.webp",
+   "thumb": "thumbs/6ae4a7a79225f0.webp",
+   "addedAt": 1793370023254
+  },
+  {
+   "id": "6ae4a7a7754bdd",
+   "name": "Polka Dot Corset",
+   "description": "A black short-sleeved corset-style top with a white polka-dot pattern features a sweetheart neckline, a front pink ribbon tie, and a ruffled peplum hem. It is paired with white ribbed slouch socks and black boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a7a7754bdd.webp",
+   "thumb": "thumbs/6ae4a7a7754bdd.webp",
+   "addedAt": 1793370023255
+  },
+  {
+   "id": "6ae4a7a7d31b22",
+   "name": "Olive Pleated Dress",
+   "description": "An olive green pleated mini dress features a square neckline with a front tie and wide, flared sleeves. The dress is accented with yellow ribbon trim along the edges, paired with sheer black patterned tights, a black choker, and black platform shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a7a7d31b22.webp",
+   "thumb": "thumbs/6ae4a7a7d31b22.webp",
+   "addedAt": 1793370023256
+  },
+  {
+   "id": "6ae4a7a7e45b08",
+   "name": "Blue Lace Overlay",
+   "description": "A light blue satin midi dress with a delicate floral print features a cream sheer lace overlay with a V-neckline and wide, flowing bell sleeves. The look is cinched at the waist with a cream fabric tie and finished with brown leather ankle boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a7a7e45b08.webp",
+   "thumb": "thumbs/6ae4a7a7e45b08.webp",
+   "addedAt": 1793370023257
+  },
+  {
+   "id": "6ae4a7a778d464",
+   "name": "Blue Teddy Bear Set",
+   "description": "A light blue knit cardigan with a white ruffled collar and teddy bear appliqués is worn over a layered, tiered blue dress with a floral and teddy bear print. The look includes a matching blue crossbody bag, a floral headband, and light blue shoes.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a7a778d464.webp",
+   "thumb": "thumbs/6ae4a7a778d464.webp",
+   "addedAt": 1793370023258
+  },
+  {
+   "id": "6ae4a7a755194b",
+   "name": "Purple Bell Sleeve",
+   "description": "A purple long-sleeved top with a subtle dotted pattern features a deep V-neckline and wide bell sleeves, tied at the waist over a shiny lavender mini skirt. The outfit includes a silver chain belt with a star charm, a choker, and white platform knee-high boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a7a755194b.webp",
+   "thumb": "thumbs/6ae4a7a755194b.webp",
+   "addedAt": 1793370023259
+  },
+  {
+   "id": "6ae4a7a70fb0a2",
+   "name": "Olive Satin Gown",
+   "description": "An olive green satin floor-length coat features a draped shawl collar and voluminous sleeves, trimmed with a gold swirl pattern along the edges. It is worn over a white lace high-neck blouse and a pale pink pleated underskirt.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a7a70fb0a2.webp",
+   "thumb": "thumbs/6ae4a7a70fb0a2.webp",
+   "addedAt": 1793370023260
+  },
+  {
+   "id": "6ae4a7a7263898",
+   "name": "Sequin Mermaid Gown",
+   "description": "A floor-length, form-fitting gown features a sheer, illusion neckline and is heavily embellished with shimmering sequins and crystals. The dress includes a high thigh slit and a dramatic, flared mermaid skirt with layered, scalloped scales, forming a large train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a7a7263898.webp",
+   "thumb": "thumbs/6ae4a7a7263898.webp",
+   "addedAt": 1793370023261
   }
  ],
  "categories": [
