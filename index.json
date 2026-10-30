@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793366354355,
+ "updatedAt": 1793366434060,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10111,6 +10111,16 @@
    "image": "items/6ae4994df67ef0.webp",
    "thumb": "thumbs/6ae4994df67ef0.webp",
    "addedAt": 1793366349276
+  },
+  {
+   "id": "6ae499a1af1be6",
+   "name": "Navy Plaid Preppy",
+   "description": "A navy blue cable-knit long-sleeved sweater is paired with a red, black, and grey plaid pleated mini skirt. Black leather lace-up combat boots and a navy blue canvas backpack complete the preppy look.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae499a1af1be6.webp",
+   "thumb": "thumbs/6ae499a1af1be6.webp",
+   "addedAt": 1793366433026
   }
  ],
  "categories": [
