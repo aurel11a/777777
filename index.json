@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793396505126,
+ "updatedAt": 1793396936543,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12521,6 +12521,46 @@
    "image": "items/6ae50f17519a1c.webp",
    "thumb": "thumbs/6ae50f17519a1c.webp",
    "addedAt": 1793396503832
+  },
+  {
+   "id": "6ae510c7310bd9",
+   "name": "Black Lace Set",
+   "description": "The outfit is a matching black two-piece set featuring a fitted camisole with thin straps and a shorts style with a front drawstring. Both garments are detailed with delicate black lace trim along the neckline, hem, and leg openings.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae510c7310bd9.webp",
+   "thumb": "thumbs/6ae510c7310bd9.webp",
+   "addedAt": 1793396935589
+  },
+  {
+   "id": "6ae510c702f71e",
+   "name": "Black Lace Bodysuit",
+   "description": "The outfit is a black, sheer lace bodysuit featuring thin straps with small bow accents and a structured, corset-style bodice. It is detailed with intricate floral lace patterns, vertical seams, and scalloped edges along the neckline and high-cut leg openings.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae510c702f71e.webp",
+   "thumb": "thumbs/6ae510c702f71e.webp",
+   "addedAt": 1793396935590
+  },
+  {
+   "id": "6ae510c710b499",
+   "name": "Grey Lace Lounge Set",
+   "description": "The outfit is a matching heather grey two-piece set consisting of a fitted camisole with thin straps and high-waisted shorts with a front drawstring. Both pieces are accented with intricate grey lace trim along the neckline, waistband, and leg openings.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae510c710b499.webp",
+   "thumb": "thumbs/6ae510c710b499.webp",
+   "addedAt": 1793396935591
+  },
+  {
+   "id": "6ae510c7254b7c",
+   "name": "Midnight Fur Dress",
+   "description": "The outfit features a black, deep-V draped dress with a high slit, accented by a large black fur stole and a jeweled brooch at the waist. It is accessorized with deep red opera gloves, a black choker, a pendant necklace, and a visible thigh-high stocking with a garter strap.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae510c7254b7c.webp",
+   "thumb": "thumbs/6ae510c7254b7c.webp",
+   "addedAt": 1793396935592
   }
  ],
  "categories": [
