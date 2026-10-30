@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793366577161,
+ "updatedAt": 1793367068989,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10131,6 +10131,106 @@
    "image": "items/6ae49a3094d833.webp",
    "thumb": "thumbs/6ae49a3094d833.webp",
    "addedAt": 1793366576210
+  },
+  {
+   "id": "6ae49c1cc30d0f",
+   "name": "White Lace Jumpsuit",
+   "description": "A white sheer lace jumpsuit features a high neckline, long sleeves, and a form-fitting silhouette with flared legs. The intricate lace design is accented with three-dimensional floral appliqués throughout.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1cc30d0f.webp",
+   "thumb": "thumbs/6ae49c1cc30d0f.webp",
+   "addedAt": 1793367068039
+  },
+  {
+   "id": "6ae49c1c385aec",
+   "name": "White Draped Gown",
+   "description": "A floor-length white gown features a draped, cowl neckline with sheer, flowing fabric that extends over the shoulders and arms. The dress has a fitted silhouette with delicate silver floral embroidery scattered along the fabric.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1c385aec.webp",
+   "thumb": "thumbs/6ae49c1c385aec.webp",
+   "addedAt": 1793367068040
+  },
+  {
+   "id": "6ae49c1c613796",
+   "name": "Black Rose Gown",
+   "description": "A floor-length black gown features a large pink rose print and an off-the-shoulder draped bodice. It is paired with long sheer black lace sleeves and a wide black waistband.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1c613796.webp",
+   "thumb": "thumbs/6ae49c1c613796.webp",
+   "addedAt": 1793367068041
+  },
+  {
+   "id": "6ae49c1caff5ef",
+   "name": "Ivory Floral Gown",
+   "description": "An ivory satin floor-length gown features a sweetheart neckline and is covered in delicate purple floral embroidery. It is paired with a matching satin opera coat adorned with cascading purple floral appliqués along the front edges and sleeves.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49c1caff5ef.webp",
+   "thumb": "thumbs/6ae49c1caff5ef.webp",
+   "addedAt": 1793367068042
+  },
+  {
+   "id": "6ae49c1c38460e",
+   "name": "Burgundy Tudor Gown",
+   "description": "A deep burgundy velvet Tudor-style gown features a square neckline with a gold-embroidered inset, wide bell sleeves, and a full skirt with a gold brocade underskirt. The outfit is accessorized with a pearl necklace and an ornate gold belt.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49c1c38460e.webp",
+   "thumb": "thumbs/6ae49c1c38460e.webp",
+   "addedAt": 1793367068043
+  },
+  {
+   "id": "6ae49c1c445c11",
+   "name": "Green Velvet Gown",
+   "description": "A dark green velvet gown features a square neckline, long sleeves with structured puff detailing, and a gold brocade front panel and underskirt. The floor-length dress includes a small train and is accessorized with a silver pendant necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49c1c445c11.webp",
+   "thumb": "thumbs/6ae49c1c445c11.webp",
+   "addedAt": 1793367068044
+  },
+  {
+   "id": "6ae49c1cfb696f",
+   "name": "Black Belted Blazer",
+   "description": "A black long-sleeved tailored blazer is cinched at the waist with a wide black belt featuring a large gold buckle. It is paired with black wide-leg trousers and black pointed-toe heeled boots, accessorized with a small black chain-strap shoulder bag.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1cfb696f.webp",
+   "thumb": "thumbs/6ae49c1cfb696f.webp",
+   "addedAt": 1793367068045
+  },
+  {
+   "id": "6ae49c1c7c3411",
+   "name": "Grey Beaded Gown",
+   "description": "A grey floor-length gown features a heavily beaded and sequined bodice with thin straps and a sweetheart neckline. The draped, flowing skirt includes a high thigh slit, paired with grey pointed-toe pumps.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1c7c3411.webp",
+   "thumb": "thumbs/6ae49c1c7c3411.webp",
+   "addedAt": 1793367068046
+  },
+  {
+   "id": "6ae49c1c27e02e",
+   "name": "Blue Satin Cape",
+   "description": "A light blue satin cape features a high collar and a short overlay, heavily adorned with gold embroidered trim along the front edges and hem. It is worn open over a bronze gown with a metallic grid pattern and subtle embellishments.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49c1c27e02e.webp",
+   "thumb": "thumbs/6ae49c1c27e02e.webp",
+   "addedAt": 1793367068047
+  },
+  {
+   "id": "6ae49c1cd0c36f",
+   "name": "Black Fishnet Gown",
+   "description": "A floor-length black gown features a sheer fishnet overlay heavily embellished with dark sequins and beading. The design includes long sleeves, a high neckline with a front cutout and pink floral appliqués, and a sheer skirt with a scalloped beaded hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49c1cd0c36f.webp",
+   "thumb": "thumbs/6ae49c1cd0c36f.webp",
+   "addedAt": 1793367068048
   }
  ],
  "categories": [
