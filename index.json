@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793394855757,
+ "updatedAt": 1793395260474,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12391,6 +12391,56 @@
    "image": "items/6ae508a6d11d26.webp",
    "thumb": "thumbs/6ae508a6d11d26.webp",
    "addedAt": 1793394854713
+  },
+  {
+   "id": "6ae50a3bb12a4c",
+   "name": "Brown Tailored Trousers",
+   "description": "Dark brown tailored trousers feature an ornate gold patterned waistband and a front button closure.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6ae50a3bb12a4c.webp",
+   "thumb": "thumbs/6ae50a3bb12a4c.webp",
+   "addedAt": 1793395259446
+  },
+  {
+   "id": "6ae50a3bab823b",
+   "name": "White Holster Shirt",
+   "description": "A white long-sleeved button-up shirt with rolled sleeves is worn open at the collar and tucked into black tailored trousers. The outfit includes a brown leather shoulder holster, a brown belt, black fingerless gloves, and a silver watch.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae50a3bab823b.webp",
+   "thumb": "thumbs/6ae50a3bab823b.webp",
+   "addedAt": 1793395259447
+  },
+  {
+   "id": "6ae50a3bee4877",
+   "name": "Black Tactical Uniform",
+   "description": "A black long-sleeved button-up tactical shirt with chest pockets is paired with matching black cargo trousers. The outfit includes a black belt, a thigh holster on one leg, and a radio attached to the opposite hip.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae50a3bee4877.webp",
+   "thumb": "thumbs/6ae50a3bee4877.webp",
+   "addedAt": 1793395259448
+  },
+  {
+   "id": "6ae50a3b9b28c0",
+   "name": "Black Graphic Tank",
+   "description": "A black sleeveless graphic tank top with a red and white abstract design is layered under a grey leather jacket draped over the shoulders. The look includes distressed grey jeans with ripped knees, a black belt with a silver buckle, black fingerless gloves, and layered silver chain necklaces.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae50a3b9b28c0.webp",
+   "thumb": "thumbs/6ae50a3b9b28c0.webp",
+   "addedAt": 1793395259449
+  },
+  {
+   "id": "6ae50a3bb776bd",
+   "name": "Sheer White Set",
+   "description": "A sheer white long-sleeved button-up shirt features a subtle abstract pattern and is worn open over a bare chest. It is paired with matching white drawstring shorts with a textured geometric pattern, accessorized with a gold pendant necklace and a beaded bracelet.",
+   "type": "beach",
+   "gender": "male",
+   "image": "items/6ae50a3bb776bd.webp",
+   "thumb": "thumbs/6ae50a3bb776bd.webp",
+   "addedAt": 1793395259450
   }
  ],
  "categories": [
