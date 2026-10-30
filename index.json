@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793377969253,
+ "updatedAt": 1793378362462,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11191,6 +11191,36 @@
    "image": "items/6ae4c6afbd5d78.webp",
    "thumb": "thumbs/6ae4c6afbd5d78.webp",
    "addedAt": 1793377967709
+  },
+  {
+   "id": "6ae4c8391cfb53",
+   "name": "Orange Sarong Set",
+   "description": "A bright orange two-piece set features a bikini-style top with thin straps, gold bead accents, and a crisscross underbust detail. It is paired with a matching high-waisted sarong-style mini skirt tied at the front, accessorized with a beaded waist chain.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4c8391cfb53.webp",
+   "thumb": "thumbs/6ae4c8391cfb53.webp",
+   "addedAt": 1793378361510
+  },
+  {
+   "id": "6ae4c8399b2687",
+   "name": "Gold Egyptian Costume",
+   "description": "A gold Egyptian-style costume features a wide collar necklace and a sheer, pleated halter bodice with cutouts and long, detached draped sleeves. The look is cinched with an ornate gold belt and completed with a matching fringed mini skirt.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4c8399b2687.webp",
+   "thumb": "thumbs/6ae4c8399b2687.webp",
+   "addedAt": 1793378361511
+  },
+  {
+   "id": "6ae4c8396010de",
+   "name": "Turquoise Sarong Set",
+   "description": "A bright turquoise two-piece set features a one-shoulder bandeau top with gathered fabric and gold trim. It is paired with a matching high-slit maxi skirt tied at the hip, accessorized with a gold wrist cuff and draped fabric.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4c8396010de.webp",
+   "thumb": "thumbs/6ae4c8396010de.webp",
+   "addedAt": 1793378361512
   }
  ],
  "categories": [
