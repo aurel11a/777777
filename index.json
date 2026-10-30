@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793387374505,
+ "updatedAt": 1793387653818,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11841,6 +11841,26 @@
    "image": "items/6ae4eb6d6b8c80.webp",
    "thumb": "thumbs/6ae4eb6d6b8c80.webp",
    "addedAt": 1793387373541
+  },
+  {
+   "id": "6ae4ec84d16cfc",
+   "name": "Green Bikini Set",
+   "description": "A dark green two-piece swimsuit features a triangle-style top with thin straps and a V-neckline. It is paired with matching high-waisted bottoms with side cutouts and sheer mesh panels.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4ec84d16cfc.webp",
+   "thumb": "thumbs/6ae4ec84d16cfc.webp",
+   "addedAt": 1793387652830
+  },
+  {
+   "id": "6ae4ec84334fee",
+   "name": "Cream Ribbed Swimsuit",
+   "description": "A cream ribbed two-piece swimsuit features a scoop-neck top with thick straps and a gold ring cutout detail at the center chest. It is paired with matching high-cut bikini bottoms.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4ec84334fee.webp",
+   "thumb": "thumbs/6ae4ec84334fee.webp",
+   "addedAt": 1793387652831
   }
  ],
  "categories": [
