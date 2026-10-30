@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793398714392,
+ "updatedAt": 1793398876520,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12691,6 +12691,16 @@
    "image": "items/6ae517b98dc2ed.webp",
    "thumb": "thumbs/6ae517b98dc2ed.webp",
    "addedAt": 1793398713493
+  },
+  {
+   "id": "6ae5185b456013",
+   "name": "Kazegari Graphic Hoodie",
+   "description": "The outfit consists of a black graphic tank top with lace trim along the neckline, layered under an open black zip-up hoodie. It is paired with black shorts featuring a contrasting beige drawstring and side zippers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae5185b456013.webp",
+   "thumb": "thumbs/6ae5185b456013.webp",
+   "addedAt": 1793398875497
   }
  ],
  "categories": [
