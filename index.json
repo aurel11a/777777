@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793372799013,
+ "updatedAt": 1793373020437,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10941,6 +10941,16 @@
    "image": "items/6ae4b27e4d891b.webp",
    "thumb": "thumbs/6ae4b27e4d891b.webp",
    "addedAt": 1793372798010
+  },
+  {
+   "id": "6ae4b35b8ac85a",
+   "name": "Blue Angel Set",
+   "description": "A light blue fitted tank top with thin spaghetti straps and a scoop neckline is paired with matching light blue boyshorts featuring the word \"Angel\" printed across the front in black script.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4b35b8ac85a.webp",
+   "thumb": "thumbs/6ae4b35b8ac85a.webp",
+   "addedAt": 1793373019430
   }
  ],
  "categories": [
