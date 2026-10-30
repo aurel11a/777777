@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793396936543,
+ "updatedAt": 1793397516243,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12561,6 +12561,86 @@
    "image": "items/6ae510c7254b7c.webp",
    "thumb": "thumbs/6ae510c7254b7c.webp",
    "addedAt": 1793396935592
+  },
+  {
+   "id": "6ae5130a12495b",
+   "name": "Burgundy Satin Suit",
+   "description": "The outfit consists of a deep burgundy satin button-down shirt with a plunging neckline, tucked into tailored black trousers secured by a wide black belt with a silver buckle. It is layered with a black tailored blazer featuring a silver lapel pin, and accessorized with a thin black choker necklace.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae5130a12495b.webp",
+   "thumb": "thumbs/6ae5130a12495b.webp",
+   "addedAt": 1793397514756
+  },
+  {
+   "id": "6ae5130a4b54f3",
+   "name": "Leather Harness Outfit",
+   "description": "The outfit features a fitted black long-sleeved turtleneck sweater worn under a brown leather harness with silver buckles. It is paired with black leather trousers secured by a black belt.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae5130a4b54f3.webp",
+   "thumb": "thumbs/6ae5130a4b54f3.webp",
+   "addedAt": 1793397514757
+  },
+  {
+   "id": "6ae5130a8fc6b9",
+   "name": "Black Boxer Briefs",
+   "description": "The outfit consists solely of tight-fitting black boxer briefs. The only accessory visible is a thin, spiked black choker necklace.",
+   "type": "underwear",
+   "gender": "male",
+   "image": "items/6ae5130a8fc6b9.webp",
+   "thumb": "thumbs/6ae5130a8fc6b9.webp",
+   "addedAt": 1793397514758
+  },
+  {
+   "id": "6ae5130aba2e89",
+   "name": "Asymmetrical Black Shirt",
+   "description": "The outfit features a black, long-sleeved shirt with an asymmetrical wrap front and a high collar, paired with tailored black trousers and a slim black belt. It is accessorized with a silver cross pendant necklace and a silver wristwatch.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae5130aba2e89.webp",
+   "thumb": "thumbs/6ae5130aba2e89.webp",
+   "addedAt": 1793397514759
+  },
+  {
+   "id": "6ae5130ac3bb34",
+   "name": "Burgundy Satin Shirt",
+   "description": "The outfit features a deep burgundy satin button-down shirt with a plunging neckline and long sleeves, tucked into tailored black trousers. It is accessorized with a wide black belt featuring a silver buckle and a thin black choker necklace.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae5130ac3bb34.webp",
+   "thumb": "thumbs/6ae5130ac3bb34.webp",
+   "addedAt": 1793397514760
+  },
+  {
+   "id": "6ae5130a139f01",
+   "name": "Gilded Clerical Robe",
+   "description": "The outfit is a voluminous white robe featuring wide sleeves and a high collar, heavily adorned with ornate gold embroidery and a prominent cross motif down the center panel.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae5130a139f01.webp",
+   "thumb": "thumbs/6ae5130a139f01.webp",
+   "addedAt": 1793397514761
+  },
+  {
+   "id": "6ae5130a86d0e6",
+   "name": "Crimson Layered Suit",
+   "description": "The outfit consists of a deep crimson double-breasted suit jacket and matching trousers, layered over a black turtleneck and topped with a long black overcoat. It is accessorized with a black belt featuring a silver buckle and a small silver lapel pin.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae5130a86d0e6.webp",
+   "thumb": "thumbs/6ae5130a86d0e6.webp",
+   "addedAt": 1793397514762
+  },
+  {
+   "id": "6ae5130abdd0e3",
+   "name": "Cleric Chaos Briefs",
+   "description": "The outfit consists of black boxer briefs featuring a wide elastic waistband with white text reading \"CLERIC CHAOS.\"",
+   "type": "underwear",
+   "gender": "male",
+   "image": "items/6ae5130abdd0e3.webp",
+   "thumb": "thumbs/6ae5130abdd0e3.webp",
+   "addedAt": 1793397514763
   }
  ],
  "categories": [
