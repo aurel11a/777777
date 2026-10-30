@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793368458658,
+ "updatedAt": 1793368544262,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10491,6 +10491,26 @@
    "image": "items/6ae4a1898716ae.webp",
    "thumb": "thumbs/6ae4a1898716ae.webp",
    "addedAt": 1793368457664
+  },
+  {
+   "id": "6ae4a1df11b2af",
+   "name": "Cream Ruffle Dress",
+   "description": "A cream short-sleeved dress features a high neckline with a ruffled collar and a button-down bodice, paired with a tiered midi skirt with ruffled hems. White patterned tights and black Mary Jane heels complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae4a1df11b2af.webp",
+   "thumb": "thumbs/6ae4a1df11b2af.webp",
+   "addedAt": 1793368543294
+  },
+  {
+   "id": "6ae4a1dfec82d1",
+   "name": "Cream Fantasy Gown",
+   "description": "A cream satin floor-length gown features an off-the-shoulder neckline with gold lace-up detailing on the bodice and long sleeves with gold cuffs. The look includes draped mint green sheer panels at the shoulders and a matching green underskirt visible at the hem.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae4a1dfec82d1.webp",
+   "thumb": "thumbs/6ae4a1dfec82d1.webp",
+   "addedAt": 1793368543295
   }
  ],
  "categories": [
