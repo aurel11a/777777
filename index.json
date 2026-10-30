@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793368384395,
+ "updatedAt": 1793368458658,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10471,6 +10471,26 @@
    "image": "items/6ae4a13ff87051.webp",
    "thumb": "thumbs/6ae4a13ff87051.webp",
    "addedAt": 1793368383241
+  },
+  {
+   "id": "6ae4a18980ec7a",
+   "name": "Argyle Corduroy Preppy",
+   "description": "A navy blue argyle sweater vest is layered over a white long-sleeved button-up shirt with rolled cuffs. It is tucked into brown wide-leg corduroy trousers secured by a brown leather belt with a silver buckle, paired with brown leather lace-up shoes.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae4a18980ec7a.webp",
+   "thumb": "thumbs/6ae4a18980ec7a.webp",
+   "addedAt": 1793368457663
+  },
+  {
+   "id": "6ae4a1898716ae",
+   "name": "Brown Beige Trousers",
+   "description": "A dark brown sleeveless ribbed high-neck top is tucked into beige wide-leg pleated trousers secured by a brown leather belt. Brown pointed-toe heels and a brown leather shoulder bag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a1898716ae.webp",
+   "thumb": "thumbs/6ae4a1898716ae.webp",
+   "addedAt": 1793368457664
   }
  ],
  "categories": [
