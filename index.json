@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373667962,
+ "updatedAt": 1793373770137,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11051,6 +11051,16 @@
    "image": "items/6ae4b5e2ba7fea.webp",
    "thumb": "thumbs/6ae4b5e2ba7fea.webp",
    "addedAt": 1793373666647
+  },
+  {
+   "id": "6ae4b6495322d4",
+   "name": "White Tank Set",
+   "description": "A white fitted ribbed tank top with thin spaghetti straps is paired with matching white bikini-style bottoms.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4b6495322d4.webp",
+   "thumb": "thumbs/6ae4b6495322d4.webp",
+   "addedAt": 1793373769248
   }
  ],
  "categories": [
