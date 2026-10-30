@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793367068989,
+ "updatedAt": 1793367453085,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10231,6 +10231,106 @@
    "image": "items/6ae49c1cd0c36f.webp",
    "thumb": "thumbs/6ae49c1cd0c36f.webp",
    "addedAt": 1793367068048
+  },
+  {
+   "id": "6ae49d9bd167fd",
+   "name": "Ivory Satin Gown",
+   "description": "An ivory satin floor-length gown features a draped off-the-shoulder neckline with thin straps and a fitted silhouette that flares into a slight train. A delicate pearl and crystal choker necklace completes the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae49d9bd167fd.webp",
+   "thumb": "thumbs/6ae49d9bd167fd.webp",
+   "addedAt": 1793367451907
+  },
+  {
+   "id": "6ae49d9b36a087",
+   "name": "Cream Floral Gown",
+   "description": "A cream floor-length gown features an all-over repeating pattern of pink floral sprays and green foliage. It has a V-neckline, long sleeves, and a full skirt, accented with a matching fringed capelet draped over the shoulders and bust.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9b36a087.webp",
+   "thumb": "thumbs/6ae49d9b36a087.webp",
+   "addedAt": 1793367451908
+  },
+  {
+   "id": "6ae49d9bef75e4",
+   "name": "Black Velvet Gold Gown",
+   "description": "A black velvet floor-length gown features a V-neckline and is heavily embroidered with gold detailing on the bodice and along the wide hem. It is accessorized with black fur shoulder accents, long black gloves, and a gold necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49d9bef75e4.webp",
+   "thumb": "thumbs/6ae49d9bef75e4.webp",
+   "addedAt": 1793367451909
+  },
+  {
+   "id": "6ae49d9b175c3e",
+   "name": "Olive Draped Gown",
+   "description": "An olive green textured gown features a draped bodice with a sheer orange-tinted overlay and thin straps. The floor-length skirt flares at the hem with a slight train, accented by green floral appliqués at the shoulders.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9b175c3e.webp",
+   "thumb": "thumbs/6ae49d9b175c3e.webp",
+   "addedAt": 1793367451910
+  },
+  {
+   "id": "6ae49d9bb0f3aa",
+   "name": "Rust Brocade Gown",
+   "description": "A rust-orange brocade gown features a square neckline, long sleeves, and a heavily patterned bodice with a jeweled waist detail. The look includes a thick brown fur mantle, ruffled cream and gold sleeve accents, and a patterned cream underskirt.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9bb0f3aa.webp",
+   "thumb": "thumbs/6ae49d9bb0f3aa.webp",
+   "addedAt": 1793367451911
+  },
+  {
+   "id": "6ae49d9b87c7ed",
+   "name": "Navy Velvet Gown",
+   "description": "A navy blue velvet floor-length gown features a square neckline and a gold patterned brocade front panel with gold braided trim along the edges. The dress includes draped short sleeves and is accessorized with a silver pendant necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9b87c7ed.webp",
+   "thumb": "thumbs/6ae49d9b87c7ed.webp",
+   "addedAt": 1793367451912
+  },
+  {
+   "id": "6ae49d9bbcb0c9",
+   "name": "Cream Floral Gown",
+   "description": "A cream floor-length gown features a small, repeating floral print and a draped, crossover bodice with long sleeves ending in lace cuffs. The full skirt has a ruffled hem and is accessorized with a folded decorative fan.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9bbcb0c9.webp",
+   "thumb": "thumbs/6ae49d9bbcb0c9.webp",
+   "addedAt": 1793367451913
+  },
+  {
+   "id": "6ae49d9b6567f3",
+   "name": "Cream Black Lace",
+   "description": "A floor-length cream gown features intricate black lace overlay detailing across the bodice, sleeves, and lower skirt. The dress has a V-neckline, a wide black velvet waistband, and short lace sleeves.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae49d9b6567f3.webp",
+   "thumb": "thumbs/6ae49d9b6567f3.webp",
+   "addedAt": 1793367451914
+  },
+  {
+   "id": "6ae49d9b721878",
+   "name": "Green Velvet Coat",
+   "description": "A dark green velvet floor-length coat features a deep V-neckline and long, flowing bell sleeves. It is heavily embellished with ornate gold embroidery along the front edges, collar, and cuffs, revealing a contrasting yellow lining at the hem.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9b721878.webp",
+   "thumb": "thumbs/6ae49d9b721878.webp",
+   "addedAt": 1793367451915
+  },
+  {
+   "id": "6ae49d9bea6524",
+   "name": "Cream Pearl Gown",
+   "description": "A cream floor-length gown features a square neckline and long, dramatic bell sleeves with scalloped edges. The bodice and center front panel are heavily embellished with gold embroidery and pearl detailing, creating an ornate, historical look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae49d9bea6524.webp",
+   "thumb": "thumbs/6ae49d9bea6524.webp",
+   "addedAt": 1793367451916
   }
  ],
  "categories": [
