@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793398876520,
+ "updatedAt": 1793399084918,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12701,6 +12701,16 @@
    "image": "items/6ae5185b456013.webp",
    "thumb": "thumbs/6ae5185b456013.webp",
    "addedAt": 1793398875497
+  },
+  {
+   "id": "6ae5192bcb9cce",
+   "name": "Grey Lab Coat",
+   "description": "The outfit features a light grey, knee-length lab coat worn over a grey dress shirt, a navy patterned tie, and black tailored trousers secured by a black belt. It is accessorized with pens in the chest pocket and a dark folder held in hand.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae5192bcb9cce.webp",
+   "thumb": "thumbs/6ae5192bcb9cce.webp",
+   "addedAt": 1793399083784
   }
  ],
  "categories": [
