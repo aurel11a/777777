@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793386367731,
+ "updatedAt": 1793386901778,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11761,6 +11761,66 @@
    "image": "items/6ae4e77e1c5cf7.webp",
    "thumb": "thumbs/6ae4e77e1c5cf7.webp",
    "addedAt": 1793386366716
+  },
+  {
+   "id": "6ae4e9949c8c31",
+   "name": "Roman Centurion Armor",
+   "description": "A Roman-style military costume features a dark metal chest piece with gold scrollwork, layered over a dark red tunic. The outfit includes a red and gold shoulder pauldron, a grey fur shoulder drape, a red cape, gold-trimmed leather bracers, and a decorative belt with a sheathed sword.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e9949c8c31.webp",
+   "thumb": "thumbs/6ae4e9949c8c31.webp",
+   "addedAt": 1793386900581
+  },
+  {
+   "id": "6ae4e994e16d87",
+   "name": "Blue Warrior Tunic",
+   "description": "A blue long-sleeved tunic features a deep V-neckline and draped fabric. It is layered with brown leather harness straps, arm bracers, and a wide belt with a large circular gold medallion, worn over a brown leather pleated skirt.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e994e16d87.webp",
+   "thumb": "thumbs/6ae4e994e16d87.webp",
+   "addedAt": 1793386900582
+  },
+  {
+   "id": "6ae4e9945adc21",
+   "name": "Black Draped Skirt",
+   "description": "A black draped skirt features an asymmetrical design with a braided rope belt tied at the waist.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e9945adc21.webp",
+   "thumb": "thumbs/6ae4e9945adc21.webp",
+   "addedAt": 1793386900583
+  },
+  {
+   "id": "6ae4e994610bdd",
+   "name": "Warrior Tunic Outfit",
+   "description": "A dark grey sleeveless tunic features a draped animal-print overlay with an ornate collar. The outfit is layered over a dark red undershirt and includes leather arm bracers, a wide belt, and a pleated skirt.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e994610bdd.webp",
+   "thumb": "thumbs/6ae4e994610bdd.webp",
+   "addedAt": 1793386900584
+  },
+  {
+   "id": "6ae4e994a2dbb8",
+   "name": "Purple Warrior Tunic",
+   "description": "A dark purple sleeveless tunic features a wrapped, asymmetrical design. The outfit is paired with a metallic bronze shoulder pauldron, a leather chest strap, a wide detailed belt, and a layered dark blue and maroon skirt with a metallic front panel.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e994a2dbb8.webp",
+   "thumb": "thumbs/6ae4e994a2dbb8.webp",
+   "addedAt": 1793386900585
+  },
+  {
+   "id": "6ae4e9941a7cbd",
+   "name": "Leather Gladiator Armor",
+   "description": "A dark brown leather gladiator-style armor set features a studded chest piece, layered shoulder guards, and segmented arm bracers. It is worn over a dark red tunic and includes a wide belt and a matching pleated leather skirt with circular metal accents.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4e9941a7cbd.webp",
+   "thumb": "thumbs/6ae4e9941a7cbd.webp",
+   "addedAt": 1793386900586
   }
  ],
  "categories": [
