@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793367453085,
+ "updatedAt": 1793367579643,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10331,6 +10331,26 @@
    "image": "items/6ae49d9bea6524.webp",
    "thumb": "thumbs/6ae49d9bea6524.webp",
    "addedAt": 1793367451916
+  },
+  {
+   "id": "6ae49e1a1de06e",
+   "name": "Green Striped Knit",
+   "description": "A light green short-sleeved cropped t-shirt features pink text across the chest. It is paired with multicolored horizontal striped knit shorts, accessorized with chunky purple and pink bracelets.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae49e1a1de06e.webp",
+   "thumb": "thumbs/6ae49e1a1de06e.webp",
+   "addedAt": 1793367578445
+  },
+  {
+   "id": "6ae49e1a8f056b",
+   "name": "Leopard Mini Dress",
+   "description": "A form-fitting long-sleeved mini dress features a brown and black leopard print with an asymmetrical one-shoulder neckline and a ruched waist detail.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae49e1a8f056b.webp",
+   "thumb": "thumbs/6ae49e1a8f056b.webp",
+   "addedAt": 1793367578446
   }
  ],
  "categories": [
