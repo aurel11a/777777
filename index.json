@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793398176994,
+ "updatedAt": 1793398714392,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12681,6 +12681,16 @@
    "image": "items/6ae5159ff6506f.webp",
    "thumb": "thumbs/6ae5159ff6506f.webp",
    "addedAt": 1793398175659
+  },
+  {
+   "id": "6ae517b98dc2ed",
+   "name": "Crimson Open Shirt",
+   "description": "The outfit features a deep red button-down shirt with a plunging neckline, paired with tailored black trousers and a silver-buckled black belt. It is layered with a black tailored coat featuring a gold lapel pin and chain, and accessorized with black leather gloves.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae517b98dc2ed.webp",
+   "thumb": "thumbs/6ae517b98dc2ed.webp",
+   "addedAt": 1793398713493
   }
  ],
  "categories": [
