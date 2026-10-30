@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373621836,
+ "updatedAt": 1793373667962,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11041,6 +11041,16 @@
    "image": "items/6ae4b5b4a9581c.webp",
    "thumb": "thumbs/6ae4b5b4a9581c.webp",
    "addedAt": 1793373620881
+  },
+  {
+   "id": "6ae4b5e2ba7fea",
+   "name": "Navy Satin Pajamas",
+   "description": "A dark navy blue satin two-piece pajama set features a sleeveless V-neck camisole with thin spaghetti straps and matching loose-fitting shorts.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4b5e2ba7fea.webp",
+   "thumb": "thumbs/6ae4b5e2ba7fea.webp",
+   "addedAt": 1793373666647
   }
  ],
  "categories": [
