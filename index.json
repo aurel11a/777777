@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793392002126,
+ "updatedAt": 1793392303979,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12111,6 +12111,16 @@
    "image": "items/6ae4fd815333d5.webp",
    "thumb": "thumbs/6ae4fd815333d5.webp",
    "addedAt": 1793392001235
+  },
+  {
+   "id": "6ae4feaf82a7dc",
+   "name": "White Towel Wrap",
+   "description": "A white textured terry cloth towel is wrapped around the body, secured at the chest with a twisted front detail to form a strapless, knee-length silhouette. It features a decorative gold embroidered border along the bottom edge.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4feaf82a7dc.webp",
+   "thumb": "thumbs/6ae4feaf82a7dc.webp",
+   "addedAt": 1793392303082
   }
  ],
  "categories": [
