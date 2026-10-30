@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793395804860,
+ "updatedAt": 1793396505126,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12491,6 +12491,36 @@
    "image": "items/6ae50c5b0899d2.webp",
    "thumb": "thumbs/6ae50c5b0899d2.webp",
    "addedAt": 1793395803612
+  },
+  {
+   "id": "6ae50f1736d80b",
+   "name": "Winged Gold Corset",
+   "description": "The outfit consists of a gold metallic corset with winged cups and intricate floral filigree, paired with a draped white skirt featuring a high slit and gold chain detailing. It is accessorized with matching gold winged arm cuffs, a laurel headpiece, and a delicate chain belt.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50f1736d80b.webp",
+   "thumb": "thumbs/6ae50f1736d80b.webp",
+   "addedAt": 1793396503830
+  },
+  {
+   "id": "6ae50f176ff46e",
+   "name": "Gilded Blossom Gown",
+   "description": "The outfit features a form-fitting white gown with a high slit, adorned with intricate gold embroidery and voluminous sheer sleeves decorated with large white floral appliqués. It is accessorized with a delicate, multi-layered gold and blue jewel choker and hanging pearl accents at the wrists.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50f176ff46e.webp",
+   "thumb": "thumbs/6ae50f176ff46e.webp",
+   "addedAt": 1793396503831
+  },
+  {
+   "id": "6ae50f17519a1c",
+   "name": "Siren's Teal Gown",
+   "description": "This iridescent teal gown features a plunging neckline with feather-like shoulder accents and a fitted bodice covered in shimmering scale-like sequins. It is complemented by dramatic, voluminous side ruffles in a sheer, glittering fabric and a delicate, vine-like jeweled arm cuff.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50f17519a1c.webp",
+   "thumb": "thumbs/6ae50f17519a1c.webp",
+   "addedAt": 1793396503832
   }
  ],
  "categories": [
