@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793370546250,
+ "updatedAt": 1793370804712,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10811,6 +10811,46 @@
    "image": "items/6ae4a9b13aeb9f.webp",
    "thumb": "thumbs/6ae4a9b13aeb9f.webp",
    "addedAt": 1793370545161
+  },
+  {
+   "id": "6ae4aab3134211",
+   "name": "Harlequin Mini Dress",
+   "description": "A short-sleeved mini dress features a large pink and black harlequin diamond pattern, accented by a contrasting white pointed collar and gold button detailing down the front. Pink ankle socks, white sneakers, and a brown leather chain-strap handbag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4aab3134211.webp",
+   "thumb": "thumbs/6ae4aab3134211.webp",
+   "addedAt": 1793370803505
+  },
+  {
+   "id": "6ae4aab350397d",
+   "name": "Camo Baggy Pants",
+   "description": "A black long-sleeved cropped top with cutout details at the elbows is paired with baggy green camouflage cargo pants. A black studded belt and visible white logo waistband complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4aab350397d.webp",
+   "thumb": "thumbs/6ae4aab350397d.webp",
+   "addedAt": 1793370803506
+  },
+  {
+   "id": "6ae4aab3e54389",
+   "name": "Blue Orange Floral",
+   "description": "A light blue long-sleeved sheer top features an orange floral outline graphic and side tie details. It is paired with an orange polka-dot midi skirt, accessorized with a white flower clip at the waist, a beaded necklace, and a woven straw tote bag with colorful charms.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4aab3e54389.webp",
+   "thumb": "thumbs/6ae4aab3e54389.webp",
+   "addedAt": 1793370803507
+  },
+  {
+   "id": "6ae4aab324a043",
+   "name": "Teal Ruffle Tunic",
+   "description": "A teal long-sleeved high-neck top is layered under a sheer green ruffled tunic dress with thin straps. It is paired with dark blue wide-leg jeans featuring a beaded tassel trim at the hem, accessorized with a star pendant necklace and a woven tote bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4aab324a043.webp",
+   "thumb": "thumbs/6ae4aab324a043.webp",
+   "addedAt": 1793370803508
   }
  ],
  "categories": [
