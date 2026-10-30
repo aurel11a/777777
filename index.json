@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793367579643,
+ "updatedAt": 1793368200957,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10351,6 +10351,106 @@
    "image": "items/6ae49e1a8f056b.webp",
    "thumb": "thumbs/6ae49e1a8f056b.webp",
    "addedAt": 1793367578446
+  },
+  {
+   "id": "6ae4a0875b4311",
+   "name": "Red Fuzzy Plaid",
+   "description": "A bright red fuzzy long-sleeved sweater with voluminous sleeves is paired with a red, white, and black plaid midi skirt. Sheer black tights and black pointed-toe heels complete the look, accessorized with a floral patterned tote bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a0875b4311.webp",
+   "thumb": "thumbs/6ae4a0875b4311.webp",
+   "addedAt": 1793368199342
+  },
+  {
+   "id": "6ae4a087bb58b8",
+   "name": "Blue Fuzzy Sweater",
+   "description": "A light blue fuzzy long-sleeved crewneck sweater is tucked into deep burgundy wide-leg trousers secured by a black belt with a silver buckle. A small black quilted chain-strap handbag and black pointed-toe ankle boots complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a087bb58b8.webp",
+   "thumb": "thumbs/6ae4a087bb58b8.webp",
+   "addedAt": 1793368199343
+  },
+  {
+   "id": "6ae4a0879af860",
+   "name": "Pink Ruffled Corset",
+   "description": "A pink corset-style top features front lacing and a sweetheart neckline with off-the-shoulder ties. It is paired with a high-low skirt featuring layered, ruffled tiers of pink and white striped fabric, worn with light pink over-the-knee socks and beige lace-up heeled boots.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a0879af860.webp",
+   "thumb": "thumbs/6ae4a0879af860.webp",
+   "addedAt": 1793368199344
+  },
+  {
+   "id": "6ae4a087dcc8cb",
+   "name": "Pink Roller Skate",
+   "description": "A light pink short-sleeved t-shirt features a colorful retro graphic with the word \"mellow.\" It is paired with black shorts, white crew socks with black stripes, and light pink roller skates with yellow wheels.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae4a087dcc8cb.webp",
+   "thumb": "thumbs/6ae4a087dcc8cb.webp",
+   "addedAt": 1793368199345
+  },
+  {
+   "id": "6ae4a087387e29",
+   "name": "Colorblock Windbreaker",
+   "description": "A color-blocked windbreaker jacket in purple, yellow, and teal is worn open over a white cropped tank top. It is paired with light wash high-waisted wide-leg jeans, purple scrunched socks, and white, yellow, and purple chunky sneakers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a087387e29.webp",
+   "thumb": "thumbs/6ae4a087387e29.webp",
+   "addedAt": 1793368199346
+  },
+  {
+   "id": "6ae4a0872a0b16",
+   "name": "Green Sweater Scarf",
+   "description": "A light green fuzzy long-sleeved sweater is paired with dark blue wide-leg jeans. The look is accessorized with a long red, orange, and pink striped knit scarf, a pendant necklace, a brown shoulder bag, and tan suede boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a0872a0b16.webp",
+   "thumb": "thumbs/6ae4a0872a0b16.webp",
+   "addedAt": 1793368199347
+  },
+  {
+   "id": "6ae4a087d524a0",
+   "name": "Black Puff Dress",
+   "description": "A black short-sleeved mini dress features voluminous puff sleeves, a gathered bodice, and a contrasting white ruffled trim at the hem. It is cinched with a thin black belt tied at the waist and accessorized with a silver flower pendant necklace, matching stud earrings, a ring, a black sheer ribbon hair bow, a black curved shoulder bag, and black pointed-toe slingback heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a087d524a0.webp",
+   "thumb": "thumbs/6ae4a087d524a0.webp",
+   "addedAt": 1793368199348
+  },
+  {
+   "id": "6ae4a0875395ae",
+   "name": "Denim Fur Coat",
+   "description": "A long denim coat features vertical seam detailing and a large brown faux fur collar and matching cuffs. It is worn open over olive green wide-leg cargo pants, accessorized with a black choker and layered silver necklaces, and paired with black chunky shoes.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae4a0875395ae.webp",
+   "thumb": "thumbs/6ae4a0875395ae.webp",
+   "addedAt": 1793368199349
+  },
+  {
+   "id": "6ae4a0878dccda",
+   "name": "Navy Cardigan Plaid",
+   "description": "A navy blue long-sleeved button-up cardigan is layered over a white collared shirt and a grey patterned necktie, cinched at the waist with a black belt featuring a gold buckle. It is paired with green and navy plaid wide-leg trousers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae4a0878dccda.webp",
+   "thumb": "thumbs/6ae4a0878dccda.webp",
+   "addedAt": 1793368199350
+  },
+  {
+   "id": "6ae4a087deedff",
+   "name": "Burgundy Argyle Polo",
+   "description": "A burgundy long-sleeved polo sweater features a navy and white argyle pattern and a buttoned placket. It is paired with a dark denim mini skirt, opaque burgundy tights, and black chunky loafers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a087deedff.webp",
+   "thumb": "thumbs/6ae4a087deedff.webp",
+   "addedAt": 1793368199351
   }
  ],
  "categories": [
