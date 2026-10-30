@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793370804712,
+ "updatedAt": 1793371458475,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10851,6 +10851,16 @@
    "image": "items/6ae4aab324a043.webp",
    "thumb": "thumbs/6ae4aab324a043.webp",
    "addedAt": 1793370803508
+  },
+  {
+   "id": "6ae4ad41cb901f",
+   "name": "Brown Floral Gown",
+   "description": "A brown floor-length gown features a wide, draped V-neckline with floral patterned trim and voluminous puffed sleeves. The full skirt is accented with matching horizontal bands of dense floral embroidery.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4ad41cb901f.webp",
+   "thumb": "thumbs/6ae4ad41cb901f.webp",
+   "addedAt": 1793371457359
   }
  ],
  "categories": [
