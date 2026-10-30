@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793394511001,
+ "updatedAt": 1793394855757,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12341,6 +12341,56 @@
    "image": "items/6ae5074d5ddf34.webp",
    "thumb": "thumbs/6ae5074d5ddf34.webp",
    "addedAt": 1793394509961
+  },
+  {
+   "id": "6ae508a6978aab",
+   "name": "Black Lace Body Chain",
+   "description": "A black sheer lace lingerie set features a bralette with scalloped edges and a matching lace thong. It is accented by a delicate gold body chain draped across the torso and thighs.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae508a6978aab.webp",
+   "thumb": "thumbs/6ae508a6978aab.webp",
+   "addedAt": 1793394854709
+  },
+  {
+   "id": "6ae508a6b6dcb1",
+   "name": "Burgundy Chain Set",
+   "description": "A burgundy sheer lace bralette features strappy halter detailing and scalloped edges. It is paired with matching lace bottoms and a draped silver chain skirt with a central jewel accent.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae508a6b6dcb1.webp",
+   "thumb": "thumbs/6ae508a6b6dcb1.webp",
+   "addedAt": 1793394854710
+  },
+  {
+   "id": "6ae508a646a348",
+   "name": "Bronze Sequin Sarong",
+   "description": "A bronze sequined halter-style bra top features draped gold chain detailing across the chest and underbust. It is paired with a sheer white sarong skirt tied at the waist, accessorized with gold bracelets and rings.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae508a646a348.webp",
+   "thumb": "thumbs/6ae508a646a348.webp",
+   "addedAt": 1793394854711
+  },
+  {
+   "id": "6ae508a67ba417",
+   "name": "Burgundy Lace Set",
+   "description": "A deep burgundy sheer lace lingerie set features a bralette with scalloped edges and a matching lace thong. It is accented by a delicate gold body chain draped across the torso and thighs.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae508a67ba417.webp",
+   "thumb": "thumbs/6ae508a67ba417.webp",
+   "addedAt": 1793394854712
+  },
+  {
+   "id": "6ae508a6d11d26",
+   "name": "Black Chain Set",
+   "description": "A black sheer lace bralette features strappy halter detailing and scalloped edges. It is paired with a low-rise, draped chain skirt made of layered silver beads.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae508a6d11d26.webp",
+   "thumb": "thumbs/6ae508a6d11d26.webp",
+   "addedAt": 1793394854713
   }
  ],
  "categories": [
