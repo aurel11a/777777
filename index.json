@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793392786021,
+ "updatedAt": 1793392926183,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12141,6 +12141,36 @@
    "image": "items/6ae50090949079.webp",
    "thumb": "thumbs/6ae50090949079.webp",
    "addedAt": 1793392784895
+  },
+  {
+   "id": "6ae5011d1b1e9f",
+   "name": "Silver Fairy Costume",
+   "description": "A silver embellished corset bodice with a center cutout is paired with voluminous sheer ruffled shoulder sleeves. The look includes a high-slit skirt made of layered white feathers and large sheer fairy wings, accessorized with a floral headpiece.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae5011d1b1e9f.webp",
+   "thumb": "thumbs/6ae5011d1b1e9f.webp",
+   "addedAt": 1793392925266
+  },
+  {
+   "id": "6ae5011d20296d",
+   "name": "Black Sheer Drape",
+   "description": "A black sheer fabric outfit features draped, asymmetrical pieces covering the bodice and forming a high-slit skirt. It includes a matching thigh band with a leaf-like fabric detail.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae5011d20296d.webp",
+   "thumb": "thumbs/6ae5011d20296d.webp",
+   "addedAt": 1793392925267
+  },
+  {
+   "id": "6ae5011dd27064",
+   "name": "Green Ribbon Wrap",
+   "description": "A sage green satin ribbon-style outfit consists of thin strips wrapped around the chest, one arm, and the hips, leaving the midriff and legs bare.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae5011dd27064.webp",
+   "thumb": "thumbs/6ae5011dd27064.webp",
+   "addedAt": 1793392925268
   }
  ],
  "categories": [
