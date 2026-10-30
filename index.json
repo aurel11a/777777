@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793399084918,
+ "updatedAt": 1793399998049,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12711,6 +12711,66 @@
    "image": "items/6ae5192bcb9cce.webp",
    "thumb": "thumbs/6ae5192bcb9cce.webp",
    "addedAt": 1793399083784
+  },
+  {
+   "id": "6ae51cbc719cbf",
+   "name": "Purple Draped Gown",
+   "description": "The outfit consists of a draped, deep purple gown with a cowl neckline, cinched at the waist by a wide, textured belt. It is layered with a rich burgundy shawl draped over one shoulder and accessorized with wide, engraved gold cuffs on both wrists.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51cbc719cbf.webp",
+   "thumb": "thumbs/6ae51cbc719cbf.webp",
+   "addedAt": 1793399996889
+  },
+  {
+   "id": "6ae51cbca1015f",
+   "name": "Roman Toga Set",
+   "description": "The outfit features a draped, off-white toga with a red trim along the edge, layered with a voluminous deep red cloak draped over one shoulder. It is accessorized with a gold armband on the upper arm and wide, engraved gold cuffs on both wrists.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51cbca1015f.webp",
+   "thumb": "thumbs/6ae51cbca1015f.webp",
+   "addedAt": 1793399996890
+  },
+  {
+   "id": "6ae51cbcf21522",
+   "name": "Navy Draped Tunic",
+   "description": "The outfit consists of a light beige short-sleeved tunic with patterned trim, heavily draped with a voluminous navy blue toga-like fabric over one shoulder. The drape is secured by a large, ornate circular gold brooch, and accessorized with a blue gemstone ring.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51cbcf21522.webp",
+   "thumb": "thumbs/6ae51cbcf21522.webp",
+   "addedAt": 1793399996891
+  },
+  {
+   "id": "6ae51cbc45ec8c",
+   "name": "Blue & Cream Drape",
+   "description": "The outfit features a layered, off-white and deep blue draped garment, secured at the waist by a thick, braided rope belt with tassels. The blue fabric includes a patterned border with a Greek key motif.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51cbc45ec8c.webp",
+   "thumb": "thumbs/6ae51cbc45ec8c.webp",
+   "addedAt": 1793399996892
+  },
+  {
+   "id": "6ae51cbcad33f5",
+   "name": "Burgundy Cloaked Tunic",
+   "description": "The outfit consists of a knee-length, off-white tunic secured by a brown leather belt, layered with a deep burgundy cloak featuring a wide, ornate gold-patterned border. It is accessorized with detailed brown leather bracers on both forearms.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51cbcad33f5.webp",
+   "thumb": "thumbs/6ae51cbcad33f5.webp",
+   "addedAt": 1793399996893
+  },
+  {
+   "id": "6ae51cbc788b78",
+   "name": "Gold-Trimmed Drape Gown",
+   "description": "The outfit is an off-white, draped gown with a deep V-neckline and an asymmetrical design featuring a high front slit. It is accented with thin gold trim along the edges and accessorized with a delicate gold necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae51cbc788b78.webp",
+   "thumb": "thumbs/6ae51cbc788b78.webp",
+   "addedAt": 1793399996894
   }
  ],
  "categories": [
