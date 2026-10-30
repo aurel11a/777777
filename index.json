@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793374439980,
+ "updatedAt": 1793376155644,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11101,6 +11101,16 @@
    "image": "items/6ae4b8e75e6346.webp",
    "thumb": "thumbs/6ae4b8e75e6346.webp",
    "addedAt": 1793374439021
+  },
+  {
+   "id": "6ae4bf9aec0bf9",
+   "name": "White Sheer Nightgown",
+   "description": "A sheer white long-sleeved nightgown features a square neckline with a ruffled edge and a front ribbon tie. The lightweight fabric creates a flowing, floor-length silhouette.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4bf9aec0bf9.webp",
+   "thumb": "thumbs/6ae4bf9aec0bf9.webp",
+   "addedAt": 1793376154353
   }
  ],
  "categories": [
