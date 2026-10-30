@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793318698823,
+ "updatedAt": 1793318765218,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10081,6 +10081,16 @@
    "image": "items/6ae3df29fed42b.webp",
    "thumb": "thumbs/6ae3df29fed42b.webp",
    "addedAt": 1793318697830
+  },
+  {
+   "id": "6ae3df6b5a243c",
+   "name": "White Sailor Uniform",
+   "description": "A white canvas sailor-style uniform features a long-sleeved pullover top with a navy blue collar and a front lace-up tie. It is paired with matching wide-leg trousers, with navy blue trim and a crest detail on the sleeves.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae3df6b5a243c.webp",
+   "thumb": "thumbs/6ae3df6b5a243c.webp",
+   "addedAt": 1793318763685
   }
  ],
  "categories": [
