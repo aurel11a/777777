@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793393620950,
+ "updatedAt": 1793393717299,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12201,6 +12201,16 @@
    "image": "items/6ae503d34f1dcd.webp",
    "thumb": "thumbs/6ae503d34f1dcd.webp",
    "addedAt": 1793393619872
+  },
+  {
+   "id": "6ae50434a32578",
+   "name": "Red Gothic Shirt",
+   "description": "A deep red long-sleeved satin shirt features voluminous puffed sleeves with black embroidered cuffs and intricate dark embroidery across the chest. It is tucked into black tailored trousers with a high, structured waist and ornate side detailing, worn under a matching red coat.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae50434a32578.webp",
+   "thumb": "thumbs/6ae50434a32578.webp",
+   "addedAt": 1793393716181
   }
  ],
  "categories": [
