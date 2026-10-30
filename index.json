@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793368544262,
+ "updatedAt": 1793368745499,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10511,6 +10511,26 @@
    "image": "items/6ae4a1dfec82d1.webp",
    "thumb": "thumbs/6ae4a1dfec82d1.webp",
    "addedAt": 1793368543295
+  },
+  {
+   "id": "6ae4a2a8c706fc",
+   "name": "Red Satin Gown",
+   "description": "A vibrant red satin floor-length gown features an off-the-shoulder neckline with short puff sleeves and long, trailing fabric panels. The sweeping train and edges are adorned with intricate gold floral embroidery.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a2a8c706fc.webp",
+   "thumb": "thumbs/6ae4a2a8c706fc.webp",
+   "addedAt": 1793368744321
+  },
+  {
+   "id": "6ae4a2a87fa892",
+   "name": "Green Lace Gown",
+   "description": "A strapless floor-length gown features a dark green satin bodice and a sheer overlay with a large silver floral lace pattern. The look includes a dramatic dark green satin drape at the back, a pearl choker, and silver pointed-toe heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a2a87fa892.webp",
+   "thumb": "thumbs/6ae4a2a87fa892.webp",
+   "addedAt": 1793368744322
   }
  ],
  "categories": [
