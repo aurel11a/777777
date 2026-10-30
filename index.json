@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793386187877,
+ "updatedAt": 1793386367731,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11751,6 +11751,16 @@
    "image": "items/6ae4e6cae54136.webp",
    "thumb": "thumbs/6ae4e6cae54136.webp",
    "addedAt": 1793386186755
+  },
+  {
+   "id": "6ae4e77e1c5cf7",
+   "name": "Red Ribbon Wrap",
+   "description": "A red ribbon-style outfit consists of glossy satin bands wrapped crisscross around the torso, waist, arms, and thighs.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4e77e1c5cf7.webp",
+   "thumb": "thumbs/6ae4e77e1c5cf7.webp",
+   "addedAt": 1793386366716
   }
  ],
  "categories": [
