@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793395260474,
+ "updatedAt": 1793395804860,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12441,6 +12441,56 @@
    "image": "items/6ae50a3bb776bd.webp",
    "thumb": "thumbs/6ae50a3bb776bd.webp",
    "addedAt": 1793395259450
+  },
+  {
+   "id": "6ae50c5ba44280",
+   "name": "Dark Fur Robe",
+   "description": "A dark brown long-sleeved robe features a high collar and intricate gold embroidery, layered with brown leather cross-straps and a wide, ornate belt. The outfit includes a fur-trimmed shoulder cape, a gold patterned sash at the waist, and leather arm bracers.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae50c5ba44280.webp",
+   "thumb": "thumbs/6ae50c5ba44280.webp",
+   "addedAt": 1793395803608
+  },
+  {
+   "id": "6ae50c5bcc2983",
+   "name": "Nordic Fur Gown",
+   "description": "A dark blue and grey fantasy gown features a textured bodice with gold embroidery and a high collar, layered with a heavy grey fur shoulder mantle. The outfit includes a long, flowing cape, a gold braided belt, dark gloves, and a fur-trimmed helmet.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50c5bcc2983.webp",
+   "thumb": "thumbs/6ae50c5bcc2983.webp",
+   "addedAt": 1793395803609
+  },
+  {
+   "id": "6ae50c5b60c3a9",
+   "name": "Valkyrie Angel Gown",
+   "description": "A floor-length beige gown features a fitted bodice with a wide, ornate silver belt and long, draped sleeves. The look includes metallic silver feathered shoulder armor, silver bracers, a red jeweled headpiece, and sheer red flowing cape panels.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50c5b60c3a9.webp",
+   "thumb": "thumbs/6ae50c5b60c3a9.webp",
+   "addedAt": 1793395803610
+  },
+  {
+   "id": "6ae50c5bedcb60",
+   "name": "Nordic Fur Warrior",
+   "description": "A dark blue short-sleeved tunic is worn under a thick brown fur mantle and layered with brown leather cross-straps and a wide belt. The outfit includes gold leather bracers, dark red trousers, and a large, ornate rectangular pendant.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae50c5bedcb60.webp",
+   "thumb": "thumbs/6ae50c5bedcb60.webp",
+   "addedAt": 1793395803611
+  },
+  {
+   "id": "6ae50c5b0899d2",
+   "name": "Blue Nordic Cloak",
+   "description": "A blue heavy cloak with a thick fur collar and gold trim is worn over a white patterned tunic and a long gold skirt. The outfit includes a wide brown belt and brown sleeves with intricate gold embroidery.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae50c5b0899d2.webp",
+   "thumb": "thumbs/6ae50c5b0899d2.webp",
+   "addedAt": 1793395803612
   }
  ],
  "categories": [
