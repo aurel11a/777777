@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793371458475,
+ "updatedAt": 1793371530829,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10861,6 +10861,16 @@
    "image": "items/6ae4ad41cb901f.webp",
    "thumb": "thumbs/6ae4ad41cb901f.webp",
    "addedAt": 1793371457359
+  },
+  {
+   "id": "6ae4ad892e3302",
+   "name": "Peach Satin Dress",
+   "description": "A light peach satin mini dress features a halter neckline with ruffled cups and thin straps, paired with a gathered, flared skirt. It is cinched at the waist with a thin white tie.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4ad892e3302.webp",
+   "thumb": "thumbs/6ae4ad892e3302.webp",
+   "addedAt": 1793371529824
   }
  ],
  "categories": [
