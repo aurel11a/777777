@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793372562349,
+ "updatedAt": 1793372799013,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10931,6 +10931,16 @@
    "image": "items/6ae4b1916c500e.webp",
    "thumb": "thumbs/6ae4b1916c500e.webp",
    "addedAt": 1793372561403
+  },
+  {
+   "id": "6ae4b27e4d891b",
+   "name": "White Wrap Outfit",
+   "description": "An off-white, bandage-style outfit consists of thin fabric strips wrapped crisscross around the torso, waist, and arms. The design exposes the midriff and thighs, creating a minimalist, wrapped silhouette.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4b27e4d891b.webp",
+   "thumb": "thumbs/6ae4b27e4d891b.webp",
+   "addedAt": 1793372798010
   }
  ],
  "categories": [
