@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793397673360,
+ "updatedAt": 1793397798691,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12661,6 +12661,16 @@
    "image": "items/6ae513a887fee2.webp",
    "thumb": "thumbs/6ae513a887fee2.webp",
    "addedAt": 1793397672396
+  },
+  {
+   "id": "6ae51425653100",
+   "name": "Fur-Trimmed Leather Tunic",
+   "description": "The outfit features a black leather tunic with ornate silver clasps and a diagonal chest strap, paired with matching black trousers and a studded belt. It is completed by a heavy, dark fur-trimmed cloak draped over one shoulder.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51425653100.webp",
+   "thumb": "thumbs/6ae51425653100.webp",
+   "addedAt": 1793397797784
   }
  ],
  "categories": [
