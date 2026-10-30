@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793372310679,
+ "updatedAt": 1793372503633,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10911,6 +10911,16 @@
    "image": "items/6ae4b09511134d.webp",
    "thumb": "thumbs/6ae4b09511134d.webp",
    "addedAt": 1793372309656
+  },
+  {
+   "id": "6ae4b1561f1e93",
+   "name": "White Lingerie Set",
+   "description": "A white two-piece lingerie set features a cropped camisole top with thin straps and ruffled lace trim, paired with a matching high-waisted mini skirt with a ruffled hem. The look includes attached garter straps and sheer dark thigh-high stockings with lace tops.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4b1561f1e93.webp",
+   "thumb": "thumbs/6ae4b1561f1e93.webp",
+   "addedAt": 1793372502541
   }
  ],
  "categories": [
