@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793400405037,
+ "updatedAt": 1793400607616,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12821,6 +12821,16 @@
    "image": "items/6ae51e54e45961.webp",
    "thumb": "thumbs/6ae51e54e45961.webp",
    "addedAt": 1793400404205
+  },
+  {
+   "id": "6ae51f1e8f6da6",
+   "name": "White Boxing Set",
+   "description": "The outfit consists of a white athletic tank top with purple trim and a small crest, paired with matching white boxing shorts featuring a thick elastic waistband labeled \"SHS\" and purple side stripes. It is accessorized with white hand wraps.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6ae51f1e8f6da6.webp",
+   "thumb": "thumbs/6ae51f1e8f6da6.webp",
+   "addedAt": 1793400606742
   }
  ],
  "categories": [
