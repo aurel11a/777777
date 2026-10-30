@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793392451570,
+ "updatedAt": 1793392786021,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12131,6 +12131,16 @@
    "image": "items/6ae4ff422eb78e.webp",
    "thumb": "thumbs/6ae4ff422eb78e.webp",
    "addedAt": 1793392450636
+  },
+  {
+   "id": "6ae50090949079",
+   "name": "Gold Wrap Outfit",
+   "description": "A gold metallic bandage-style outfit consists of thin fabric strips wrapped around the chest, waist, and hips, leaving the midriff and legs exposed.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae50090949079.webp",
+   "thumb": "thumbs/6ae50090949079.webp",
+   "addedAt": 1793392784895
   }
  ],
  "categories": [
