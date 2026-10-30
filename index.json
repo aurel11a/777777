@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793370024284,
+ "updatedAt": 1793370546250,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10711,6 +10711,106 @@
    "image": "items/6ae4a7a7263898.webp",
    "thumb": "thumbs/6ae4a7a7263898.webp",
    "addedAt": 1793370023261
+  },
+  {
+   "id": "6ae4a9b1c2dbbc",
+   "name": "Green Satin Gown",
+   "description": "A strapless, floor-length light green satin gown features a fitted bodice and a full skirt with side pockets. The dress is accented with blue and silver floral embellishments at the neckline and along the hem of the sweeping train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a9b1c2dbbc.webp",
+   "thumb": "thumbs/6ae4a9b1c2dbbc.webp",
+   "addedAt": 1793370545152
+  },
+  {
+   "id": "6ae4a9b1152a2c",
+   "name": "Brown Lace-Up Tunic",
+   "description": "A brown faux suede short-sleeved tunic dress features a lace-up front bodice and a scalloped hem, worn over a long-sleeved light blue undershirt. It is paired with dark brown leggings and tall brown leather boots with buckle details.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae4a9b1152a2c.webp",
+   "thumb": "thumbs/6ae4a9b1152a2c.webp",
+   "addedAt": 1793370545153
+  },
+  {
+   "id": "6ae4a9b150c03d",
+   "name": "Teal Velvet Gown",
+   "description": "A floor-length teal velvet gown features a high neckline, short structured sleeves with long draping panels, and sheer black lace under-sleeves. The look is accented by a wide red and gold embroidered belt at the waist.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae4a9b150c03d.webp",
+   "thumb": "thumbs/6ae4a9b150c03d.webp",
+   "addedAt": 1793370545154
+  },
+  {
+   "id": "6ae4a9b151e420",
+   "name": "Red White Gown",
+   "description": "A strapless floor-length gown features a white bodice and skirt accented with a deep red draped sash and green leaf appliqués. The design includes large white floral embellishments, jeweled brooches at the waist, and delicate embroidery along the hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a9b151e420.webp",
+   "thumb": "thumbs/6ae4a9b151e420.webp",
+   "addedAt": 1793370545155
+  },
+  {
+   "id": "6ae4a9b1ed0c3d",
+   "name": "Cream Embroidered Gown",
+   "description": "A floor-length cream gown features a sheer overlay with delicate embroidered floral and star motifs, a scoop neckline, and an empire waist. It is layered under a long, dark brown velvet cloak with a thick brown fur collar.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a9b1ed0c3d.webp",
+   "thumb": "thumbs/6ae4a9b1ed0c3d.webp",
+   "addedAt": 1793370545156
+  },
+  {
+   "id": "6ae4a9b1547d5d",
+   "name": "Burgundy Peasant Outfit",
+   "description": "A deep burgundy lace-up bodice is worn over a white long-sleeved blouse, paired with a layered skirt featuring a dark plaid overskirt and a cream patterned underskirt. Brown leather lace-up boots complete the historical peasant look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a9b1547d5d.webp",
+   "thumb": "thumbs/6ae4a9b1547d5d.webp",
+   "addedAt": 1793370545157
+  },
+  {
+   "id": "6ae4a9b17e0507",
+   "name": "White Satin Lace",
+   "description": "A white floor-length gown features a draped satin bodice with thin straps and an asymmetrical design. It includes a sheer lace waist panel and a skirt that combines a flowing satin overskirt with a lace underskirt, paired with white strappy sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a9b17e0507.webp",
+   "thumb": "thumbs/6ae4a9b17e0507.webp",
+   "addedAt": 1793370545158
+  },
+  {
+   "id": "6ae4a9b1a2922b",
+   "name": "Green Embroidered Skirt",
+   "description": "A pale green cropped jacket with ruffled cuffs and embroidered trim is worn over a sheer white top. It is paired with a long, pleated skirt featuring a light green upper section and a wide, cream-colored hem with intricate lace and floral embroidery.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a9b1a2922b.webp",
+   "thumb": "thumbs/6ae4a9b1a2922b.webp",
+   "addedAt": 1793370545159
+  },
+  {
+   "id": "6ae4a9b113edeb",
+   "name": "Butterfly Cape Gown",
+   "description": "A floor-length black gown features a fitted bodice and skirt adorned with large, three-dimensional butterfly appliqués in shades of gold, pink, and red. It is paired with a dramatic, sheer grey-blue cape heavily decorated with gold butterflies and trimmed with long, layered cream fringe.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae4a9b113edeb.webp",
+   "thumb": "thumbs/6ae4a9b113edeb.webp",
+   "addedAt": 1793370545160
+  },
+  {
+   "id": "6ae4a9b13aeb9f",
+   "name": "Blue Medieval Gown",
+   "description": "A navy blue floor-length medieval-style gown features long sleeves, a square neckline, and an all-over pattern of gold fleur-de-lis motifs. It is accessorized with a gold chain belt and a white fur-trimmed cloak with a red lining.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a9b13aeb9f.webp",
+   "thumb": "thumbs/6ae4a9b13aeb9f.webp",
+   "addedAt": 1793370545161
   }
  ],
  "categories": [
