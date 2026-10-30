@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373063136,
+ "updatedAt": 1793373173531,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10961,6 +10961,16 @@
    "image": "items/6ae4b3852de508.webp",
    "thumb": "thumbs/6ae4b3852de508.webp",
    "addedAt": 1793373061651
+  },
+  {
+   "id": "6ae4b3f44046d8",
+   "name": "Blue Satin Pajamas",
+   "description": "A blue satin two-piece pajama set features a bralette-style top with a center cutout and a matching open robe, both printed with a small character pattern. The look is paired with matching blue satin shorts.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4b3f44046d8.webp",
+   "thumb": "thumbs/6ae4b3f44046d8.webp",
+   "addedAt": 1793373172436
   }
  ],
  "categories": [
