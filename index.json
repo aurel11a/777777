@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793390254528,
+ "updatedAt": 1793390530534,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12061,6 +12061,16 @@
    "image": "items/6ae4f6ad61b2e7.webp",
    "thumb": "thumbs/6ae4f6ad61b2e7.webp",
    "addedAt": 1793390253622
+  },
+  {
+   "id": "6ae4f7c1be7c1d",
+   "name": "Black Lace Garter Set",
+   "description": "A black sheer lace lingerie set features a high-neck halter top with a front cutout and a matching high-waisted garter belt with lace-up detailing. It is paired with black thigh-high stockings.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4f7c1be7c1d.webp",
+   "thumb": "thumbs/6ae4f7c1be7c1d.webp",
+   "addedAt": 1793390529279
   }
  ],
  "categories": [
