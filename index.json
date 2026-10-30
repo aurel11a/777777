@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793392303979,
+ "updatedAt": 1793392451570,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12121,6 +12121,16 @@
    "image": "items/6ae4feaf82a7dc.webp",
    "thumb": "thumbs/6ae4feaf82a7dc.webp",
    "addedAt": 1793392303082
+  },
+  {
+   "id": "6ae4ff422eb78e",
+   "name": "White Gold Set",
+   "description": "A white satin two-piece set features a one-shoulder crop top and a matching asymmetrical mini skirt, both accented with gold floral embroidery. The draped fabric creates a fitted, elegant silhouette.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4ff422eb78e.webp",
+   "thumb": "thumbs/6ae4ff422eb78e.webp",
+   "addedAt": 1793392450636
   }
  ],
  "categories": [
