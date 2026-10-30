@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373374202,
+ "updatedAt": 1793373540356,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11001,6 +11001,36 @@
    "image": "items/6ae4b4bd58c3b7.webp",
    "thumb": "thumbs/6ae4b4bd58c3b7.webp",
    "addedAt": 1793373373109
+  },
+  {
+   "id": "6ae4b56347c8ec",
+   "name": "Navy Green Trunks",
+   "description": "Navy blue square-cut swim trunks feature a fitted silhouette with bright green side panels.",
+   "type": "beach",
+   "gender": "male",
+   "image": "items/6ae4b56347c8ec.webp",
+   "thumb": "thumbs/6ae4b56347c8ec.webp",
+   "addedAt": 1793373539445
+  },
+  {
+   "id": "6ae4b563b23916",
+   "name": "Blue Colorblock Trunks",
+   "description": "Navy blue and teal color-blocked swim trunks feature an elastic waistband with a front drawstring. The top section is dark blue, while the lower section is a brighter teal.",
+   "type": "beach",
+   "gender": "male",
+   "image": "items/6ae4b563b23916.webp",
+   "thumb": "thumbs/6ae4b563b23916.webp",
+   "addedAt": 1793373539446
+  },
+  {
+   "id": "6ae4b563488c27",
+   "name": "Abstract Swim Briefs",
+   "description": "Black swim briefs feature a blue and purple abstract swirling pattern across the front.",
+   "type": "beach",
+   "gender": "male",
+   "image": "items/6ae4b563488c27.webp",
+   "thumb": "thumbs/6ae4b563488c27.webp",
+   "addedAt": 1793373539447
   }
  ],
  "categories": [
