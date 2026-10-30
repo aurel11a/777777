@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793368200957,
+ "updatedAt": 1793368384395,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10451,6 +10451,26 @@
    "image": "items/6ae4a087deedff.webp",
    "thumb": "thumbs/6ae4a087deedff.webp",
    "addedAt": 1793368199351
+  },
+  {
+   "id": "6ae4a13f047311",
+   "name": "Denim Halter Jumpsuit",
+   "description": "A dark wash denim halter jumpsuit features a V-neckline with a collar, front button detailing, and wide-leg trousers. It is cinched at the waist with a matching denim belt and paired with white pointed-toe heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a13f047311.webp",
+   "thumb": "thumbs/6ae4a13f047311.webp",
+   "addedAt": 1793368383240
+  },
+  {
+   "id": "6ae4a13ff87051",
+   "name": "Plaid Puff Dress",
+   "description": "A beige, blue, and yellow plaid mini dress features short puff sleeves and a large black ribbon bow tied at the neckline. The outfit is accessorized with a black beret, a pearl necklace, sheer black knee-high socks, and black patent leather Mary Jane platform heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a13ff87051.webp",
+   "thumb": "thumbs/6ae4a13ff87051.webp",
+   "addedAt": 1793368383241
   }
  ],
  "categories": [
