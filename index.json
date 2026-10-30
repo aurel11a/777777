@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793372015742,
+ "updatedAt": 1793372253318,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10891,6 +10891,16 @@
    "image": "items/6ae4af6ee7f3bf.webp",
    "thumb": "thumbs/6ae4af6ee7f3bf.webp",
    "addedAt": 1793372014270
+  },
+  {
+   "id": "6ae4b05c643d91",
+   "name": "Green Satin Slip",
+   "description": "A light sage green satin slip dress features a V-neckline with delicate ivory lace trim along the bust and hem. The dress has thin spaghetti straps and a fitted, knee-length silhouette.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4b05c643d91.webp",
+   "thumb": "thumbs/6ae4b05c643d91.webp",
+   "addedAt": 1793372252245
   }
  ],
  "categories": [
