@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793381539572,
+ "updatedAt": 1793381848084,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11411,6 +11411,26 @@
    "image": "items/6ae4d4a1582108.webp",
    "thumb": "thumbs/6ae4d4a1582108.webp",
    "addedAt": 1793381537998
+  },
+  {
+   "id": "6ae4d5d7f66ce0",
+   "name": "White Ribbed Top",
+   "description": "A white ribbed short-sleeved t-shirt features a small notched V-neckline with button details. It is paired with dark red high-waisted bikini bottoms.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4d5d7f66ce0.webp",
+   "thumb": "thumbs/6ae4d5d7f66ce0.webp",
+   "addedAt": 1793381847173
+  },
+  {
+   "id": "6ae4d5d70e054d",
+   "name": "Red Lace Slip",
+   "description": "A dark red sheer lace mini dress features a deep V-neckline with black lace trim and thin spaghetti straps. The fitted dress has a small side slit and a scalloped hem.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4d5d70e054d.webp",
+   "thumb": "thumbs/6ae4d5d70e054d.webp",
+   "addedAt": 1793381847174
   }
  ],
  "categories": [
