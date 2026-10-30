@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793399998049,
+ "updatedAt": 1793400405037,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12771,6 +12771,56 @@
    "image": "items/6ae51cbc788b78.webp",
    "thumb": "thumbs/6ae51cbc788b78.webp",
    "addedAt": 1793399996894
+  },
+  {
+   "id": "6ae51e54040fb5",
+   "name": "Beige Wrap Tunic",
+   "description": "The outfit consists of a light beige, knee-length tunic with a wrap-style V-neckline, cinched at the waist by a braided brown belt. It is layered with a dark brown, sleeveless over-garment that drapes down the sides.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51e54040fb5.webp",
+   "thumb": "thumbs/6ae51e54040fb5.webp",
+   "addedAt": 1793400404201
+  },
+  {
+   "id": "6ae51e541f3b35",
+   "name": "Navy Hooded Cloak",
+   "description": "The outfit features a voluminous, deep navy blue hooded cloak draped over the shoulders, fastened at the neck with a small decorative clasp. Beneath the cloak, a long, light beige garment is visible.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae51e541f3b35.webp",
+   "thumb": "thumbs/6ae51e541f3b35.webp",
+   "addedAt": 1793400404202
+  },
+  {
+   "id": "6ae51e54856321",
+   "name": "Gold-Clasped Drape Gown",
+   "description": "The outfit is a floor-length, light beige gown with a draped, wrap-style bodice and a V-neckline, accented by gold trim and ornate gold shoulder clasps. It features a cinched waist and a side slit, accessorized with gold bangle bracelets.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae51e54856321.webp",
+   "thumb": "thumbs/6ae51e54856321.webp",
+   "addedAt": 1793400404203
+  },
+  {
+   "id": "6ae51e5404afd0",
+   "name": "Red Hooded Drape",
+   "description": "The outfit features a deep red hooded cloak with a Greek key patterned border, draped over a matching red upper garment and a pleated beige skirt. It is accessorized with gold armbands on the biceps and a beaded necklace with red stones.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae51e5404afd0.webp",
+   "thumb": "thumbs/6ae51e5404afd0.webp",
+   "addedAt": 1793400404204
+  },
+  {
+   "id": "6ae51e54e45961",
+   "name": "Blue Sash Gown",
+   "description": "The outfit features a flowing, light beige gown with a draped cowl neckline and split sleeves, cinched at the waist by a wide navy blue sash tied in a knot with long, hanging tails.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae51e54e45961.webp",
+   "thumb": "thumbs/6ae51e54e45961.webp",
+   "addedAt": 1793400404205
   }
  ],
  "categories": [
