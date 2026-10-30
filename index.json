@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793378362462,
+ "updatedAt": 1793379370463,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11221,6 +11221,66 @@
    "image": "items/6ae4c8396010de.webp",
    "thumb": "thumbs/6ae4c8396010de.webp",
    "addedAt": 1793378361512
+  },
+  {
+   "id": "6ae4cc29700011",
+   "name": "Egyptian Pharaoh Costume",
+   "description": "A white Egyptian-style shendyt kilt features a pleated design with a purple and gold striped central panel. The outfit includes a gold belt with a purple jewel, a purple draped sash over one shoulder, gold wrist cuffs, and a wide ornate gold collar necklace.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4cc29700011.webp",
+   "thumb": "thumbs/6ae4cc29700011.webp",
+   "addedAt": 1793379369192
+  },
+  {
+   "id": "6ae4cc29f8d514",
+   "name": "Black Egyptian Set",
+   "description": "A black Egyptian-style two-piece costume features a halter top with a deep V-neckline, connected by delicate gold chains and accented with a gold collar necklace. It is paired with a draped black skirt featuring a large gold and blue jeweled belt and gold arm cuffs.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4cc29f8d514.webp",
+   "thumb": "thumbs/6ae4cc29f8d514.webp",
+   "addedAt": 1793379369193
+  },
+  {
+   "id": "6ae4cc29780389",
+   "name": "Black Egyptian Dress",
+   "description": "A black off-the-shoulder mini dress features draped fabric across the chest and a high side slit with cascading ruffles. It is accented by an ornate gold Egyptian-style collar necklace and a matching wide gold belt with jeweled detailing.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4cc29780389.webp",
+   "thumb": "thumbs/6ae4cc29780389.webp",
+   "addedAt": 1793379369194
+  },
+  {
+   "id": "6ae4cc29f8d37b",
+   "name": "Beige Crochet Set",
+   "description": "A beige crochet two-piece set features a long-sleeved cropped top with a wide neckline and a fringed hem. It is paired with a matching asymmetrical mini skirt with a fringed edge.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4cc29f8d37b.webp",
+   "thumb": "thumbs/6ae4cc29f8d37b.webp",
+   "addedAt": 1793379369195
+  },
+  {
+   "id": "6ae4cc2900a372",
+   "name": "Cream Mini Skirt",
+   "description": "A cream high-waisted mini skirt features a smooth, fitted silhouette with subtle draping.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae4cc2900a372.webp",
+   "thumb": "thumbs/6ae4cc2900a372.webp",
+   "addedAt": 1793379369196
+  },
+  {
+   "id": "6ae4cc29c828c2",
+   "name": "Blue Gold Costume",
+   "description": "A light blue two-piece costume features a balconette-style bra top with gold and blue striped cups and crisscross gold chain detailing. It is paired with a matching high-slit skirt with a gold waistband, draped gold chains, and sheer, flowing sleeves.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4cc29c828c2.webp",
+   "thumb": "thumbs/6ae4cc29c828c2.webp",
+   "addedAt": 1793379369197
   }
  ],
  "categories": [
