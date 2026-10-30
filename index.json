@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793387653818,
+ "updatedAt": 1793388021253,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11861,6 +11861,26 @@
    "image": "items/6ae4ec84334fee.webp",
    "thumb": "thumbs/6ae4ec84334fee.webp",
    "addedAt": 1793387652831
+  },
+  {
+   "id": "6ae4edf34cdf41",
+   "name": "Red Sheer Tunic",
+   "description": "A sheer red tunic dress features a deep V-neckline with a front tie and thin straps. It is cinched at the waist with a wide brown leather belt with gold buckles, and includes a high side slit with ring details.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4edf34cdf41.webp",
+   "thumb": "thumbs/6ae4edf34cdf41.webp",
+   "addedAt": 1793388019743
+  },
+  {
+   "id": "6ae4edf332f174",
+   "name": "Brown Lace-Up Dress",
+   "description": "A brown faux suede long-sleeved mini dress features a lace-up V-neckline with contrasting trim and a flared skirt. It is cinched at the waist with a wide brown leather belt.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4edf332f174.webp",
+   "thumb": "thumbs/6ae4edf332f174.webp",
+   "addedAt": 1793388019744
   }
  ],
  "categories": [
