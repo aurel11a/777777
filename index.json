@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793318804568,
+ "updatedAt": 1793366354355,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10101,6 +10101,16 @@
    "image": "items/6ae3df93ce6db1.webp",
    "thumb": "thumbs/6ae3df93ce6db1.webp",
    "addedAt": 1793318803752
+  },
+  {
+   "id": "6ae4994df67ef0",
+   "name": "Gold Embroidered Cape",
+   "description": "A dark brown velvet cape features wide, cream-colored front panels heavily embroidered with gold leaf motifs. It is worn over a matching dark velvet coat with a high collar and intricate gold embroidery along the center and cuffs.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4994df67ef0.webp",
+   "thumb": "thumbs/6ae4994df67ef0.webp",
+   "addedAt": 1793366349276
   }
  ],
  "categories": [
