@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793390936532,
+ "updatedAt": 1793391873060,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12081,6 +12081,26 @@
    "image": "items/6ae4f9576758e4.webp",
    "thumb": "thumbs/6ae4f9576758e4.webp",
    "addedAt": 1793390935087
+  },
+  {
+   "id": "6ae4fcff66a1f1",
+   "name": "Gold Ballgown",
+   "description": "A gold satin ballgown features a heavily embellished bodice with jewel and bead detailing, an off-the-shoulder draped neckline, and a full, floor-length skirt with scattered pearls. The look includes matching embellished sheer gloves and a jeweled necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4fcff66a1f1.webp",
+   "thumb": "thumbs/6ae4fcff66a1f1.webp",
+   "addedAt": 1793391871508
+  },
+  {
+   "id": "6ae4fcfff3af22",
+   "name": "Red Gold Gown",
+   "description": "A deep red velvet gown features an off-the-shoulder neckline and long sleeves. The bodice and full skirt are heavily decorated with intricate gold floral embroidery, accented by a red jeweled necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4fcfff3af22.webp",
+   "thumb": "thumbs/6ae4fcfff3af22.webp",
+   "addedAt": 1793391871509
   }
  ],
  "categories": [
