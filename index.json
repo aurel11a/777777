@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793393118970,
+ "updatedAt": 1793393571483,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12181,6 +12181,16 @@
    "image": "items/6ae501dec582e1.webp",
    "thumb": "thumbs/6ae501dec582e1.webp",
    "addedAt": 1793393118039
+  },
+  {
+   "id": "6ae503a2fb1156",
+   "name": "Pink Fairy Gown",
+   "description": "A floor-length pink fantasy gown features a structured corset bodice with floral appliqués at the neckline and sheer, flowing draped sleeves. The layered white and pink skirt has a high side slit and is trimmed with white feathers, accessorized with an elaborate branch and floral headpiece.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae503a2fb1156.webp",
+   "thumb": "thumbs/6ae503a2fb1156.webp",
+   "addedAt": 1793393570624
   }
  ],
  "categories": [
