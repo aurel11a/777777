@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793382629165,
+ "updatedAt": 1793382848439,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11501,6 +11501,36 @@
    "image": "items/6ae4d8e4ae7415.webp",
    "thumb": "thumbs/6ae4d8e4ae7415.webp",
    "addedAt": 1793382628110
+  },
+  {
+   "id": "6ae4d9bf704ee7",
+   "name": "Black Piped Robe",
+   "description": "A black long-sleeved robe features a deep V-neckline with contrasting light-colored piping along the lapels. It is tied at the waist with a matching black sash.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6ae4d9bf704ee7.webp",
+   "thumb": "thumbs/6ae4d9bf704ee7.webp",
+   "addedAt": 1793382847483
+  },
+  {
+   "id": "6ae4d9bfad3c50",
+   "name": "Ivory Plunge Gown",
+   "description": "A floor-length ivory gown features a deep plunging V-neckline and long, draped bell sleeves. The dress has a fitted waist and a skirt with a high side slit, accessorized with a silver pendant necklace.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4d9bfad3c50.webp",
+   "thumb": "thumbs/6ae4d9bfad3c50.webp",
+   "addedAt": 1793382847484
+  },
+  {
+   "id": "6ae4d9bf58fbf0",
+   "name": "White Satin Robe",
+   "description": "A white satin robe features a deep V-neckline and wide sleeves, both trimmed with white lace. It is cinched at the waist with a matching satin sash.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae4d9bf58fbf0.webp",
+   "thumb": "thumbs/6ae4d9bf58fbf0.webp",
+   "addedAt": 1793382847485
   }
  ],
  "categories": [
