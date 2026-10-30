@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793400607616,
+ "updatedAt": 1793400859526,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12831,6 +12831,46 @@
    "image": "items/6ae51f1e8f6da6.webp",
    "thumb": "thumbs/6ae51f1e8f6da6.webp",
    "addedAt": 1793400606742
+  },
+  {
+   "id": "6ae5201a52cee3",
+   "name": "Charcoal Tailcoat Suit",
+   "description": "The outfit features a dark charcoal tailcoat with brass buttons, layered over a matching buttoned waistcoat and a white dress shirt with a light-colored bow tie. It is completed with matching trousers and white gloves.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae5201a52cee3.webp",
+   "thumb": "thumbs/6ae5201a52cee3.webp",
+   "addedAt": 1793400858111
+  },
+  {
+   "id": "6ae5201a64ef0b",
+   "name": "Steampunk Corset Dress",
+   "description": "The outfit features a brown, lace-up corset worn over a light beige blouse with puffy sleeves. It is paired with a layered skirt consisting of a ruffled rust-red overskirt and a cream-colored lace-trimmed underskirt, accessorized with white lace thigh-high stockings.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae5201a64ef0b.webp",
+   "thumb": "thumbs/6ae5201a64ef0b.webp",
+   "addedAt": 1793400858112
+  },
+  {
+   "id": "6ae5201a87eb53",
+   "name": "Emerald Embroidered Coat",
+   "description": "The outfit consists of a dark green velvet long coat with intricate red floral embroidery and a high collar, layered over a white ruffled shirt with voluminous sleeves. It is accessorized with a jeweled brooch at the neck, brown leather armbands, and matching dark green trousers.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae5201a87eb53.webp",
+   "thumb": "thumbs/6ae5201a87eb53.webp",
+   "addedAt": 1793400858113
+  },
+  {
+   "id": "6ae5201a6fc61b",
+   "name": "Dark Victorian Coat",
+   "description": "The outfit features a long black overcoat layered over a dark grey textured vest, a white dress shirt, and a black cravat. It is paired with black trousers and accessorized with a gold pocket watch chain and black leather gloves.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae5201a6fc61b.webp",
+   "thumb": "thumbs/6ae5201a6fc61b.webp",
+   "addedAt": 1793400858114
   }
  ],
  "categories": [
