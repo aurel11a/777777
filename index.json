@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793366434060,
+ "updatedAt": 1793366577161,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10121,6 +10121,16 @@
    "image": "items/6ae499a1af1be6.webp",
    "thumb": "thumbs/6ae499a1af1be6.webp",
    "addedAt": 1793366433026
+  },
+  {
+   "id": "6ae49a3094d833",
+   "name": "Blue Floral Appliqué",
+   "description": "A floor-length dress features a sheer beige overlay covered in a dense pattern of blue and white floral appliqués. It has a square neckline, long sheer puff sleeves, and a cinched waist accented by a thin navy blue belt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae49a3094d833.webp",
+   "thumb": "thumbs/6ae49a3094d833.webp",
+   "addedAt": 1793366576210
   }
  ],
  "categories": [
