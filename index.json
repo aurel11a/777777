@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793391873060,
+ "updatedAt": 1793392002126,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12101,6 +12101,16 @@
    "image": "items/6ae4fcfff3af22.webp",
    "thumb": "thumbs/6ae4fcfff3af22.webp",
    "addedAt": 1793391871509
+  },
+  {
+   "id": "6ae4fd815333d5",
+   "name": "Purple Velvet Coat",
+   "description": "A long purple velvet coat features a high collar with black fur trim, gold clasps down the front, and a gold-trimmed belt. It includes a draped shoulder cape with ornate gold embroidery and is paired with dark brown leather boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae4fd815333d5.webp",
+   "thumb": "thumbs/6ae4fd815333d5.webp",
+   "addedAt": 1793392001235
   }
  ],
  "categories": [
