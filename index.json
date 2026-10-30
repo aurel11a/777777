@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793379980996,
+ "updatedAt": 1793380304511,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11321,6 +11321,26 @@
    "image": "items/6ae4ce8b00e83e.webp",
    "thumb": "thumbs/6ae4ce8b00e83e.webp",
    "addedAt": 1793379979498
+  },
+  {
+   "id": "6ae4cfcf343c17",
+   "name": "Taupe Strappy Set",
+   "description": "A taupe lingerie set features a sheer bra with strappy cutout detailing and gold ring accents across the chest. It is paired with matching sheer panties with high-cut sides and gold ring details at the hips.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4cfcf343c17.webp",
+   "thumb": "thumbs/6ae4cfcf343c17.webp",
+   "addedAt": 1793380303453
+  },
+  {
+   "id": "6ae4cfcf6c0c80",
+   "name": "Pink Ring Bikini",
+   "description": "A light pink textured two-piece bikini features a triangle top with thin straps and gold ring accents. It is paired with matching high-cut bottoms with gold ring details at the hips.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4cfcf6c0c80.webp",
+   "thumb": "thumbs/6ae4cfcf6c0c80.webp",
+   "addedAt": 1793380303454
   }
  ],
  "categories": [
