@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373540356,
+ "updatedAt": 1793373621836,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11031,6 +11031,16 @@
    "image": "items/6ae4b563488c27.webp",
    "thumb": "thumbs/6ae4b563488c27.webp",
    "addedAt": 1793373539447
+  },
+  {
+   "id": "6ae4b5b4a9581c",
+   "name": "Light Blue Boxers",
+   "description": "Light blue boxer shorts feature an elastic waistband and a front button fly closure.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6ae4b5b4a9581c.webp",
+   "thumb": "thumbs/6ae4b5b4a9581c.webp",
+   "addedAt": 1793373620881
   }
  ],
  "categories": [
