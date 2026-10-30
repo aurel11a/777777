@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793318430005,
+ "updatedAt": 1793318698823,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10061,6 +10061,26 @@
    "image": "items/6ae3de1c2d09e1.webp",
    "thumb": "thumbs/6ae3de1c2d09e1.webp",
    "addedAt": 1793318428734
+  },
+  {
+   "id": "6ae3df299127f6",
+   "name": "Burgundy Striped Set",
+   "description": "A sleeveless tank top features horizontal stripes in burgundy and cream, paired with solid burgundy shorts with a lace-up front detail and a thin cream trim at the hem.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae3df299127f6.webp",
+   "thumb": "thumbs/6ae3df299127f6.webp",
+   "addedAt": 1793318697829
+  },
+  {
+   "id": "6ae3df29fed42b",
+   "name": "Pink Gingham Swimsuit",
+   "description": "A light pink two-piece swimsuit with a fine textured pattern features a tankini-style top with a gathered cream ruffle neckline and thin straps. It is paired with high-cut matching bottoms accented by a small cream bow at the waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae3df29fed42b.webp",
+   "thumb": "thumbs/6ae3df29fed42b.webp",
+   "addedAt": 1793318697830
   }
  ],
  "categories": [
