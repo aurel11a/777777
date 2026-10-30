@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793368745499,
+ "updatedAt": 1793369403890,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10531,6 +10531,106 @@
    "image": "items/6ae4a2a87fa892.webp",
    "thumb": "thumbs/6ae4a2a87fa892.webp",
    "addedAt": 1793368744322
+  },
+  {
+   "id": "6ae4a53ae92f3a",
+   "name": "White Teal Gown",
+   "description": "A white floor-length gown features a corset-style bodice with silver embroidery and an off-the-shoulder neckline accented by teal velvet cap sleeves. It has long sheer puff sleeves and a full skirt with a teal velvet sash tied at the waist.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a53ae92f3a.webp",
+   "thumb": "thumbs/6ae4a53ae92f3a.webp",
+   "addedAt": 1793369402728
+  },
+  {
+   "id": "6ae4a53ab9b693",
+   "name": "Cow Print Fleece",
+   "description": "A black and white cow-print fleece zip-up jacket with a high collar is paired with loose-fitting grey and white plaid trousers. Tan suede lace-up boots and a black and white patterned headband complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae4a53ab9b693.webp",
+   "thumb": "thumbs/6ae4a53ab9b693.webp",
+   "addedAt": 1793369402729
+  },
+  {
+   "id": "6ae4a53a15703e",
+   "name": "Nordic Knit Set",
+   "description": "A cream patterned knit sweater with a purple and green geometric design and green cuffs is paired with grey and white gingham shorts. Grey patterned knee-high socks and grey strappy sandals complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a53a15703e.webp",
+   "thumb": "thumbs/6ae4a53a15703e.webp",
+   "addedAt": 1793369402730
+  },
+  {
+   "id": "6ae4a53a59a5fb",
+   "name": "Pink Wrap Top",
+   "description": "A light pink long-sleeved wrap top features a lace-trimmed V-neckline and long waist ties. It is paired with dark brown high-waisted shorts with light pink piping, white ankle socks, and pink sneakers, accessorized with a matching pink shoulder bag.—",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6ae4a53a59a5fb.webp",
+   "thumb": "thumbs/6ae4a53a59a5fb.webp",
+   "addedAt": 1793369402731
+  },
+  {
+   "id": "6ae4a53a7735c4",
+   "name": "Purple Moon Outfit",
+   "description": "A dusty purple short-sleeved top features a ruffled neckline and flared cuffs, paired with a black pleated mini skirt accented by a gold chain belt with a crescent moon detail. Sheer black knee-high stockings and gold metallic pointed-toe pumps complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a53a7735c4.webp",
+   "thumb": "thumbs/6ae4a53a7735c4.webp",
+   "addedAt": 1793369402732
+  },
+  {
+   "id": "6ae4a53ae51f7e",
+   "name": "Mint Embroidered Gown",
+   "description": "A floor-length gown features a sheer illusion neckline and long bell sleeves in pale mint satin. The fitted bodice and skirt are adorned with intricate gold and silver floral embroidery, accented by a draped mint satin sash at the waist.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a53ae51f7e.webp",
+   "thumb": "thumbs/6ae4a53ae51f7e.webp",
+   "addedAt": 1793369402733
+  },
+  {
+   "id": "6ae4a53a3c4707",
+   "name": "Nautical Polka Set",
+   "description": "A white short-sleeved top features a peplum hem and is paired with light mint green ruffled shorts. The look includes a black and white polka-dot scarf, a matching newsboy cap, a red and white life preserver handbag, white knee-high socks, and yellow platform sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a53a3c4707.webp",
+   "thumb": "thumbs/6ae4a53a3c4707.webp",
+   "addedAt": 1793369402734
+  },
+  {
+   "id": "6ae4a53a9c390c",
+   "name": "Cow Print Sweater",
+   "description": "An oversized knit sweater features horizontal stripes in shades of blue, purple, and green, with a graphic of white cows on the lower section. It is paired with a long, tiered white skirt with a lace-trimmed hem, bright yellow rubber rain boots, a grey beanie, and a beige canvas backpack.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae4a53a9c390c.webp",
+   "thumb": "thumbs/6ae4a53a9c390c.webp",
+   "addedAt": 1793369402735
+  },
+  {
+   "id": "6ae4a53a03668d",
+   "name": "Pastel Floral Dress",
+   "description": "A floor-length slip dress features a large pastel floral print in shades of lavender and green on a white background. It is paired with a matching lavender shawl with wide, white lace-trimmed edges, and accessorized with layered pearl necklaces.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae4a53a03668d.webp",
+   "thumb": "thumbs/6ae4a53a03668d.webp",
+   "addedAt": 1793369402736
+  },
+  {
+   "id": "6ae4a53a41cfe1",
+   "name": "Black Velvet Gown",
+   "description": "A black velvet gown features short puff sleeves and an off-the-shoulder neckline with a gold patterned inset. The floor-length dress includes a gold and cream patterned front panel, a gold waistband, and a ruffled hem, paired with white lace gloves and cream shoes.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae4a53a41cfe1.webp",
+   "thumb": "thumbs/6ae4a53a41cfe1.webp",
+   "addedAt": 1793369402737
   }
  ],
  "categories": [
