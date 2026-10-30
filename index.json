@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793397516243,
+ "updatedAt": 1793397673360,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12641,6 +12641,26 @@
    "image": "items/6ae5130abdd0e3.webp",
    "thumb": "thumbs/6ae5130abdd0e3.webp",
    "addedAt": 1793397514763
+  },
+  {
+   "id": "6ae513a87dfd7a",
+   "name": "Crimson Feathered Gown",
+   "description": "The outfit features a deep crimson gown with a structured, gold-embroidered bodice and an ornate, wide belt, layered beneath a voluminous black feathered cloak. It is accessorized with matching gold bracers and draped chain details at the waist.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae513a87dfd7a.webp",
+   "thumb": "thumbs/6ae513a87dfd7a.webp",
+   "addedAt": 1793397672395
+  },
+  {
+   "id": "6ae513a887fee2",
+   "name": "Dark Plate Armor",
+   "description": "The outfit consists of dark, heavily textured plate armor featuring layered shoulder pauldrons, a segmented chest plate, and matching forearm bracers. It is worn over a long black tunic and secured with a leather belt, accompanied by a long sword.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae513a887fee2.webp",
+   "thumb": "thumbs/6ae513a887fee2.webp",
+   "addedAt": 1793397672396
   }
  ],
  "categories": [
