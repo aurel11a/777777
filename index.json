@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793390530534,
+ "updatedAt": 1793390936532,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12071,6 +12071,16 @@
    "image": "items/6ae4f7c1be7c1d.webp",
    "thumb": "thumbs/6ae4f7c1be7c1d.webp",
    "addedAt": 1793390529279
+  },
+  {
+   "id": "6ae4f9576758e4",
+   "name": "Grey Rose Swimsuit",
+   "description": "A light grey one-piece swimsuit features a deep plunging V-neckline and a sheer ruffled skirt detail at the hips. It is decorated with large red rose appliqués cascading down the front.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4f9576758e4.webp",
+   "thumb": "thumbs/6ae4f9576758e4.webp",
+   "addedAt": 1793390935087
   }
  ],
  "categories": [
