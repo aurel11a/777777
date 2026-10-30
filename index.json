@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793373173531,
+ "updatedAt": 1793373374202,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -10971,6 +10971,36 @@
    "image": "items/6ae4b3f44046d8.webp",
    "thumb": "thumbs/6ae4b3f44046d8.webp",
    "addedAt": 1793373172436
+  },
+  {
+   "id": "6ae4b4bdd57704",
+   "name": "Navy Boy-Short Swimsuit",
+   "description": "A dark navy blue one-piece swimsuit features a scoop neckline, thick shoulder straps, and a boy-short cut. It is accented with contrasting blue and green side panels.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4b4bdd57704.webp",
+   "thumb": "thumbs/6ae4b4bdd57704.webp",
+   "addedAt": 1793373373107
+  },
+  {
+   "id": "6ae4b4bd966f6a",
+   "name": "Tropical Halter Swimsuit",
+   "description": "A black one-piece swimsuit features a halter neckline with a deep V-neck and a high-cut leg. It is decorated with a large tropical floral print in shades of purple, pink, and blue.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4b4bd966f6a.webp",
+   "thumb": "thumbs/6ae4b4bd966f6a.webp",
+   "addedAt": 1793373373108
+  },
+  {
+   "id": "6ae4b4bd58c3b7",
+   "name": "Magenta Bikini Set",
+   "description": "A solid magenta two-piece bikini features a triangle top with thin adjustable straps and a center cutout detail. It is paired with matching mid-rise bikini bottoms.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae4b4bd58c3b7.webp",
+   "thumb": "thumbs/6ae4b4bd58c3b7.webp",
+   "addedAt": 1793373373109
   }
  ],
  "categories": [
