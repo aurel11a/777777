@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793387150753,
+ "updatedAt": 1793387374505,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -11831,6 +11831,16 @@
    "image": "items/6ae4ea8d34e39b.webp",
    "thumb": "thumbs/6ae4ea8d34e39b.webp",
    "addedAt": 1793387149250
+  },
+  {
+   "id": "6ae4eb6d6b8c80",
+   "name": "Black Tassel Lingerie",
+   "description": "A black sheer two-piece lingerie set features a high-neck halter top with floral appliqués and a long beaded tassel hanging from the center. It is paired with matching sheer panties accented with side tassels and a long, sheer black cape.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae4eb6d6b8c80.webp",
+   "thumb": "thumbs/6ae4eb6d6b8c80.webp",
+   "addedAt": 1793387373541
   }
  ],
  "categories": [
