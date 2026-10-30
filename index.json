@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793393571483,
+ "updatedAt": 1793393620950,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12191,6 +12191,16 @@
    "image": "items/6ae503a2fb1156.webp",
    "thumb": "thumbs/6ae503a2fb1156.webp",
    "addedAt": 1793393570624
+  },
+  {
+   "id": "6ae503d34f1dcd",
+   "name": "Dark Buckle Coat",
+   "description": "A dark grey long coat with multiple strap and buckle details is worn open over a white wrapped chest binder. It is paired with black leather trousers featuring strappy thigh details and a black belt.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6ae503d34f1dcd.webp",
+   "thumb": "thumbs/6ae503d34f1dcd.webp",
+   "addedAt": 1793393619872
   }
  ],
  "categories": [
