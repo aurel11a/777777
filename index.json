@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793460145720,
+ "updatedAt": 1793460652940,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13101,6 +13101,46 @@
    "image": "items/6ae607b0af6b42.webp",
    "thumb": "thumbs/6ae607b0af6b42.webp",
    "addedAt": 1793460144671
+  },
+  {
+   "id": "6ae609ab00098e",
+   "name": "Ice Fairy Dress",
+   "description": "The outfit is a layered, light blue and white fairy dress with a fitted, jewel-embellished bodice and a voluminous, ruffled skirt featuring gold trim. It is accessorized with translucent, veined wings, a silver tiara, and blue strappy gladiator sandals.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae609ab00098e.webp",
+   "thumb": "thumbs/6ae609ab00098e.webp",
+   "addedAt": 1793460651828
+  },
+  {
+   "id": "6ae609ab4ba689",
+   "name": "Ethereal Butterfly Gown",
+   "description": "The outfit is an ethereal, floor-length gown in shades of light blue and lavender, featuring intricate butterfly appliqués and delicate beaded detailing. It is accented with voluminous, sheer draped sleeves and accessorized with a large, translucent winged backpiece and a floral crown.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae609ab4ba689.webp",
+   "thumb": "thumbs/6ae609ab4ba689.webp",
+   "addedAt": 1793460651829
+  },
+  {
+   "id": "6ae609ab135418",
+   "name": "Lavender Fairy Dress",
+   "description": "The outfit is a light purple, strapless fairy dress featuring a jeweled bodice and a voluminous, layered tulle skirt with silver sparkle details. It is accessorized with sheer purple wings, a floral headpiece with a veil, detached sheer arm sleeves, and purple ribbon-tied heels.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae609ab135418.webp",
+   "thumb": "thumbs/6ae609ab135418.webp",
+   "addedAt": 1793460651830
+  },
+  {
+   "id": "6ae609abffbe07",
+   "name": "Pink Fairy Gown",
+   "description": "The outfit is an ethereal fairy costume featuring a jeweled pink bodice, a short iridescent skirt, and long, flowing sheer pink panels. It is accessorized with large, translucent pink wings, a delicate floral crown, and sparkling strappy heels.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae609abffbe07.webp",
+   "thumb": "thumbs/6ae609abffbe07.webp",
+   "addedAt": 1793460651831
   }
  ],
  "categories": [
