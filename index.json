@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793484534769,
+ "updatedAt": 1793484923384,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14651,6 +14651,76 @@
    "image": "items/6ae666f523de42.webp",
    "thumb": "thumbs/6ae666f523de42.webp",
    "addedAt": 1793484533907
+  },
+  {
+   "id": "6ae6687af4971f",
+   "name": "Misprint",
+   "description": "A full-body yellow hazmat suit features an attached hood with a black gas mask and large, organic-looking white growths on the chest and leg. The outfit is completed with black gloves, a black utility belt, and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687af4971f.webp",
+   "thumb": "thumbs/6ae6687af4971f.webp",
+   "addedAt": 1793484922215
+  },
+  {
+   "id": "6ae6687a350390",
+   "name": "Remodelling Co. Employee",
+   "description": "A costume features a blue long-sleeve hooded top with a matching cap, worn under a light grey apron with silver buttons and a winged emblem. The outfit is completed with dark grey trousers, black gloves, and black boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687a350390.webp",
+   "thumb": "thumbs/6ae6687a350390.webp",
+   "addedAt": 1793484922216
+  },
+  {
+   "id": "6ae6687a106a57",
+   "name": "The Actor",
+   "description": "A full-body yellow protective suit features an all-over pattern of brown branches and bright pink flowers, an attached hood with a black gas mask, and a black utility belt. The outfit is completed with black gloves and brown lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687a106a57.webp",
+   "thumb": "thumbs/6ae6687a106a57.webp",
+   "addedAt": 1793484922217
+  },
+  {
+   "id": "6ae6687a939e24",
+   "name": "Lost in Transit",
+   "description": "A protective suit features a brown hooded jacket with yellow trim, a dark grey vest panel with pockets, and \"U.B.D.S.\" lettering. It is paired with matching brown trousers with yellow reflective stripes, a utility belt with pouches, black gloves, a gas mask, and black boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687a939e24.webp",
+   "thumb": "thumbs/6ae6687a939e24.webp",
+   "addedAt": 1793484922218
+  },
+  {
+   "id": "6ae6687a15364f",
+   "name": "Black Knight",
+   "description": "A futuristic tactical suit features a grey long-sleeve top with a black armored chest plate displaying a glowing blue symbol, and matching grey trousers with dark accents. The outfit is completed with a black helmet with glowing blue details, black gloves, a utility belt, and black boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687a15364f.webp",
+   "thumb": "thumbs/6ae6687a15364f.webp",
+   "addedAt": 1793484922219
+  },
+  {
+   "id": "6ae6687a2013af",
+   "name": "Entity 67",
+   "description": "A full-body yellow costume features a textured, stained surface with a crude red smiley face on the head and chest, along with tattered red cuffs. It is paired with a light purple utility belt, purple gloves, and purple rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687a2013af.webp",
+   "thumb": "thumbs/6ae6687a2013af.webp",
+   "addedAt": 1793484922220
+  },
+  {
+   "id": "6ae6687ad9991c",
+   "name": "Party Crasher",
+   "description": "A rugged outfit features a grey long-sleeve top with a blue chest panel, brown leather straps, and mismatched arm accents including red and yellow wraps. It is paired with grey cargo trousers, a brown utility belt with pouches, a blue helmet with a gas mask, and brown lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae6687ad9991c.webp",
+   "thumb": "thumbs/6ae6687ad9991c.webp",
+   "addedAt": 1793484922221
   }
  ],
  "categories": [
