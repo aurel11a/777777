@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793451691058,
+ "updatedAt": 1793459600670,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13001,6 +13001,36 @@
    "image": "items/6ae5e6a93212ee.webp",
    "thumb": "thumbs/6ae5e6a93212ee.webp",
    "addedAt": 1793451689538
+  },
+  {
+   "id": "6ae6058f631caa",
+   "name": "Pearl Mermaid Costume",
+   "description": "The outfit consists of an aqua top heavily draped with cascading pearl chains and a shimmering, iridescent mermaid tail skirt with large, flowing fins. It is accessorized with an elaborate shell and pearl headpiece featuring dangling earrings.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6058f631caa.webp",
+   "thumb": "thumbs/6ae6058f631caa.webp",
+   "addedAt": 1793459599847
+  },
+  {
+   "id": "6ae6058fc4c1af",
+   "name": "White Mermaid Costume",
+   "description": "The outfit is an all-white mermaid costume featuring an embellished corset top with beaded pearl straps and a long, textured mermaid tail skirt with large, fin-like details at the hips and a flared bottom. It is accessorized with a pearl choker and draped pearl chains.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6058fc4c1af.webp",
+   "thumb": "thumbs/6ae6058fc4c1af.webp",
+   "addedAt": 1793459599848
+  },
+  {
+   "id": "6ae6058fc0ea6c",
+   "name": "Iridescent Mermaid Set",
+   "description": "The outfit features an iridescent, sheer halter top embellished with ornate gold filigree and draped crystal chains, paired with a shimmering teal and gold scaled mermaid tail. It is accessorized with an elaborate gold and jeweled crown.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6058fc0ea6c.webp",
+   "thumb": "thumbs/6ae6058fc0ea6c.webp",
+   "addedAt": 1793459599849
   }
  ],
  "categories": [
