@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793472764903,
+ "updatedAt": 1793473910150,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13371,6 +13371,246 @@
    "image": "items/6ae638fbd9bc84.webp",
    "thumb": "thumbs/6ae638fbd9bc84.webp",
    "addedAt": 1793472763983
+  },
+  {
+   "id": "6ae63d7557dfc3",
+   "name": "Navy Blue Scrubs",
+   "description": "The outfit consists of a navy blue V-neck scrub top and matching scrub pants, layered over a long-sleeved light grey shirt. It is accessorized with a white ID badge clipped to the chest and white sneakers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae63d7557dfc3.webp",
+   "thumb": "thumbs/6ae63d7557dfc3.webp",
+   "addedAt": 1793473909124
+  },
+  {
+   "id": "6ae63d75705f3c",
+   "name": "Grey Pleated Dress",
+   "description": "The outfit features a white long-sleeved blouse with a collared V-neckline, layered beneath a dark grey strapless mini dress. The dress has a fitted bodice, a thin black belt with a silver buckle, and a pleated skirt.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae63d75705f3c.webp",
+   "thumb": "thumbs/6ae63d75705f3c.webp",
+   "addedAt": 1793473909125
+  },
+  {
+   "id": "6ae63d75cd3245",
+   "name": "White Button-Down Shirt",
+   "description": "The outfit consists of a crisp white long-sleeved button-down shirt with a small logo on the chest, paired with dark tailored trousers. It is accessorized with a dark wristwatch.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae63d75cd3245.webp",
+   "thumb": "thumbs/6ae63d75cd3245.webp",
+   "addedAt": 1793473909126
+  },
+  {
+   "id": "6ae63d750d73da",
+   "name": "Olive Bomber Jacket",
+   "description": "The outfit features an olive green ribbed bomber jacket with a contrasting tan collar, layered over a dark button-up shirt and a white undershirt. It is paired with loose-fitting, dark grey-green work trousers and black sneakers.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae63d750d73da.webp",
+   "thumb": "thumbs/6ae63d750d73da.webp",
+   "addedAt": 1793473909127
+  },
+  {
+   "id": "6ae63d75bf4215",
+   "name": "Beige Shirt & Grey Tie",
+   "description": "The outfit consists of a light beige long-sleeved button-down shirt with a chest pocket, paired with a grey textured tie and dark grey dress trousers. It is secured with a black leather belt featuring a silver buckle.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae63d75bf4215.webp",
+   "thumb": "thumbs/6ae63d75bf4215.webp",
+   "addedAt": 1793473909128
+  },
+  {
+   "id": "6ae63d75198c59",
+   "name": "Burgundy Top & Leather Jacket",
+   "description": "The outfit consists of a burgundy sleeveless high-neck top paired with dark wash flared jeans and a black leather jacket. It is accessorized with black leather block-heeled ankle boots and a dark brown crocodile-textured handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae63d75198c59.webp",
+   "thumb": "thumbs/6ae63d75198c59.webp",
+   "addedAt": 1793473909129
+  },
+  {
+   "id": "6ae63d751dc6f9",
+   "name": "Burgundy & Leather Outfit",
+   "description": "The outfit features a burgundy lace-trimmed camisole, a black leather motorcycle jacket, and a black pleated leather mini skirt with a studded belt. It is accessorized with black lace-up platform combat boots, a burgundy fringed scarf, a distressed dark handbag, and burgundy fuzzy earmuffs.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae63d751dc6f9.webp",
+   "thumb": "thumbs/6ae63d751dc6f9.webp",
+   "addedAt": 1793473909130
+  },
+  {
+   "id": "6ae63d75654ea1",
+   "name": "Circus Star Dress",
+   "description": "The outfit is a circus-themed dress featuring a navy blue velvet bodice with gold trim and a large gold bow, paired with burgundy puff sleeves. The skirt consists of burgundy velvet panels adorned with gold stars, layered over a patterned circus-print underskirt with red and blue pom-pom trim.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae63d75654ea1.webp",
+   "thumb": "thumbs/6ae63d75654ea1.webp",
+   "addedAt": 1793473909131
+  },
+  {
+   "id": "6ae63d7528524a",
+   "name": "White Clown Costume",
+   "description": "The outfit is a white clown costume featuring a ruffled collar, a long-sleeved top with large black pom-poms down the front, and a layered ruffled skirt. It is accessorized with a matching conical hat with black pom-poms, black and white striped tights, and oversized black ruffled shoes.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6ae63d7528524a.webp",
+   "thumb": "thumbs/6ae63d7528524a.webp",
+   "addedAt": 1793473909132
+  },
+  {
+   "id": "6ae63d758fbd47",
+   "name": "Burgundy Halter Set",
+   "description": "The outfit features a deep burgundy halter top with a plunging V-neckline and a draped tie at the waist, paired with a black mini skirt. It is accessorized with a silver chain belt, a shell necklace, and matching burgundy knee-high pointed-toe boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae63d758fbd47.webp",
+   "thumb": "thumbs/6ae63d758fbd47.webp",
+   "addedAt": 1793473909133
+  },
+  {
+   "id": "6ae63d7518db4f",
+   "name": "Cream Knit & Plaid Set",
+   "description": "The outfit features a cream cable-knit half-zip sweater paired with a brown plaid pleated mini skirt and dark opaque tights. It is accessorized with a long burgundy fringed scarf, chunky cream leg warmers, brown platform shoes, and a brown leather shoulder bag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae63d7518db4f.webp",
+   "thumb": "thumbs/6ae63d7518db4f.webp",
+   "addedAt": 1793473909134
+  },
+  {
+   "id": "6ae63d75b1f0ab",
+   "name": "White Button-Down Dress",
+   "description": "The outfit is a crisp white, knee-length dress featuring short sleeves, a collared V-neckline, and a button-down front. It is cinched at the waist with a matching belt and includes large patch pockets on the skirt.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae63d75b1f0ab.webp",
+   "thumb": "thumbs/6ae63d75b1f0ab.webp",
+   "addedAt": 1793473909135
+  },
+  {
+   "id": "6ae63d7514c697",
+   "name": "Navy Sweater Vest",
+   "description": "The outfit consists of a navy blue knit sweater vest layered over a white collared shirt with a dark tie, paired with a dark grey pleated mini skirt. It is accessorized with a delicate silver necklace.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae63d7514c697.webp",
+   "thumb": "thumbs/6ae63d7514c697.webp",
+   "addedAt": 1793473909136
+  },
+  {
+   "id": "6ae63d7541c035",
+   "name": "Burgundy Halter & Leather",
+   "description": "The outfit features a deep burgundy cowl-neck halter top paired with a black leather zip-up jacket and a dark grey denim mini skirt with a cross patch. It is accessorized with slouchy black leather heeled boots, a burgundy hobo bag, a gold chain necklace, a gold watch, and black sunglasses.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae63d7541c035.webp",
+   "thumb": "thumbs/6ae63d7541c035.webp",
+   "addedAt": 1793473909137
+  },
+  {
+   "id": "6ae63d7564c112",
+   "name": "Black & Pink Pleated Set",
+   "description": "The outfit features a fitted black long-sleeved top with a contrasting light pink collar and cuffs, paired with a matching light pink pleated mini skirt.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae63d7564c112.webp",
+   "thumb": "thumbs/6ae63d7564c112.webp",
+   "addedAt": 1793473909138
+  },
+  {
+   "id": "6ae63d75194e07",
+   "name": "Striped Knit Cardigan",
+   "description": "The outfit consists of a blue and white vertically striped zip-up knit cardigan layered over a white t-shirt. It is paired with loose-fitting black jeans and tan suede slip-on shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae63d75194e07.webp",
+   "thumb": "thumbs/6ae63d75194e07.webp",
+   "addedAt": 1793473909139
+  },
+  {
+   "id": "6ae63d752b689a",
+   "name": "Grey Suede Jacket",
+   "description": "The outfit consists of a grey suede zip-up jacket with a textured collar, layered over a mottled grey crewneck sweater. It is paired with black tailored trousers secured by a black belt and black leather boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae63d752b689a.webp",
+   "thumb": "thumbs/6ae63d752b689a.webp",
+   "addedAt": 1793473909140
+  },
+  {
+   "id": "6ae63d75cc2ead",
+   "name": "Pink Fur-Trim Jacket",
+   "description": "The outfit features a light pink jacket with thick white faux fur trim on the collar, lapels, and cuffs, layered over a pink top with a heart cutout. It is paired with pastel, multi-colored knit flared trousers and a fluffy white handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae63d75cc2ead.webp",
+   "thumb": "thumbs/6ae63d75cc2ead.webp",
+   "addedAt": 1793473909141
+  },
+  {
+   "id": "6ae63d754ed324",
+   "name": "Black Figure Skating Outfit",
+   "description": "The outfit consists of a fitted black short-sleeved top with a high collar and gold lettering, paired with matching black trousers featuring subtle sparkle details. It is accessorized with black gloves and black ice skates.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6ae63d754ed324.webp",
+   "thumb": "thumbs/6ae63d754ed324.webp",
+   "addedAt": 1793473909142
+  },
+  {
+   "id": "6ae63d75d4a7ea",
+   "name": "Navy Chore Jacket",
+   "description": "The outfit features a dark navy blue button-up jacket with large chest pockets, layered over a white top. It is paired with light wash blue jeans and tan work boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae63d75d4a7ea.webp",
+   "thumb": "thumbs/6ae63d75d4a7ea.webp",
+   "addedAt": 1793473909143
+  },
+  {
+   "id": "6ae63d75a52c89",
+   "name": "White Shirt & Grey Trousers",
+   "description": "The outfit consists of a crisp white long-sleeved button-down shirt tucked into dark grey tailored trousers, secured with a black leather belt featuring a silver buckle. It is accessorized with a silver wristwatch.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae63d75a52c89.webp",
+   "thumb": "thumbs/6ae63d75a52c89.webp",
+   "addedAt": 1793473909144
+  },
+  {
+   "id": "6ae63d75488760",
+   "name": "Cream Knit & Ruffle Skirt",
+   "description": "The outfit features an off-the-shoulder, cream-colored chunky knit sweater layered over a white ruffled tiered mini skirt. It is accessorized with white slouchy leg warmers, tan platform boots, a delicate pendant necklace, and a brown leather shoulder bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae63d75488760.webp",
+   "thumb": "thumbs/6ae63d75488760.webp",
+   "addedAt": 1793473909145
+  },
+  {
+   "id": "6ae63d75e5dd98",
+   "name": "White Fur-Trim Set",
+   "description": "The outfit consists of a white, long-sleeved jacket and a matching mini skirt, both heavily trimmed with thick white faux fur along the hem, cuffs, and collar. It is accessorized with white sheer tights, white over-the-knee socks, white platform Mary Jane heels, and a small white handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae63d75e5dd98.webp",
+   "thumb": "thumbs/6ae63d75e5dd98.webp",
+   "addedAt": 1793473909146
+  },
+  {
+   "id": "6ae63d7575f24c",
+   "name": "Pink Rose Knit Sweater",
+   "description": "The outfit features an oversized, cream-colored chunky knit sweater adorned with 3D pink rosettes, paired with cream leg warmers and light pink rubber rain boots. It is accessorized with white over-ear headphones decorated with a pink bow and a puffy light pink shoulder bag with a plush charm.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae63d7575f24c.webp",
+   "thumb": "thumbs/6ae63d7575f24c.webp",
+   "addedAt": 1793473909147
   }
  ],
  "categories": [
