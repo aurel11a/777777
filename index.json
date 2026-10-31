@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793485350806,
+ "updatedAt": 1793486898107,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14741,6 +14741,76 @@
    "image": "items/6ae66a25c6a2ee.webp",
    "thumb": "thumbs/6ae66a25c6a2ee.webp",
    "addedAt": 1793485349292
+  },
+  {
+   "id": "6ae67031092516",
+   "name": "Black and Red Military Coat",
+   "description": "A dark military-style outfit features a long black coat with gold trim, epaulets, and buttons, worn over a bright red top and dark trousers. The look is completed with a gold pendant necklace, a black belt, and tall black boots with buckle straps.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae67031092516.webp",
+   "thumb": "thumbs/6ae67031092516.webp",
+   "addedAt": 1793486897230
+  },
+  {
+   "id": "6ae670311aa3f9",
+   "name": "Rugged Leather Outfit",
+   "description": "A rugged fantasy outfit features a dark brown leather lace-up jacket with chainmail sleeves, worn over a light-colored undershirt. It is paired with dark brown trousers, a studded leather belt, black gloves, and tall brown leather boots with silver toe caps.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae670311aa3f9.webp",
+   "thumb": "thumbs/6ae670311aa3f9.webp",
+   "addedAt": 1793486897231
+  },
+  {
+   "id": "6ae67031b4addb",
+   "name": "Draped Fantasy Gown",
+   "description": "A fantasy outfit features a light grey-green draped top with a deep V-neck and brown off-the-shoulder puff sleeves. It is paired with a long, flowing tan skirt with side slits, a green rope belt, a pendant necklace, and brown strappy sandals.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae67031b4addb.webp",
+   "thumb": "thumbs/6ae67031b4addb.webp",
+   "addedAt": 1793486897232
+  },
+  {
+   "id": "6ae67031b4ca78",
+   "name": "Dark Navy Long Coat",
+   "description": "A dark navy outfit features a long, high-collared coat with button details, worn over matching dark trousers. The look is completed with a brown belt and brown leather boots with buckle straps.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae67031b4ca78.webp",
+   "thumb": "thumbs/6ae67031b4ca78.webp",
+   "addedAt": 1793486897233
+  },
+  {
+   "id": "6ae67031e9cd6a",
+   "name": "Dark Leather Fantasy Outfit",
+   "description": "A fantasy outfit features a dark brown leather lace-up vest with a hood, worn over a burgundy long-sleeve shirt with studded arm guards. It is paired with dark brown trousers accented by white geometric designs, a detailed belt, black gloves, and tall brown boots with silver toe caps.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae67031e9cd6a.webp",
+   "thumb": "thumbs/6ae67031e9cd6a.webp",
+   "addedAt": 1793486897234
+  },
+  {
+   "id": "6ae67031c4f408",
+   "name": "Teal Fantasy Gown",
+   "description": "A fantasy outfit features a dark teal fitted bodice with gold accents, off-the-shoulder puff sleeves, and gold forearm guards. It is paired with a long, high-slit skirt with gold trim and a draped back panel.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae67031c4f408.webp",
+   "thumb": "thumbs/6ae67031c4f408.webp",
+   "addedAt": 1793486897235
+  },
+  {
+   "id": "6ae67031aec2fe",
+   "name": "Fantasy Armor Set",
+   "description": "A fantasy armor set features a light grey corset-style bodice with gold accents and a layered skirt with side slits, worn over dark armored leggings and black and gold boots. The outfit is completed with dark metallic shoulder and arm guards, black gloves, a gold necklace, and a long light-colored hooded cape with gold symbols.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae67031aec2fe.webp",
+   "thumb": "thumbs/6ae67031aec2fe.webp",
+   "addedAt": 1793486897236
   }
  ],
  "categories": [
