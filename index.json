@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793483316810,
+ "updatedAt": 1793484534769,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14481,6 +14481,176 @@
    "image": "items/6ae66233c5a83b.webp",
    "thumb": "thumbs/6ae66233c5a83b.webp",
    "addedAt": 1793483315659
+  },
+  {
+   "id": "6ae666f59ad54d",
+   "name": "Wanderer - Blue",
+   "description": "A full-body bright blue hazmat suit features an attached hood, a symbol on the chest, and a black utility belt. The outfit is completed with black gloves and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f59ad54d.webp",
+   "thumb": "thumbs/6ae666f59ad54d.webp",
+   "addedAt": 1793484533891
+  },
+  {
+   "id": "6ae666f56d8e2c",
+   "name": "Golden Threads Wanderer",
+   "description": "A protective suit features a yellow and white hooded jacket with red graphic designs, a white belt, and dark maroon trousers. The outfit is completed with dark gloves, a white side pouch, a gas mask, and yellow lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f56d8e2c.webp",
+   "thumb": "thumbs/6ae666f56d8e2c.webp",
+   "addedAt": 1793484533892
+  },
+  {
+   "id": "6ae666f554bb01",
+   "name": "Wanderer - Red",
+   "description": "A full-body dark red hazmat suit features an attached hood, a faint symbol on the chest, and a black utility belt. The outfit is completed with black gloves and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f554bb01.webp",
+   "thumb": "thumbs/6ae666f554bb01.webp",
+   "addedAt": 1793484533893
+  },
+  {
+   "id": "6ae666f5d617ea",
+   "name": "Year of the Horse",
+   "description": "A protective suit features a red hooded jacket with gold knot patterns, yellow trim, and a gas mask with animal-like ears. It is paired with brown textured trousers, black gloves, a black side pouch, and brown boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f5d617ea.webp",
+   "thumb": "thumbs/6ae666f5d617ea.webp",
+   "addedAt": 1793484533894
+  },
+  {
+   "id": "6ae666f584590e",
+   "name": "Wanderer - Green",
+   "description": "A full-body bright green hazmat suit features an attached hood, a black biohazard symbol on the chest, and a black utility belt. The outfit is completed with black gloves and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f584590e.webp",
+   "thumb": "thumbs/6ae666f584590e.webp",
+   "addedAt": 1793484533895
+  },
+  {
+   "id": "6ae666f5ab71eb",
+   "name": "Jockey",
+   "description": "A protective suit features a yellow and white hooded jacket with red graphic designs, a white belt, and dark maroon trousers. The outfit is completed with dark gloves, a white side pouch, a gas mask, and yellow lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f5ab71eb.webp",
+   "thumb": "thumbs/6ae666f5ab71eb.webp",
+   "addedAt": 1793484533896
+  },
+  {
+   "id": "6ae666f58cd1e3",
+   "name": "Brocade Wanderer",
+   "description": "A full-body maroon protective suit features an attached hood with a black gas mask, yellow trim along the front closure and cuffs, and circular gauges on the chest. The outfit is completed with black gloves, a black side pouch, and dark rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f58cd1e3.webp",
+   "thumb": "thumbs/6ae666f58cd1e3.webp",
+   "addedAt": 1793484533897
+  },
+  {
+   "id": "6ae666f506d124",
+   "name": "Lantern Wanderer",
+   "description": "A full-body white protective suit features an all-over pink and red circular pattern, an attached hood with a gas mask, and a white utility belt. The outfit is completed with dark red gloves, a white side pouch, and dark red lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f506d124.webp",
+   "thumb": "thumbs/6ae666f506d124.webp",
+   "addedAt": 1793484533898
+  },
+  {
+   "id": "6ae666f58e0739",
+   "name": "Blitzen Wanderer",
+   "description": "A full-body brown reindeer costume features an attached hood with antlers, a light-colored belly patch, and a string of colorful lights draped across the chest. The outfit is completed with a black gas mask, a black utility belt, black gloves, and dark brown boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f58e0739.webp",
+   "thumb": "thumbs/6ae666f58e0739.webp",
+   "addedAt": 1793484533899
+  },
+  {
+   "id": "6ae666f582269a",
+   "name": "Festive Wanderer",
+   "description": "A Santa Claus costume features a red hooded suit with white fur trim, a black belt with a gold buckle, and a white beard over a gas mask. The outfit is completed with black gloves and black boots with gold buckles.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f582269a.webp",
+   "thumb": "thumbs/6ae666f582269a.webp",
+   "addedAt": 1793484533900
+  },
+  {
+   "id": "6ae666f5c1a5aa",
+   "name": "Cadal Wanderer",
+   "description": "A full-body dark blue protective suit features an all-over white star pattern, an attached hood with a black gas mask, and a circular graphic on the chest. The outfit is completed with black gloves, a black utility belt, and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f5c1a5aa.webp",
+   "thumb": "thumbs/6ae666f5c1a5aa.webp",
+   "addedAt": 1793484533901
+  },
+  {
+   "id": "6ae666f519f47d",
+   "name": "Lion Dance Wanderer",
+   "description": "A costume features a stylized animal mask with antlers, paired with a red long-sleeve top under a gold vest with a snake design and toggle closures. The outfit is completed with matching red trousers, a white belt, yellow gloves, and gold lace-up boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f519f47d.webp",
+   "thumb": "thumbs/6ae666f519f47d.webp",
+   "addedAt": 1793484533902
+  },
+  {
+   "id": "6ae666f56a216f",
+   "name": "Winter Wanderer - Green",
+   "description": "A full-body bright green protective suit features an all-over floral pattern, an attached hood with a black gas mask, and a faint biohazard symbol on the chest. The outfit is completed with black gloves, a black utility belt, and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f56a216f.webp",
+   "thumb": "thumbs/6ae666f56a216f.webp",
+   "addedAt": 1793484533903
+  },
+  {
+   "id": "6ae666f51786ef",
+   "name": "Jolly Wanderer",
+   "description": "A costume features a light grey long-sleeve top with red suspenders, paired with dark red trousers and a red hat with a patterned white brim. The outfit is completed with black gloves, a black gas mask, and dark brown boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f51786ef.webp",
+   "thumb": "thumbs/6ae666f51786ef.webp",
+   "addedAt": 1793484533904
+  },
+  {
+   "id": "6ae666f53efc91",
+   "name": "Winter Wanderer - Red",
+   "description": "A full-body red protective suit features an all-over pattern of candy canes and green wrapped candies, an attached hood with a black gas mask, and a symbol on the chest. The outfit is completed with black gloves, a black utility belt, and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f53efc91.webp",
+   "thumb": "thumbs/6ae666f53efc91.webp",
+   "addedAt": 1793484533905
+  },
+  {
+   "id": "6ae666f5792f7d",
+   "name": "Winter Wanderer - Blue",
+   "description": "A full-body bright blue protective suit features an all-over white snowflake pattern, an attached hood with a black gas mask, and a biohazard symbol on the chest. The outfit is completed with black gloves, a black utility belt, and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f5792f7d.webp",
+   "thumb": "thumbs/6ae666f5792f7d.webp",
+   "addedAt": 1793484533906
+  },
+  {
+   "id": "6ae666f523de42",
+   "name": "Cozy Wanderer",
+   "description": "A protective suit features a bright green hooded jacket with red and white patterned bands, a biohazard symbol on the chest, and a fur-trimmed hood over a gas mask. It is paired with matching green trousers, a dark belt, dark gloves, and brown lace-up boots with fur trim.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae666f523de42.webp",
+   "thumb": "thumbs/6ae666f523de42.webp",
+   "addedAt": 1793484533907
   }
  ],
  "categories": [
