@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793488665807,
+ "updatedAt": 1793488815898,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14921,6 +14921,16 @@
    "image": "items/6ae677186c483d.webp",
    "thumb": "thumbs/6ae677186c483d.webp",
    "addedAt": 1793488664954
+  },
+  {
+   "id": "6ae677aee5a7a4",
+   "name": "Pink Fuzzy Coat",
+   "description": "A light pink fuzzy coat with brown buttons is worn over a white textured top and matching shorts. The outfit is completed with sheer tights, a pink handbag, and white platform ankle-strap heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae677aee5a7a4.webp",
+   "thumb": "thumbs/6ae677aee5a7a4.webp",
+   "addedAt": 1793488814901
   }
  ],
  "categories": [
