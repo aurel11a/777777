@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793488947924,
+ "updatedAt": 1793489729717,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14951,6 +14951,66 @@
    "image": "items/6ae678339389c4.webp",
    "thumb": "thumbs/6ae678339389c4.webp",
    "addedAt": 1793488947023
+  },
+  {
+   "id": "6ae67b4021358c",
+   "name": "Grey Overcoat and Waistcoat",
+   "description": "A person wears a long grey textured overcoat with a dark contrasting collar over a black waistcoat and matching trousers, paired with a white shirt and a patterned tie. The outfit is completed with a grey flat cap, black leather gloves, and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b4021358c.webp",
+   "thumb": "thumbs/6ae67b4021358c.webp",
+   "addedAt": 1793489728428
+  },
+  {
+   "id": "6ae67b40558a52",
+   "name": "Charcoal Overcoat and Suit",
+   "description": "A person wears a long dark charcoal overcoat over a matching three-piece suit with a white shirt and a red patterned tie. The outfit is completed with a grey flat cap and black leather dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b40558a52.webp",
+   "thumb": "thumbs/6ae67b40558a52.webp",
+   "addedAt": 1793489728429
+  },
+  {
+   "id": "6ae67b4057d27d",
+   "name": "Brown Waistcoat and Suspenders",
+   "description": "A person wears a dark brown waistcoat and matching trousers with a gold chain detail, layered over a white long-sleeve shirt with rolled-up sleeves. The look is completed with black suspenders and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b4057d27d.webp",
+   "thumb": "thumbs/6ae67b4057d27d.webp",
+   "addedAt": 1793489728430
+  },
+  {
+   "id": "6ae67b40129cf0",
+   "name": "Pinstripe Suit and Overcoat",
+   "description": "A person wears a long dark overcoat with a burgundy lining over a blue pinstripe three-piece suit, a white shirt, and a maroon tie. The outfit is completed with a grey flat cap, black leather gloves, and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b40129cf0.webp",
+   "thumb": "thumbs/6ae67b40129cf0.webp",
+   "addedAt": 1793489728431
+  },
+  {
+   "id": "6ae67b40b0dd91",
+   "name": "Grey Three-Piece Suit",
+   "description": "A person wears a dark grey three-piece suit consisting of a blazer, waistcoat, and matching trousers, paired with a light blue shirt. The outfit is completed with a black flat cap and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b40b0dd91.webp",
+   "thumb": "thumbs/6ae67b40b0dd91.webp",
+   "addedAt": 1793489728432
+  },
+  {
+   "id": "6ae67b408e1d58",
+   "name": "Navy Overcoat and Waistcoat",
+   "description": "A person wears a long navy overcoat with a contrasting dark collar over a matching navy waistcoat and trousers, paired with a white shirt and a patterned tie. The outfit is completed with a navy flat cap and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae67b408e1d58.webp",
+   "thumb": "thumbs/6ae67b408e1d58.webp",
+   "addedAt": 1793489728433
   }
  ],
  "categories": [
