@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793481033283,
+ "updatedAt": 1793481267484,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14331,6 +14331,46 @@
    "image": "items/6ae65948f4e4e4.webp",
    "thumb": "thumbs/6ae65948f4e4e4.webp",
    "addedAt": 1793481032307
+  },
+  {
+   "id": "6ae65a3180ce43",
+   "name": "Burgundy Velvet Robe",
+   "description": "This long burgundy velvet robe features a diamond-quilted shawl collar, matching cuffs, and a waist belt with a black tassel. It includes a breast pocket and subtle quilting details on the side pockets.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6ae65a3180ce43.webp",
+   "thumb": "thumbs/6ae65a3180ce43.webp",
+   "addedAt": 1793481265990
+  },
+  {
+   "id": "6ae65a3125d266",
+   "name": "Brown Patterned Robe",
+   "description": "This long robe features a brown patterned fabric with contrast navy blue velvet shawl collar, cuffs, and waist belt. It also includes front pockets and light-colored piping along the edges.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6ae65a3125d266.webp",
+   "thumb": "thumbs/6ae65a3125d266.webp",
+   "addedAt": 1793481265991
+  },
+  {
+   "id": "6ae65a31017c28",
+   "name": "Grey Floral Robe",
+   "description": "This long robe features a dark grey floral patterned fabric with contrast navy velvet shawl collar, cuffs, and waist belt. It includes a chest pocket and gold-colored piping along the edges.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6ae65a31017c28.webp",
+   "thumb": "thumbs/6ae65a31017c28.webp",
+   "addedAt": 1793481265992
+  },
+  {
+   "id": "6ae65a318e508e",
+   "name": "Emerald Velvet Robe",
+   "description": "This long emerald green velvet robe features a diamond-quilted shawl collar, matching cuffs, and a waist belt with a black tassel. It includes a breast pocket and subtle quilting details on the side pockets.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6ae65a318e508e.webp",
+   "thumb": "thumbs/6ae65a318e508e.webp",
+   "addedAt": 1793481265993
   }
  ],
  "categories": [
