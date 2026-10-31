@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793447322998,
+ "updatedAt": 1793451691058,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12981,6 +12981,26 @@
    "image": "items/6ae5d599601310.webp",
    "thumb": "thumbs/6ae5d599601310.webp",
    "addedAt": 1793447321903
+  },
+  {
+   "id": "6ae5e6a9038b72",
+   "name": "Pink Fuzzy Cardigan",
+   "description": "The outfit features a light pink fuzzy cardigan with a darker pink abstract pattern and pearl button details, paired with a short, textured white skirt. It is accessorized with sheer tights and light pink pointed-toe kitten heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5e6a9038b72.webp",
+   "thumb": "thumbs/6ae5e6a9038b72.webp",
+   "addedAt": 1793451689537
+  },
+  {
+   "id": "6ae5e6a93212ee",
+   "name": "Blush Draped Gown",
+   "description": "The outfit features a light blush pink, floor-length gown with a flowing sheer overlay that creates a draped, asymmetrical top layer over a simple column skirt. It is accessorized with silver embellished heeled sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5e6a93212ee.webp",
+   "thumb": "thumbs/6ae5e6a93212ee.webp",
+   "addedAt": 1793451689538
   }
  ],
  "categories": [
