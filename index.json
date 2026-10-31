@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793484923384,
+ "updatedAt": 1793485350806,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14721,6 +14721,26 @@
    "image": "items/6ae6687ad9991c.webp",
    "thumb": "thumbs/6ae6687ad9991c.webp",
    "addedAt": 1793484922221
+  },
+  {
+   "id": "6ae66a2535597a",
+   "name": "Green Fantasy Tunic",
+   "description": "A dark green long-sleeve tunic features a high collar and decorative embroidered trim along the front placket and cuffs. It is paired with loose dark brown trousers, a wide brown leather belt with a circular buckle, and brown boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae66a2535597a.webp",
+   "thumb": "thumbs/6ae66a2535597a.webp",
+   "addedAt": 1793485349291
+  },
+  {
+   "id": "6ae66a25c6a2ee",
+   "name": "Pink Quilted Robe",
+   "description": "A long, light pink quilted down coat features a wrap-style front with a tied belt and wide sleeves. The padded fabric has an all-over embossed floral pattern and a textured collar.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae66a25c6a2ee.webp",
+   "thumb": "thumbs/6ae66a25c6a2ee.webp",
+   "addedAt": 1793485349292
   }
  ],
  "categories": [
