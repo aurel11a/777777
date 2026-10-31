@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793459600670,
+ "updatedAt": 1793460145720,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13031,6 +13031,76 @@
    "image": "items/6ae6058fc0ea6c.webp",
    "thumb": "thumbs/6ae6058fc0ea6c.webp",
    "addedAt": 1793459599849
+  },
+  {
+   "id": "6ae607b081ce7b",
+   "name": "Koi Merman Tail",
+   "description": "The outfit consists solely of a large, textured merman tail featuring a white, red, and black koi fish pattern with a flowing, translucent fin.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae607b081ce7b.webp",
+   "thumb": "thumbs/6ae607b081ce7b.webp",
+   "addedAt": 1793460144665
+  },
+  {
+   "id": "6ae607b0f7af90",
+   "name": "Icy Blue Mermaid Gown",
+   "description": "The outfit is a flowing, icy blue mermaid gown featuring a jewel-embellished bodice and a shimmering, scale-patterned tail skirt. It is accented with voluminous, sheer dark blue fabric that drapes dramatically from the arms and waist.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae607b0f7af90.webp",
+   "thumb": "thumbs/6ae607b0f7af90.webp",
+   "addedAt": 1793460144666
+  },
+  {
+   "id": "6ae607b063261a",
+   "name": "Iridescent Jeweled Mermaid Gown",
+   "description": "The outfit is an ethereal, iridescent mermaid gown featuring a heavily jeweled bodice and a shimmering, scale-patterned tail skirt. It is accented with voluminous, flowing sheer fabric in pastel pink, blue, and green hues, along with intricate gold filigree and cascading bead chains.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae607b063261a.webp",
+   "thumb": "thumbs/6ae607b063261a.webp",
+   "addedAt": 1793460144667
+  },
+  {
+   "id": "6ae607b0cd54d9",
+   "name": "Iridescent Merman Tail",
+   "description": "The outfit consists of a shimmering, iridescent green and gold mermaid tail with a translucent flared fin, accessorized with thick gold bands on the upper arms and wrists, along with small pearl and shell accents on the skin.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae607b0cd54d9.webp",
+   "thumb": "thumbs/6ae607b0cd54d9.webp",
+   "addedAt": 1793460144668
+  },
+  {
+   "id": "6ae607b08f4ed2",
+   "name": "Pink Jeweled Mermaid Gown",
+   "description": "The outfit is an elaborate, iridescent pink mermaid gown featuring a jewel-encrusted bodice and a shimmering scale-patterned tail skirt. It is accented with voluminous, sheer flowing fabric at the hips and long, draped beaded chains throughout.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae607b08f4ed2.webp",
+   "thumb": "thumbs/6ae607b08f4ed2.webp",
+   "addedAt": 1793460144669
+  },
+  {
+   "id": "6ae607b066690a",
+   "name": "Oceanic Beaded Gown",
+   "description": "The outfit is an elaborate, dark blue and teal gown featuring a heavily embellished bodice and a voluminous skirt with cascading, sheer, wave-like layers. It is intricately detailed with silver filigree, shimmering sequins, and long, draped beaded chains.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae607b066690a.webp",
+   "thumb": "thumbs/6ae607b066690a.webp",
+   "addedAt": 1793460144670
+  },
+  {
+   "id": "6ae607b0af6b42",
+   "name": "Fiery Mermaid Gown",
+   "description": "The outfit is a vibrant red and orange mermaid gown featuring a jeweled bodice and a shimmering, scale-patterned tail skirt. It is accented with voluminous sheer fabric, floral motifs, and draped beaded chains.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae607b0af6b42.webp",
+   "thumb": "thumbs/6ae607b0af6b42.webp",
+   "addedAt": 1793460144671
   }
  ],
  "categories": [
