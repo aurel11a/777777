@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793445304373,
+ "updatedAt": 1793447322998,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12971,6 +12971,16 @@
    "image": "items/6ae5cdb70cbfd7.webp",
    "thumb": "thumbs/6ae5cdb70cbfd7.webp",
    "addedAt": 1793445303208
+  },
+  {
+   "id": "6ae5d599601310",
+   "name": "White Scrub Set",
+   "description": "The outfit consists of a white short-sleeved medical scrub top with a V-neck and pockets, paired with matching white scrub pants. It is accessorized with a white quilted duffel bag, a pink stethoscope, and white chunky athletic sneakers.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6ae5d599601310.webp",
+   "thumb": "thumbs/6ae5d599601310.webp",
+   "addedAt": 1793447321903
   }
  ],
  "categories": [
