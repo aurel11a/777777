@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793462381512,
+ "updatedAt": 1793463282163,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13171,6 +13171,106 @@
    "image": "items/6ae6106c0499ef.webp",
    "thumb": "thumbs/6ae6106c0499ef.webp",
    "addedAt": 1793462380432
+  },
+  {
+   "id": "6ae613f103e26b",
+   "name": "Gold Shell Bra",
+   "description": "The outfit features a halter-style bra top with textured gold shell cups, accented by a central jewel and green leaf-like trim along the edges and straps.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f103e26b.webp",
+   "thumb": "thumbs/6ae613f103e26b.webp",
+   "addedAt": 1793463281068
+  },
+  {
+   "id": "6ae613f153f0d9",
+   "name": "Gold Crystal Bra",
+   "description": "The outfit consists of an ornate gold bra top heavily embellished with clear crystals and dangling teardrop pendants. It is accessorized with a matching gold and crystal statement necklace and thin gold shoulder chains.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f153f0d9.webp",
+   "thumb": "thumbs/6ae613f153f0d9.webp",
+   "addedAt": 1793463281069
+  },
+  {
+   "id": "6ae613f1357f7b",
+   "name": "Emerald Leaf Top",
+   "description": "The outfit is an emerald green and gold halter-style top designed with leaf-like cups and flowing side panels, all outlined with gold trim. It is accessorized with an ornate gold filigree choker featuring a central emerald and dangling gold fringe, along with a matching arm cuff.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f1357f7b.webp",
+   "thumb": "thumbs/6ae613f1357f7b.webp",
+   "addedAt": 1793463281070
+  },
+  {
+   "id": "6ae613f163609c",
+   "name": "Mermaid Shell Bra",
+   "description": "The outfit features an iridescent, shell-patterned bra top heavily embellished with silver rhinestones and a central starfish motif. It is accessorized with a draped pearl body chain and a delicate silver necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f163609c.webp",
+   "thumb": "thumbs/6ae613f163609c.webp",
+   "addedAt": 1793463281071
+  },
+  {
+   "id": "6ae613f1f336db",
+   "name": "Blue Starfish Top",
+   "description": "The outfit is a bikini-style top featuring large, textured blue starfish cups with white lace detailing and blue bead accents at the center. It is accessorized with thin, beaded halter straps and small green leafy accents at the sides.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f1f336db.webp",
+   "thumb": "thumbs/6ae613f1f336db.webp",
+   "addedAt": 1793463281072
+  },
+  {
+   "id": "6ae613f118f06a",
+   "name": "Blue Shell Bra",
+   "description": "The outfit features a vibrant blue, shell-patterned bra top adorned with silver rhinestone trim, an ornate jeweled centerpiece, and blue floral appliqués along the straps. It is accessorized with a draped body chain made of pearls and iridescent crystals.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f118f06a.webp",
+   "thumb": "thumbs/6ae613f118f06a.webp",
+   "addedAt": 1793463281073
+  },
+  {
+   "id": "6ae613f18c1115",
+   "name": "Gold Shell Corset",
+   "description": "The outfit is an intricate gold corset constructed from netting and heavily adorned with seashells, pearls, and starfish motifs. It features elaborate, dangling gold chain fringe and sculpted shell accents along the hips.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f18c1115.webp",
+   "thumb": "thumbs/6ae613f18c1115.webp",
+   "addedAt": 1793463281074
+  },
+  {
+   "id": "6ae613f1d9f8ea",
+   "name": "Green Starfish Top",
+   "description": "The outfit is an elaborate, textured green halter-style bra top featuring large starfish cups and intricate, cut-out seaweed-like designs along the band. It is heavily embellished with pearls, shells, and crystals, with beaded halter straps and hanging crystal pendants at the center.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f1d9f8ea.webp",
+   "thumb": "thumbs/6ae613f1d9f8ea.webp",
+   "addedAt": 1793463281075
+  },
+  {
+   "id": "6ae613f1bfd7b9",
+   "name": "Pink Starfish Top",
+   "description": "The outfit features a halter-style bra top with textured pink starfish cups and an intricate, cut-out blue wave design along the band. It is accessorized with a beaded necklace featuring dangling coins, a crystal pendant, and a central jeweled drop on the top.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f1bfd7b9.webp",
+   "thumb": "thumbs/6ae613f1bfd7b9.webp",
+   "addedAt": 1793463281076
+  },
+  {
+   "id": "6ae613f1a2b937",
+   "name": "Iridescent Scale Top",
+   "description": "The outfit is an iridescent blue and purple halter-style bra top covered in overlapping scale-like details, accented with sculpted teal floral and swirl motifs. It is paired with a netted overlay draped around the waist, adorned with hanging pearls and small shell charms.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae613f1a2b937.webp",
+   "thumb": "thumbs/6ae613f1a2b937.webp",
+   "addedAt": 1793463281077
   }
  ],
  "categories": [
