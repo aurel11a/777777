@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793400859526,
+ "updatedAt": 1793445304373,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -12871,6 +12871,106 @@
    "image": "items/6ae5201a6fc61b.webp",
    "thumb": "thumbs/6ae5201a6fc61b.webp",
    "addedAt": 1793400858114
+  },
+  {
+   "id": "6ae5cdb71d34aa",
+   "name": "Blue Floral Cheongsam",
+   "description": "The outfit is a white, form-fitting cheongsam-style dress featuring short sleeves, a high Mandarin collar, and a side slit, decorated with a blue floral pattern and matching blue trim. It is paired with white pointed-toe kitten heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae5cdb71d34aa.webp",
+   "thumb": "thumbs/6ae5cdb71d34aa.webp",
+   "addedAt": 1793445303199
+  },
+  {
+   "id": "6ae5cdb7ffce80",
+   "name": "Pink Kimono Set",
+   "description": "The outfit features a light pink, loose-fitting kimono-style jacket with wide sleeves and gold-patterned trim, tied at the waist with a thin string. It is paired with a matching pink satin maxi skirt and metallic gold strappy sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5cdb7ffce80.webp",
+   "thumb": "thumbs/6ae5cdb7ffce80.webp",
+   "addedAt": 1793445303200
+  },
+  {
+   "id": "6ae5cdb7e0ad22",
+   "name": "Teal Floral Slip Dress",
+   "description": "The outfit is a floor-length, teal and gold floral patterned slip dress with thin straps and delicate lace trim along the V-neckline. It is paired with metallic gold strappy heeled sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5cdb7e0ad22.webp",
+   "thumb": "thumbs/6ae5cdb7e0ad22.webp",
+   "addedAt": 1793445303201
+  },
+  {
+   "id": "6ae5cdb7128d50",
+   "name": "Brown Suede Set",
+   "description": "The outfit consists of a brown suede collared jacket paired with a matching brown suede A-line midi skirt. It is completed with dark brown knee-high leather boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5cdb7128d50.webp",
+   "thumb": "thumbs/6ae5cdb7128d50.webp",
+   "addedAt": 1793445303202
+  },
+  {
+   "id": "6ae5cdb7dc30ab",
+   "name": "Cream Floral Maxi Dress",
+   "description": "The outfit features a floor-length, cream-colored slip dress with a vibrant red and green floral print, featuring ruffled cap sleeves and a tie detail at the V-neckline. It is paired with simple brown flat thong sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5cdb7dc30ab.webp",
+   "thumb": "thumbs/6ae5cdb7dc30ab.webp",
+   "addedAt": 1793445303203
+  },
+  {
+   "id": "6ae5cdb704b240",
+   "name": "Blue Floral Midi Dress",
+   "description": "The outfit features a light blue, midi-length slip dress with thin straps and a ruffled neckline, decorated with large red floral prints. It is paired with black strappy flat sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae5cdb704b240.webp",
+   "thumb": "thumbs/6ae5cdb704b240.webp",
+   "addedAt": 1793445303204
+  },
+  {
+   "id": "6ae5cdb754ddac",
+   "name": "Brown Cow-Print Pants",
+   "description": "The outfit consists of a dark brown button-up jacket with a contrasting dark collar, layered over a simple white top. It is paired with wide-leg pants featuring a brown and cream cow-print pattern and brown pointed-toe kitten heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae5cdb754ddac.webp",
+   "thumb": "thumbs/6ae5cdb754ddac.webp",
+   "addedAt": 1793445303205
+  },
+  {
+   "id": "6ae5cdb7dab8e6",
+   "name": "Green Floral Peplum Set",
+   "description": "The outfit features a two-piece set consisting of a strapless, peplum-style top with a matching neckband and a floor-length column skirt, both in a green fabric with a large red floral pattern. It is paired with metallic gold strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae5cdb7dab8e6.webp",
+   "thumb": "thumbs/6ae5cdb7dab8e6.webp",
+   "addedAt": 1793445303206
+  },
+  {
+   "id": "6ae5cdb71deb1b",
+   "name": "Red Floral Slip Dress",
+   "description": "The outfit is a floor-length, form-fitting white slip dress adorned with a red floral pattern, featuring a scoop neckline with a small rosette detail. It is paired with red strappy heeled sandals.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae5cdb71deb1b.webp",
+   "thumb": "thumbs/6ae5cdb71deb1b.webp",
+   "addedAt": 1793445303207
+  },
+  {
+   "id": "6ae5cdb70cbfd7",
+   "name": "Olive Corduroy Jacket",
+   "description": "The outfit features a green corduroy button-up jacket worn open over a textured olive green sweater, paired with loose-fitting brown satin trousers. It is completed with brown leather pointed-toe boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae5cdb70cbfd7.webp",
+   "thumb": "thumbs/6ae5cdb70cbfd7.webp",
+   "addedAt": 1793445303208
   }
  ],
  "categories": [
