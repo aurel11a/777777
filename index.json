@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793463282163,
+ "updatedAt": 1793472764903,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13271,6 +13271,106 @@
    "image": "items/6ae613f1a2b937.webp",
    "thumb": "thumbs/6ae613f1a2b937.webp",
    "addedAt": 1793463281077
+  },
+  {
+   "id": "6ae638fba3296e",
+   "name": "Draped Tulle Gown",
+   "description": "The outfit is a white, floor-length gown featuring a draped, off-the-shoulder bodice with ruffled sleeve accents and a fitted skirt. It is layered with a voluminous, sheer tulle cape that extends into a long, flowing train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae638fba3296e.webp",
+   "thumb": "thumbs/6ae638fba3296e.webp",
+   "addedAt": 1793472763974
+  },
+  {
+   "id": "6ae638fbbd733e",
+   "name": "White Cape Coat",
+   "description": "The outfit features a white cape-style jacket with a high collar, layered over a short beige skirt and black opaque tights. It is accessorized with white gloves, tall white pointed-toe boots, and a white tote bag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae638fbbd733e.webp",
+   "thumb": "thumbs/6ae638fbbd733e.webp",
+   "addedAt": 1793472763975
+  },
+  {
+   "id": "6ae638fb4227b6",
+   "name": "White Lace Mini Dress",
+   "description": "The outfit is a white, strapless mini dress featuring a fitted lace bodice and a voluminous, tiered skirt with ruffled lace trim and hanging pearl accents. It is completed with a large bow at the back and a delicate pendant necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae638fb4227b6.webp",
+   "thumb": "thumbs/6ae638fb4227b6.webp",
+   "addedAt": 1793472763976
+  },
+  {
+   "id": "6ae638fbb1b265",
+   "name": "Cream Knit Set",
+   "description": "The outfit consists of an oversized, cream-colored knit sweater with a high neckline and long, bulky sleeves, paired with matching knit shorts. It is accessorized with tall, ribbed cream leg warmers and fluffy white boots.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae638fbb1b265.webp",
+   "thumb": "thumbs/6ae638fbb1b265.webp",
+   "addedAt": 1793472763977
+  },
+  {
+   "id": "6ae638fb01c8f5",
+   "name": "Pink Floral Cape Gown",
+   "description": "The outfit is a floor-length, light pink gown covered in textured floral appliqués, featuring a fitted bodice and short sleeves. It is layered with a sheer, flowing tulle cape that extends into a long train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae638fb01c8f5.webp",
+   "thumb": "thumbs/6ae638fb01c8f5.webp",
+   "addedAt": 1793472763978
+  },
+  {
+   "id": "6ae638fb92c851",
+   "name": "White Bell-Sleeve Set",
+   "description": "The outfit features a white tunic top with a sweetheart neckline, decorated with small red motifs and red trim along the edges. It is paired with matching white flared trousers and dramatic, sheer bell sleeves with ruffled red-trimmed hems.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae638fb92c851.webp",
+   "thumb": "thumbs/6ae638fb92c851.webp",
+   "addedAt": 1793472763979
+  },
+  {
+   "id": "6ae638fb2c177f",
+   "name": "Pink Fur-Trim Dress",
+   "description": "The outfit features a light pink, short-sleeved mini dress with a ruffled hem, layered under a fluffy white faux fur shawl. It is accessorized with white opaque tights and white lace-up boots with fur trim.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae638fb2c177f.webp",
+   "thumb": "thumbs/6ae638fb2c177f.webp",
+   "addedAt": 1793472763980
+  },
+  {
+   "id": "6ae638fbf2fcd9",
+   "name": "Black Fur-Trim Coat",
+   "description": "The outfit features a black, double-breasted mini coat dress with a white faux fur collar and matching fur cuffs. It is paired with black lace tights, black leather gloves, and black knee-high boots with white fur trim.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae638fbf2fcd9.webp",
+   "thumb": "thumbs/6ae638fbf2fcd9.webp",
+   "addedAt": 1793472763981
+  },
+  {
+   "id": "6ae638fb300235",
+   "name": "Denim & White Trousers",
+   "description": "The outfit consists of a light blue denim jacket with white faux fur trim on the collar and cuffs, layered over a fitted white top. It is paired with high-waisted, wide-leg white trousers and white pointed-toe heeled ankle boots, accessorized with a matching light blue shoulder bag and silver jewelry.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae638fb300235.webp",
+   "thumb": "thumbs/6ae638fb300235.webp",
+   "addedAt": 1793472763982
+  },
+  {
+   "id": "6ae638fbd9bc84",
+   "name": "White Bow Mini Dress",
+   "description": "The outfit is a white, strapless mini dress featuring a fitted bodice with floral embroidery and a full, flared skirt. It is accented with a large, dramatic bow at the back and a sheer, flowing train attached at the waist.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae638fbd9bc84.webp",
+   "thumb": "thumbs/6ae638fbd9bc84.webp",
+   "addedAt": 1793472763983
   }
  ],
  "categories": [
