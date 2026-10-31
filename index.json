@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793460652940,
+ "updatedAt": 1793462381512,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -13141,6 +13141,36 @@
    "image": "items/6ae609abffbe07.webp",
    "thumb": "thumbs/6ae609abffbe07.webp",
    "addedAt": 1793460651831
+  },
+  {
+   "id": "6ae6106cf78df4",
+   "name": "Pearl Corset Top",
+   "description": "The outfit is an ornate, sheer white corset-style top heavily embellished with gold filigree and draped with cascading pearl chains and crystal pendants. It is accessorized with a matching pearl choker necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6106cf78df4.webp",
+   "thumb": "thumbs/6ae6106cf78df4.webp",
+   "addedAt": 1793462380430
+  },
+  {
+   "id": "6ae6106c7f79b5",
+   "name": "Ruby Filigree Top",
+   "description": "The outfit features a red and silver filigree halter-style bra top with draped red beaded chains, paired with a black skirt adorned with silver floral embroidery. It is accessorized with a matching red and silver choker and a thin, layered silver waist chain.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6106c7f79b5.webp",
+   "thumb": "thumbs/6ae6106c7f79b5.webp",
+   "addedAt": 1793462380431
+  },
+  {
+   "id": "6ae6106c0499ef",
+   "name": "Iridescent Body Chain",
+   "description": "The outfit consists of an ornate gold body chain harness featuring iridescent, wing-like cups and delicate crystal drop pendants. It is accessorized with a matching crystal-embellished choker and layered chain belts that drape across the torso and hips.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6106c0499ef.webp",
+   "thumb": "thumbs/6ae6106c0499ef.webp",
+   "addedAt": 1793462380432
   }
  ],
  "categories": [
