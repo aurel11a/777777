@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793488293629,
+ "updatedAt": 1793488665807,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14841,6 +14841,86 @@
    "image": "items/6ae675a4ae6225.webp",
    "thumb": "thumbs/6ae675a4ae6225.webp",
    "addedAt": 1793488292529
+  },
+  {
+   "id": "6ae67718969f9b",
+   "name": "Layered Fantasy Tunic",
+   "description": "A fantasy outfit features a layered beige and light brown tunic with an asymmetrical hem and a patterned lower panel, worn over long sleeves with silver bracers. The look is completed with a wide brown belt, a decorative gold collar piece, and dark trousers with brown boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae67718969f9b.webp",
+   "thumb": "thumbs/6ae67718969f9b.webp",
+   "addedAt": 1793488664947
+  },
+  {
+   "id": "6ae67718f9bfc7",
+   "name": "Fantasy Knight Tabard",
+   "description": "A fantasy outfit features a dark grey and maroon tabard with gold embroidery and a decorative belt, worn over a chainmail shirt with studded leather bracers. The look is completed with dark trousers, grey boots, and a long sword.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae67718f9bfc7.webp",
+   "thumb": "thumbs/6ae67718f9bfc7.webp",
+   "addedAt": 1793488664948
+  },
+  {
+   "id": "6ae67718e7c710",
+   "name": "Distressed Corset Dress",
+   "description": "A historical-style outfit features a distressed light blue long-sleeve dress with a V-neck and prominent dark stitching details. It is worn with a brown lace-up corset over the bodice and has side slits at the hem.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae67718e7c710.webp",
+   "thumb": "thumbs/6ae67718e7c710.webp",
+   "addedAt": 1793488664949
+  },
+  {
+   "id": "6ae67718cc38c4",
+   "name": "Dark Long Coat Outfit",
+   "description": "A fantasy outfit features a long open dark grey coat with decorative trim, worn over a brown patterned tunic. It is paired with dark trousers, a wide grey waist sash, a cross-body leather strap, and light-colored wrapped leg bindings with brown shoes.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae67718cc38c4.webp",
+   "thumb": "thumbs/6ae67718cc38c4.webp",
+   "addedAt": 1793488664950
+  },
+  {
+   "id": "6ae6771827215d",
+   "name": "Brown Corset and Apron",
+   "description": "A historical-style outfit features a reddish-brown lace-up corset over a light beige long-sleeve tunic. It is paired with a long brown apron layered over an olive green skirt and accessorized with a brown leather utility belt with pouches.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae6771827215d.webp",
+   "thumb": "thumbs/6ae6771827215d.webp",
+   "addedAt": 1793488664951
+  },
+  {
+   "id": "6ae67718b4c418",
+   "name": "Brown Quilted Tunic",
+   "description": "A fantasy outfit features a long brown quilted tunic with orange trim and a V-neck, worn over a lighter undershirt. The look is completed with a brown leather belt, matching brown trousers, and brown boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae67718b4c418.webp",
+   "thumb": "thumbs/6ae67718b4c418.webp",
+   "addedAt": 1793488664952
+  },
+  {
+   "id": "6ae677183f7ddc",
+   "name": "Green Hooded Dress",
+   "description": "A historical-style outfit features an olive green hooded dress with a lace-up bodice and a white undershirt with ruffled sleeves. It is paired with a matching green over-skirt and a long white front panel.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae677183f7ddc.webp",
+   "thumb": "thumbs/6ae677183f7ddc.webp",
+   "addedAt": 1793488664953
+  },
+  {
+   "id": "6ae677186c483d",
+   "name": "Rugged Leather Vest",
+   "description": "A rugged fantasy outfit features a distressed brown leather vest with a V-neck, worn over a green long-sleeve shirt. It is paired with patterned brown trousers, a brown leather belt with a pouch, and brown strappy boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae677186c483d.webp",
+   "thumb": "thumbs/6ae677186c483d.webp",
+   "addedAt": 1793488664954
   }
  ],
  "categories": [
