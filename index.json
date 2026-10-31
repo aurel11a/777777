@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793490567944,
+ "updatedAt": 1793491099070,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15051,6 +15051,66 @@
    "image": "items/6ae67e861eea95.webp",
    "thumb": "thumbs/6ae67e861eea95.webp",
    "addedAt": 1793490566746
+  },
+  {
+   "id": "6ae6809934d48d",
+   "name": "Brown Blazer and Trousers",
+   "description": "A person wears a dark brown oversized blazer over an unbuttoned white dress shirt, paired with matching dark brown pleated trousers and a brown belt. The outfit is completed with black leather dress shoes.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae6809934d48d.webp",
+   "thumb": "thumbs/6ae6809934d48d.webp",
+   "addedAt": 1793491097913
+  },
+  {
+   "id": "6ae68099a3d85c",
+   "name": "Black Overcoat and Grey Suit",
+   "description": "A person wears a long black overcoat over a grey waistcoat and matching trousers, paired with a white shirt and a green tie. The outfit is completed with black leather gloves and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae68099a3d85c.webp",
+   "thumb": "thumbs/6ae68099a3d85c.webp",
+   "addedAt": 1793491097914
+  },
+  {
+   "id": "6ae68099c2eee8",
+   "name": "Brown Waistcoat and Trousers",
+   "description": "A person wears a dark brown waistcoat and matching trousers over a white long-sleeve shirt with rolled-up sleeves. The outfit is completed with a pocket watch chain and black boots.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae68099c2eee8.webp",
+   "thumb": "thumbs/6ae68099c2eee8.webp",
+   "addedAt": 1793491097915
+  },
+  {
+   "id": "6ae6809960ba49",
+   "name": "Black Overcoat and Grey Waistcoat",
+   "description": "A person wears a long black overcoat over a grey textured waistcoat and matching trousers, paired with a white shirt and a dark blue tie. The outfit is completed with a pocket watch chain and black dress shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae6809960ba49.webp",
+   "thumb": "thumbs/6ae6809960ba49.webp",
+   "addedAt": 1793491097916
+  },
+  {
+   "id": "6ae68099d5be56",
+   "name": "Navy Pinstripe Three-Piece Suit",
+   "description": "A person wears a navy pinstripe three-piece suit consisting of a blazer, buttoned waistcoat, and matching trousers, paired with a white shirt and a gold tie. The outfit is completed with a pocket watch chain, a white pocket square, and brown leather brogue shoes.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6ae68099d5be56.webp",
+   "thumb": "thumbs/6ae68099d5be56.webp",
+   "addedAt": 1793491097917
+  },
+  {
+   "id": "6ae6809913e80b",
+   "name": "Black Tuxedo and Bow Tie",
+   "description": "A person wears a black tuxedo jacket with satin lapels over a white pleated dress shirt and a black bow tie, paired with matching black trousers. The outfit is completed with black leather dress shoes.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6ae6809913e80b.webp",
+   "thumb": "thumbs/6ae6809913e80b.webp",
+   "addedAt": 1793491097918
   }
  ],
  "categories": [
