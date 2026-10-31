@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793481937371,
+ "updatedAt": 1793483316810,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -14471,6 +14471,16 @@
    "image": "items/6ae65cd0aa10fd.webp",
    "thumb": "thumbs/6ae65cd0aa10fd.webp",
    "addedAt": 1793481936474
+  },
+  {
+   "id": "6ae66233c5a83b",
+   "name": "Wanderer",
+   "description": "A full-body bright yellow hazmat suit features an attached hood, a black biohazard symbol on the chest, and a black utility belt. The outfit is completed with black gloves and black rubber boots.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6ae66233c5a83b.webp",
+   "thumb": "thumbs/6ae66233c5a83b.webp",
+   "addedAt": 1793483315659
   }
  ],
  "categories": [
