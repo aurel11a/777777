@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793491716405,
+ "updatedAt": 1793491917773,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15211,6 +15211,16 @@
    "image": "items/6ae68303faa6d7.webp",
    "thumb": "thumbs/6ae68303faa6d7.webp",
    "addedAt": 1793491715073
+  },
+  {
+   "id": "6ae683cc25fb2b",
+   "name": "WWII Medic Uniform",
+   "description": "An olive drab military uniform features a long-sleeved button-up field jacket with a red cross armband and matching cargo trousers. The look includes a green combat helmet, black leather combat boots, a tan canvas suspender belt with ammunition pouches, a canteen, and a canvas medical satchel.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae683cc25fb2b.webp",
+   "thumb": "thumbs/6ae683cc25fb2b.webp",
+   "addedAt": 1793491916867
   }
  ],
  "categories": [
