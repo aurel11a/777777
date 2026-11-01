@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793492551885,
+ "updatedAt": 1793542216336,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15261,6 +15261,106 @@
    "image": "items/6ae68646b990f0.webp",
    "thumb": "thumbs/6ae68646b990f0.webp",
    "addedAt": 1793492550896
+  },
+  {
+   "id": "6ae74847cf2c11",
+   "name": "Deer Print Bikini",
+   "description": "A white ribbed two-piece bikini features a triangle halter top and matching tie-side bottoms, both printed with images of deer. The set is accented with small pink bows at the straps and center waist.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae74847cf2c11.webp",
+   "thumb": "thumbs/6ae74847cf2c11.webp",
+   "addedAt": 1793542215438
+  },
+  {
+   "id": "6ae74847af7064",
+   "name": "Fawn Fur Set",
+   "description": "A brown and white fawn-print faux fur hooded jacket features a front zip and a black ribbon bow at the neck. It is paired with a black mini skirt, sheer black floral lace tights, and matching fawn-print boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae74847af7064.webp",
+   "thumb": "thumbs/6ae74847af7064.webp",
+   "addedAt": 1793542215439
+  },
+  {
+   "id": "6ae74847ac3c9a",
+   "name": "Fawn Lace Swimsuit",
+   "description": "A brown and white fawn-print two-piece swimsuit features a triangle halter top with white lace trim and pink string ties. It is paired with matching high-waisted bottoms with lace-up side details, ruffled edges, and pink string ties.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae74847ac3c9a.webp",
+   "thumb": "thumbs/6ae74847ac3c9a.webp",
+   "addedAt": 1793542215440
+  },
+  {
+   "id": "6ae74847f6c04c",
+   "name": "Bambi Costume Set",
+   "description": "A brown faux leather corset top is paired with matching fuzzy fawn-print shorts, leg warmers, and tan boots. The look is accessorized with brown fingerless gloves and a floral branch headpiece.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae74847f6c04c.webp",
+   "thumb": "thumbs/6ae74847f6c04c.webp",
+   "addedAt": 1793542215441
+  },
+  {
+   "id": "6ae74847a4db10",
+   "name": "Fawn Fur Jacket",
+   "description": "A tan and white fawn-print faux fur hooded jacket features an open front and front pockets. It is paired with a white tiered mini skirt, white heart-patterned tights, and tall white slouchy fur boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae74847a4db10.webp",
+   "thumb": "thumbs/6ae74847a4db10.webp",
+   "addedAt": 1793542215442
+  },
+  {
+   "id": "6ae748479f0b45",
+   "name": "Fawn Print Jacket",
+   "description": "A brown and white fawn-print hooded zip-up jacket is paired with a dark brown mini skirt featuring heart-shaped pockets. The look includes brown cable-knit leg warmers, brown slip-on shoes, a brown deer-embellished crossbody bag, and a green fuzzy earmuff headband with antlers.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae748479f0b45.webp",
+   "thumb": "thumbs/6ae748479f0b45.webp",
+   "addedAt": 1793542215443
+  },
+  {
+   "id": "6ae7484750ff8f",
+   "name": "Yellow Fawn Outfit",
+   "description": "A light yellow button-up cardigan is worn open over a cream t-shirt featuring a deer graphic. It is paired with brown and white fawn-print trousers with cuffed hems.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae7484750ff8f.webp",
+   "thumb": "thumbs/6ae7484750ff8f.webp",
+   "addedAt": 1793542215444
+  },
+  {
+   "id": "6ae74847e325b2",
+   "name": "Fawn Print Bikini",
+   "description": "A brown and white fawn-print two-piece bikini features a triangle halter top and matching tie-side bottoms, both accented with white string straps.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae74847e325b2.webp",
+   "thumb": "thumbs/6ae74847e325b2.webp",
+   "addedAt": 1793542215445
+  },
+  {
+   "id": "6ae74847ef53b5",
+   "name": "Fawn Fur Coat",
+   "description": "A light brown and cream fawn-print faux fur hooded coat features black toggle closures and a satin-lined hood. It is paired with a brown plaid ruffled skirt, cream knit leg warmers, and tan suede platform boots, accessorized with a matching fawn-print handbag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae74847ef53b5.webp",
+   "thumb": "thumbs/6ae74847ef53b5.webp",
+   "addedAt": 1793542215446
+  },
+  {
+   "id": "6ae74847c18f2c",
+   "name": "Fawn Fuzzy Jacket",
+   "description": "A tan and white fawn-print fuzzy jacket features a wide collar and long sleeves. It is layered over a white lace-trimmed top and paired with loose-fitting light wash blue jeans.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae74847c18f2c.webp",
+   "thumb": "thumbs/6ae74847c18f2c.webp",
+   "addedAt": 1793542215447
   }
  ],
  "categories": [
