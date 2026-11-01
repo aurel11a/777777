@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793542216336,
+ "updatedAt": 1793543541606,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15361,6 +15361,46 @@
    "image": "items/6ae74847c18f2c.webp",
    "thumb": "thumbs/6ae74847c18f2c.webp",
    "addedAt": 1793542215447
+  },
+  {
+   "id": "6ae74d7412e51e",
+   "name": "Classic Black Tuxedo",
+   "description": "A black tuxedo jacket with a white pocket square and a white floral boutonnière is worn over a white pleated dress shirt and a black bow tie. It includes a black cummerbund and is paired with matching black trousers and black leather dress shoes.",
+   "type": "wedding",
+   "gender": "male",
+   "image": "items/6ae74d7412e51e.webp",
+   "thumb": "thumbs/6ae74d7412e51e.webp",
+   "addedAt": 1793543540388
+  },
+  {
+   "id": "6ae74d74e13550",
+   "name": "Black Tailcoat",
+   "description": "A black tailcoat with a cutaway front is worn over a white dress shirt, a white waistcoat with buttons, and a white bow tie. It is paired with black pleated trousers and black leather dress shoes.",
+   "type": "wedding",
+   "gender": "male",
+   "image": "items/6ae74d74e13550.webp",
+   "thumb": "thumbs/6ae74d74e13550.webp",
+   "addedAt": 1793543540389
+  },
+  {
+   "id": "6ae74d74fa7144",
+   "name": "Cream Dinner Jacket",
+   "description": "A cream single-breasted dinner jacket with a white floral boutonnière is worn with a white dress shirt and a black bow tie. It is paired with black tailored trousers and black leather dress shoes.",
+   "type": "wedding",
+   "gender": "male",
+   "image": "items/6ae74d74fa7144.webp",
+   "thumb": "thumbs/6ae74d74fa7144.webp",
+   "addedAt": 1793543540390
+  },
+  {
+   "id": "6ae74d74878c80",
+   "name": "Navy Three-Piece Suit",
+   "description": "A navy blue three-piece suit features a tailored jacket with a white floral boutonnière, a matching buttoned waistcoat with a silver pocket watch chain, and wide-leg trousers. It is worn with a white dress shirt, a dark navy tie, and brown leather brogue shoes.",
+   "type": "wedding",
+   "gender": "male",
+   "image": "items/6ae74d74878c80.webp",
+   "thumb": "thumbs/6ae74d74878c80.webp",
+   "addedAt": 1793543540391
   }
  ],
  "categories": [
