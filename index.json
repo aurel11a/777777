@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793491917773,
+ "updatedAt": 1793492080219,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15221,6 +15221,16 @@
    "image": "items/6ae683cc25fb2b.webp",
    "thumb": "thumbs/6ae683cc25fb2b.webp",
    "addedAt": 1793491916867
+  },
+  {
+   "id": "6ae6846f47e631",
+   "name": "Black Leather Overcoat",
+   "description": "A long black leather overcoat with a wide collar is worn over an olive green military tunic and matching trousers. The uniform includes a black peaked cap with an emblem, black leather gloves, black boots, and a brown leather document folder.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae6846f47e631.webp",
+   "thumb": "thumbs/6ae6846f47e631.webp",
+   "addedAt": 1793492079368
   }
  ],
  "categories": [
