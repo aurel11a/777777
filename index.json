@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793492440295,
+ "updatedAt": 1793492551885,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15251,6 +15251,16 @@
    "image": "items/6ae685d7c54ab1.webp",
    "thumb": "thumbs/6ae685d7c54ab1.webp",
    "addedAt": 1793492439460
+  },
+  {
+   "id": "6ae68646b990f0",
+   "name": "Pink Ruffle Swimsuit",
+   "description": "A light pink one-piece swimsuit features thin spaghetti straps and ruffled pink trim along the V-neckline and underbust. It has a fitted silhouette with a high-cut leg.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae68646b990f0.webp",
+   "thumb": "thumbs/6ae68646b990f0.webp",
+   "addedAt": 1793492550896
   }
  ],
  "categories": [
