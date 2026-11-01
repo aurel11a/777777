@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793492080219,
+ "updatedAt": 1793492392146,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15231,6 +15231,16 @@
    "image": "items/6ae6846f47e631.webp",
    "thumb": "thumbs/6ae6846f47e631.webp",
    "addedAt": 1793492079368
+  },
+  {
+   "id": "6ae685a6e3fd29",
+   "name": "Black Leather Trench",
+   "description": "A long black leather trench coat with wide lapels is worn over a dark suit, a white dress shirt, and a dark tie. The outfit includes tall black leather riding boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae685a6e3fd29.webp",
+   "thumb": "thumbs/6ae685a6e3fd29.webp",
+   "addedAt": 1793492390609
   }
  ],
  "categories": [
