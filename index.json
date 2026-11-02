@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793626895672,
+ "updatedAt": 1793631048332,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15941,6 +15941,106 @@
    "image": "items/6ae8930ef5ecfe.webp",
    "thumb": "thumbs/6ae8930ef5ecfe.webp",
    "addedAt": 1793626894680
+  },
+  {
+   "id": "6ae8a3479bcfc6",
+   "name": "White Satin Mermaid",
+   "description": "A white satin mermaid gown features an off-the-shoulder neckline with gathered puff sleeves and cutout details at the waist. The fitted skirt flares at the knee into a floor-length hem, accessorized with a long sheer veil and a pearl necklace.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a3479bcfc6.webp",
+   "thumb": "thumbs/6ae8a3479bcfc6.webp",
+   "addedAt": 1793631047089
+  },
+  {
+   "id": "6ae8a347482653",
+   "name": "White Tulle Gown",
+   "description": "A white floor-length gown features a strapless neckline with a ruffled tulle trim and a fitted, mermaid-style silhouette. It is accessorized with detached sheer tulle sleeves adorned with hanging pearl details and a delicate necklace.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a347482653.webp",
+   "thumb": "thumbs/6ae8a347482653.webp",
+   "addedAt": 1793631047090
+  },
+  {
+   "id": "6ae8a3470ff762",
+   "name": "White Floral Tulle",
+   "description": "A floor-length white gown features a sheer lace bodice with an off-the-shoulder neckline and voluminous puff sleeves. The full tulle skirt and bodice are heavily embellished with three-dimensional floral appliqués.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a3470ff762.webp",
+   "thumb": "thumbs/6ae8a3470ff762.webp",
+   "addedAt": 1793631047091
+  },
+  {
+   "id": "6ae8a347950409",
+   "name": "Ivory Feather Gown",
+   "description": "An ivory strapless gown features a heavily beaded and jeweled bodice with delicate draped chains. A voluminous white feathered stole is draped over the arms, and the floor-length skirt includes a sheer, glittering lace train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a347950409.webp",
+   "thumb": "thumbs/6ae8a347950409.webp",
+   "addedAt": 1793631047092
+  },
+  {
+   "id": "6ae8a347a20c62",
+   "name": "Cream Floral Gown",
+   "description": "A cream floor-length gown features voluminous puffed sleeves and a full skirt, both decorated with delicate pastel floral embroidery. The look includes a sheer tulle veil adorned with three-dimensional white floral appliqués.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a347a20c62.webp",
+   "thumb": "thumbs/6ae8a347a20c62.webp",
+   "addedAt": 1793631047093
+  },
+  {
+   "id": "6ae8a34712129f",
+   "name": "White Ruffle Ballgown",
+   "description": "A white floor-length ballgown features a heavily embellished bodice with a high neckline and short puff sleeves. The voluminous skirt is made of layered tulle with large, draped ruffles edged in gold glitter lace, paired with a sheer veil and tiara.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a34712129f.webp",
+   "thumb": "thumbs/6ae8a34712129f.webp",
+   "addedAt": 1793631047094
+  },
+  {
+   "id": "6ae8a347c1a071",
+   "name": "Gold Lace Ballgown",
+   "description": "A floor-length ballgown features a heavily embellished gold lace bodice with a sweetheart neckline and long sleeves with voluminous ruffled cuffs. The full, sweeping skirt is made of matching gold lace and includes a long train and a sheer lace veil.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a347c1a071.webp",
+   "thumb": "thumbs/6ae8a347c1a071.webp",
+   "addedAt": 1793631047095
+  },
+  {
+   "id": "6ae8a3471c4ba8",
+   "name": "White Lace Satin",
+   "description": "A white floor-length gown features a sweetheart neckline with sheer lace long sleeves and a corset-style bodice. The dress is heavily decorated with lace appliqués and has a full satin skirt with a long train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a3471c4ba8.webp",
+   "thumb": "thumbs/6ae8a3471c4ba8.webp",
+   "addedAt": 1793631047096
+  },
+  {
+   "id": "6ae8a3476bc12f",
+   "name": "White Lace Gown",
+   "description": "White Lace Gown",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a3476bc12f.webp",
+   "thumb": "thumbs/6ae8a3476bc12f.webp",
+   "addedAt": 1793631047097
+  },
+  {
+   "id": "6ae8a347278268",
+   "name": "White Floral Ballgown",
+   "description": "A white strapless ballgown features a fitted bodice and a voluminous tulle skirt adorned with large, three-dimensional fabric floral appliqués. The look includes a matching sheer veil with floral accents and a pearl necklace.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6ae8a347278268.webp",
+   "thumb": "thumbs/6ae8a347278268.webp",
+   "addedAt": 1793631047098
   }
  ],
  "categories": [
