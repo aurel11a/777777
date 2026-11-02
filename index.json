@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793585893115,
+ "updatedAt": 1793586447791,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15651,6 +15651,16 @@
    "image": "items/6ae7f2e463f7a4.webp",
    "thumb": "thumbs/6ae7f2e463f7a4.webp",
    "addedAt": 1793585892042
+  },
+  {
+   "id": "6ae7f50e94e0c6",
+   "name": "Navy Cardigan Plaid",
+   "description": "A dark navy blue zip-up cardigan with a V-neckline is worn over a light-colored collared shirt. It is paired with grey and black plaid wide-leg trousers and dark brown leather lace-up shoes.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae7f50e94e0c6.webp",
+   "thumb": "thumbs/6ae7f50e94e0c6.webp",
+   "addedAt": 1793586446670
   }
  ],
  "categories": [
