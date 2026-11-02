@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793585419768,
+ "updatedAt": 1793585610388,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15621,6 +15621,16 @@
    "image": "items/6ae7f10a3a14a0.webp",
    "thumb": "thumbs/6ae7f10a3a14a0.webp",
    "addedAt": 1793585418451
+  },
+  {
+   "id": "6ae7f1c94d909b",
+   "name": "Iridescent Sequin Gown",
+   "description": "A floor-length, form-fitting gown features thin spaghetti straps and a V-neckline. The dress is entirely covered in large, iridescent, overlapping sequins in pastel shades.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae7f1c94d909b.webp",
+   "thumb": "thumbs/6ae7f1c94d909b.webp",
+   "addedAt": 1793585609250
   }
  ],
  "categories": [
