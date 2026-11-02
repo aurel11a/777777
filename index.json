@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793584784487,
+ "updatedAt": 1793585419768,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15601,6 +15601,26 @@
    "image": "items/6ae7ee8f927ae8.webp",
    "thumb": "thumbs/6ae7ee8f927ae8.webp",
    "addedAt": 1793584783639
+  },
+  {
+   "id": "6ae7f10aa478ce",
+   "name": "Lavender Floral Dress",
+   "description": "A light purple floor-length dress features a smocked bodice with a square neckline and short puff sleeves. The skirt is patterned with white vertical stripes and small floral motifs, finished with a tiered ruffled hem, and is accessorized with a jeweled choker.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae7f10aa478ce.webp",
+   "thumb": "thumbs/6ae7f10aa478ce.webp",
+   "addedAt": 1793585418450
+  },
+  {
+   "id": "6ae7f10a3a14a0",
+   "name": "Checkered Crop Skirt",
+   "description": "A long-sleeved cropped top with a grey and brown checkered pattern features a high neckline and cutout detailing across the chest. It is paired with a high-waisted black satin midi skirt with pleats and vertical topstitching, completed with black leather ankle boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae7f10a3a14a0.webp",
+   "thumb": "thumbs/6ae7f10a3a14a0.webp",
+   "addedAt": 1793585418451
   }
  ],
  "categories": [
