@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793585610388,
+ "updatedAt": 1793585784954,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15631,6 +15631,16 @@
    "image": "items/6ae7f1c94d909b.webp",
    "thumb": "thumbs/6ae7f1c94d909b.webp",
    "addedAt": 1793585609250
+  },
+  {
+   "id": "6ae7f278a661fd",
+   "name": "Blue Victorian Gown",
+   "description": "A blue floor-length gown features a fitted bodice with a lace inset at the neckline, voluminous puffed sleeves with lace cuffs, and a full skirt with a ruffled hem. The look is accessorized with a small brooch at the waist and white gloves.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae7f278a661fd.webp",
+   "thumb": "thumbs/6ae7f278a661fd.webp",
+   "addedAt": 1793585784119
   }
  ],
  "categories": [
