@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793585784954,
+ "updatedAt": 1793585893115,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15641,6 +15641,16 @@
    "image": "items/6ae7f278a661fd.webp",
    "thumb": "thumbs/6ae7f278a661fd.webp",
    "addedAt": 1793585784119
+  },
+  {
+   "id": "6ae7f2e463f7a4",
+   "name": "White Lace Tulle",
+   "description": "A white floor-length dress features a high lace neckline, sheer lace long sleeves with ruffled cuffs, and a full, layered tulle skirt. A matching white bow headpiece completes the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6ae7f2e463f7a4.webp",
+   "thumb": "thumbs/6ae7f2e463f7a4.webp",
+   "addedAt": 1793585892042
   }
  ],
  "categories": [
