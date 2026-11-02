@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793631048332,
+ "updatedAt": 1793631391184,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16041,6 +16041,26 @@
    "image": "items/6ae8a347278268.webp",
    "thumb": "thumbs/6ae8a347278268.webp",
    "addedAt": 1793631047098
+  },
+  {
+   "id": "6ae8a49d94ca99",
+   "name": "Teal Fantasy Gown",
+   "description": "A teal fantasy two-piece outfit features a short-sleeved crop top and a matching floor-length skirt, both accented with intricate silver braided trim and green jewel details. The skirt reveals a white pleated underskirt.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae8a49d94ca99.webp",
+   "thumb": "thumbs/6ae8a49d94ca99.webp",
+   "addedAt": 1793631389510
+  },
+  {
+   "id": "6ae8a49db2a0f5",
+   "name": "White Gold Gown",
+   "description": "A white fantasy gown features a structured corset-style bodice with silver detailing and a gold, winged shoulder collar. It has long white sleeves with gold cuffs and a floor-length white skirt with a central gold sash.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae8a49db2a0f5.webp",
+   "thumb": "thumbs/6ae8a49db2a0f5.webp",
+   "addedAt": 1793631389511
   }
  ],
  "categories": [
