@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793634830342,
+ "updatedAt": 1793635284323,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16301,6 +16301,16 @@
    "image": "items/6ae8b20ccf0e7d.webp",
    "thumb": "thumbs/6ae8b20ccf0e7d.webp",
    "addedAt": 1793634828802
+  },
+  {
+   "id": "6ae8b3d38327b9",
+   "name": "Brown Leather Armor",
+   "description": "A dark brown leather armor set features a long-sleeved jacket with structured shoulder pads and multiple buckle straps across the chest. It includes a wide belt with a sheathed dagger, matching leather trousers with reinforced knee patches, and tall leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae8b3d38327b9.webp",
+   "thumb": "thumbs/6ae8b3d38327b9.webp",
+   "addedAt": 1793635283049
   }
  ],
  "categories": [
