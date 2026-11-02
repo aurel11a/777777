@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793633647896,
+ "updatedAt": 1793633822151,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16171,6 +16171,36 @@
    "image": "items/6ae8ad6e7a0a4a.webp",
    "thumb": "thumbs/6ae8ad6e7a0a4a.webp",
    "addedAt": 1793633646807
+  },
+  {
+   "id": "6ae8ae1cc0a985",
+   "name": "Olive Military Jumpsuit",
+   "description": "An olive green military-style jumpsuit features a button-up front, chest pockets, and a high collar over a black turtleneck. It is accessorized with a black utility belt with pouches, black gloves, and black leather lace-up combat boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae8ae1cc0a985.webp",
+   "thumb": "thumbs/6ae8ae1cc0a985.webp",
+   "addedAt": 1793633820876
+  },
+  {
+   "id": "6ae8ae1c7f6401",
+   "name": "Medieval Hooded Tunic",
+   "description": "A loose, off-white long-sleeved tunic with a hooded cowl neckline is worn over a light-colored undergarment. The outfit includes a thick rope belt tied at the waist, brown gloves, and brown leather shoes.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae8ae1c7f6401.webp",
+   "thumb": "thumbs/6ae8ae1c7f6401.webp",
+   "addedAt": 1793633820877
+  },
+  {
+   "id": "6ae8ae1c5b4771",
+   "name": "Black Fuzzy Cardigan",
+   "description": "A black long-sleeved crewneck shirt is layered under a long, dark fuzzy cardigan. It is paired with black cargo trousers featuring a silver chain detail at the waist and black leather mid-calf boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae8ae1c5b4771.webp",
+   "thumb": "thumbs/6ae8ae1c5b4771.webp",
+   "addedAt": 1793633820878
   }
  ],
  "categories": [
