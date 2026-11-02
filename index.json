@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793634016071,
+ "updatedAt": 1793634113832,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16221,6 +16221,16 @@
    "image": "items/6ae8aede151140.webp",
    "thumb": "thumbs/6ae8aede151140.webp",
    "addedAt": 1793634014822
+  },
+  {
+   "id": "6ae8af402a3baa",
+   "name": "Copper Armor Suit",
+   "description": "A dark grey form-fitting tactical suit features a structured, copper-colored armored chest piece with ornate detailing. The outfit includes dark gloves with red trim, a matching belt with side pouches, and dark red boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae8af402a3baa.webp",
+   "thumb": "thumbs/6ae8af402a3baa.webp",
+   "addedAt": 1793634112511
   }
  ],
  "categories": [
