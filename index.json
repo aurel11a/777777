@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793634793648,
+ "updatedAt": 1793634830342,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16291,6 +16291,16 @@
    "image": "items/6ae8b1e81c0dd7.webp",
    "thumb": "thumbs/6ae8b1e81c0dd7.webp",
    "addedAt": 1793634792111
+  },
+  {
+   "id": "6ae8b20ccf0e7d",
+   "name": "Grey Tactical Uniform",
+   "description": "A grey long-sleeved tactical uniform features a high collar and matching cargo trousers. It is equipped with a black tactical vest with pouches, a black utility belt, black gloves, black knee pads, and black combat boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae8b20ccf0e7d.webp",
+   "thumb": "thumbs/6ae8b20ccf0e7d.webp",
+   "addedAt": 1793634828802
   }
  ],
  "categories": [
