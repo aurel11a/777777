@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793633944196,
+ "updatedAt": 1793634016071,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16211,6 +16211,16 @@
    "image": "items/6ae8ae970c4200.webp",
    "thumb": "thumbs/6ae8ae970c4200.webp",
    "addedAt": 1793633943278
+  },
+  {
+   "id": "6ae8aede151140",
+   "name": "Black Peacoat Cargo",
+   "description": "A black double-breasted peacoat is worn open over an olive green t-shirt with a silver pendant necklace. It is paired with olive green drawstring cargo trousers and black leather lace-up combat boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae8aede151140.webp",
+   "thumb": "thumbs/6ae8aede151140.webp",
+   "addedAt": 1793634014822
   }
  ],
  "categories": [
