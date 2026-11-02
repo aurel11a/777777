@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793631738213,
+ "updatedAt": 1793631903278,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16091,6 +16091,16 @@
    "image": "items/6ae8a5f98b1893.webp",
    "thumb": "thumbs/6ae8a5f98b1893.webp",
    "addedAt": 1793631737131
+  },
+  {
+   "id": "6ae8a69ebacebb",
+   "name": "Navy Satin Gown",
+   "description": "A navy blue satin floor-length gown features an asymmetrical off-the-shoulder neckline with a large white ruffled accent on one side. It has a fitted corset-style bodice and a draped, full skirt that extends into a train, accessorized with a delicate pendant necklace.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae8a69ebacebb.webp",
+   "thumb": "thumbs/6ae8a69ebacebb.webp",
+   "addedAt": 1793631902110
   }
  ],
  "categories": [
