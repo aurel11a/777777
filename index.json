@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793634642743,
+ "updatedAt": 1793634793648,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16281,6 +16281,16 @@
    "image": "items/6ae8b15108550b.webp",
    "thumb": "thumbs/6ae8b15108550b.webp",
    "addedAt": 1793634641544
+  },
+  {
+   "id": "6ae8b1e81c0dd7",
+   "name": "Black Military Uniform",
+   "description": "An all-black military-style uniform features a long-sleeved button-up tunic with chest pockets and a cross-body strap. It is paired with matching trousers, black leather gloves, tall black leather boots, a wide belt with a silver buckle, and a black helmet with a visor.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae8b1e81c0dd7.webp",
+   "thumb": "thumbs/6ae8b1e81c0dd7.webp",
+   "addedAt": 1793634792111
   }
  ],
  "categories": [
