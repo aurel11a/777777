@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793631903278,
+ "updatedAt": 1793632095652,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16101,6 +16101,16 @@
    "image": "items/6ae8a69ebacebb.webp",
    "thumb": "thumbs/6ae8a69ebacebb.webp",
    "addedAt": 1793631902110
+  },
+  {
+   "id": "6ae8a75e075d51",
+   "name": "Grey Trench Coat",
+   "description": "A dark grey double-breasted trench coat features wide lapels and a belted waist. It is worn over a white collared shirt with a dark tie and a patterned midi skirt, paired with white tights and black pointed-toe Mary Jane heels.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae8a75e075d51.webp",
+   "thumb": "thumbs/6ae8a75e075d51.webp",
+   "addedAt": 1793632094453
   }
  ],
  "categories": [
