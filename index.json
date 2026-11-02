@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793633822151,
+ "updatedAt": 1793633944196,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16201,6 +16201,16 @@
    "image": "items/6ae8ae1c5b4771.webp",
    "thumb": "thumbs/6ae8ae1c5b4771.webp",
    "addedAt": 1793633820878
+  },
+  {
+   "id": "6ae8ae970c4200",
+   "name": "Navy Tailcoat Uniform",
+   "description": "A navy blue tailcoat with gold buttons and epaulets is worn over a white shirt with a black cravat. It is paired with cream fitted trousers and tall black leather riding boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae8ae970c4200.webp",
+   "thumb": "thumbs/6ae8ae970c4200.webp",
+   "addedAt": 1793633943278
   }
  ],
  "categories": [
