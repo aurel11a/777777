@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793631391184,
+ "updatedAt": 1793631502050,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16061,6 +16061,16 @@
    "image": "items/6ae8a49db2a0f5.webp",
    "thumb": "thumbs/6ae8a49db2a0f5.webp",
    "addedAt": 1793631389511
+  },
+  {
+   "id": "6ae8a50cb2bf7f",
+   "name": "Cream Fuzzy Jacket",
+   "description": "A cream ribbed knit zip-up jacket features a plush faux fur collar and long sleeves. It is paired with a white ruffled mini skirt, sheer patterned tights, white pointed-toe knee-high boots, and a bright pink studded shoulder bag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6ae8a50cb2bf7f.webp",
+   "thumb": "thumbs/6ae8a50cb2bf7f.webp",
+   "addedAt": 1793631500849
   }
  ],
  "categories": [
