@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793635670470,
+ "updatedAt": 1793635871823,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16361,6 +16361,26 @@
    "image": "items/6ae8b5552b5fb7.webp",
    "thumb": "thumbs/6ae8b5552b5fb7.webp",
    "addedAt": 1793635669466
+  },
+  {
+   "id": "6ae8b61ef68865",
+   "name": "Olive Camo Combat",
+   "description": "An olive green long-sleeved quarter-zip combat shirt features camouflage patterned sleeves with shoulder pockets. It is tucked into matching camouflage cargo trousers secured by an olive green belt, and paired with black tactical boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae8b61ef68865.webp",
+   "thumb": "thumbs/6ae8b61ef68865.webp",
+   "addedAt": 1793635870471
+  },
+  {
+   "id": "6ae8b61e856ad2",
+   "name": "Brown Hooded Armor",
+   "description": "A dark brown textured leather armor set features a hooded top with structured shoulder pads and a silver metal chest plate. It includes a matching fitted bodice, a front skirt panel with side pouches, black trousers, and tall brown leather boots.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6ae8b61e856ad2.webp",
+   "thumb": "thumbs/6ae8b61e856ad2.webp",
+   "addedAt": 1793635870472
   }
  ],
  "categories": [
