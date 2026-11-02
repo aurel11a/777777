@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793580166270,
+ "updatedAt": 1793581080490,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15581,6 +15581,16 @@
    "image": "items/6ae7dc85888fee.webp",
    "thumb": "thumbs/6ae7dc85888fee.webp",
    "addedAt": 1793580165255
+  },
+  {
+   "id": "6ae7e017bfdfe0",
+   "name": "Red Brocade Gown",
+   "description": "A deep red historical gown features a square neckline with a sheer lace inset, voluminous puffed sleeves, and a full, floor-length skirt. The dress is made of a rich, patterned brocade fabric with gold detailing and includes a pendant necklace.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6ae7e017bfdfe0.webp",
+   "thumb": "thumbs/6ae7e017bfdfe0.webp",
+   "addedAt": 1793581079368
   }
  ],
  "categories": [
