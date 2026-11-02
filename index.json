@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793587122567,
+ "updatedAt": 1793587234377,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15681,6 +15681,16 @@
    "image": "items/6ae7f7b131c19d.webp",
    "thumb": "thumbs/6ae7f7b131c19d.webp",
    "addedAt": 1793587121390
+  },
+  {
+   "id": "6ae7f821752cd4",
+   "name": "White Lace Set",
+   "description": "A white sheer floral lace lingerie set features a bralette with scalloped edges and a matching lace thong. It is layered under a cream fuzzy long-sleeved cropped cardigan.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6ae7f821752cd4.webp",
+   "thumb": "thumbs/6ae7f821752cd4.webp",
+   "addedAt": 1793587233401
   }
  ],
  "categories": [
