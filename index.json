@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793634271139,
+ "updatedAt": 1793634466443,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16241,6 +16241,16 @@
    "image": "items/6ae8afdd10f80b.webp",
    "thumb": "thumbs/6ae8afdd10f80b.webp",
    "addedAt": 1793634269717
+  },
+  {
+   "id": "6ae8b0a110ce1d",
+   "name": "Studded Leather Armor",
+   "description": "A dark metal chest plate with a central circular emblem and layered shoulder guards is worn over a brown leather tunic. The outfit includes a wide, studded leather belt with a large buckle, a studded leather skirt panel, metal arm bracers, and dark leather boots.",
+   "type": "fantasy",
+   "gender": "unisex",
+   "image": "items/6ae8b0a110ce1d.webp",
+   "thumb": "thumbs/6ae8b0a110ce1d.webp",
+   "addedAt": 1793634465267
   }
  ],
  "categories": [
