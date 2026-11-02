@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793631502050,
+ "updatedAt": 1793631738213,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16071,6 +16071,26 @@
    "image": "items/6ae8a50cb2bf7f.webp",
    "thumb": "thumbs/6ae8a50cb2bf7f.webp",
    "addedAt": 1793631500849
+  },
+  {
+   "id": "6ae8a5f9b4d2df",
+   "name": "Olive Wool Overcoat",
+   "description": "A long olive green wool overcoat features a double-breasted front with wide lapels and buttoned cuffs. It is worn over a white dress shirt with a dark tie, paired with black trousers and black leather dress shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae8a5f9b4d2df.webp",
+   "thumb": "thumbs/6ae8a5f9b4d2df.webp",
+   "addedAt": 1793631737130
+  },
+  {
+   "id": "6ae8a5f98b1893",
+   "name": "Black Long Overcoat",
+   "description": "A floor-length black wool overcoat features a double-breasted front with wide lapels and a belted waist with a silver buckle. It is worn over a white dress shirt and a dark tie, paired with black trousers and black leather dress shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae8a5f98b1893.webp",
+   "thumb": "thumbs/6ae8a5f98b1893.webp",
+   "addedAt": 1793631737131
   }
  ],
  "categories": [
