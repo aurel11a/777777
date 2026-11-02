@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793579420189,
+ "updatedAt": 1793579984712,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15561,6 +15561,16 @@
    "image": "items/6ae7d99bb0b54a.webp",
    "thumb": "thumbs/6ae7d99bb0b54a.webp",
    "addedAt": 1793579419168
+  },
+  {
+   "id": "6ae7dbcfe2384e",
+   "name": "Black Layered Coat",
+   "description": "A long black textured coat is worn open over a black hooded scarf and a matching black mid-length layer. It is paired with black trousers, black ribbed cuffs, and black leather lace-up boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae7dbcfe2384e.webp",
+   "thumb": "thumbs/6ae7dbcfe2384e.webp",
+   "addedAt": 1793579983657
   }
  ],
  "categories": [
