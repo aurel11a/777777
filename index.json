@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793633368623,
+ "updatedAt": 1793633647896,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16141,6 +16141,36 @@
    "image": "items/6ae8ac57d47d12.webp",
    "thumb": "thumbs/6ae8ac57d47d12.webp",
    "addedAt": 1793633367182
+  },
+  {
+   "id": "6ae8ad6ec9be72",
+   "name": "Denim on Denim",
+   "description": "A blue denim cropped jacket with chest pockets is worn open over a black top. It is paired with light wash straight-leg jeans, a black studded belt, and black lace-up combat boots.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6ae8ad6ec9be72.webp",
+   "thumb": "thumbs/6ae8ad6ec9be72.webp",
+   "addedAt": 1793633646805
+  },
+  {
+   "id": "6ae8ad6e55a827",
+   "name": "Black Puffer Jacket",
+   "description": "A black quilted puffer jacket with a grey inner collar is worn open over a black crewneck sweater. It is paired with black trousers and black leather shoes.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae8ad6e55a827.webp",
+   "thumb": "thumbs/6ae8ad6e55a827.webp",
+   "addedAt": 1793633646806
+  },
+  {
+   "id": "6ae8ad6e7a0a4a",
+   "name": "Olive Military Uniform",
+   "description": "An olive drab military uniform features a long-sleeved button-up tunic with shoulder boards, chest pockets, and medals. It is paired with matching breeches, a wide brown leather belt with a cross strap and holster, and tall black leather boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6ae8ad6e7a0a4a.webp",
+   "thumb": "thumbs/6ae8ad6e7a0a4a.webp",
+   "addedAt": 1793633646807
   }
  ],
  "categories": [
