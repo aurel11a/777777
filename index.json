@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793632689791,
+ "updatedAt": 1793633368623,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16121,6 +16121,26 @@
    "image": "items/6ae8a9b0d8ad66.webp",
    "thumb": "thumbs/6ae8a9b0d8ad66.webp",
    "addedAt": 1793632688584
+  },
+  {
+   "id": "6ae8ac57b24e8f",
+   "name": "Cream Brown Tailored",
+   "description": "A cream long-sleeved crewneck sweater is paired with brown pleated tailored trousers. The outfit includes a long black double-breasted coat, a brown leather strap watch with a gold case, and brown leather lace-up ankle boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6ae8ac57b24e8f.webp",
+   "thumb": "thumbs/6ae8ac57b24e8f.webp",
+   "addedAt": 1793633367181
+  },
+  {
+   "id": "6ae8ac57d47d12",
+   "name": "Formal Tailcoat Uniform",
+   "description": "A formal black tailcoat features gold embroidered trim along the lapels and front, gold buttons, and fringed epaulets. It is worn over a white shirt with a ruffled cravat and paired with cream breeches and tall black leather riding boots.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6ae8ac57d47d12.webp",
+   "thumb": "thumbs/6ae8ac57d47d12.webp",
+   "addedAt": 1793633367182
   }
  ],
  "categories": [
