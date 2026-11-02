@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793581080490,
+ "updatedAt": 1793584784487,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -15591,6 +15591,16 @@
    "image": "items/6ae7e017bfdfe0.webp",
    "thumb": "thumbs/6ae7e017bfdfe0.webp",
    "addedAt": 1793581079368
+  },
+  {
+   "id": "6ae7ee8f927ae8",
+   "name": "Red String Bikini",
+   "description": "A bright red two-piece bikini features a triangle halter top with long string ties that wrap around the torso. It is paired with matching tie-side bottoms with a gathered front detail, accessorized with a silver cross necklace.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6ae7ee8f927ae8.webp",
+   "thumb": "thumbs/6ae7ee8f927ae8.webp",
+   "addedAt": 1793584783639
   }
  ],
  "categories": [
