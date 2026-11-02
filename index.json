@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793635284323,
+ "updatedAt": 1793635670470,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16311,6 +16311,56 @@
    "image": "items/6ae8b3d38327b9.webp",
    "thumb": "thumbs/6ae8b3d38327b9.webp",
    "addedAt": 1793635283049
+  },
+  {
+   "id": "6ae8b555b22e28",
+   "name": "Fantasy Armor Set",
+   "description": "A layered metal armor chest piece with a scale-like pattern is worn over a long-sleeved maroon tunic. The outfit includes structured shoulder pauldrons, metal bracers, a wide leather belt with hanging straps, dark trousers, and metal-plated leather boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae8b555b22e28.webp",
+   "thumb": "thumbs/6ae8b555b22e28.webp",
+   "addedAt": 1793635669462
+  },
+  {
+   "id": "6ae8b555ce9164",
+   "name": "Silver Plate Armor",
+   "description": "A dark silver plate armor set features a fitted chest piece with layered shoulder and arm guards. It is worn over a long black tunic and includes matching armored leg greaves with pointed boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae8b555ce9164.webp",
+   "thumb": "thumbs/6ae8b555ce9164.webp",
+   "addedAt": 1793635669463
+  },
+  {
+   "id": "6ae8b555c60679",
+   "name": "Pale Ornate Armor",
+   "description": "A pale, intricately patterned armor set features a sleeveless chest piece with a high, horned collar and ornate dark scrollwork. It includes matching arm bracers, a black waist sash, a layered skirt with pointed panels, and tall matching boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae8b555c60679.webp",
+   "thumb": "thumbs/6ae8b555c60679.webp",
+   "addedAt": 1793635669464
+  },
+  {
+   "id": "6ae8b5551a9031",
+   "name": "Leather & Chainmail Tunic",
+   "description": "A grey tunic with a cowl neckline is layered over a brown quilted leather chest piece and short chainmail sleeves. It is cinched with brown leather cross-straps and a belt, paired with matching brown leather boots with cuff details.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae8b5551a9031.webp",
+   "thumb": "thumbs/6ae8b5551a9031.webp",
+   "addedAt": 1793635669465
+  },
+  {
+   "id": "6ae8b5552b5fb7",
+   "name": "Silver Plate Armor",
+   "description": "A dark silver plate armor set features a fitted chest piece, layered shoulder guards, and articulated arm bracers. It is worn over a long black robe with a textured chainmail underlayer and includes matching armored greaves and pointed boots.",
+   "type": "fantasy",
+   "gender": "male",
+   "image": "items/6ae8b5552b5fb7.webp",
+   "thumb": "thumbs/6ae8b5552b5fb7.webp",
+   "addedAt": 1793635669466
   }
  ],
  "categories": [
