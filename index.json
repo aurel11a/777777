@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793716915706,
+ "updatedAt": 1793716944732,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16391,6 +16391,16 @@
    "image": "items/6ae9f2b271b67b.webp",
    "thumb": "thumbs/6ae9f2b271b67b.webp",
    "addedAt": 1793716914650
+  },
+  {
+   "id": "6ae9f2cf690849",
+   "name": "Pink Ribbon",
+   "description": "A pink and white striped satin pajama set features a short-sleeve top and wide-leg pants, both patterned with pink bows and ruffled hems. Fluffy pink bow slippers and a white quilted handbag complete the look.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6ae9f2cf690849.webp",
+   "thumb": "thumbs/6ae9f2cf690849.webp",
+   "addedAt": 1793716943618
   }
  ],
  "categories": [
