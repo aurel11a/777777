@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793716972508,
+ "updatedAt": 1793717003560,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16411,6 +16411,16 @@
    "image": "items/6ae9f2ebcd4f21.webp",
    "thumb": "thumbs/6ae9f2ebcd4f21.webp",
    "addedAt": 1793716971475
+  },
+  {
+   "id": "6ae9f309eb643e",
+   "name": "Crimson Drape",
+   "description": "A deep burgundy satin mini dress features a draped cowl neckline, ruched waist, and long sheer chiffon sleeves. Matching embellished stiletto heels, a jeweled clutch, and gold jewelry with red gemstones complete the elegant ensemble.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae9f309eb643e.webp",
+   "thumb": "thumbs/6ae9f309eb643e.webp",
+   "addedAt": 1793717001549
   }
  ],
  "categories": [
