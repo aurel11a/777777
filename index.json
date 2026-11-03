@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793635871823,
+ "updatedAt": 1793716915706,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16381,6 +16381,16 @@
    "image": "items/6ae8b61e856ad2.webp",
    "thumb": "thumbs/6ae8b61e856ad2.webp",
    "addedAt": 1793635870472
+  },
+  {
+   "id": "6ae9f2b271b67b",
+   "name": "Velvet Rouge",
+   "description": "A short burgundy satin robe features a wrap silhouette with a self-tie waist and dramatic wide sleeves. The hem and cuffs are trimmed with matching fluffy marabou feathers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6ae9f2b271b67b.webp",
+   "thumb": "thumbs/6ae9f2b271b67b.webp",
+   "addedAt": 1793716914650
   }
  ],
  "categories": [
