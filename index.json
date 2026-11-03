@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793717108281,
+ "updatedAt": 1793717143658,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16451,6 +16451,16 @@
    "image": "items/6ae9f3736c9d3f.webp",
    "thumb": "thumbs/6ae9f3736c9d3f.webp",
    "addedAt": 1793717107079
+  },
+  {
+   "id": "6ae9f39379a847",
+   "name": "Midnight Cascade",
+   "description": "A black halter jumpsuit features a high neck with a bow, cascading ruffles on the bodice, and wide pleated legs with an asymmetrical ruffled side panel. A belted waist with gold buttons adds structure to the elegant, flowing silhouette.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae9f39379a847.webp",
+   "thumb": "thumbs/6ae9f39379a847.webp",
+   "addedAt": 1793717139554
   }
  ],
  "categories": [
