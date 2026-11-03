@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793717036347,
+ "updatedAt": 1793717069341,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16431,6 +16431,16 @@
    "image": "items/6ae9f32ac46382.webp",
    "thumb": "thumbs/6ae9f32ac46382.webp",
    "addedAt": 1793717034983
+  },
+  {
+   "id": "6ae9f34cbc252a",
+   "name": "Midnight Lace",
+   "description": "A black sheer lace gown features a corset bodice and a draped skirt with a high slit. A cropped black faux-fur jacket, a sleek black clutch with gold trim, and glossy black pointed-toe pumps complete the glamorous ensemble.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6ae9f34cbc252a.webp",
+   "thumb": "thumbs/6ae9f34cbc252a.webp",
+   "addedAt": 1793717068276
   }
  ],
  "categories": [
