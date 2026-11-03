@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793717003560,
+ "updatedAt": 1793717036347,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16421,6 +16421,16 @@
    "image": "items/6ae9f309eb643e.webp",
    "thumb": "thumbs/6ae9f309eb643e.webp",
    "addedAt": 1793717001549
+  },
+  {
+   "id": "6ae9f32ac46382",
+   "name": "Autumn Embrace",
+   "description": "A ribbed caramel-brown sleeveless mini dress layers under a cream chunky knit cardigan adorned with large orange and brown floral appliqués. White slouchy knee-high heeled boots and a white braided-handle handbag complete the cozy look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6ae9f32ac46382.webp",
+   "thumb": "thumbs/6ae9f32ac46382.webp",
+   "addedAt": 1793717034983
   }
  ],
  "categories": [
