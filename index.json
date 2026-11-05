@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895829818,
+ "updatedAt": 1793895859961,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16511,6 +16511,16 @@
    "image": "items/6aecad94dd43e2.webp",
    "thumb": "thumbs/6aecad94dd43e2.webp",
    "addedAt": 1793895828631
+  },
+  {
+   "id": "6aecadb205efe8",
+   "name": "Emerald Velvet",
+   "description": "A rich dark green velvet gown features a wrapped V-neckline, dramatic wide sleeves with patterned cuffs, and a contrasting white lace central panel. A patterned waist belt is adorned with ornate, dangling beaded tassels.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6aecadb205efe8.webp",
+   "thumb": "thumbs/6aecadb205efe8.webp",
+   "addedAt": 1793895858957
   }
  ],
  "categories": [
