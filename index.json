@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895740176,
+ "updatedAt": 1793895799273,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16491,6 +16491,16 @@
    "image": "items/6aecad3a53f075.webp",
    "thumb": "thumbs/6aecad3a53f075.webp",
    "addedAt": 1793895738984
+  },
+  {
+   "id": "6aecad7698da86",
+   "name": "Silver Willow",
+   "description": "A flowing cream satin gown features delicate floral embroidery down the center and a scalloped neckline. A sweeping grey robe with matching silver floral embroidery and wide sleeves completes the ethereal ensemble.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6aecad7698da86.webp",
+   "thumb": "thumbs/6aecad7698da86.webp",
+   "addedAt": 1793895798103
   }
  ],
  "categories": [
