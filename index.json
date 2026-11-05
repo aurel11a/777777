@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895710255,
+ "updatedAt": 1793895740176,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16481,6 +16481,16 @@
    "image": "items/6aecad1cae838f.webp",
    "thumb": "thumbs/6aecad1cae838f.webp",
    "addedAt": 1793895708964
+  },
+  {
+   "id": "6aecad3a53f075",
+   "name": "Jade Garden",
+   "description": "A flowing light green gown features a patterned brocade fabric, a wrapped V-neckline, and dramatic wide sleeves. A wide gold-embellished belt cinches the waist, while a contrasting central panel and long tassels add ornate detail.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6aecad3a53f075.webp",
+   "thumb": "thumbs/6aecad3a53f075.webp",
+   "addedAt": 1793895738984
   }
  ],
  "categories": [
