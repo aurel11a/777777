@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895906013,
+ "updatedAt": 1793900711276,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16531,6 +16531,16 @@
    "image": "items/6aecade08f7ec8.webp",
    "thumb": "thumbs/6aecade08f7ec8.webp",
    "addedAt": 1793895904579
+  },
+  {
+   "id": "6aecc0a5100f02",
+   "name": "midnight ice pixie",
+   "description": "A fitted black long-sleeve top, short black skating skirt, sheer black over-the-heel tights with subtle rhinestone accents, and matching black gloves.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6aecc0a5100f02.webp",
+   "thumb": "thumbs/6aecc0a5100f02.webp",
+   "addedAt": 1793900709874
   }
  ],
  "categories": [
