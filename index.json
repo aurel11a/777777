@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895669313,
+ "updatedAt": 1793895710255,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16471,6 +16471,16 @@
    "image": "items/6aecacf46f55f0.webp",
    "thumb": "thumbs/6aecacf46f55f0.webp",
    "addedAt": 1793895668074
+  },
+  {
+   "id": "6aecad1cae838f",
+   "name": "Cherry Blossom Noir",
+   "description": "A black off-the-shoulder gown features a draped bodice and a full skirt adorned with pink floral embroidery. Sheer magenta cape sleeves with trailing floral patterns and a matching ribbon sash complete the dramatic look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6aecad1cae838f.webp",
+   "thumb": "thumbs/6aecad1cae838f.webp",
+   "addedAt": 1793895708964
   }
  ],
  "categories": [
