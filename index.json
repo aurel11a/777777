@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895799273,
+ "updatedAt": 1793895829818,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16501,6 +16501,16 @@
    "image": "items/6aecad7698da86.webp",
    "thumb": "thumbs/6aecad7698da86.webp",
    "addedAt": 1793895798103
+  },
+  {
+   "id": "6aecad94dd43e2",
+   "name": "Frosted Petal",
+   "description": "An icy blue layered gown features a sheer tulle robe with delicate white floral embroidery over a pleated dress. A silver floral belt cinches the waist, while cascading sheer sleeves and a sweeping train add to the ethereal design.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6aecad94dd43e2.webp",
+   "thumb": "thumbs/6aecad94dd43e2.webp",
+   "addedAt": 1793895828631
   }
  ],
  "categories": [
