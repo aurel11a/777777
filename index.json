@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1793895859961,
+ "updatedAt": 1793895906013,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16521,6 +16521,16 @@
    "image": "items/6aecadb205efe8.webp",
    "thumb": "thumbs/6aecadb205efe8.webp",
    "addedAt": 1793895858957
+  },
+  {
+   "id": "6aecade08f7ec8",
+   "name": "Emerald Noir",
+   "description": "A dark green velvet gown features a lace-trimmed corset bodice, draped skirt, and a high slit, paired with a black belted coat and black heeled ankle boots. The look is accessorized with black lace gloves, a black handbag, and ornate jewelry featuring large red and green gemstones.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6aecade08f7ec8.webp",
+   "thumb": "thumbs/6aecade08f7ec8.webp",
+   "addedAt": 1793895904579
   }
  ],
  "categories": [
