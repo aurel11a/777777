@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794867406972,
+ "updatedAt": 1794867797442,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16671,6 +16671,26 @@
    "image": "items/6afb80cd9eefc7.webp",
    "thumb": "thumbs/6afb80cd9eefc7.webp",
    "addedAt": 1794867405830
+  },
+  {
+   "id": "6afb82542de1b7",
+   "name": "Leopard Luxe",
+   "description": "Long leopard-print faux fur robe with thick pink plush trim on the collar, lapels, cuffs, and belt, paired with pink pointed-toe heels and a delicate pendant necklace.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6afb82542de1b7.webp",
+   "thumb": "thumbs/6afb82542de1b7.webp",
+   "addedAt": 1794867796552
+  },
+  {
+   "id": "6afb8254cce9a7",
+   "name": "Leopard Babydoll",
+   "description": "Leopard-print babydoll mini dress with pink ruffled trim and a large pink satin bow at the waist, accessorized with a pink scrunchie, pink earrings, and a delicate pendant necklace.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6afb8254cce9a7.webp",
+   "thumb": "thumbs/6afb8254cce9a7.webp",
+   "addedAt": 1794867796553
   }
  ],
  "categories": [
