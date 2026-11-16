@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794008923305,
+ "updatedAt": 1794867406972,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16551,6 +16551,126 @@
    "image": "items/6aee675af75ae4.webp",
    "thumb": "thumbs/6aee675af75ae4.webp",
    "addedAt": 1794008922211
+  },
+  {
+   "id": "6afb80cd3f6b53",
+   "name": "Cozy Preppy Chic",
+   "description": "The outfit features a dark brown double-breasted jacket over a light pink knit sweater, paired with a black mini skirt and sheer black tights. Accessories include a plaid pink and beige fringed scarf, chunky black platform boots, and a small pink crossbody bag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afb80cd3f6b53.webp",
+   "thumb": "thumbs/6afb80cd3f6b53.webp",
+   "addedAt": 1794867405819
+  },
+  {
+   "id": "6afb80cd867b23",
+   "name": "Burgundy Scholar",
+   "description": "This outfit consists of a burgundy cable-knit turtleneck sweater with voluminous bishop sleeves, paired with a black pleated mini skirt and cream knee-high socks. Black patent platform Mary Jane shoes and a small black shoulder bag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd867b23.webp",
+   "thumb": "thumbs/6afb80cd867b23.webp",
+   "addedAt": 1794867405820
+  },
+  {
+   "id": "6afb80cdaa1e54",
+   "name": "Denim Coquette",
+   "description": "This outfit features a blue denim corset-style mini dress with lace-up detailing and an off-the-shoulder white knit shrug with long sleeves. It is paired with cream slouchy knee-high boots and accessorized with a white shoulder bag, silver layered necklaces, bow earrings, rings, and blue-tinted sunglasses.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cdaa1e54.webp",
+   "thumb": "thumbs/6afb80cdaa1e54.webp",
+   "addedAt": 1794867405821
+  },
+  {
+   "id": "6afb80cd92eaf2",
+   "name": "Blush Fairy",
+   "description": "This outfit consists of a blush pink sleeveless chiffon midi dress with a flowing skirt, layered under a sheer white bolero with ruffled bell sleeves and a front ribbon tie. It is paired with pale pink block-heeled sandals featuring pearl ankle straps and bow accents.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd92eaf2.webp",
+   "thumb": "thumbs/6afb80cd92eaf2.webp",
+   "addedAt": 1794867405822
+  },
+  {
+   "id": "6afb80cd75f3d3",
+   "name": "Urban Edge",
+   "description": "This outfit features a dark brown cropped bomber jacket with a faux fur collar, worn over a fitted black turtleneck and loose black wide-leg pants. It is accessorized with black leather fingerless gloves and chunky black lace-up combat boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb80cd75f3d3.webp",
+   "thumb": "thumbs/6afb80cd75f3d3.webp",
+   "addedAt": 1794867405823
+  },
+  {
+   "id": "6afb80cdde6ab6",
+   "name": "Cream Knit",
+   "description": "This outfit consists of a cream off-the-shoulder cropped knit sweater with ruffled edges and flared sleeves, paired with a matching cream pleated mini skirt and white ribbed leg warmers. It is accessorized with a small cream shoulder bag and a delicate silver pendant necklace.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cdde6ab6.webp",
+   "thumb": "thumbs/6afb80cdde6ab6.webp",
+   "addedAt": 1794867405824
+  },
+  {
+   "id": "6afb80cd3e5cd3",
+   "name": "Pink Breeze",
+   "description": "Light pink sheer hooded overshirt with long sleeves, worn over a white top and blue denim shorts, accessorized with a thin silver crossbody strap.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd3e5cd3.webp",
+   "thumb": "thumbs/6afb80cd3e5cd3.webp",
+   "addedAt": 1794867405825
+  },
+  {
+   "id": "6afb80cd7857a8",
+   "name": "Brown & Cream",
+   "description": "Cream oversized turtleneck sweater tucked into a dark brown pleated mini skirt with a thin belt, paired with tall brown leather boots and a small dark brown shoulder bag. A delicate pendant necklace completes the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd7857a8.webp",
+   "thumb": "thumbs/6afb80cd7857a8.webp",
+   "addedAt": 1794867405826
+  },
+  {
+   "id": "6afb80cd04dc90",
+   "name": "Cream Monochrome",
+   "description": "Long cream wool coat over a matching turtleneck and pleated mini skirt with a thin belt, paired with knee-high cream boots and a large cream tote bag. A gold pendant necklace adds a subtle accent.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afb80cd04dc90.webp",
+   "thumb": "thumbs/6afb80cd04dc90.webp",
+   "addedAt": 1794867405827
+  },
+  {
+   "id": "6afb80cd8b6ba5",
+   "name": "Burgundy Preppy",
+   "description": "Burgundy cropped jacket with flap pockets over a cream turtleneck, paired with a matching pleated mini skirt and black tights. Cream leg warmers, dark burgundy platform loafers, a small burgundy top-handle bag, and gold jewelry complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd8b6ba5.webp",
+   "thumb": "thumbs/6afb80cd8b6ba5.webp",
+   "addedAt": 1794867405828
+  },
+  {
+   "id": "6afb80cdaced07",
+   "name": "Aviator Brown",
+   "description": "Brown faux-leather aviator jacket with a cream shearling collar and cuffs, worn over a fitted white top and high-waisted dark brown wide-leg trousers with a thin belt. A black shoulder bag and dark chunky shoes complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afb80cdaced07.webp",
+   "thumb": "thumbs/6afb80cdaced07.webp",
+   "addedAt": 1794867405829
+  },
+  {
+   "id": "6afb80cd9eefc7",
+   "name": "Dusty Mauve",
+   "description": "Dusty pink oversized knit sweater over a brown pleated mini skirt with patterned tights, paired with brown knee-high heeled boots and a small pink shoulder bag. Dark sunglasses and a delicate pendant necklace finish the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afb80cd9eefc7.webp",
+   "thumb": "thumbs/6afb80cd9eefc7.webp",
+   "addedAt": 1794867405830
   }
  ],
  "categories": [
