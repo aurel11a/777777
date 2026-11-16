@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794869505851,
+ "updatedAt": 1794869768192,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -17071,6 +17071,16 @@
    "image": "items/6afb8900892e32.webp",
    "thumb": "thumbs/6afb8900892e32.webp",
    "addedAt": 1794869504370
+  },
+  {
+   "id": "6afb8a075e504f",
+   "name": "Cozy Taupe",
+   "description": "Taupe wool zip-up jacket over a beige top, paired with black sweatpants and grey running sneakers. A ribbed brown beanie and a chunky yellow, red, and white striped scarf complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb8a075e504f.webp",
+   "thumb": "thumbs/6afb8a075e504f.webp",
+   "addedAt": 1794869767322
   }
  ],
  "categories": [
