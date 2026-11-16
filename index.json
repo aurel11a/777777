@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794869217747,
+ "updatedAt": 1794869505851,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16991,6 +16991,86 @@
    "image": "items/6afb87e03c21ff.webp",
    "thumb": "thumbs/6afb87e03c21ff.webp",
    "addedAt": 1794869216718
+  },
+  {
+   "id": "6afb8900e4c944",
+   "name": "Floral Bridal",
+   "description": "White satin mermaid wedding gown with an off-the-shoulder neckline and floral appliqué at the hem. A sheer tulle veil with matching floral details and white lace gloves complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb8900e4c944.webp",
+   "thumb": "thumbs/6afb8900e4c944.webp",
+   "addedAt": 1794869504363
+  },
+  {
+   "id": "6afb89000a8844",
+   "name": "Pearl Ballgown",
+   "description": "Cream off-the-shoulder ball gown with puff sleeves, adorned with pearl embellishments, star appliqués, and embroidered details throughout the full skirt.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb89000a8844.webp",
+   "thumb": "thumbs/6afb89000a8844.webp",
+   "addedAt": 1794869504364
+  },
+  {
+   "id": "6afb89003547ae",
+   "name": "Blue Toile Gown",
+   "description": "Cream ball gown with an off-the-shoulder neckline and blue toile-style landscape and swan motifs throughout the full skirt, paired with a matching sheer veil.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb89003547ae.webp",
+   "thumb": "thumbs/6afb89003547ae.webp",
+   "addedAt": 1794869504365
+  },
+  {
+   "id": "6afb890053d9d6",
+   "name": "Satin Bridal",
+   "description": "White satin ball gown with an off-the-shoulder pleated neckline and intricate lace appliqué down the center front of the skirt. Long white gloves complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb890053d9d6.webp",
+   "thumb": "thumbs/6afb890053d9d6.webp",
+   "addedAt": 1794869504366
+  },
+  {
+   "id": "6afb89003bc314",
+   "name": "Pearl Satin",
+   "description": "White satin ball gown with a strapless corset bodice and a draped pearl off-the-shoulder accent. A sheer veil completes the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb89003bc314.webp",
+   "thumb": "thumbs/6afb89003bc314.webp",
+   "addedAt": 1794869504367
+  },
+  {
+   "id": "6afb890005ebec",
+   "name": "Blue Floral Gown",
+   "description": "White strapless ball gown with blue and white floral appliqués cascading down the bodice and full skirt. A matching floral headpiece and sheer veil with scattered floral details complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb890005ebec.webp",
+   "thumb": "thumbs/6afb890005ebec.webp",
+   "addedAt": 1794869504368
+  },
+  {
+   "id": "6afb8900b6355f",
+   "name": "Silver Bridal",
+   "description": "White strapless ball gown with a heavily embellished bodice and silver sequin and lace appliqués cascading down the full satin skirt. A delicate tiara, sheer veil, white gloves, and a statement necklace complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb8900b6355f.webp",
+   "thumb": "thumbs/6afb8900b6355f.webp",
+   "addedAt": 1794869504369
+  },
+  {
+   "id": "6afb8900892e32",
+   "name": "Lace Ballgown",
+   "description": "White strapless ball gown fully covered in floral lace with a sweetheart neckline. Matching lace gloves and a delicate lace choker with a sheer veil complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afb8900892e32.webp",
+   "thumb": "thumbs/6afb8900892e32.webp",
+   "addedAt": 1794869504370
   }
  ],
  "categories": [
