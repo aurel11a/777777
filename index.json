@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794867797442,
+ "updatedAt": 1794869091787,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -16691,6 +16691,286 @@
    "image": "items/6afb8254cce9a7.webp",
    "thumb": "thumbs/6afb8254cce9a7.webp",
    "addedAt": 1794867796553
+  },
+  {
+   "id": "6afb8762883e42",
+   "name": "Black Leather",
+   "description": "Fitted black long-sleeve turtleneck under a black leather chest harness, paired with black leather pants, a black belt with a silver buckle, black leather gloves, and black lace-up combat boots.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6afb8762883e42.webp",
+   "thumb": "thumbs/6afb8762883e42.webp",
+   "addedAt": 1794869090850
+  },
+  {
+   "id": "6afb8762f729d8",
+   "name": "Grey Monochrome",
+   "description": "Grey ribbed beanie, grey hooded puffer jacket over a grey zip-up hoodie and grey sweatshirt, paired with grey sweatpants and grey canvas sneakers with cream soles.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb8762f729d8.webp",
+   "thumb": "thumbs/6afb8762f729d8.webp",
+   "addedAt": 1794869090851
+  },
+  {
+   "id": "6afb87620e051a",
+   "name": "Aviator Patch",
+   "description": "Black leather flight jacket with a cream shearling collar and embroidered patches, worn over an olive green button-up shirt and matching olive cargo pants. Black lace-up combat boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb87620e051a.webp",
+   "thumb": "thumbs/6afb87620e051a.webp",
+   "addedAt": 1794869090852
+  },
+  {
+   "id": "6afb876243457b",
+   "name": "Grey Americana",
+   "description": "Heather grey short-sleeve t-shirt with a black American flag graphic and \"AMERICA\" text, paired with black drawstring shorts, white crew socks, and grey suede sneakers.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afb876243457b.webp",
+   "thumb": "thumbs/6afb876243457b.webp",
+   "addedAt": 1794869090853
+  },
+  {
+   "id": "6afb8762118f72",
+   "name": "Dark Minimal",
+   "description": "Fitted charcoal grey short-sleeve t-shirt tucked into black jeans with a black leather belt, accessorized with black leather wrist cuffs and black lace-up boots. A silver chain necklace adds a subtle detail.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6afb8762118f72.webp",
+   "thumb": "thumbs/6afb8762118f72.webp",
+   "addedAt": 1794869090854
+  },
+  {
+   "id": "6afb87624c5d31",
+   "name": "Cream Stripe",
+   "description": "Cream short-sleeve t-shirt with black horizontal stripes across the chest and sleeves, paired with matching cream drawstring shorts, white crew socks, and white sneakers. A silver watch completes the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6afb87624c5d31.webp",
+   "thumb": "thumbs/6afb87624c5d31.webp",
+   "addedAt": 1794869090855
+  },
+  {
+   "id": "6afb8762c5649e",
+   "name": "Cream Cable Knit",
+   "description": "Cream cable-knit henley sweater with brown buttons, tucked into dark brown pleated trousers with a brown leather belt. Dark brown leather lace-up boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6afb8762c5649e.webp",
+   "thumb": "thumbs/6afb8762c5649e.webp",
+   "addedAt": 1794869090856
+  },
+  {
+   "id": "6afb876274dc43",
+   "name": "Grey Athletic",
+   "description": "Heather grey crewneck sweatshirt paired with light blue athletic shorts featuring black side details, white crew socks with black text, and cream and grey running sneakers.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afb876274dc43.webp",
+   "thumb": "thumbs/6afb876274dc43.webp",
+   "addedAt": 1794869090857
+  },
+  {
+   "id": "6afb8762591e46",
+   "name": "Brown & Grey",
+   "description": "Long brown wool overcoat over a grey turtleneck sweater, paired with grey pleated trousers and a brown leather belt. Brown leather gloves and brown leather lace-up shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb8762591e46.webp",
+   "thumb": "thumbs/6afb8762591e46.webp",
+   "addedAt": 1794869090858
+  },
+  {
+   "id": "6afb876290242a",
+   "name": "Black Tank",
+   "description": "Black ribbed tank top paired with grey heathered athletic shorts and white crew socks.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6afb876290242a.webp",
+   "thumb": "thumbs/6afb876290242a.webp",
+   "addedAt": 1794869090859
+  },
+  {
+   "id": "6afb8762a668a4",
+   "name": "Plaid Boxer",
+   "description": "Red, white, and blue plaid boxer briefs with a grey waistband, paired with white crew socks.",
+   "type": "underwear",
+   "gender": "male",
+   "image": "items/6afb8762a668a4.webp",
+   "thumb": "thumbs/6afb8762a668a4.webp",
+   "addedAt": 1794869090860
+  },
+  {
+   "id": "6afb8762e4f5e0",
+   "name": "Black Shearling",
+   "description": "Black leather aviator jacket with a black shearling collar and cuffs, worn over a black ribbed sweater and a white t-shirt. Grey jeans and black leather lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb8762e4f5e0.webp",
+   "thumb": "thumbs/6afb8762e4f5e0.webp",
+   "addedAt": 1794869090861
+  },
+  {
+   "id": "6afb8762f22f02",
+   "name": "Brown Tailored",
+   "description": "Dark brown double-breasted suit with a matching waistcoat, worn over a brown dress shirt and tie. A gold pocket watch chain, a silver tie clip, and brown leather dress shoes complete the look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6afb8762f22f02.webp",
+   "thumb": "thumbs/6afb8762f22f02.webp",
+   "addedAt": 1794869090862
+  },
+  {
+   "id": "6afb8762204c96",
+   "name": "Olive Bomber",
+   "description": "Olive green bomber jacket with a brown faux fur collar, worn over a cream cable-knit turtleneck sweater and beige trousers. Tan leather lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb8762204c96.webp",
+   "thumb": "thumbs/6afb8762204c96.webp",
+   "addedAt": 1794869090863
+  },
+  {
+   "id": "6afb8762d1172d",
+   "name": "Vacation Casual",
+   "description": "Faded black t-shirt with a \"Vacation Days!\" graphic featuring sailboats, paired with grey sweat shorts, white crew socks, and grey and silver running sneakers.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afb8762d1172d.webp",
+   "thumb": "thumbs/6afb8762d1172d.webp",
+   "addedAt": 1794869090864
+  },
+  {
+   "id": "6afb8762201fe5",
+   "name": "Grey & Black",
+   "description": "Grey long-sleeve dress shirt with rolled-up sleeves and a dark grey tie, worn under a black button-up waistcoat. Grey dress trousers, a black belt with a silver buckle, black leather gloves, and black leather dress shoes complete the look, accented with a silver pocket watch chain.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6afb8762201fe5.webp",
+   "thumb": "thumbs/6afb8762201fe5.webp",
+   "addedAt": 1794869090865
+  },
+  {
+   "id": "6afb876221d3e1",
+   "name": "Folk Tunic",
+   "description": "White long-sleeve tunic with red embroidered detailing at the neckline, cuffs, and hem, cinched with a braided rope belt. A dark brown embossed leather vest, dark brown trousers, and brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb876221d3e1.webp",
+   "thumb": "thumbs/6afb876221d3e1.webp",
+   "addedAt": 1794869090866
+  },
+  {
+   "id": "6afb8762326b4b",
+   "name": "Grey Basics",
+   "description": "White ribbed tank top paired with grey drawstring sweatpants.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6afb8762326b4b.webp",
+   "thumb": "thumbs/6afb8762326b4b.webp",
+   "addedAt": 1794869090867
+  },
+  {
+   "id": "6afb8762fa806a",
+   "name": "Towel Wrap",
+   "description": "White terry cloth towel wrapped and knotted at the waist.",
+   "type": "other",
+   "gender": "male",
+   "image": "items/6afb8762fa806a.webp",
+   "thumb": "thumbs/6afb8762fa806a.webp",
+   "addedAt": 1794869090868
+  },
+  {
+   "id": "6afb8762eb940c",
+   "name": "Plaid Pajama",
+   "description": "Dark grey plaid long-sleeve pajama shirt with white piping and a chest pocket, worn open over matching drawstring pajama pants.",
+   "type": "sleep",
+   "gender": "male",
+   "image": "items/6afb8762eb940c.webp",
+   "thumb": "thumbs/6afb8762eb940c.webp",
+   "addedAt": 1794869090869
+  },
+  {
+   "id": "6afb876205e4f5",
+   "name": "Corduroy Brown",
+   "description": "Brown corduroy button-up shirt-jacket with chest pockets, worn over a dark grey turtleneck. Blue jeans, a brown leather belt with a small pouch, brown leather gloves, and brown leather boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb876205e4f5.webp",
+   "thumb": "thumbs/6afb876205e4f5.webp",
+   "addedAt": 1794869090870
+  },
+  {
+   "id": "6afb876216cedb",
+   "name": "Nordic Tunic",
+   "description": "Cream long-sleeve tunic with orange and blue geometric embroidery at the chest, shoulders, and cuffs, featuring a fur-trimmed hem and cinched with a thick braided rope belt. Blue jeans, brown leather fur-trimmed boots, and a high collar complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb876216cedb.webp",
+   "thumb": "thumbs/6afb876216cedb.webp",
+   "addedAt": 1794869090871
+  },
+  {
+   "id": "6afb87629b9c5a",
+   "name": "All Black Leather",
+   "description": "Black leather bomber jacket worn over a black turtleneck, paired with black trousers, black gloves, and black lace-up boots.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb87629b9c5a.webp",
+   "thumb": "thumbs/6afb87629b9c5a.webp",
+   "addedAt": 1794869090872
+  },
+  {
+   "id": "6afb87628ec654",
+   "name": "Fantasy Knight",
+   "description": "Teal tunic with gold embroidery, worn under a silver chainmail cowl and a red cape with a gold circular clasp. Brown leather belts, a leather pouch, brown bracers, brown trousers, and brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb87628ec654.webp",
+   "thumb": "thumbs/6afb87628ec654.webp",
+   "addedAt": 1794869090873
+  },
+  {
+   "id": "6afb87625b3080",
+   "name": "Folk Vest",
+   "description": "Cream long-sleeve tunic with red geometric embroidery at the neckline, cuffs, and hem, worn under a blue sleeveless vest with red trim. A wide red fabric sash, blue trousers, beige leg wraps, and brown leather shoes complete the look, accented with a small brown leather pouch and a round pendant necklace.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb87625b3080.webp",
+   "thumb": "thumbs/6afb87625b3080.webp",
+   "addedAt": 1794869090874
+  },
+  {
+   "id": "6afb876285d3a1",
+   "name": "Survivor Hoodie",
+   "description": "Maroon zip-up hoodie with a grey star graphic, worn with the hood up over a thick grey knit scarf. Blue jeans, a grey backpack with a radio, tan wrist wraps, and brown lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afb876285d3a1.webp",
+   "thumb": "thumbs/6afb876285d3a1.webp",
+   "addedAt": 1794869090875
+  },
+  {
+   "id": "6afb8762b339f4",
+   "name": "Trail Ready",
+   "description": "Navy blue short-sleeve t-shirt with a chest pocket, worn with dark blue jeans and a black watch. An olive green backpack with a rolled bedroll and brown leather lace-up boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6afb8762b339f4.webp",
+   "thumb": "thumbs/6afb8762b339f4.webp",
+   "addedAt": 1794869090876
+  },
+  {
+   "id": "6afb8762284be4",
+   "name": "Chainmail Warrior",
+   "description": "Silver chainmail tunic worn over a cream long-sleeve undershirt, cinched with a brown leather belt and sword sheath. Dark blue trousers and brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8762284be4.webp",
+   "thumb": "thumbs/6afb8762284be4.webp",
+   "addedAt": 1794869090877
   }
  ],
  "categories": [
