@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794870454166,
+ "updatedAt": 1794870848160,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -17201,6 +17201,96 @@
    "image": "items/6afb8cb514a51c.webp",
    "thumb": "thumbs/6afb8cb514a51c.webp",
    "addedAt": 1794870453097
+  },
+  {
+   "id": "6afb8e3e8b84b9",
+   "name": "Desert Gold",
+   "description": "Long black robe with gold embroidered trim along the edges and wide sleeves, worn over a matching black layered tunic. A black sash with gold tassel details, black gloves, and black boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3e8b84b9.webp",
+   "thumb": "thumbs/6afb8e3e8b84b9.webp",
+   "addedAt": 1794870846608
+  },
+  {
+   "id": "6afb8e3e1ca55a",
+   "name": "Egyptian Pharaoh",
+   "description": "Egyptian pharaoh costume featuring a gold and black striped headdress, a wide gold collar necklace, and a white and gold draped skirt with a central ornate panel and winged belt. Gold armbands, wrist cuffs, shin guards, and a gold ankh staff complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3e1ca55a.webp",
+   "thumb": "thumbs/6afb8e3e1ca55a.webp",
+   "addedAt": 1794870846609
+  },
+  {
+   "id": "6afb8e3ecfd85d",
+   "name": "Egyptian Noble",
+   "description": "Black open-front robe with gold geometric trim, worn over a white layered skirt with a central Egyptian-motif panel and a gold belt. A gold collar with an ankh, gold wrist cuffs, a pendant necklace, and strappy sandals complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3ecfd85d.webp",
+   "thumb": "thumbs/6afb8e3ecfd85d.webp",
+   "addedAt": 1794870846610
+  },
+  {
+   "id": "6afb8e3e4ff245",
+   "name": "Pirate Captain",
+   "description": "Dark navy long coat with gold embroidery and a burgundy sash, worn over a dark waistcoat and a white open shirt. A red headwrap, dark trousers, brown leather boots, a wide belt with gold accents, and a sword complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3e4ff245.webp",
+   "thumb": "thumbs/6afb8e3e4ff245.webp",
+   "addedAt": 1794870846611
+  },
+  {
+   "id": "6afb8e3ef3442c",
+   "name": "Egyptian Queen",
+   "description": "Sheer white floor-length gown with draped sleeves and a central vertical embroidered panel. A gold and blue beaded collar necklace, a gold headdress, and strappy sandals complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afb8e3ef3442c.webp",
+   "thumb": "thumbs/6afb8e3ef3442c.webp",
+   "addedAt": 1794870846612
+  },
+  {
+   "id": "6afb8e3e458fc9",
+   "name": "Golden Egyptian",
+   "description": "Gold patterned column gown with a sheer draped overlay and a central embroidered panel. A tall gold headdress, a wide beaded collar necklace, gold armbands, and sandals complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afb8e3e458fc9.webp",
+   "thumb": "thumbs/6afb8e3e458fc9.webp",
+   "addedAt": 1794870846613
+  },
+  {
+   "id": "6afb8e3e14ccba",
+   "name": "Black & Gold Egyptian",
+   "description": "Black sleeveless column gown with a gold diamond-patterned overlay and a sheer beaded hem. A gold and black headdress, a wide gold collar necklace, gold cuff bracelets, and sandals complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afb8e3e14ccba.webp",
+   "thumb": "thumbs/6afb8e3e14ccba.webp",
+   "addedAt": 1794870846614
+  },
+  {
+   "id": "6afb8e3ef9df5d",
+   "name": "Egyptian Sun God",
+   "description": "White and gold Egyptian-style costume featuring a wide beaded collar, gold armbands, and a draped skirt with a central ornate panel and winged belt. Gold shin guards, strappy sandals, and a gold staff with a winged falcon top complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3ef9df5d.webp",
+   "thumb": "thumbs/6afb8e3ef9df5d.webp",
+   "addedAt": 1794870846615
+  },
+  {
+   "id": "6afb8e3e253e28",
+   "name": "Royal Egyptian",
+   "description": "Navy blue open robe with gold Egyptian motifs and trim, worn over a draped white tunic with a central patterned panel. A wide gold and blue collar necklace, gold armbands, a gold belt, and strappy sandals complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afb8e3e253e28.webp",
+   "thumb": "thumbs/6afb8e3e253e28.webp",
+   "addedAt": 1794870846616
   }
  ],
  "categories": [
