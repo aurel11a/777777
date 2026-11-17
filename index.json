@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794912426452,
+ "updatedAt": 1794913439708,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -17871,6 +17871,286 @@
    "image": "items/6afc30a68f461b.webp",
    "thumb": "thumbs/6afc30a68f461b.webp",
    "addedAt": 1794912422051
+  },
+  {
+   "id": "6afc349ecf9e2f",
+   "name": "Pink Deer",
+   "description": "Pink long-sleeve sweater with a deer graphic, paired with a lavender and white plaid mini skirt. A pink bow backpack, pink socks, and pink high-top sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349ecf9e2f.webp",
+   "thumb": "thumbs/6afc349ecf9e2f.webp",
+   "addedAt": 1794913438768
+  },
+  {
+   "id": "6afc349e9bf19a",
+   "name": "Castle Plaid",
+   "description": "Faded black short-sleeve t-shirt with a \"CASTLE\" graphic, paired with black and white plaid wide-leg pajama pants.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6afc349e9bf19a.webp",
+   "thumb": "thumbs/6afc349e9bf19a.webp",
+   "addedAt": 1794913438769
+  },
+  {
+   "id": "6afc349e9ab679",
+   "name": "Grey Office",
+   "description": "Light grey dress shirt with rolled-up sleeves, worn with a dark plaid tie and a silver tie clip. Dark grey pleated trousers with a black belt and dark brown leather dress shoes complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6afc349e9ab679.webp",
+   "thumb": "thumbs/6afc349e9ab679.webp",
+   "addedAt": 1794913438770
+  },
+  {
+   "id": "6afc349e26e31d",
+   "name": "Pink Winter Coat",
+   "description": "Light pink tailored coat with white faux fur trim at the collar and cuffs, featuring a front bow detail. A pink beret, white mittens, sparkly white tights, and pink platform Mary Jane heels complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349e26e31d.webp",
+   "thumb": "thumbs/6afc349e26e31d.webp",
+   "addedAt": 1794913438771
+  },
+  {
+   "id": "6afc349e5553db",
+   "name": "Pink Cable Knit",
+   "description": "Light pink oversized cable-knit sweater layered over a white turtleneck, paired with white wide-leg trousers. A pink headband and pink and white sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349e5553db.webp",
+   "thumb": "thumbs/6afc349e5553db.webp",
+   "addedAt": 1794913438772
+  },
+  {
+   "id": "6afc349e13c2f6",
+   "name": "Fuchsia Coat",
+   "description": "Bright fuchsia long coat with a high collar, wide sleeves, and a belted waist. Black pointed-toe heeled boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349e13c2f6.webp",
+   "thumb": "thumbs/6afc349e13c2f6.webp",
+   "addedAt": 1794913438773
+  },
+  {
+   "id": "6afc349ef2d581",
+   "name": "Plaid Winter Cape",
+   "description": "Red plaid poncho-style cape with white faux fur trim at the collar, cuffs, and hem, featuring front bow ties. Red mittens with lace cuffs, white tights, white leg warmers, and fuzzy white boots complete the look, along with a white fuzzy heart-shaped bag.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349ef2d581.webp",
+   "thumb": "thumbs/6afc349ef2d581.webp",
+   "addedAt": 1794913438774
+  },
+  {
+   "id": "6afc349e513315",
+   "name": "Cozy Taupe",
+   "description": "Taupe button-up jacket with a collar worn over a cream cable-knit sweater. Cream wide-leg trousers with floral embroidery, cream chunky boots, a brown woven handbag, a plaid scarf, white earmuffs, and brown gloves complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349e513315.webp",
+   "thumb": "thumbs/6afc349e513315.webp",
+   "addedAt": 1794913438775
+  },
+  {
+   "id": "6afc349ef01067",
+   "name": "Grey Overcoat",
+   "description": "Grey wool double-breasted long coat worn over a dark scarf, paired with matching grey trousers. A grey flat cap, black leather gloves, and black shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afc349ef01067.webp",
+   "thumb": "thumbs/6afc349ef01067.webp",
+   "addedAt": 1794913438776
+  },
+  {
+   "id": "6afc349ed46521",
+   "name": "Pink Winter",
+   "description": "Light pink belted coat with thick faux fur trim on the collar and cuffs, worn over a cream ribbed knit mini dress. A pink plaid scarf, pink earmuffs, white gloves, a pink fuzzy shoulder bag, and pink furry platform boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349ed46521.webp",
+   "thumb": "thumbs/6afc349ed46521.webp",
+   "addedAt": 1794913438777
+  },
+  {
+   "id": "6afc349e3afd79",
+   "name": "Pastel Winter",
+   "description": "Light blue jacket with white faux fur trim and a front zipper, worn with a pastel striped scarf featuring pom-pom details. Pastel marled knit flared trousers, a white hair bow, and a white fuzzy bag complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349e3afd79.webp",
+   "thumb": "thumbs/6afc349e3afd79.webp",
+   "addedAt": 1794913438778
+  },
+  {
+   "id": "6afc349edaa75f",
+   "name": "Elegant White",
+   "description": "White satin high-neck top with floral embroidery and draped waist detailing, paired with a cream satin maxi skirt. A wide-brimmed white hat with a floral accent, pearl drop earrings, a patterned tote bag, and white slingback heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afc349edaa75f.webp",
+   "thumb": "thumbs/6afc349edaa75f.webp",
+   "addedAt": 1794913438779
+  },
+  {
+   "id": "6afc349e572308",
+   "name": "Pink Coquette",
+   "description": "Pale pink textured mini dress with a sweetheart neckline, white faux fur trim, and a full skirt. A cream long-sleeve textured top with a heart cutout is layered underneath, paired with white lace thigh-high stockings and white fluffy hair accessories.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349e572308.webp",
+   "thumb": "thumbs/6afc349e572308.webp",
+   "addedAt": 1794913438780
+  },
+  {
+   "id": "6afc349e18eb21",
+   "name": "Fluffy Winter",
+   "description": "White fluffy faux fur jacket over a cream knit hoodie and matching sweatpants. Pink fingerless fluffy gloves, a pink quilted crossbody bag, pink leg warmers, and white furry lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349e18eb21.webp",
+   "thumb": "thumbs/6afc349e18eb21.webp",
+   "addedAt": 1794913438781
+  },
+  {
+   "id": "6afc349e773a9e",
+   "name": "Pink Stripe Knit",
+   "description": "Oversized pink and white striped knit sweater with a \"Boss+\" graphic, paired with white leggings. White leg warmers and white furry boots complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349e773a9e.webp",
+   "thumb": "thumbs/6afc349e773a9e.webp",
+   "addedAt": 1794913438782
+  },
+  {
+   "id": "6afc349e7c738f",
+   "name": "Fantasy Witch",
+   "description": "Burgundy corset-style top with gold lacing, worn under a matching jacket with a dark feathered collar. A draped burgundy and white skirt, black thigh-high boots, a wide-brimmed witch hat, and a skull belt accessory complete the look.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6afc349e7c738f.webp",
+   "thumb": "thumbs/6afc349e7c738f.webp",
+   "addedAt": 1794913438783
+  },
+  {
+   "id": "6afc349ef78def",
+   "name": "Grey Overcoat",
+   "description": "Charcoal grey double-breasted long wool coat worn over a black turtleneck sweater. Grey trousers and black leather shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afc349ef78def.webp",
+   "thumb": "thumbs/6afc349ef78def.webp",
+   "addedAt": 1794913438784
+  },
+  {
+   "id": "6afc349e7c64d4",
+   "name": "Red & White",
+   "description": "White long-sleeve top with lace trim at the neckline and cuffs, paired with a fuzzy red mini skirt. White tights, cream leg warmers, white furry boots, and a red plaid drawstring bag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349e7c64d4.webp",
+   "thumb": "thumbs/6afc349e7c64d4.webp",
+   "addedAt": 1794913438785
+  },
+  {
+   "id": "6afc349e80ecee",
+   "name": "Vintage Riding",
+   "description": "Cream button-up shirt with rolled sleeves, worn with black suspenders and a black leather belt. Black riding breeches and tall black leather boots complete the look.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6afc349e80ecee.webp",
+   "thumb": "thumbs/6afc349e80ecee.webp",
+   "addedAt": 1794913438786
+  },
+  {
+   "id": "6afc349ebe1e06",
+   "name": "Cozy Heart Knit",
+   "description": "Cream oversized cable-knit sweater with a heart cutout at the chest, worn over a white lace-trimmed skirt. A pink knit bonnet, white tights, white scrunched socks, and white Mary Jane shoes complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afc349ebe1e06.webp",
+   "thumb": "thumbs/6afc349ebe1e06.webp",
+   "addedAt": 1794913438787
+  },
+  {
+   "id": "6afc349e9971aa",
+   "name": "Vintage Tweed",
+   "description": "Green tweed jacket worn over a brown waistcoat and a white dress shirt with a dark patterned tie. Beige plus-four trousers, tall black leather boots, a grey flat cap, and a cane complete the look.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6afc349e9971aa.webp",
+   "thumb": "thumbs/6afc349e9971aa.webp",
+   "addedAt": 1794913438788
+  },
+  {
+   "id": "6afc349eea45bf",
+   "name": "Plaid & Fur",
+   "description": "Pink and orange plaid long-sleeve mini dress with white faux fur cuffs and a matching fur collar with a pink ribbon tie. White patterned tights, a white fuzzy handbag, and pink Mary Jane heels with bow details complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349eea45bf.webp",
+   "thumb": "thumbs/6afc349eea45bf.webp",
+   "addedAt": 1794913438789
+  },
+  {
+   "id": "6afc349ec94d04",
+   "name": "Blue & Gold Gown",
+   "description": "Light blue long-sleeve maxi dress with a V-neckline, bell sleeves, and a subtle gold pattern. Silver rhinestone jewelry, a light blue clutch, and blue strappy heeled sandals complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afc349ec94d04.webp",
+   "thumb": "thumbs/6afc349ec94d04.webp",
+   "addedAt": 1794913438790
+  },
+  {
+   "id": "6afc349eb8813e",
+   "name": "Gingerbread Cozy",
+   "description": "Cream collared sweater with a gingerbread man and candy cane graphic, paired with white wide-leg trousers. A brown hooded faux fur jacket with animal ears, a cream knit scarf, and brown furry platform boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349eb8813e.webp",
+   "thumb": "thumbs/6afc349eb8813e.webp",
+   "addedAt": 1794913438791
+  },
+  {
+   "id": "6afc349edfca44",
+   "name": "Bavarian Leather",
+   "description": "Blue and white plaid long-sleeve button-up shirt with grey suspenders, paired with dark brown leather breeches. Tall black leather boots complete the look.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6afc349edfca44.webp",
+   "thumb": "thumbs/6afc349edfca44.webp",
+   "addedAt": 1794913438792
+  },
+  {
+   "id": "6afc349edd8527",
+   "name": "Graphic Knit",
+   "description": "Black long-sleeve sweater with large white abstract lettering, paired with baggy blue jeans. Black and white low-top sneakers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6afc349edd8527.webp",
+   "thumb": "thumbs/6afc349edd8527.webp",
+   "addedAt": 1794913438793
+  },
+  {
+   "id": "6afc349ed25ead",
+   "name": "Bunny Fleece",
+   "description": "Cream fleece zip-up jacket with a large red heart and rabbit graphic, paired with a beige crochet mini skirt. Sheer tights, cream knit socks, and fluffy brown boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afc349ed25ead.webp",
+   "thumb": "thumbs/6afc349ed25ead.webp",
+   "addedAt": 1794913438794
+  },
+  {
+   "id": "6afc349e1dfc8d",
+   "name": "Navy Floral Gown",
+   "description": "Navy blue sequin gown with large gold floral appliqués and thin straps, topped with a navy faux fur wrap. Navy floral earrings, a navy clutch, and navy strappy heeled sandals complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afc349e1dfc8d.webp",
+   "thumb": "thumbs/6afc349e1dfc8d.webp",
+   "addedAt": 1794913438795
   }
  ],
  "categories": [
