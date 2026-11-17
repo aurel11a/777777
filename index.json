@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794911155654,
+ "updatedAt": 1794911911511,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -17671,6 +17671,106 @@
    "image": "items/6afc2bb2e54791.webp",
    "thumb": "thumbs/6afc2bb2e54791.webp",
    "addedAt": 1794911154565
+  },
+  {
+   "id": "6afc2ea677c0b9",
+   "name": "Brown Leather",
+   "description": "Brown leather jacket worn over a dark navy t-shirt, paired with dark blue jeans and a black belt. Brown leather shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afc2ea677c0b9.webp",
+   "thumb": "thumbs/6afc2ea677c0b9.webp",
+   "addedAt": 1794911910317
+  },
+  {
+   "id": "6afc2ea660b14a",
+   "name": "Green Tracksuit",
+   "description": "Green zip-up cropped track jacket with white side stripes and a \"116\" chest print, paired with matching green track pants with side stripes. White sneakers complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afc2ea660b14a.webp",
+   "thumb": "thumbs/6afc2ea660b14a.webp",
+   "addedAt": 1794911910318
+  },
+  {
+   "id": "6afc2ea6f00a48",
+   "name": "Cream Suit",
+   "description": "Cream double-breasted suit with a white dress shirt and a light patterned tie. Black leather loafers complete the look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6afc2ea6f00a48.webp",
+   "thumb": "thumbs/6afc2ea6f00a48.webp",
+   "addedAt": 1794911910319
+  },
+  {
+   "id": "6afc2ea6736c87",
+   "name": "Medieval Peasant Woman",
+   "description": "Grey long-sleeve tunic with a front slit, worn over a dusty pink underdress. A braided rope belt, a beige headscarf, and a simple necklace complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afc2ea6736c87.webp",
+   "thumb": "thumbs/6afc2ea6736c87.webp",
+   "addedAt": 1794911910320
+  },
+  {
+   "id": "6afc2ea6dc8054",
+   "name": "Teal Tracksuit",
+   "description": "Teal zip-up track jacket with white shoulder stripes and \"456\" chest print, worn over a white t-shirt with a large grey \"5\" graphic. Teal track pants with white side stripes and white sneakers complete the look.",
+   "type": "other",
+   "gender": "unisex",
+   "image": "items/6afc2ea6dc8054.webp",
+   "thumb": "thumbs/6afc2ea6dc8054.webp",
+   "addedAt": 1794911910321
+  },
+  {
+   "id": "6afc2ea6904fda",
+   "name": "Vintage Apron",
+   "description": "Pink and white striped short-sleeve dress with a full skirt, worn under a grey striped apron tied at the waist. Dark brown shoes complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afc2ea6904fda.webp",
+   "thumb": "thumbs/6afc2ea6904fda.webp",
+   "addedAt": 1794911910322
+  },
+  {
+   "id": "6afc2ea6cb1f41",
+   "name": "Aviator Pilot",
+   "description": "Brown leather bomber jacket with a shearling collar, worn over an olive green flight suit. A brown aviator cap with goggles, an orange scarf, a knee pad, and brown leather boots complete the look.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6afc2ea6cb1f41.webp",
+   "thumb": "thumbs/6afc2ea6cb1f41.webp",
+   "addedAt": 1794911910323
+  },
+  {
+   "id": "6afc2ea6b41a37",
+   "name": "Black Moto",
+   "description": "Black leather moto jacket with silver hardware, worn over a black top and black jeans. A silver belt buckle, a chain detail, and black leather boots complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6afc2ea6b41a37.webp",
+   "thumb": "thumbs/6afc2ea6b41a37.webp",
+   "addedAt": 1794911910324
+  },
+  {
+   "id": "6afc2ea69c8438",
+   "name": "Tactical Agent",
+   "description": "Navy blue long-sleeve fitted top with black shoulder panels, worn under a brown leather shoulder holster. Black tactical cargo pants with knee pads, a black utility belt with knife sheaths, black gloves, and black combat boots complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6afc2ea69c8438.webp",
+   "thumb": "thumbs/6afc2ea69c8438.webp",
+   "addedAt": 1794911910325
+  },
+  {
+   "id": "6afc2ea6eb029c",
+   "name": "Paramedic Vest",
+   "description": "Teal short-sleeve uniform shirt worn under a bright green high-visibility tactical vest with reflective stripes and multiple pockets. Teal cargo trousers, blue nitrile gloves, and black combat boots complete the look.",
+   "type": "work",
+   "gender": "unisex",
+   "image": "items/6afc2ea6eb029c.webp",
+   "thumb": "thumbs/6afc2ea6eb029c.webp",
+   "addedAt": 1794911910326
   }
  ],
  "categories": [
