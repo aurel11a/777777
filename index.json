@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794872402114,
+ "updatedAt": 1794910379960,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -17471,6 +17471,106 @@
    "image": "items/6afb94507694de.webp",
    "thumb": "thumbs/6afb94507694de.webp",
    "addedAt": 1794872400895
+  },
+  {
+   "id": "6afc28aa1c7955",
+   "name": "Medieval Peasant",
+   "description": "Brown textured long-sleeve tunic with a V-neck, cinched with a brown leather belt and a small leather pouch. Beige patched trousers, a matching beige cap, and brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afc28aa1c7955.webp",
+   "thumb": "thumbs/6afc28aa1c7955.webp",
+   "addedAt": 1794910378541
+  },
+  {
+   "id": "6afc28aab34336",
+   "name": "Fantasy Noble",
+   "description": "Black hooded cloak with ornate gold trim over a layered deep red and gold patterned tunic, cinched with a detailed gold belt. A beaded headpiece with a veil, stacked gold bracelets, and a curved dagger complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afc28aab34336.webp",
+   "thumb": "thumbs/6afc28aab34336.webp",
+   "addedAt": 1794910378542
+  },
+  {
+   "id": "6afc28aa7b9254",
+   "name": "Edwardian Brown",
+   "description": "Brown wool tailored jacket with red velvet lapels and cuffs, worn over a white ruffled high-neck blouse. A matching brown pleated maxi skirt, brown leather gloves, a feathered hat, and brown leather heeled boots complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6afc28aa7b9254.webp",
+   "thumb": "thumbs/6afc28aa7b9254.webp",
+   "addedAt": 1794910378543
+  },
+  {
+   "id": "6afc28aa343301",
+   "name": "Burgundy Velvet",
+   "description": "Long burgundy velvet open robe with intricate gold embroidery along the edges. A dark red sash belt with gold chain details, black trousers, and black leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afc28aa343301.webp",
+   "thumb": "thumbs/6afc28aa343301.webp",
+   "addedAt": 1794910378544
+  },
+  {
+   "id": "6afc28aac50777",
+   "name": "Sherlock Holmes",
+   "description": "Brown houndstooth long coat with a matching deerstalker hat, worn over a white dress shirt with a brown tie and grey trousers. Black dress shoes, a magnifying glass, and a pipe complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6afc28aac50777.webp",
+   "thumb": "thumbs/6afc28aac50777.webp",
+   "addedAt": 1794910378545
+  },
+  {
+   "id": "6afc28aaad582d",
+   "name": "Desert Jewel",
+   "description": "Ornate gold and purple patterned draped gown with a beaded red bodice and gold fringe trim. A matching headpiece with a red jewel, gold necklaces, armbands, and strappy sandals complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6afc28aaad582d.webp",
+   "thumb": "thumbs/6afc28aaad582d.webp",
+   "addedAt": 1794910378546
+  },
+  {
+   "id": "6afc28aa83274e",
+   "name": "Vintage Plaid",
+   "description": "Grey plaid belted midi dress with a ruffled collar, worn under a long cream faux fur coat with brown chevron details. Burgundy leather gloves, a wooden box clutch, a beaded necklace, and grey pumps complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6afc28aa83274e.webp",
+   "thumb": "thumbs/6afc28aa83274e.webp",
+   "addedAt": 1794910378547
+  },
+  {
+   "id": "6afc28aacafb02",
+   "name": "Fantasy Swordsman",
+   "description": "Brown leather vest with a diagonal strap over a white long-sleeve shirt, paired with dark blue trousers and a red waist sash. Tall brown leather boots, brown bracers, and two swords complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afc28aacafb02.webp",
+   "thumb": "thumbs/6afc28aacafb02.webp",
+   "addedAt": 1794910378548
+  },
+  {
+   "id": "6afc28aac165bd",
+   "name": "Fur Trim Cape",
+   "description": "Dark brown velvet cape with gold embroidery and a thick grey fur trim, worn over a grey knit dress. Brown leather gloves and beige suede boots complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6afc28aac165bd.webp",
+   "thumb": "thumbs/6afc28aac165bd.webp",
+   "addedAt": 1794910378549
+  },
+  {
+   "id": "6afc28aa8a94a5",
+   "name": "Dark Roman",
+   "description": "Black asymmetrical draped tunic with an ornate gold-trimmed cape featuring classical motifs and a teal lining. Layered gold necklaces with a central eye pendant complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6afc28aa8a94a5.webp",
+   "thumb": "thumbs/6afc28aa8a94a5.webp",
+   "addedAt": 1794910378550
   }
  ],
  "categories": [
