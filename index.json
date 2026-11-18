@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794996903786,
+ "updatedAt": 1795045304874,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -19721,6 +19721,306 @@
    "image": "items/6afd7aa66a9f8f.webp",
    "thumb": "thumbs/6afd7aa66a9f8f.webp",
    "addedAt": 1794996902636
+  },
+  {
+   "id": "6afe37b70998dc",
+   "name": "Reindeer Costume",
+   "description": "Rust orange velvet strapless mini dress with white faux fur trim and white pom-pom details. Reindeer antlers, matching fingerless gloves, and white thigh-high stockings complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b70998dc.webp",
+   "thumb": "thumbs/6afe37b70998dc.webp",
+   "addedAt": 1795045303677
+  },
+  {
+   "id": "6afe37b7a583d7",
+   "name": "Moto Gear",
+   "description": "Black motorcycle jacket with armor padding, paired with black cargo pants featuring knee protection. A black full-face helmet, black leather gloves, black riding boots, and goggles complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b7a583d7.webp",
+   "thumb": "thumbs/6afe37b7a583d7.webp",
+   "addedAt": 1795045303678
+  },
+  {
+   "id": "6afe37b7167aaa",
+   "name": "Santa Baby",
+   "description": "Red velvet mini dress with a white faux fur neckline and a large front bow. A matching red cape with white fur trim, a red hair bow, pearl earrings, and white platform boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b7167aaa.webp",
+   "thumb": "thumbs/6afe37b7167aaa.webp",
+   "addedAt": 1795045303679
+  },
+  {
+   "id": "6afe37b776d1a0",
+   "name": "Dainese Moto Gear",
+   "description": "Black leather motorcycle jacket with white and red accents, paired with matching black leather riding pants with knee sliders. Black riding gloves and black leather boots complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b776d1a0.webp",
+   "thumb": "thumbs/6afe37b776d1a0.webp",
+   "addedAt": 1795045303680
+  },
+  {
+   "id": "6afe37b7d5a15b",
+   "name": "Christmas Tree Dress",
+   "description": "Green tiered tulle mini dress with white ruffle trim and thin straps, decorated with small Christmas ornament details. Black shoes complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b7d5a15b.webp",
+   "thumb": "thumbs/6afe37b7d5a15b.webp",
+   "addedAt": 1795045303681
+  },
+  {
+   "id": "6afe37b71790a6",
+   "name": "Pink Moto Gear",
+   "description": "Pink and black motorcycle jacket with matching pink and black riding pants. A pink full-face helmet, a pink balaclava, pink and black gloves, and pink, white, and black riding boots complete the look.",
+   "type": "sport",
+   "gender": "unisex",
+   "image": "items/6afe37b71790a6.webp",
+   "thumb": "thumbs/6afe37b71790a6.webp",
+   "addedAt": 1795045303682
+  },
+  {
+   "id": "6afe37b7ca8b00",
+   "name": "Black Rider",
+   "description": "Black cropped zip-up hoodie with a front pocket, paired with black ruched cargo pants. A black full-face helmet, a black balaclava, black fingerless gloves, a black waist bag, and black platform combat boots complete the look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6afe37b7ca8b00.webp",
+   "thumb": "thumbs/6afe37b7ca8b00.webp",
+   "addedAt": 1795045303683
+  },
+  {
+   "id": "6afe37b747b1fc",
+   "name": "Green Velvet",
+   "description": "Green velvet coat with thick white faux fur trim on the collar, cuffs, and hem, featuring gold buttons and pearl details. Matching green gloves with fur cuffs, a green faux fur earmuff, a gold tiara, sheer black tights, and green knee-high boots with fur trim and bow details complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b747b1fc.webp",
+   "thumb": "thumbs/6afe37b747b1fc.webp",
+   "addedAt": 1795045303684
+  },
+  {
+   "id": "6afe37b777cb97",
+   "name": "Yellow Set",
+   "description": "Bright yellow one-shoulder crop top with \"FEAR OF GOD\" text, paired with matching yellow drawstring shorts. A yellow baseball cap completes the look.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6afe37b777cb97.webp",
+   "thumb": "thumbs/6afe37b777cb97.webp",
+   "addedAt": 1795045303685
+  },
+  {
+   "id": "6afe37b716591a",
+   "name": "Dainese Moto Gear",
+   "description": "Black leather motorcycle jacket with white and neon green accents, paired with matching black leather riding pants with knee sliders. A black, yellow, and green full-face helmet with an iridescent visor, black riding gloves, and a black balaclava complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b716591a.webp",
+   "thumb": "thumbs/6afe37b716591a.webp",
+   "addedAt": 1795045303686
+  },
+  {
+   "id": "6afe37b742a131",
+   "name": "Racing Suit",
+   "description": "Blue long-sleeve racing suit with yellow and green panels, featuring multiple sponsor logos including \"Bitburger\" and \"Benetton Sport System.\"",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b742a131.webp",
+   "thumb": "thumbs/6afe37b742a131.webp",
+   "addedAt": 1795045303687
+  },
+  {
+   "id": "6afe37b7d55c57",
+   "name": "Yellow Racing Suit",
+   "description": "Yellow long-sleeve racing suit with blue sponsor logos, including \"Camel\" and \"National.\"",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b7d55c57.webp",
+   "thumb": "thumbs/6afe37b7d55c57.webp",
+   "addedAt": 1795045303688
+  },
+  {
+   "id": "6afe37b7e2d588",
+   "name": "White Racing Suit",
+   "description": "White long-sleeve racing suit with red and yellow vertical stripes and various sponsor patches, including \"Viceroy\" and \"Sansonite.\"",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b7e2d588.webp",
+   "thumb": "thumbs/6afe37b7e2d588.webp",
+   "addedAt": 1795045303689
+  },
+  {
+   "id": "6afe37b7b54064",
+   "name": "Red Bull Set",
+   "description": "Black long-sleeve high-neck bodysuit with \"Oracle Red Bull\" graphics and sponsor logos. Matching black wide-leg drawstring pants with a large Red Bull logo complete the look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6afe37b7b54064.webp",
+   "thumb": "thumbs/6afe37b7b54064.webp",
+   "addedAt": 1795045303690
+  },
+  {
+   "id": "6afe37b753c9af",
+   "name": "Red Bull Racing Suit",
+   "description": "Navy blue long-sleeve racing suit with \"Red Bull Honda\" graphics, a large Red Bull logo on the chest, and various sponsor patches including \"Oracle\" and \"Puma.\"",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b753c9af.webp",
+   "thumb": "thumbs/6afe37b753c9af.webp",
+   "addedAt": 1795045303691
+  },
+  {
+   "id": "6afe37b77460b7",
+   "name": "Ferrari Racing Suit",
+   "description": "Red long-sleeve racing suit with white accents and prominent \"Marlboro\" branding, along with sponsor patches including Shell and Ferrari. A matching red cap and red racing shoes complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b77460b7.webp",
+   "thumb": "thumbs/6afe37b77460b7.webp",
+   "addedAt": 1795045303692
+  },
+  {
+   "id": "6afe37b71afcb8",
+   "name": "Red Bull Set",
+   "description": "Navy blue cropped racing jacket with \"Red Bull\" graphics and sponsor patches, worn over a matching navy bodysuit. Navy blue wide-leg sweatpants with \"Oracle Red Bull Racing\" text and large side graphics complete the look.",
+   "type": "sport",
+   "gender": "female",
+   "image": "items/6afe37b71afcb8.webp",
+   "thumb": "thumbs/6afe37b71afcb8.webp",
+   "addedAt": 1795045303693
+  },
+  {
+   "id": "6afe37b737a169",
+   "name": "Racing Suit",
+   "description": "Black and white long-sleeve racing suit with red \"HR\" branding and sponsor patches. Black gloves, black racing shoes, and a black, red, and white full-face helmet complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6afe37b737a169.webp",
+   "thumb": "thumbs/6afe37b737a169.webp",
+   "addedAt": 1795045303694
+  },
+  {
+   "id": "6afe37b794129a",
+   "name": "Skull Bikini",
+   "description": "Grey, white, and black bikini set with a large skull graphic, featuring black halter ties and tassel details.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6afe37b794129a.webp",
+   "thumb": "thumbs/6afe37b794129a.webp",
+   "addedAt": 1795045303695
+  },
+  {
+   "id": "6afe37b77556e7",
+   "name": "Denim Butterfly",
+   "description": "Blue denim strapless corset top with black lace trim, butterfly graphics, and a jeweled center detail. A matching denim mini skirt with butterfly graphics and a black ruffled hem, black slingback heels, a pearl necklace, and a black shoulder bag complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afe37b77556e7.webp",
+   "thumb": "thumbs/6afe37b77556e7.webp",
+   "addedAt": 1795045303696
+  },
+  {
+   "id": "6afe37b78a98f4",
+   "name": "Snowflake Pajama",
+   "description": "Green long-sleeve sweater with white snowflake graphics, paired with red and black plaid pajama pants. Red snowflake socks and green holiday-themed slippers complete the look.",
+   "type": "home",
+   "gender": "unisex",
+   "image": "items/6afe37b78a98f4.webp",
+   "thumb": "thumbs/6afe37b78a98f4.webp",
+   "addedAt": 1795045303697
+  },
+  {
+   "id": "6afe37b7b3e5a4",
+   "name": "Winter Teal",
+   "description": "Teal tiered maxi dress paired with a navy and green plaid shawl featuring large white snowflake graphics. A white fuzzy hat, a silver necklace, blue and silver jewelry, and white lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afe37b7b3e5a4.webp",
+   "thumb": "thumbs/6afe37b7b3e5a4.webp",
+   "addedAt": 1795045303698
+  },
+  {
+   "id": "6afe37b7680e23",
+   "name": "Grinch Pajama",
+   "description": "Lime green short-sleeve t-shirt with a \"100% GRINCH!\" graphic, paired with green and black checkered pajama pants featuring a Grinch face print. Matching lime green socks and a red Santa hat complete the look.",
+   "type": "home",
+   "gender": "unisex",
+   "image": "items/6afe37b7680e23.webp",
+   "thumb": "thumbs/6afe37b7680e23.webp",
+   "addedAt": 1795045303699
+  },
+  {
+   "id": "6afe37b7fa60a6",
+   "name": "Reindeer Costume",
+   "description": "Brown velvet halter-neck mini dress with white faux fur trim and candy cane striped details. Reindeer antlers, white furry wrist cuffs, and sheer black tights complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b7fa60a6.webp",
+   "thumb": "thumbs/6afe37b7fa60a6.webp",
+   "addedAt": 1795045303700
+  },
+  {
+   "id": "6afe37b7ebcc21",
+   "name": "Winter Knit",
+   "description": "Black and cream knit mini dress with a patterned yoke featuring reindeer and snowflakes, short sleeves, and a ruffled hem. A fuzzy grey and white shoulder bag, snowflake earrings, a gold bangle, cream knit socks, and black leather ankle boots complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afe37b7ebcc21.webp",
+   "thumb": "thumbs/6afe37b7ebcc21.webp",
+   "addedAt": 1795045303701
+  },
+  {
+   "id": "6afe37b755b8a5",
+   "name": "Christmas Pajama",
+   "description": "Cream long-sleeve pajama shirt and matching pants with a small Christmas tree print and red piping. A red Santa hat, brown patterned socks, and reindeer-faced slippers complete the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6afe37b755b8a5.webp",
+   "thumb": "thumbs/6afe37b755b8a5.webp",
+   "addedAt": 1795045303702
+  },
+  {
+   "id": "6afe37b7cb545a",
+   "name": "Red Velvet Dress",
+   "description": "Red velvet corset-style mini dress with a white faux fur trim along the neckline and hem. Black gloves and a necklace complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe37b7cb545a.webp",
+   "thumb": "thumbs/6afe37b7cb545a.webp",
+   "addedAt": 1795045303703
+  },
+  {
+   "id": "6afe37b7e22f48",
+   "name": "Grinch Pajama",
+   "description": "Dark green long-sleeve pajama top with a \"The Grinch\" graphic, paired with light green pajama pants featuring an all-over Grinch print.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6afe37b7e22f48.webp",
+   "thumb": "thumbs/6afe37b7e22f48.webp",
+   "addedAt": 1795045303704
+  },
+  {
+   "id": "6afe37b79b5152",
+   "name": "Grinch Pajama Set",
+   "description": "Cream short-sleeve pajama top and matching shorts with an all-over Grinch, Santa hat, and candy cane print.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6afe37b79b5152.webp",
+   "thumb": "thumbs/6afe37b79b5152.webp",
+   "addedAt": 1795045303705
+  },
+  {
+   "id": "6afe37b7a8683b",
+   "name": "Holiday Pajama",
+   "description": "Red short-sleeve t-shirt with a \"Holiday Crew\" Hello Kitty graphic, paired with red pajama pants featuring an all-over Hello Kitty holiday print.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6afe37b7a8683b.webp",
+   "thumb": "thumbs/6afe37b7a8683b.webp",
+   "addedAt": 1795045303706
   }
  ],
  "categories": [
