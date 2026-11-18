@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1794988749840,
+ "updatedAt": 1794996903786,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -19611,6 +19611,116 @@
    "image": "items/6afd5acc05b8da.webp",
    "thumb": "thumbs/6afd5acc05b8da.webp",
    "addedAt": 1794988748942
+  },
+  {
+   "id": "6afd7aa64ac193",
+   "name": "Brown Satin Gown",
+   "description": "Dark brown satin floor-length gown with a plunging V-neckline, short puff sleeves, and a front tie. Tiered ruffles adorn the skirt, and a statement necklace and gold hand jewelry complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afd7aa64ac193.webp",
+   "thumb": "thumbs/6afd7aa64ac193.webp",
+   "addedAt": 1794996902626
+  },
+  {
+   "id": "6afd7aa6e9ed2b",
+   "name": "Romantic White",
+   "description": "White off-the-shoulder gown with ruffled trim, long sheer sleeves, and a full layered skirt with lace edging. A floral hair accessory completes the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afd7aa6e9ed2b.webp",
+   "thumb": "thumbs/6afd7aa6e9ed2b.webp",
+   "addedAt": 1794996902627
+  },
+  {
+   "id": "6afd7aa694425f",
+   "name": "Spotted Coat",
+   "description": "Brown and white spotted hooded coat with a white faux fur trim, worn open over a matching spotted midi dress with a cream lace neckline and hem. A gold pendant necklace, cream socks, and cream cap-toe heeled boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afd7aa694425f.webp",
+   "thumb": "thumbs/6afd7aa694425f.webp",
+   "addedAt": 1794996902628
+  },
+  {
+   "id": "6afd7aa6ccf872",
+   "name": "Houndstooth Cape",
+   "description": "Brown and white houndstooth cape coat with a large brown bow at the neck and double-breasted buttons. A black ruffled mini skirt, sheer striped tights, and tall black lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6afd7aa6ccf872.webp",
+   "thumb": "thumbs/6afd7aa6ccf872.webp",
+   "addedAt": 1794996902629
+  },
+  {
+   "id": "6afd7aa67fed70",
+   "name": "Black Corset",
+   "description": "Black corset-style top with a front lace-up detail and long sheer puff sleeves. Sheer black tights with suspenders, a black ruffled mini skirt, and black thigh-high lace-up boots complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afd7aa67fed70.webp",
+   "thumb": "thumbs/6afd7aa67fed70.webp",
+   "addedAt": 1794996902630
+  },
+  {
+   "id": "6afd7aa6ff2863",
+   "name": "Red Plaid Pajama",
+   "description": "Red long-sleeve top paired with red, brown, and cream plaid pajama pants.",
+   "type": "sleep",
+   "gender": "unisex",
+   "image": "items/6afd7aa6ff2863.webp",
+   "thumb": "thumbs/6afd7aa6ff2863.webp",
+   "addedAt": 1794996902631
+  },
+  {
+   "id": "6afd7aa6f9f3c9",
+   "name": "Patchwork Dress",
+   "description": "Brown patchwork midi dress with an off-the-shoulder ruffled neckline, corset bodice, and a layered skirt featuring polka dots and geometric patterns. Pale green gloves, pale green pointed-toe heels, and a statement necklace complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6afd7aa6f9f3c9.webp",
+   "thumb": "thumbs/6afd7aa6f9f3c9.webp",
+   "addedAt": 1794996902632
+  },
+  {
+   "id": "6afd7aa6fda853",
+   "name": "White Ruffle Gown",
+   "description": "White off-the-shoulder maxi dress with ruffled lace trim along the neckline, sleeves, and hem. A delicate pendant necklace and white pointed-toe heels complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6afd7aa6fda853.webp",
+   "thumb": "thumbs/6afd7aa6fda853.webp",
+   "addedAt": 1794996902633
+  },
+  {
+   "id": "6afd7aa6a5d72b",
+   "name": "Union Jack Dress",
+   "description": "Union Jack flag mini dress with an off-the-shoulder neckline, puff sleeves, and a lace-up corset front. Sheer black tights, black thigh-high boots, black gloves, and a silver necklace complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6afd7aa6a5d72b.webp",
+   "thumb": "thumbs/6afd7aa6a5d72b.webp",
+   "addedAt": 1794996902634
+  },
+  {
+   "id": "6afd7aa6b61cc4",
+   "name": "Union Jack Set",
+   "description": "Union Jack flag print long-sleeve off-the-shoulder top with voluminous sleeves, paired with matching wide-leg trousers.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6afd7aa6b61cc4.webp",
+   "thumb": "thumbs/6afd7aa6b61cc4.webp",
+   "addedAt": 1794996902635
+  },
+  {
+   "id": "6afd7aa66a9f8f",
+   "name": "Gothic Stripes",
+   "description": "Green and black striped high-neck gown with a lace-up bodice and tiered ruffled skirt with black lace trim. A green bag and silver rings complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6afd7aa66a9f8f.webp",
+   "thumb": "thumbs/6afd7aa66a9f8f.webp",
+   "addedAt": 1794996902636
   }
  ],
  "categories": [
