@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795045304874,
+ "updatedAt": 1795046673603,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -20021,6 +20021,116 @@
    "image": "items/6afe37b7a8683b.webp",
    "thumb": "thumbs/6afe37b7a8683b.webp",
    "addedAt": 1795045303706
+  },
+  {
+   "id": "6afe3d109cf6f7",
+   "name": "Steampunk Rabbit",
+   "description": "Burgundy long-sleeve jacket with a gold button detail, worn over a cream button-up dress with striped trim and a ruffled hem. A tall black top hat with rabbit ears, black gloves, and cream lace-up boots with furry feet complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d109cf6f7.webp",
+   "thumb": "thumbs/6afe3d109cf6f7.webp",
+   "addedAt": 1795046672624
+  },
+  {
+   "id": "6afe3d1039af01",
+   "name": "Misstitched",
+   "description": "Orange and blue striped bodice with pink puff sleeves and a pink bow at the waist. A dark plaid over-skirt with a distressed white apron, a pink ruffled underskirt, black and white striped tights, and tall black lace-up boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d1039af01.webp",
+   "thumb": "thumbs/6afe3d1039af01.webp",
+   "addedAt": 1795046672625
+  },
+  {
+   "id": "6afe3d10fc63b7",
+   "name": "Fleshmaiden",
+   "description": "Deep red sculptural mini dress with organic, swirling textures resembling flesh and tentacles with eye-like details. The legs feature a gradient red stain effect.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10fc63b7.webp",
+   "thumb": "thumbs/6afe3d10fc63b7.webp",
+   "addedAt": 1795046672626
+  },
+  {
+   "id": "6afe3d10c4e3c0",
+   "name": "Steamdress",
+   "description": "Black pleated mini dress with a corset-style bodice, buckle details, and a white ruffled collar. A brown leather apron with a pouch, black and white striped tights, and tall black buckle boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10c4e3c0.webp",
+   "thumb": "thumbs/6afe3d10c4e3c0.webp",
+   "addedAt": 1795046672627
+  },
+  {
+   "id": "6afe3d10e9f2b1",
+   "name": "Caterpillar",
+   "description": "Green tiered mini dress with a textured, swirling pattern and white ruffled trim at the neckline and waist. A small red top hat with teeth, long antennae, delicate wings, black gloves, and black and white striped tights complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10e9f2b1.webp",
+   "thumb": "thumbs/6afe3d10e9f2b1.webp",
+   "addedAt": 1795046672628
+  },
+  {
+   "id": "6afe3d10b6a5f4",
+   "name": "Silk Maiden",
+   "description": "Navy blue short-sleeve dress with pink floral patterns and a large pink bow at the back. A cream apron with symbol graphics, black and white striped tights, and tall black buckle boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10b6a5f4.webp",
+   "thumb": "thumbs/6afe3d10b6a5f4.webp",
+   "addedAt": 1795046672629
+  },
+  {
+   "id": "6afe3d10925cf9",
+   "name": "Hattress",
+   "description": "Cream short-sleeve dress with black leather strapping and buckle details. A tall black and white checkered top hat with symbols, olive green tights, and tall black buckle boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10925cf9.webp",
+   "thumb": "thumbs/6afe3d10925cf9.webp",
+   "addedAt": 1795046672630
+  },
+  {
+   "id": "6afe3d1075f996",
+   "name": "Checkmate",
+   "description": "Red and white chess-themed dress with a red bodice featuring a rook detail and a white skirt with a checkered pattern and a horse-head shoulder piece. Red and white striped tights and glossy red knee-high boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d1075f996.webp",
+   "thumb": "thumbs/6afe3d1075f996.webp",
+   "addedAt": 1795046672631
+  },
+  {
+   "id": "6afe3d10f37264",
+   "name": "Siren",
+   "description": "Teal dress with short puff sleeves, a pink and green scale-patterned bodice, and pearl accents down the skirt. A white apron with red symbol graphics and a pink ruffled hem complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10f37264.webp",
+   "thumb": "thumbs/6afe3d10f37264.webp",
+   "addedAt": 1795046672632
+  },
+  {
+   "id": "6afe3d1096a6dc",
+   "name": "Royal Suit",
+   "description": "Red and brown dress with a structured bodice and gold trim. A white apron with a black heart and symbol graphics, black gloves, black and white striped tights, and tall black buckle boots complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d1096a6dc.webp",
+   "thumb": "thumbs/6afe3d1096a6dc.webp",
+   "addedAt": 1795046672633
+  },
+  {
+   "id": "6afe3d10bc067a",
+   "name": "Cheshire",
+   "description": "Distressed grey dress with a corset-style bodice and jagged, blood-stained hem. Grey clawed feet, pointed ears, and glowing orange eyes complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6afe3d10bc067a.webp",
+   "thumb": "thumbs/6afe3d10bc067a.webp",
+   "addedAt": 1795046672634
   }
  ],
  "categories": [
