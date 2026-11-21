@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795236249676,
+ "updatedAt": 1795237271278,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -21221,6 +21221,256 @@
    "image": "items/6b0121981fe22a.webp",
    "thumb": "thumbs/6b0121981fe22a.webp",
    "addedAt": 1795236248821
+  },
+  {
+   "id": "6b01259519b4c5",
+   "name": "Cream Floral Dress",
+   "description": "Cream sleeveless maxi dress with a high neckline and a subtle watercolor floral print. A red quilted clutch, black pointed-toe slingback heels, green sunglasses, and blue drop earrings complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b01259519b4c5.webp",
+   "thumb": "thumbs/6b01259519b4c5.webp",
+   "addedAt": 1795237269928
+  },
+  {
+   "id": "6b01259580764d",
+   "name": "Historical Cape",
+   "description": "Teal blue velvet cape with a large gold cross emblem and gold trim, worn over a matching teal coat with gold buttons. A white ruffled lace collar, a black tricorn hat with a red feather, and black boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b01259580764d.webp",
+   "thumb": "thumbs/6b01259580764d.webp",
+   "addedAt": 1795237269929
+  },
+  {
+   "id": "6b0125953ffce9",
+   "name": "Denim & Pattern",
+   "description": "Dark denim jacket with silver button details, worn over a multi-colored patterned short-sleeve shirt. Dark grey jeans with a black belt and dark shoes complete the look, along with a navy baseball cap.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0125953ffce9.webp",
+   "thumb": "thumbs/6b0125953ffce9.webp",
+   "addedAt": 1795237269930
+  },
+  {
+   "id": "6b0125957afee4",
+   "name": "Distressed Coat",
+   "description": "Long distressed brown plaid coat with a dark grey shawl collar, worn open over a beige button-up shirt. Brown suede trousers, a wide brown leather belt, and dark gloves complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b0125957afee4.webp",
+   "thumb": "thumbs/6b0125957afee4.webp",
+   "addedAt": 1795237269931
+  },
+  {
+   "id": "6b01259591f986",
+   "name": "Naval Officer",
+   "description": "Navy blue long coat with ornate gold braiding and large button details, worn over a matching waistcoat and a white ruffled shirt. White breeches, white stockings, a black tricorn hat with white trim, and a sword complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b01259591f986.webp",
+   "thumb": "thumbs/6b01259591f986.webp",
+   "addedAt": 1795237269932
+  },
+  {
+   "id": "6b012595405c67",
+   "name": "Historical Overcoat",
+   "description": "Grey long double-breasted coat with a brown collar, worn over a white ruffled shirt. Beige high-waisted trousers and tall brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b012595405c67.webp",
+   "thumb": "thumbs/6b012595405c67.webp",
+   "addedAt": 1795237269933
+  },
+  {
+   "id": "6b012595080f94",
+   "name": "Patterned Cardigan",
+   "description": "Brown patterned knit cardigan with a black trim, worn over a blue and white striped collared shirt. Light wash baggy jeans and black shoes complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b012595080f94.webp",
+   "thumb": "thumbs/6b012595080f94.webp",
+   "addedAt": 1795237269934
+  },
+  {
+   "id": "6b012595689a40",
+   "name": "Metallica Jacket",
+   "description": "Grey canvas jacket with a black hood and a large Metallica graphic on the back, worn over a dark blue t-shirt. Light wash blue jeans, a black beanie, and black shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b012595689a40.webp",
+   "thumb": "thumbs/6b012595689a40.webp",
+   "addedAt": 1795237269935
+  },
+  {
+   "id": "6b012595da96af",
+   "name": "Striped Sweater",
+   "description": "Cream crewneck sweater with horizontal red, blue, and grey stripes, worn over a collared shirt. Dark wash blue jeans and tan suede shoes complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b012595da96af.webp",
+   "thumb": "thumbs/6b012595da96af.webp",
+   "addedAt": 1795237269936
+  },
+  {
+   "id": "6b012595140b49",
+   "name": "Gold Kaftan",
+   "description": "Black sheer kaftan maxi dress with gold patterned panels and a plunging neckline. A gold chain detail and a central circular gold embellishment complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b012595140b49.webp",
+   "thumb": "thumbs/6b012595140b49.webp",
+   "addedAt": 1795237269937
+  },
+  {
+   "id": "6b0125956b021a",
+   "name": "Folk Linen Dress",
+   "description": "Beige linen dress with long sheer lace sleeves and red floral embroidery on the bodice and cuffs. A matching sash tied at the waist and a lace-trimmed hem complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b0125956b021a.webp",
+   "thumb": "thumbs/6b0125956b021a.webp",
+   "addedAt": 1795237269938
+  },
+  {
+   "id": "6b0125956a338a",
+   "name": "Green Polo",
+   "description": "Dark green short-sleeve polo shirt with yellow horizontal stripes, worn over a light grey long-sleeve shirt. Olive green cargo trousers and blue and white sneakers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0125956a338a.webp",
+   "thumb": "thumbs/6b0125956a338a.webp",
+   "addedAt": 1795237269939
+  },
+  {
+   "id": "6b012595dd3726",
+   "name": "Vintage Tailored",
+   "description": "Tan tailored blazer worn over a white collared shirt with a brooch. A long, patterned skirt in earthy tones, a matching tan hat, brown gloves, and brown lace-up boots complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b012595dd3726.webp",
+   "thumb": "thumbs/6b012595dd3726.webp",
+   "addedAt": 1795237269940
+  },
+  {
+   "id": "6b012595d243aa",
+   "name": "Patterned Knit",
+   "description": "Blue and green patterned knit sweater with diamond motifs, worn over a white collared shirt. Brown trousers and a black backpack complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b012595d243aa.webp",
+   "thumb": "thumbs/6b012595d243aa.webp",
+   "addedAt": 1795237269941
+  },
+  {
+   "id": "6b012595f4f13f",
+   "name": "Fuzzy White Dress",
+   "description": "White mini dress with thin straps, featuring fuzzy brown animal-print panels on the bust and a matching fuzzy hem. A white bow with button details adorns the front.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6b012595f4f13f.webp",
+   "thumb": "thumbs/6b012595f4f13f.webp",
+   "addedAt": 1795237269942
+  },
+  {
+   "id": "6b012595ff22f8",
+   "name": "Pink Sheer Robe",
+   "description": "Light pink sheer robe with long wide sleeves and white faux fur trim at the hem, worn over a matching pink lace-up corset top with a bow. A light pink ruffled skirt with a white fur trim completes the look.",
+   "type": "sleep",
+   "gender": "female",
+   "image": "items/6b012595ff22f8.webp",
+   "thumb": "thumbs/6b012595ff22f8.webp",
+   "addedAt": 1795237269943
+  },
+  {
+   "id": "6b012595b7eebe",
+   "name": "Tweed & Turtleneck",
+   "description": "Olive green tweed blazer worn over a cream cable-knit turtleneck sweater and a plaid scarf. Brown tailored trousers and brown leather shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b012595b7eebe.webp",
+   "thumb": "thumbs/6b012595b7eebe.webp",
+   "addedAt": 1795237269944
+  },
+  {
+   "id": "6b012595ea4fc4",
+   "name": "Grey & Polka Dot",
+   "description": "Grey long-sleeve turtleneck sweater with button details on the collar and cuffs, paired with a black and white polka dot mini skirt. Grey tights, a brown leather shoulder bag, and brown leather lace-up shoes complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b012595ea4fc4.webp",
+   "thumb": "thumbs/6b012595ea4fc4.webp",
+   "addedAt": 1795237269945
+  },
+  {
+   "id": "6b01259545c65d",
+   "name": "Rugged Western",
+   "description": "Brown fleece pullover with dark shoulder panels and a quarter-zip collar, worn over a light blue long-sleeve shirt. Dark grey cargo pants, a black belt, brown lace-up work boots, and a brown cowboy hat complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b01259545c65d.webp",
+   "thumb": "thumbs/6b01259545c65d.webp",
+   "addedAt": 1795237269946
+  },
+  {
+   "id": "6b0125959756df",
+   "name": "Vintage Outdoor",
+   "description": "Brown button-up shirt with a vintage outdoor graphic print, worn over a white long-sleeve shirt. Olive green cargo pants and brown lace-up boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0125959756df.webp",
+   "thumb": "thumbs/6b0125959756df.webp",
+   "addedAt": 1795237269947
+  },
+  {
+   "id": "6b012595eb3775",
+   "name": "Red Fleece",
+   "description": "Red fleece pullover with dark navy shoulder panels and a quarter-zip collar, worn over a plaid shirt. Dark green cargo pants and brown leather shoes complete the look, along with a green cap featuring a red star.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b012595eb3775.webp",
+   "thumb": "thumbs/6b012595eb3775.webp",
+   "addedAt": 1795237269948
+  },
+  {
+   "id": "6b012595292d84",
+   "name": "Studded Denim",
+   "description": "Dark grey denim jacket with silver stud details and chest pockets, worn over a green hoodie. Dark grey jeans and brown distressed leather shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b012595292d84.webp",
+   "thumb": "thumbs/6b012595292d84.webp",
+   "addedAt": 1795237269949
+  },
+  {
+   "id": "6b0125954a025c",
+   "name": "Patterned Fleece",
+   "description": "Black, yellow, and red patterned zip-up fleece jacket worn over a maroon top. Olive green cargo pants, a brown belt, brown lace-up boots, and a patterned baseball cap complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b0125954a025c.webp",
+   "thumb": "thumbs/6b0125954a025c.webp",
+   "addedAt": 1795237269950
+  },
+  {
+   "id": "6b0125950e27f2",
+   "name": "Plaid & Brown",
+   "description": "Grey, black, and white plaid button-up shirt with rolled sleeves, worn open at the collar. Brown trousers, a dark blue tote bag, a silver bracelet, and white and black sneakers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0125950e27f2.webp",
+   "thumb": "thumbs/6b0125950e27f2.webp",
+   "addedAt": 1795237269951
+  },
+  {
+   "id": "6b012595266f76",
+   "name": "Rugged Workwear",
+   "description": "Brown canvas jacket with a dark collar, worn over a red and grey patterned button-up vest. Brown cargo shorts, white socks, brown lace-up boots, and a brown and white trucker hat complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b012595266f76.webp",
+   "thumb": "thumbs/6b012595266f76.webp",
+   "addedAt": 1795237269952
   }
  ],
  "categories": [
