@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795235076744,
+ "updatedAt": 1795235748096,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -20981,6 +20981,126 @@
    "image": "items/6b011d038c42c1.webp",
    "thumb": "thumbs/6b011d038c42c1.webp",
    "addedAt": 1795235075482
+  },
+  {
+   "id": "6b011fa2ffc957",
+   "name": "Ornate Gold Coat",
+   "description": "Long black coat with gold floral and scroll patterns, featuring a large brown fur collar and cuffs. A gold embellished belt, black trousers, and black boots complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b011fa2ffc957.webp",
+   "thumb": "thumbs/6b011fa2ffc957.webp",
+   "addedAt": 1795235746790
+  },
+  {
+   "id": "6b011fa28fbd6b",
+   "name": "Vintage Bridal",
+   "description": "White satin floor-length gown with a high neckline and long sleeves, featuring a lace bodice and a button-down front. A large sheer lace veil and a white floral bouquet complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b011fa28fbd6b.webp",
+   "thumb": "thumbs/6b011fa28fbd6b.webp",
+   "addedAt": 1795235746791
+  },
+  {
+   "id": "6b011fa2bc2745",
+   "name": "Embroidered Green Coat",
+   "description": "Long green coat heavily embroidered with multicolored floral motifs, featuring a dark fur collar and cuffs. Pale green pointed-toe heels complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b011fa2bc2745.webp",
+   "thumb": "thumbs/6b011fa2bc2745.webp",
+   "addedAt": 1795235746792
+  },
+  {
+   "id": "6b011fa2cc3acd",
+   "name": "Outdoor Active",
+   "description": "Navy blue and grey striped long-sleeve cropped sweater paired with navy blue track pants featuring white piping. A cream hooded jacket, brown hiking shoes, a patterned knit beanie, sunglasses, and a silver water bottle complete the look.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6b011fa2cc3acd.webp",
+   "thumb": "thumbs/6b011fa2cc3acd.webp",
+   "addedAt": 1795235746793
+  },
+  {
+   "id": "6b011fa2fb37fa",
+   "name": "Denim & Chinos",
+   "description": "Blue denim long-sleeve button-up shirt with chest pockets, worn over a dark blue t-shirt. Beige chino trousers, a brown leather belt, and tan suede lace-up shoes complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b011fa2fb37fa.webp",
+   "thumb": "thumbs/6b011fa2fb37fa.webp",
+   "addedAt": 1795235746794
+  },
+  {
+   "id": "6b011fa25683ac",
+   "name": "Slate Blue Suit",
+   "description": "Slate blue suit jacket with a single button closure, worn over a beige dress shirt and a textured beige tie. Matching slate blue trousers and a dark belt with a silver buckle complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6b011fa25683ac.webp",
+   "thumb": "thumbs/6b011fa25683ac.webp",
+   "addedAt": 1795235746795
+  },
+  {
+   "id": "6b011fa23f4615",
+   "name": "Beige Linen Suit",
+   "description": "Beige linen blazer worn over a dark blue button-up shirt. Matching beige pleated trousers, a dark belt, and brown leather shoes complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b011fa23f4615.webp",
+   "thumb": "thumbs/6b011fa23f4615.webp",
+   "addedAt": 1795235746796
+  },
+  {
+   "id": "6b011fa2bbdf3e",
+   "name": "Burgundy Leather",
+   "description": "Burgundy leather blazer worn over a dark grey ribbed sweater. Grey distressed jeans and black leather harness boots complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b011fa2bbdf3e.webp",
+   "thumb": "thumbs/6b011fa2bbdf3e.webp",
+   "addedAt": 1795235746797
+  },
+  {
+   "id": "6b011fa248d064",
+   "name": "Olive Parka",
+   "description": "Olive green hooded parka with a brown faux fur trim, worn over a dark grey top. Matching olive green cargo pants, a green beanie, dark fingerless gloves, and black high-top sneakers complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b011fa248d064.webp",
+   "thumb": "thumbs/6b011fa248d064.webp",
+   "addedAt": 1795235746798
+  },
+  {
+   "id": "6b011fa229b5cd",
+   "name": "Green & Corduroy",
+   "description": "Dark green crewneck sweater worn over a grey button-up shirt with rolled sleeves. Brown corduroy trousers, a silver pendant necklace, a watch, bracelets, and a navy blue shoulder bag complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b011fa229b5cd.webp",
+   "thumb": "thumbs/6b011fa229b5cd.webp",
+   "addedAt": 1795235746799
+  },
+  {
+   "id": "6b011fa20da584",
+   "name": "Corduroy Blazer",
+   "description": "Olive green corduroy blazer worn over a maroon and grey plaid shirt with a multi-colored striped tie. Beige trousers, a brown leather belt, and tan suede shoes complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6b011fa20da584.webp",
+   "thumb": "thumbs/6b011fa20da584.webp",
+   "addedAt": 1795235746800
+  },
+  {
+   "id": "6b011fa2a5c287",
+   "name": "Tweed Blazer",
+   "description": "Olive green tweed blazer worn over a green and blue plaid button-up shirt. Dark grey trousers, a brown leather belt, and brown leather shoes complete the look.",
+   "type": "work",
+   "gender": "male",
+   "image": "items/6b011fa2a5c287.webp",
+   "thumb": "thumbs/6b011fa2a5c287.webp",
+   "addedAt": 1795235746801
   }
  ],
  "categories": [
