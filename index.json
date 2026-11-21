@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795169689775,
+ "updatedAt": 1795235076744,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -20861,6 +20861,126 @@
    "image": "items/6b001d98421c1b.webp",
    "thumb": "thumbs/6b001d98421c1b.webp",
    "addedAt": 1795169688755
+  },
+  {
+   "id": "6b011d0377b78c",
+   "name": "Winter Coat",
+   "description": "Navy blue long-sleeve coat with a brown fur trim running down the front and at the cuffs. A patterned headscarf and a red underskirt complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d0377b78c.webp",
+   "thumb": "thumbs/6b011d0377b78c.webp",
+   "addedAt": 1795235075471
+  },
+  {
+   "id": "6b011d0329542a",
+   "name": "Red Ballgown",
+   "description": "Deep red satin ball gown with an off-the-shoulder neckline and a voluminous pleated skirt featuring subtle sparkle details. Long black lace gloves, a silver necklace, and a tiara complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d0329542a.webp",
+   "thumb": "thumbs/6b011d0329542a.webp",
+   "addedAt": 1795235075472
+  },
+  {
+   "id": "6b011d038392e7",
+   "name": "Medieval Peasant",
+   "description": "Beige long-sleeve tunic with a V-neckline, cinched with a wide dark brown belt. Beige trousers and tall black leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b011d038392e7.webp",
+   "thumb": "thumbs/6b011d038392e7.webp",
+   "addedAt": 1795235075473
+  },
+  {
+   "id": "6b011d03cd2102",
+   "name": "White Tulle Ballgown",
+   "description": "White ball gown with an off-the-shoulder lace bodice and short sleeves. The voluminous tiered tulle skirt features gold embroidery and lace trim, paired with a floral headpiece and a sheer veil.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b011d03cd2102.webp",
+   "thumb": "thumbs/6b011d03cd2102.webp",
+   "addedAt": 1795235075474
+  },
+  {
+   "id": "6b011d03225ac0",
+   "name": "Victorian Boudoir",
+   "description": "Orange corset with blue floral embroidery and red tassel trim, worn over a white ruffled blouse. Cream bloomers with lace trim, patterned stockings, green shoes, and a draped blue and peach robe complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d03225ac0.webp",
+   "thumb": "thumbs/6b011d03225ac0.webp",
+   "addedAt": 1795235075475
+  },
+  {
+   "id": "6b011d0307ef8d",
+   "name": "Boyar Coat",
+   "description": "Deep red velvet knee-length coat with dark fur trim on the collar and cuffs, featuring ornate gold horizontal clasps. A matching fur hat, a gold belt, red patterned gloves, and red leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b011d0307ef8d.webp",
+   "thumb": "thumbs/6b011d0307ef8d.webp",
+   "addedAt": 1795235075476
+  },
+  {
+   "id": "6b011d03632807",
+   "name": "Vintage Wool Coat",
+   "description": "Grey textured wool coat with a flared silhouette and dark trim down the front. A patterned headscarf and a plaid skirt with wide red horizontal bands complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d03632807.webp",
+   "thumb": "thumbs/6b011d03632807.webp",
+   "addedAt": 1795235075477
+  },
+  {
+   "id": "6b011d032947d4",
+   "name": "Blue Ballgown",
+   "description": "Light blue off-the-shoulder ball gown with a lace-up bodice and short lace-trimmed sleeves. The full skirt features white lace detailing at the hem, and a delicate pearl necklace and floral hairpiece complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d032947d4.webp",
+   "thumb": "thumbs/6b011d032947d4.webp",
+   "addedAt": 1795235075478
+  },
+  {
+   "id": "6b011d03c9cf14",
+   "name": "Gold Ballgown",
+   "description": "Gold patterned ball gown with an off-the-shoulder neckline and short ruffled sleeves featuring brown trim. The voluminous skirt has a matching brown striped hem, and long beige gloves complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d03c9cf14.webp",
+   "thumb": "thumbs/6b011d03c9cf14.webp",
+   "addedAt": 1795235075479
+  },
+  {
+   "id": "6b011d0310ab23",
+   "name": "Traditional Wool",
+   "description": "Dark brown knee-length tunic layered over a white collared shirt with red embroidery. A large brown cape, a striped red and yellow sash with hanging panels, a brown fur hat, and tall brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "male",
+   "image": "items/6b011d0310ab23.webp",
+   "thumb": "thumbs/6b011d0310ab23.webp",
+   "addedAt": 1795235075480
+  },
+  {
+   "id": "6b011d03c7dac2",
+   "name": "Folk Dress",
+   "description": "White long-sleeve blouse with embroidered details, worn under a grey sleeveless vest. A red patterned wrap skirt with a striped sash is layered over a white lace-trimmed underskirt. A red beaded necklace and brown leather boots complete the look.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b011d03c7dac2.webp",
+   "thumb": "thumbs/6b011d03c7dac2.webp",
+   "addedAt": 1795235075481
+  },
+  {
+   "id": "6b011d038c42c1",
+   "name": "Floral Set",
+   "description": "Light green two-piece set with a pink floral print, featuring a sleeveless crop top with pink ruffled trim and fabric rosettes, paired with matching ruffled shorts.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6b011d038c42c1.webp",
+   "thumb": "thumbs/6b011d038c42c1.webp",
+   "addedAt": 1795235075482
   }
  ],
  "categories": [
