@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795237271278,
+ "updatedAt": 1795494294745,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -21471,6 +21471,166 @@
    "image": "items/6b012595266f76.webp",
    "thumb": "thumbs/6b012595266f76.webp",
    "addedAt": 1795237269952
+  },
+  {
+   "id": "6b051195b94440",
+   "name": "Burgundy Fur Coat",
+   "description": "Burgundy long-sleeve coat with a flared skirt and brown fur trim at the collar, cuffs, and hem. A pearl choker, pearl drop earrings, sheer black lace thigh-high stockings, and cream ankle-strap heels complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051195b94440.webp",
+   "thumb": "thumbs/6b051195b94440.webp",
+   "addedAt": 1795494293615
+  },
+  {
+   "id": "6b0511954c3b6b",
+   "name": "Emerald Satin Gown",
+   "description": "Emerald green satin floor-length gown with a strapless sweetheart neckline and draped detailing at the waist. A white fur stole, long black gloves, an emerald necklace, a jeweled bracelet, and green embellished heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0511954c3b6b.webp",
+   "thumb": "thumbs/6b0511954c3b6b.webp",
+   "addedAt": 1795494293616
+  },
+  {
+   "id": "6b051195777ac2",
+   "name": "Striped Fuzzy Cardigan",
+   "description": "Black and bright blue horizontally striped fuzzy knit cardigan, worn over a white graphic t-shirt. Grey houndstooth trousers, a black belt with silver hardware, and keys attached to a belt loop complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b051195777ac2.webp",
+   "thumb": "thumbs/6b051195777ac2.webp",
+   "addedAt": 1795494293617
+  },
+  {
+   "id": "6b051195a2d64e",
+   "name": "Lilac Vintage",
+   "description": "Lilac patterned long-sleeve blouse with a neck tie, paired with a matching knee-length skirt. A cream fur coat, a white cloche hat, a silver handbag, amethyst jewelry, cream patterned tights, and lilac bow-embellished heels complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051195a2d64e.webp",
+   "thumb": "thumbs/6b051195a2d64e.webp",
+   "addedAt": 1795494293618
+  },
+  {
+   "id": "6b0511951da3f4",
+   "name": "Vintage Blue Dress",
+   "description": "Blue and white patterned midi dress with sheer long sleeves and a layered hem. A white underlayer, a pearl necklace, cream tights, and brown Mary Jane shoes complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b0511951da3f4.webp",
+   "thumb": "thumbs/6b0511951da3f4.webp",
+   "addedAt": 1795494293619
+  },
+  {
+   "id": "6b0511956f151b",
+   "name": "Black Jacket & Denim",
+   "description": "Black zip-up jacket with a white logo on the chest, worn over a white turtleneck sweater. Light wash blue jeans with a patterned belt and white sneakers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0511956f151b.webp",
+   "thumb": "thumbs/6b0511956f151b.webp",
+   "addedAt": 1795494293620
+  },
+  {
+   "id": "6b051195b49eae",
+   "name": "Vintage Lace Gown",
+   "description": "Cream sleeveless gown with a draped V-neckline and an intricate lace overlay throughout. A matching sheer lace veil, lace gloves, and a pearl necklace complete the look.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b051195b49eae.webp",
+   "thumb": "thumbs/6b051195b49eae.webp",
+   "addedAt": 1795494293621
+  },
+  {
+   "id": "6b05119592452d",
+   "name": "Suede & Camo",
+   "description": "Tan suede jacket with a dark collar, worn over a cream knit vest and a patterned neckerchief. Camouflage print trousers, a brown belt, and brown leather shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b05119592452d.webp",
+   "thumb": "thumbs/6b05119592452d.webp",
+   "addedAt": 1795494293622
+  },
+  {
+   "id": "6b0511954ce4cd",
+   "name": "Plaid Romper",
+   "description": "Green, navy, and red plaid short-sleeve romper with a collared neckline, button front, and an elastic waist.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6b0511954ce4cd.webp",
+   "thumb": "thumbs/6b0511954ce4cd.webp",
+   "addedAt": 1795494293623
+  },
+  {
+   "id": "6b051195b98371",
+   "name": "Vintage Blue Dress",
+   "description": "Blue long-sleeve midi dress with a white floral print and a cream neck tie. A matching cream cloche hat, a layered pearl necklace, and cream Mary Jane heels complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051195b98371.webp",
+   "thumb": "thumbs/6b051195b98371.webp",
+   "addedAt": 1795494293624
+  },
+  {
+   "id": "6b0511950b77ef",
+   "name": "Black & Gold Gown",
+   "description": "Black sleeveless gown with gold lace appliqués at the bodice and a draped, gathered skirt. A long black faux fur coat, long black gloves, a gold pendant necklace, a gold embellished clutch, and black pumps complete the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b0511950b77ef.webp",
+   "thumb": "thumbs/6b0511950b77ef.webp",
+   "addedAt": 1795494293625
+  },
+  {
+   "id": "6b051195e9e763",
+   "name": "Olive Field Jacket",
+   "description": "Olive green military-style field jacket with chest pockets, worn over a dark blue top. Light wash distressed jeans with patch details and black leather loafers complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b051195e9e763.webp",
+   "thumb": "thumbs/6b051195e9e763.webp",
+   "addedAt": 1795494293626
+  },
+  {
+   "id": "6b051195f6664e",
+   "name": "Grey Sweatshirt & Skirt",
+   "description": "Oversized grey crewneck sweatshirt layered over a white pleated mini skirt. Black opaque tights, white scrunched socks, and black chunky sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b051195f6664e.webp",
+   "thumb": "thumbs/6b051195f6664e.webp",
+   "addedAt": 1795494293627
+  },
+  {
+   "id": "6b0511959dcec9",
+   "name": "Grey Hoodie & Leggings",
+   "description": "Grey oversized zip-up hoodie worn over a white top. Black leggings, white crew socks, and white and grey athletic sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0511959dcec9.webp",
+   "thumb": "thumbs/6b0511959dcec9.webp",
+   "addedAt": 1795494293628
+  },
+  {
+   "id": "6b051195024e82",
+   "name": "Grunge Converse",
+   "description": "Oversized dark grey t-shirt with a white \"CONVERSE\" heart graphic, layered over a long-sleeve burgundy top. A light grey pleated mini skirt, sheer black tights, white scrunched socks, and black and white high-top sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b051195024e82.webp",
+   "thumb": "thumbs/6b051195024e82.webp",
+   "addedAt": 1795494293629
+  },
+  {
+   "id": "6b05119546783e",
+   "name": "Black Bomber",
+   "description": "Oversized black bomber jacket worn over a light grey sweatshirt with \"GA\" lettering. Black leggings, white socks, and black platform lace-up boots complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6b05119546783e.webp",
+   "thumb": "thumbs/6b05119546783e.webp",
+   "addedAt": 1795494293630
   }
  ],
  "categories": [
