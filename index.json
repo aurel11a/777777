@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795539500690,
+ "updatedAt": 1795541955232,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -22601,6 +22601,66 @@
    "image": "items/6b05c22bf04ecd.webp",
    "thumb": "thumbs/6b05c22bf04ecd.webp",
    "addedAt": 1795539499265
+  },
+  {
+   "id": "6b05cbc2641de4",
+   "name": "Sheer Robe & White Mini Dress",
+   "description": "A white bustier-style mini dress with a ruffled skirt is worn under a sheer, floor-length robe, paired with white lace thigh-high stockings and strappy sandals.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05cbc2641de4.webp",
+   "thumb": "thumbs/6b05cbc2641de4.webp",
+   "addedAt": 1795541954078
+  },
+  {
+   "id": "6b05cbc2bb3a05",
+   "name": "Cream Faux Fur & Ruched Dress Set",
+   "description": "A cream ruched mini dress is paired with a matching cropped faux fur jacket and hat, accessorized with white thigh-high knit stockings and fluffy cream boots.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6b05cbc2bb3a05.webp",
+   "thumb": "thumbs/6b05cbc2bb3a05.webp",
+   "addedAt": 1795541954079
+  },
+  {
+   "id": "6b05cbc25a44c2",
+   "name": "Blush Petal Mini Dress",
+   "description": "A pale pink mini dress is constructed entirely of layered, petal-like appliqués with subtle sparkle detailing, creating a strapless, textured silhouette.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b05cbc25a44c2.webp",
+   "thumb": "thumbs/6b05cbc25a44c2.webp",
+   "addedAt": 1795541954080
+  },
+  {
+   "id": "6b05cbc264ffac",
+   "name": "Pink Ombre Tulle Dress",
+   "description": "A strapless mini dress features a white bodice with a pink ombre effect and voluminous, ruffled tulle layers, paired with matching pink strappy butterfly heels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b05cbc264ffac.webp",
+   "thumb": "thumbs/6b05cbc264ffac.webp",
+   "addedAt": 1795541954081
+  },
+  {
+   "id": "6b05cbc2fc0068",
+   "name": "Silver Celestial Corset Dress",
+   "description": "A silver corset-style mini dress features a white faux fur neckline, celestial embellishments, and a chain belt, paired with long white opera gloves.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b05cbc2fc0068.webp",
+   "thumb": "thumbs/6b05cbc2fc0068.webp",
+   "addedAt": 1795541954082
+  },
+  {
+   "id": "6b05cbc294d269",
+   "name": "Pink Satin & Lace Mini Dress",
+   "description": "A pale pink satin mini dress features a strapless neckline with lace side panels and a scalloped lace hem, accessorized with a large matching bow choker and short white gloves.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b05cbc294d269.webp",
+   "thumb": "thumbs/6b05cbc294d269.webp",
+   "addedAt": 1795541954083
   }
  ],
  "categories": [
