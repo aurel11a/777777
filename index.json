@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795496964544,
+ "updatedAt": 1795503864848,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -22161,6 +22161,186 @@
    "image": "items/6b051c035d7038.webp",
    "thumb": "thumbs/6b051c035d7038.webp",
    "addedAt": 1795496963301
+  },
+  {
+   "id": "6b0536f713e8f9",
+   "name": "White Lace Dress",
+   "description": "White off-the-shoulder midi dress with long sheer puff sleeves and an intricate floral lace pattern throughout. White pointed-toe heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0536f713e8f9.webp",
+   "thumb": "thumbs/6b0536f713e8f9.webp",
+   "addedAt": 1795503863524
+  },
+  {
+   "id": "6b0536f7108201",
+   "name": "Striped Shirt & Carpenter Pants",
+   "description": "A beige and brown striped button-up shirt is layered over a black turtleneck, paired with brown carpenter-style trousers, a black belt, and black chunky leather shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0536f7108201.webp",
+   "thumb": "thumbs/6b0536f7108201.webp",
+   "addedAt": 1795503863525
+  },
+  {
+   "id": "6b0536f7dc1ac1",
+   "name": "Cream Cardigan & Beige Trousers",
+   "description": "A cream knit cardigan is worn over a pink t-shirt, paired with pleated beige trousers, a brown woven belt, and brown shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0536f7dc1ac1.webp",
+   "thumb": "thumbs/6b0536f7dc1ac1.webp",
+   "addedAt": 1795503863526
+  },
+  {
+   "id": "6b0536f7c2a548",
+   "name": "Cowboy Hat & Plaid Shirt",
+   "description": "A blue and yellow plaid button-up shirt is tucked into blue jeans with a large silver belt buckle, topped with a brown cowboy hat.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0536f7c2a548.webp",
+   "thumb": "thumbs/6b0536f7c2a548.webp",
+   "addedAt": 1795503863527
+  },
+  {
+   "id": "6b0536f794794e",
+   "name": "Lace Cape Satin Gown",
+   "description": "A white satin gown features a sweetheart neckline and a corset-style bodice, overlaid with a sheer white lace cape that includes long sleeves and a dramatic train.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b0536f794794e.webp",
+   "thumb": "thumbs/6b0536f794794e.webp",
+   "addedAt": 1795503863528
+  },
+  {
+   "id": "6b0536f719c9d6",
+   "name": "Penn State Sweatshirt & Shorts",
+   "description": "A heather grey \"Penn State\" sweatshirt with a Nike swoosh is paired with navy blue athletic shorts.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6b0536f719c9d6.webp",
+   "thumb": "thumbs/6b0536f719c9d6.webp",
+   "addedAt": 1795503863529
+  },
+  {
+   "id": "6b0536f7440d25",
+   "name": "Shearling Bomber & Flat Cap",
+   "description": "A brown leather bomber jacket with a cream shearling collar and trim is paired with dark trousers, black gloves, black boots, and a grey flat cap.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b0536f7440d25.webp",
+   "thumb": "thumbs/6b0536f7440d25.webp",
+   "addedAt": 1795503863530
+  },
+  {
+   "id": "6b0536f7216ceb",
+   "name": "Burgundy Ringer Tee & Layered Sleeves",
+   "description": "A burgundy short-sleeve t-shirt with a contrasting cream collar is layered over a light blue long-sleeve shirt, paired with white shorts.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6b0536f7216ceb.webp",
+   "thumb": "thumbs/6b0536f7216ceb.webp",
+   "addedAt": 1795503863531
+  },
+  {
+   "id": "6b0536f76979ba",
+   "name": "Cream Linen Shirt & Trousers",
+   "description": "A loose-fitting cream button-up shirt with rolled sleeves is tucked into matching high-waisted pleated trousers, finished with a tan belt and brown leather shoes.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0536f76979ba.webp",
+   "thumb": "thumbs/6b0536f76979ba.webp",
+   "addedAt": 1795503863532
+  },
+  {
+   "id": "6b0536f7b006c8",
+   "name": "Brown Cropped Sweatshirt & Plaid Shorts",
+   "description": "A cropped brown sweatshirt with a small logo is paired with brown plaid boxer shorts and black flip-flops.",
+   "type": "home",
+   "gender": "male",
+   "image": "items/6b0536f7b006c8.webp",
+   "thumb": "thumbs/6b0536f7b006c8.webp",
+   "addedAt": 1795503863533
+  },
+  {
+   "id": "6b0536f7b99477",
+   "name": "Nautical Shell & Pearl Bodice",
+   "description": "A strapless bodice is heavily embellished with seashells, starfish, faux pearls, and dried seaweed, finished with a draped black netting detail at the waist.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f7b99477.webp",
+   "thumb": "thumbs/6b0536f7b99477.webp",
+   "addedAt": 1795503863534
+  },
+  {
+   "id": "6b0536f77047f9",
+   "name": "Metallic Shell & Vine Bodice",
+   "description": "An olive green bustier features two large, metallic scallop shell cups connected by a tangled, vine-like netting adorned with a small pocket watch and dangling charms.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f77047f9.webp",
+   "thumb": "thumbs/6b0536f77047f9.webp",
+   "addedAt": 1795503863535
+  },
+  {
+   "id": "6b0536f7f3d21d",
+   "name": "Golden Nautical Corset",
+   "description": "A strapless gold corset-style bodice is intricately detailed with metallic shell and starfish appliqués, a netted midsection, and dangling chain fringe.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f7f3d21d.webp",
+   "thumb": "thumbs/6b0536f7f3d21d.webp",
+   "addedAt": 1795503863536
+  },
+  {
+   "id": "6b0536f7e93635",
+   "name": "Seashell Fishnet Top",
+   "description": "A white top is overlaid with a gold fishnet design, heavily embellished with seashells, faux pearls, and clear beads along the neckline.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f7e93635.webp",
+   "thumb": "thumbs/6b0536f7e93635.webp",
+   "addedAt": 1795503863537
+  },
+  {
+   "id": "6b0536f703ca28",
+   "name": "Vintage Suspender & Flat Cap Look",
+   "description": "A brown button-up shirt with rolled sleeves is worn with dark plaid high-waisted trousers, light-colored suspenders, and a grey flat cap.",
+   "type": "vintage",
+   "gender": "male",
+   "image": "items/6b0536f703ca28.webp",
+   "thumb": "thumbs/6b0536f703ca28.webp",
+   "addedAt": 1795503863538
+  },
+  {
+   "id": "6b0536f72764f5",
+   "name": "Fringed Crochet Halter Set",
+   "description": "A two-piece olive green set features a crochet halter top and a matching mini skirt, both detailed with long, distressed fringe.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f72764f5.webp",
+   "thumb": "thumbs/6b0536f72764f5.webp",
+   "addedAt": 1795503863539
+  },
+  {
+   "id": "6b0536f7a0c698",
+   "name": "Siren's Oceanic Bodice",
+   "description": "A dark teal, sculpted bodice featuring leafy textures is adorned with elaborate shoulder embellishments of dried foliage, seashells, netting, and a suspended fish skeleton necklace.",
+   "type": "fantasy",
+   "gender": "female",
+   "image": "items/6b0536f7a0c698.webp",
+   "thumb": "thumbs/6b0536f7a0c698.webp",
+   "addedAt": 1795503863540
+  },
+  {
+   "id": "6b0536f732cdaa",
+   "name": "Brown Adidas Sweatshirt & Yellow Shorts",
+   "description": "A dark brown Adidas sweatshirt with white sleeve stripes is worn over a white undershirt, paired with yellow athletic shorts featuring matching side stripes and white sneakers.",
+   "type": "sport",
+   "gender": "male",
+   "image": "items/6b0536f732cdaa.webp",
+   "thumb": "thumbs/6b0536f732cdaa.webp",
+   "addedAt": 1795503863541
   }
  ],
  "categories": [
