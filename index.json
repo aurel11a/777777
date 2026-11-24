@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795504838367,
+ "updatedAt": 1795539500690,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -22521,6 +22521,86 @@
    "image": "items/6b053ac57107f2.webp",
    "thumb": "thumbs/6b053ac57107f2.webp",
    "addedAt": 1795504837040
+  },
+  {
+   "id": "6b05c22b75ac06",
+   "name": "Brown & White Puff Sleeve Set",
+   "description": "A white puff-sleeve blouse with a lace-up bodice is paired with a pleated brown mini skirt, black tights, and brown knee-high boots, accessorized with a patterned handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22b75ac06.webp",
+   "thumb": "thumbs/6b05c22b75ac06.webp",
+   "addedAt": 1795539499258
+  },
+  {
+   "id": "6b05c22b33a0b8",
+   "name": "Champagne Satin & Black Skirt",
+   "description": "A champagne satin cowl-neck camisole with tie straps is paired with a black mini skirt, accessorized with black floral jewelry, a black clutch, and strappy gold heels.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22b33a0b8.webp",
+   "thumb": "thumbs/6b05c22b33a0b8.webp",
+   "addedAt": 1795539499259
+  },
+  {
+   "id": "6b05c22be19d09",
+   "name": "Burgundy Mini Dress",
+   "description": "A burgundy lace mini dress features long bell sleeves and a ruched body, accessorized with matching bow-embellished heels, a small handbag, and a watch.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22be19d09.webp",
+   "thumb": "thumbs/6b05c22be19d09.webp",
+   "addedAt": 1795539499260
+  },
+  {
+   "id": "6b05c22bab363d",
+   "name": "Pink & Grey Set",
+   "description": "A light pink sheer blouse is layered under a grey corset-style top with a tie waist, paired with a matching pleated grey mini skirt, pink strappy heels, and a pink bow handbag.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22bab363d.webp",
+   "thumb": "thumbs/6b05c22bab363d.webp",
+   "addedAt": 1795539499261
+  },
+  {
+   "id": "6b05c22bdded79",
+   "name": "Cream Cape & Polka Dot Skirt Set",
+   "description": "A cream cape-style cardigan with black bow accents is worn over a turtleneck sweater and a black polka-dot mini skirt, paired with white tights and tall cream boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22bdded79.webp",
+   "thumb": "thumbs/6b05c22bdded79.webp",
+   "addedAt": 1795539499262
+  },
+  {
+   "id": "6b05c22bf69ab8",
+   "name": "Burgundy Leather Tiered Dress",
+   "description": "A burgundy faux leather mini dress features a V-neckline, thin straps, and a tiered ruffled skirt, accessorized with a black shoulder bag and layered silver necklaces.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22bf69ab8.webp",
+   "thumb": "thumbs/6b05c22bf69ab8.webp",
+   "addedAt": 1795539499263
+  },
+  {
+   "id": "6b05c22b7aab86",
+   "name": "White Peplum Coat Dress",
+   "description": "A white double-breasted mini coat dress features a wide lapel collar, sheer balloon sleeves, and a ruffled peplum hem, accessorized with silver cross jewelry and beige slouch boots.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b05c22b7aab86.webp",
+   "thumb": "thumbs/6b05c22b7aab86.webp",
+   "addedAt": 1795539499264
+  },
+  {
+   "id": "6b05c22bf04ecd",
+   "name": "Champagne Satin Mini Dress",
+   "description": "A champagne satin mini dress features a draped cowl neckline and a ruched, asymmetrical skirt with a cascading ruffle, accessorized with matching strappy heels and a textured clutch.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b05c22bf04ecd.webp",
+   "thumb": "thumbs/6b05c22bf04ecd.webp",
+   "addedAt": 1795539499265
   }
  ],
  "categories": [
