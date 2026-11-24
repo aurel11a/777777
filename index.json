@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795496069503,
+ "updatedAt": 1795496964544,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -21971,6 +21971,196 @@
    "image": "items/6b0518833676c1.webp",
    "thumb": "thumbs/6b0518833676c1.webp",
    "addedAt": 1795496067947
+  },
+  {
+   "id": "6b051c037f9a61",
+   "name": "Lilac Ombre Dress",
+   "description": "Lilac and light blue ombre midi dress with thin straps and an asymmetrical one-shoulder design. It features floral appliqués with beaded detailing, a sheer draped scarf, and an asymmetrical ruffled hem.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051c037f9a61.webp",
+   "thumb": "thumbs/6b051c037f9a61.webp",
+   "addedAt": 1795496963283
+  },
+  {
+   "id": "6b051c036ef0e3",
+   "name": "Sage Floral Gown",
+   "description": "Sage green satin maxi dress with a large black floral print and a square neckline. A matching sheer shawl with long draped panels and sage green pointed-toe slingback heels with bow details complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b051c036ef0e3.webp",
+   "thumb": "thumbs/6b051c036ef0e3.webp",
+   "addedAt": 1795496963284
+  },
+  {
+   "id": "6b051c03cef783",
+   "name": "Olive Draped Gown",
+   "description": "Olive green floor-length gown with a draped cowl neckline and flowing, wide sleeves. The neckline and shoulders are adorned with gold beaded fringe, and a matching gold headpiece completes the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03cef783.webp",
+   "thumb": "thumbs/6b051c03cef783.webp",
+   "addedAt": 1795496963285
+  },
+  {
+   "id": "6b051c039ae3ed",
+   "name": "Teal Beaded Dress",
+   "description": "Teal satin slip dress with thin straps and intricate silver beadwork on the bodice. The skirt features beaded fringe and an asymmetrical hem, paired with a matching teal scarf and beaded tassel bracelets.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c039ae3ed.webp",
+   "thumb": "thumbs/6b051c039ae3ed.webp",
+   "addedAt": 1795496963286
+  },
+  {
+   "id": "6b051c03a9ff5e",
+   "name": "Beige Knit Wrap",
+   "description": "Beige knit poncho-style wrap with an asymmetrical hem, cinched at the waist with a black leather belt. It is layered over a black turtleneck top and a textured black skirt.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b051c03a9ff5e.webp",
+   "thumb": "thumbs/6b051c03a9ff5e.webp",
+   "addedAt": 1795496963287
+  },
+  {
+   "id": "6b051c031c4a61",
+   "name": "Dusty Rose Gown",
+   "description": "Dusty rose sleeveless maxi dress with draped detailing at the shoulders and a wide, gathered waistband. A long, layered pearl necklace completes the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051c031c4a61.webp",
+   "thumb": "thumbs/6b051c031c4a61.webp",
+   "addedAt": 1795496963288
+  },
+  {
+   "id": "6b051c03dc3a65",
+   "name": "Plaid & Sweater",
+   "description": "Dark brown V-neck sweater worn over a white collared shirt. A red and black plaid midi skirt, black tights, a dark brown shoulder bag, a black beret, and black platform shoes complete the look.",
+   "type": "work",
+   "gender": "female",
+   "image": "items/6b051c03dc3a65.webp",
+   "thumb": "thumbs/6b051c03dc3a65.webp",
+   "addedAt": 1795496963289
+  },
+  {
+   "id": "6b051c03b12c9f",
+   "name": "Pearl Embellished Gown",
+   "description": "Cream form-fitting gown with thin straps, a sweetheart neckline, and cutout sides. The dress is heavily embellished with a scalloped pearl pattern, and a white faux fur stole, a gold pendant necklace, and a pearl bracelet complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03b12c9f.webp",
+   "thumb": "thumbs/6b051c03b12c9f.webp",
+   "addedAt": 1795496963290
+  },
+  {
+   "id": "6b051c031aad30",
+   "name": "Pink Tailored Set",
+   "description": "Light pink tailored blazer with a ruffled, pearl-embellished collar and flared cuffs. A matching floor-length skirt and a pink quilted chain-strap handbag complete the look.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6b051c031aad30.webp",
+   "thumb": "thumbs/6b051c031aad30.webp",
+   "addedAt": 1795496963291
+  },
+  {
+   "id": "6b051c03ea7a43",
+   "name": "Bronze Textured Dress",
+   "description": "Bronze sleeveless maxi dress with a textured rose pattern and a sheer chiffon hem. A long pearl necklace completes the look.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b051c03ea7a43.webp",
+   "thumb": "thumbs/6b051c03ea7a43.webp",
+   "addedAt": 1795496963292
+  },
+  {
+   "id": "6b051c03ccbd00",
+   "name": "Black & Pink Set",
+   "description": "Black tailored jacket with light pink lapels and cuffs, featuring a pink bow at the waist. A matching black midi skirt, a pearl necklace, and black slingback heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03ccbd00.webp",
+   "thumb": "thumbs/6b051c03ccbd00.webp",
+   "addedAt": 1795496963293
+  },
+  {
+   "id": "6b051c03f3056c",
+   "name": "Beige Wrap Dress",
+   "description": "Beige long-sleeve wrap dress with a deep V-neckline and a knotted tie at the waist. The skirt features draped detailing and an asymmetrical hem.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b051c03f3056c.webp",
+   "thumb": "thumbs/6b051c03f3056c.webp",
+   "addedAt": 1795496963294
+  },
+  {
+   "id": "6b051c0342dccc",
+   "name": "Black Sheer Dress",
+   "description": "Black form-fitting midi dress with a sheer one-shoulder neckline and thin straps. The dress features black floral lace appliqués and a sheer panel at the hem.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c0342dccc.webp",
+   "thumb": "thumbs/6b051c0342dccc.webp",
+   "addedAt": 1795496963295
+  },
+  {
+   "id": "6b051c036af32d",
+   "name": "Pink Beaded Gown",
+   "description": "Pink form-fitting gown with a high halter neckline and cutout sides. The dress is heavily embellished with intricate beading and sequins in a geometric pattern.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c036af32d.webp",
+   "thumb": "thumbs/6b051c036af32d.webp",
+   "addedAt": 1795496963296
+  },
+  {
+   "id": "6b051c03d8fd7e",
+   "name": "Turquoise Beaded Gown",
+   "description": "Nude form-fitting gown with a strapless sweetheart neckline. The dress is heavily embellished with intricate beading and turquoise accents in a geometric pattern.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03d8fd7e.webp",
+   "thumb": "thumbs/6b051c03d8fd7e.webp",
+   "addedAt": 1795496963297
+  },
+  {
+   "id": "6b051c03092811",
+   "name": "Green & Gold Gown",
+   "description": "Nude form-fitting gown with a plunging halter neckline. The dress is heavily embellished with intricate green and gold beading in a swirling pattern.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03092811.webp",
+   "thumb": "thumbs/6b051c03092811.webp",
+   "addedAt": 1795496963298
+  },
+  {
+   "id": "6b051c032deb66",
+   "name": "Brown Tailored Blazer",
+   "description": "Dark brown blazer with contrasting dark green lapels, worn over a white textured button-up shirt. Black trousers, a black belt, and a silver pocket watch chain complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c032deb66.webp",
+   "thumb": "thumbs/6b051c032deb66.webp",
+   "addedAt": 1795496963299
+  },
+  {
+   "id": "6b051c03b85285",
+   "name": "Purple Ombre Gown",
+   "description": "Purple ombre form-fitting gown with a strapless neckline. The dress is heavily embellished with intricate beading and sequins, fading from a deep purple at the top to a light pink at the hem. A matching high-neck collar piece completes the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c03b85285.webp",
+   "thumb": "thumbs/6b051c03b85285.webp",
+   "addedAt": 1795496963300
+  },
+  {
+   "id": "6b051c035d7038",
+   "name": "Leopard Halter Gown",
+   "description": "Leopard print floor-length gown with a plunging halter neckline and a high thigh slit. Black strappy heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b051c035d7038.webp",
+   "thumb": "thumbs/6b051c035d7038.webp",
+   "addedAt": 1795496963301
   }
  ],
  "categories": [
