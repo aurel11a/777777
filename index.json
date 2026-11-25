@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795545943956,
+ "updatedAt": 1795599895342,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -23041,6 +23041,146 @@
    "image": "items/6b05db56c2be2e.webp",
    "thumb": "thumbs/6b05db56c2be2e.webp",
    "addedAt": 1795545943016
+  },
+  {
+   "id": "6b06ae16fa8739",
+   "name": "Plaid Overcoat",
+   "description": "Grey, black, and red plaid long coat worn over a light grey turtleneck sweater. A long rust-colored cable-knit scarf, black gloves, dark pinstripe trousers, and black shoes complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b06ae16fa8739.webp",
+   "thumb": "thumbs/6b06ae16fa8739.webp",
+   "addedAt": 1795599894184
+  },
+  {
+   "id": "6b06ae160624ac",
+   "name": "Pink & Black Dress",
+   "description": "Light pink off-the-shoulder midi dress with long sleeves and a black off-the-shoulder band. It features a black vertical front panel with gold buttons, a front slit, and black cuffs. Sheer black tights and pink embellished heels complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b06ae160624ac.webp",
+   "thumb": "thumbs/6b06ae160624ac.webp",
+   "addedAt": 1795599894185
+  },
+  {
+   "id": "6b06ae16c69f62",
+   "name": "Pink Dog Set",
+   "description": "Light pink cropped zip-up jacket featuring a large graphic of a white dog holding a red heart. It is paired with matching light pink wide-leg sweatpants that have a ruffled waistband and \"Finalpression\" text.",
+   "type": "outer",
+   "gender": "female",
+   "image": "items/6b06ae16c69f62.webp",
+   "thumb": "thumbs/6b06ae16c69f62.webp",
+   "addedAt": 1795599894186
+  },
+  {
+   "id": "6b06ae1616bd75",
+   "name": "Red & Leopard",
+   "description": "Deep red double-breasted blazer with leopard print lapels and cuffs. A matching leopard print mini skirt and dark brown leather gloves complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b06ae1616bd75.webp",
+   "thumb": "thumbs/6b06ae1616bd75.webp",
+   "addedAt": 1795599894187
+  },
+  {
+   "id": "6b06ae16230ead",
+   "name": "Tactical Utility",
+   "description": "Black sleeveless tank top paired with olive green cargo pants featuring black knee patches. A black tactical harness and utility belt, yellow-tinted safety goggles, brown and black work gloves, white slouchy socks, and tan work boots complete the look.",
+   "type": "work",
+   "gender": "unisex",
+   "image": "items/6b06ae16230ead.webp",
+   "thumb": "thumbs/6b06ae16230ead.webp",
+   "addedAt": 1795599894188
+  },
+  {
+   "id": "6b06ae16238f96",
+   "name": "Purple Leopard",
+   "description": "Purple leopard print long-sleeve top with flared sleeves and a front tie, layered over a sheer lace top. A matching tiered ruffled mini skirt with a black bow and black platform knee-high boots complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b06ae16238f96.webp",
+   "thumb": "thumbs/6b06ae16238f96.webp",
+   "addedAt": 1795599894189
+  },
+  {
+   "id": "6b06ae16c2c14f",
+   "name": "Mixed Print Bikini",
+   "description": "Multi-colored bikini set featuring a mix of leopard print, floral, and abstract patterns. The top has a front tie and a relaxed, slightly ruffled fit.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6b06ae16c2c14f.webp",
+   "thumb": "thumbs/6b06ae16c2c14f.webp",
+   "addedAt": 1795599894190
+  },
+  {
+   "id": "6b06ae1672955c",
+   "name": "Shell Bikini",
+   "description": "Cream bikini set featuring a scalloped seashell-shaped top with gold trim and a sunburst center detail. The matching bottoms have ruffled sides and gold chain embellishments with seashell charms.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6b06ae1672955c.webp",
+   "thumb": "thumbs/6b06ae1672955c.webp",
+   "addedAt": 1795599894191
+  },
+  {
+   "id": "6b06ae16416dd7",
+   "name": "White Satin Gown",
+   "description": "White satin gown with a V-neckline and long, voluminous bishop sleeves with ruffled cuffs. The dress features a fitted bodice and a gathered, flowing skirt.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b06ae16416dd7.webp",
+   "thumb": "thumbs/6b06ae16416dd7.webp",
+   "addedAt": 1795599894192
+  },
+  {
+   "id": "6b06ae160a6749",
+   "name": "Champagne Ballgown",
+   "description": "Champagne off-the-shoulder ball gown with a corset bodice and beaded embellishments along the neckline. The gown features sheer, puffed sleeves with intricate embroidery and a voluminous pleated skirt.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b06ae160a6749.webp",
+   "thumb": "thumbs/6b06ae160a6749.webp",
+   "addedAt": 1795599894193
+  },
+  {
+   "id": "6b06ae16800150",
+   "name": "Pink Burlesque",
+   "description": "Pink satin corset with black lace trim and a front lace-up detail. A matching pink ruffled skirt with a sheer tulle bustle, tan thigh-high stockings, white gloves, pink heeled shoes, a floral hairpiece, and a large pink feather fan complete the look.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6b06ae16800150.webp",
+   "thumb": "thumbs/6b06ae16800150.webp",
+   "addedAt": 1795599894194
+  },
+  {
+   "id": "6b06ae169a6118",
+   "name": "Shearling Coat",
+   "description": "Cream shearling coat with a thick fur collar and brown leather toggle closures. A cable-knit cream turtleneck sweater, white trousers, a statement belt with a turquoise buckle, and a silver bracelet complete the look.",
+   "type": "outer",
+   "gender": "male",
+   "image": "items/6b06ae169a6118.webp",
+   "thumb": "thumbs/6b06ae169a6118.webp",
+   "addedAt": 1795599894195
+  },
+  {
+   "id": "6b06ae16a6cec1",
+   "name": "Polka Dot Set",
+   "description": "Black two-piece set with a white polka dot pattern, featuring a bralette top with puffed sleeves and high-waisted ruffled bottoms.",
+   "type": "underwear",
+   "gender": "female",
+   "image": "items/6b06ae16a6cec1.webp",
+   "thumb": "thumbs/6b06ae16a6cec1.webp",
+   "addedAt": 1795599894196
+  },
+  {
+   "id": "6b06ae16540b40",
+   "name": "Floral Bikini Set",
+   "description": "Light blue bikini set with a pink floral and brown branch print, featuring a triangle halter top and a matching ruffled mini skirt cover-up.",
+   "type": "beach",
+   "gender": "female",
+   "image": "items/6b06ae16540b40.webp",
+   "thumb": "thumbs/6b06ae16540b40.webp",
+   "addedAt": 1795599894197
   }
  ],
  "categories": [
