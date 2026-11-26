@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795635463633,
+ "updatedAt": 1795687913598,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -24361,6 +24361,86 @@
    "image": "items/6b073906beb1a5.webp",
    "thumb": "thumbs/6b073906beb1a5.webp",
    "addedAt": 1795635462597
+  },
+  {
+   "id": "6b0805e808f961",
+   "name": "Varsity Jacket",
+   "description": "Navy blue and white varsity jacket with red and white striped trim and \"8\" lettering. It is worn over a beige hoodie, paired with dark navy wide-leg jeans and white sneakers.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0805e808f961.webp",
+   "thumb": "thumbs/6b0805e808f961.webp",
+   "addedAt": 1795687912556
+  },
+  {
+   "id": "6b0805e877df00",
+   "name": "Varsity & Denim",
+   "description": "Navy blue and cream varsity jacket with a large \"C\" patch and striped trim, worn over a white t-shirt. Light wash loose-fit jeans, white sneakers, a silver necklace, and a navy backpack complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0805e877df00.webp",
+   "thumb": "thumbs/6b0805e877df00.webp",
+   "addedAt": 1795687912557
+  },
+  {
+   "id": "6b0805e8af0ea6",
+   "name": "Purple Rhinestone Y2K",
+   "description": "Purple embellished crop top with a V-neckline, covered in sequins and rhinestones. Matching light purple denim shorts with heavy rhinestone detailing and frayed pink fringed hems. Pink metallic platform sneakers, a pink metallic bag, a heart pendant necklace, and a spiked bracelet complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0805e8af0ea6.webp",
+   "thumb": "thumbs/6b0805e8af0ea6.webp",
+   "addedAt": 1795687912558
+  },
+  {
+   "id": "6b0805e8ff3167",
+   "name": "Red Varsity",
+   "description": "Red varsity jacket with yellow striped trim and a patch on the sleeve, worn over a navy blue and white striped polo shirt. Dark navy trousers, white socks, and yellow high-top sneakers complete the look.",
+   "type": "casual",
+   "gender": "male",
+   "image": "items/6b0805e8ff3167.webp",
+   "thumb": "thumbs/6b0805e8ff3167.webp",
+   "addedAt": 1795687912559
+  },
+  {
+   "id": "6b0805e8d0d41d",
+   "name": "Grey & Red Floral",
+   "description": "Dark grey tailored blazer worn over a red and white abstract patterned button-up shirt. Matching dark grey pleated trousers, a brown leather belt, and black leather shoes complete the look.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6b0805e8d0d41d.webp",
+   "thumb": "thumbs/6b0805e8d0d41d.webp",
+   "addedAt": 1795687912560
+  },
+  {
+   "id": "6b0805e81793df",
+   "name": "Cozy Manatee",
+   "description": "Teal chunky knit cardigan with wood buttons, worn over a cream t-shirt with a \"MANATEES\" graphic. Grey sweatpants, a teal and grey patterned scarf, tan suede slippers, and a teal water bottle complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0805e81793df.webp",
+   "thumb": "thumbs/6b0805e81793df.webp",
+   "addedAt": 1795687912561
+  },
+  {
+   "id": "6b0805e85e3e26",
+   "name": "Iridescent Blue",
+   "description": "Light blue slip dress with an iridescent, metallic finish and sheer blue paneling at the neckline. A matching light blue faux fur coat, a blue fuzzy handbag, and blue fuzzy strappy heels complete the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0805e85e3e26.webp",
+   "thumb": "thumbs/6b0805e85e3e26.webp",
+   "addedAt": 1795687912562
+  },
+  {
+   "id": "6b0805e8fec232",
+   "name": "Burgundy Velvet Gown",
+   "description": "Burgundy velvet halter gown with a deep V-neckline and a heavily sequined bodice. The dress features a burnout floral pattern and is paired with matching long velvet gloves.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b0805e8fec232.webp",
+   "thumb": "thumbs/6b0805e8fec232.webp",
+   "addedAt": 1795687912563
   }
  ],
  "categories": [
