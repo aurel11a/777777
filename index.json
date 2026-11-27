@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795708730523,
+ "updatedAt": 1795768872162,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -24711,6 +24711,66 @@
    "image": "items/6b085739613236.webp",
    "thumb": "thumbs/6b085739613236.webp",
    "addedAt": 1795708729202
+  },
+  {
+   "id": "6b094226e64ff3",
+   "name": "Punk Military",
+   "description": "Brown cropped military-style jacket with gold button details. A white mini dress, a black studded belt, sheer thigh-high stockings, black platform combat boots, and a plaid newsboy cap complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b094226e64ff3.webp",
+   "thumb": "thumbs/6b094226e64ff3.webp",
+   "addedAt": 1795768870891
+  },
+  {
+   "id": "6b094226f72d39",
+   "name": "Vintage Lace Gown",
+   "description": "White floor-length gown with a deep V-neckline and delicate lace detailing at the bodice. A matching sheer tulle veil with lace appliqués drapes over the shoulders and trails on the floor.",
+   "type": "wedding",
+   "gender": "female",
+   "image": "items/6b094226f72d39.webp",
+   "thumb": "thumbs/6b094226f72d39.webp",
+   "addedAt": 1795768870892
+  },
+  {
+   "id": "6b094226b59408",
+   "name": "Pink Floral Slip",
+   "description": "Light pink sleeveless midi dress with sheer overlay and a delicate blue and pink floral print. It features a V-neckline with ribbon trim and a bow detail at the center.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b094226b59408.webp",
+   "thumb": "thumbs/6b094226b59408.webp",
+   "addedAt": 1795768870893
+  },
+  {
+   "id": "6b094226560e39",
+   "name": "Cream Satin Gown",
+   "description": "Cream satin floor-length gown with an off-the-shoulder draped neckline and long fitted sleeves. The dress features a smooth, form-fitting silhouette with a subtle train.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b094226560e39.webp",
+   "thumb": "thumbs/6b094226560e39.webp",
+   "addedAt": 1795768870894
+  },
+  {
+   "id": "6b094226f8e55f",
+   "name": "USA Set",
+   "description": "White ribbed crop tank top with a \"USA\" graphic, stars, and an American flag. Matching navy blue and red striped shorts with a star pattern, a white drawstring, and \"USA\" text complete the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6b094226f8e55f.webp",
+   "thumb": "thumbs/6b094226f8e55f.webp",
+   "addedAt": 1795768870895
+  },
+  {
+   "id": "6b0942264c3deb",
+   "name": "Black Velvet Gown",
+   "description": "Black velvet floor-length gown with a beaded halter neckline and a sheer, embellished back panel. It features a silver beaded trim down the front and is paired with long sheer black gloves and a beaded fringe bag.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0942264c3deb.webp",
+   "thumb": "thumbs/6b0942264c3deb.webp",
+   "addedAt": 1795768870896
   }
  ],
  "categories": [
