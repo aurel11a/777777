@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": 1795808057051,
+ "updatedAt": 1795859965829,
  "items": [
   {
    "id": "6adcd607e0addc",
@@ -25091,6 +25091,146 @@
    "image": "items/6b09db37eff280.webp",
    "thumb": "thumbs/6b09db37eff280.webp",
    "addedAt": 1795808055819
+  },
+  {
+   "id": "6b0aa5fcfcbafd",
+   "name": "Green Victorian Gown",
+   "description": "Emerald green satin gown with voluminous puffed sleeves and a black velvet panel down the front. It features a white ruffled lace collar and matching lace cuffs.",
+   "type": "historical",
+   "gender": "female",
+   "image": "items/6b0aa5fcfcbafd.webp",
+   "thumb": "thumbs/6b0aa5fcfcbafd.webp",
+   "addedAt": 1795859964790
+  },
+  {
+   "id": "6b0aa5fcb8b7da",
+   "name": "Black Puff Dress",
+   "description": "Black mini dress with a textured floral pattern, featuring a high ruffled neckline, side cutouts, and voluminous puffed sleeves. The sleeves extend into long lace-up cuffs, and the skirt has tiered ruffles.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fcb8b7da.webp",
+   "thumb": "thumbs/6b0aa5fcb8b7da.webp",
+   "addedAt": 1795859964791
+  },
+  {
+   "id": "6b0aa5fc2c5084",
+   "name": "Brown & Pink Casual",
+   "description": "Brown zip-up hoodie worn over a white camisole top. Light pink fitted pants with a flared hem, a patterned shoulder bag with a fuzzy charm, and a delicate pendant necklace complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fc2c5084.webp",
+   "thumb": "thumbs/6b0aa5fc2c5084.webp",
+   "addedAt": 1795859964792
+  },
+  {
+   "id": "6b0aa5fcb3496d",
+   "name": "Lilac Metallic Set",
+   "description": "Lilac metallic two-piece set featuring a fitted corset-style top with thin straps and a cutout waist. It is paired with a draped, low-rise maxi skirt with a high thigh slit and flowing side panels.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0aa5fcb3496d.webp",
+   "thumb": "thumbs/6b0aa5fcb3496d.webp",
+   "addedAt": 1795859964793
+  },
+  {
+   "id": "6b0aa5fcfc2681",
+   "name": "Hello Kitty Y2K",
+   "description": "Pink cherry-print camisole top with ruffled edges, paired with a light blue tiered denim mini skirt. A pink fuzzy Hello Kitty tote bag, pink leg warmers, chunky white and pink platform sneakers, and a Hello Kitty necklace complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fcfc2681.webp",
+   "thumb": "thumbs/6b0aa5fcfc2681.webp",
+   "addedAt": 1795859964794
+  },
+  {
+   "id": "6b0aa5fca671c2",
+   "name": "Pink & Plaid Coquette",
+   "description": "Light pink cropped cardigan with a black bow detail on the shoulder, worn over a black top. A black and white plaid pleated mini skirt with a pink ribbon tie, a delicate silver necklace, and black ruffled socks complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fca671c2.webp",
+   "thumb": "thumbs/6b0aa5fca671c2.webp",
+   "addedAt": 1795859964795
+  },
+  {
+   "id": "6b0aa5fca9e4cd",
+   "name": "Lilac Iridescent Set",
+   "description": "Lilac iridescent two-piece set featuring a halter-style bralette and a draped, low-rise maxi skirt with a high slit. A statement silver jeweled collar necklace completes the look.",
+   "type": "formal",
+   "gender": "female",
+   "image": "items/6b0aa5fca9e4cd.webp",
+   "thumb": "thumbs/6b0aa5fca9e4cd.webp",
+   "addedAt": 1795859964796
+  },
+  {
+   "id": "6b0aa5fcff87ac",
+   "name": "Polo Bear Knit",
+   "description": "Navy blue long-sleeve knit sweater with a large teddy bear graphic on the front. Beige textured trousers and a white sock with a \"POLO\" bear design complete the look.",
+   "type": "home",
+   "gender": "female",
+   "image": "items/6b0aa5fcff87ac.webp",
+   "thumb": "thumbs/6b0aa5fcff87ac.webp",
+   "addedAt": 1795859964797
+  },
+  {
+   "id": "6b0aa5fca61bb4",
+   "name": "Heart Print Set",
+   "description": "Pink halter crop top with a red heart print and a center ring detail. Matching pink low-rise flared pants with a red heart print, a fuzzy purple shoulder bag, and pink sneakers complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fca61bb4.webp",
+   "thumb": "thumbs/6b0aa5fca61bb4.webp",
+   "addedAt": 1795859964798
+  },
+  {
+   "id": "6b0aa5fc3b7503",
+   "name": "Blue Lace Dress",
+   "description": "Light blue long-sleeve midi dress with a high lace neckline and matching lace cuffs. It features voluminous puff sleeves, a fitted bodice with gold buttons, and a full skirt.",
+   "type": "vintage",
+   "gender": "female",
+   "image": "items/6b0aa5fc3b7503.webp",
+   "thumb": "thumbs/6b0aa5fc3b7503.webp",
+   "addedAt": 1795859964799
+  },
+  {
+   "id": "6b0aa5fc93e352",
+   "name": "Pink Y2K",
+   "description": "Pink sleeveless top with butterfly graphics and button details, paired with a dark denim pleated mini skirt. Pink platform sandals with fuzzy straps, a pink Juicy Couture bag, a pearl necklace, and pink sunglasses complete the look.",
+   "type": "casual",
+   "gender": "female",
+   "image": "items/6b0aa5fc93e352.webp",
+   "thumb": "thumbs/6b0aa5fc93e352.webp",
+   "addedAt": 1795859964800
+  },
+  {
+   "id": "6b0aa5fc876a69",
+   "name": "Butterfly Suit",
+   "description": "Black suit jacket with an all-over white and grey butterfly print. It is worn over a cream button-up shirt with a smaller, matching butterfly pattern and a thin tie.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6b0aa5fc876a69.webp",
+   "thumb": "thumbs/6b0aa5fc876a69.webp",
+   "addedAt": 1795859964801
+  },
+  {
+   "id": "6b0aa5fc03a57f",
+   "name": "Butterfly Suit",
+   "description": "Cream tailored suit jacket with an all-over black and grey butterfly print. It is paired with a matching patterned button-up shirt and trousers.",
+   "type": "formal",
+   "gender": "male",
+   "image": "items/6b0aa5fc03a57f.webp",
+   "thumb": "thumbs/6b0aa5fc03a57f.webp",
+   "addedAt": 1795859964802
+  },
+  {
+   "id": "6b0aa5fcef550d",
+   "name": "Jeweled Mesh Dress",
+   "description": "Sheer brown mesh dress adorned with elaborate gold beaded chains and clear crystal drop embellishments. The dress features a strapless silhouette with draped chain details across the neckline, bodice, and hips.",
+   "type": "other",
+   "gender": "female",
+   "image": "items/6b0aa5fcef550d.webp",
+   "thumb": "thumbs/6b0aa5fcef550d.webp",
+   "addedAt": 1795859964803
   }
  ],
  "categories": [
